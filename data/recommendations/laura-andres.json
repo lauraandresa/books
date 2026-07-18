@@ -1,143 +1,145 @@
 {
-  "generated_at": "2026-07-18T16:34:22.743294Z",
+  "generated_at": "2026-07-18T16:39:57.253009Z",
   "items": [
     {
-      "id": "nyt:9780593804216",
-      "title": "Yesteryear",
-      "author": "Caro Claire Burke",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593804216.jpg",
+      "id": "nyt:9781628860016",
+      "title": "The Housemaid'S Wedding",
+      "author": "Freida McFadden",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781628860016.jpg",
       "subjects": [
-        "combined print & e-book fiction"
+        "paperback trade fiction"
       ],
       "year": 2026,
-      "synopsis_short": "Natalie Heller Mills, a privileged tradwife…",
-      "synopsis_full": "Natalie Heller Mills, a privileged tradwife social media influencer, wakes up to find she is living in the comparatively difficult reality of 1855.",
+      "synopsis_short": "Someone may use deadly means to…",
+      "synopsis_full": "Someone may use deadly means to keep a wedding that is to take place in a few hours from happening.",
       "source": "nyt",
-      "score": -0.0088
+      "score": 0.0703
     },
     {
-      "id": "nyt:9798217174331",
-      "title": "Yesteryear",
-      "author": "Caro Claire Burke",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217174331.jpg",
+      "id": "nyt:DBKSKYH000298",
+      "title": "Revolution",
+      "author": "Eric Metaxas",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/DBKSKYH000298.jpg",
       "subjects": [
-        "audio fiction"
+        "audio nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "Natalie Heller Mills, a privileged tradwife…",
-      "synopsis_full": "Natalie Heller Mills, a privileged tradwife social media influencer, wakes up to find she is living in the comparatively difficult reality of 1855. Read by Rebecca Lowman. 13 hours, 47 minutes unabridged.",
+      "synopsis_short": "The author of “Martin Luther” and…",
+      "synopsis_full": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America. Read by the author. 26 hours, 47 minutes unabridged.",
       "source": "nyt",
-      "score": -0.0122
+      "score": 0.0409
     },
     {
-      "id": "nyt:9781250183866",
-      "title": "Extreme Ownership",
-      "author": "Jocko Willink and Leif Babin",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250183866.jpg",
-      "subjects": [
-        "business"
-      ],
-      "year": 2026,
-      "synopsis_short": "Highly decorated Navy SEALs, now successful…",
-      "synopsis_full": "Highly decorated Navy SEALs, now successful businessmen, show readers how to lead and win in business and in life with principles learned on the battlefield",
-      "source": "nyt",
-      "score": -0.0129
-    },
-    {
-      "id": "nyt:9780063449534",
-      "title": "Renegades: The Magic Awakens",
-      "author": "Erin Hunter",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063449534.jpg",
-      "subjects": [
-        "middle grade paperback"
-      ],
-      "year": 2026,
-      "synopsis_short": "The launch of a brand-new series…",
-      "synopsis_full": "The launch of a brand-new series from blockbuster Warriors author Erin Hunter about two orphaned cat sisters who discover a secret world of magical creatures . . . and the humans who are out to control them.",
-      "source": "nyt",
-      "score": -0.0147
-    },
-    {
-      "id": "nyt:9798217024308",
-      "title": "The Faraway Inn",
-      "author": "Sarah Beth Durst",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217024308.jpg",
-      "subjects": [
-        "young adult paperback"
-      ],
-      "year": 2026,
-      "synopsis_short": "A teen girl decides to spend…",
-      "synopsis_full": "A teen girl decides to spend her summer helping her eccentric great aunt manage her quaint Vermont inn—only to discover that the fixer-upper is hiding a magical secret—in this cozy and irresistible new young adult fantasy from the New York Times bestselling author of The Spellshop. This stunning first edition of The Faraway Inn features gorgeous designed edges! “Frosted with whimsy and sprinkled with joy, The Faraway Inn is a testament to why Sarah Beth Durst is the queen of cozy fantasy!”—Tricia Levenseller, #1 New York Times bestselling author of The Darkness Within Us When sixteen-year-old Calisa arrives at her great-aunt’s B&B in rural Vermont for the summer, she’s shocked to find a rundown inn rather than the cozy bed-and-breakfast she was expecting. Grumpy and eccentric, Auntie Zee is determined to keep anyone from messing with her beloved inn . . . even though she clearly needs the help. To convince her great-aunt to keep her around, Calisa sets to work fixing up the inn, enlisting extra help from the groundskeeper’s (handsome) son. But the longer she stays, the surer she is that there’s something strange about the B&B—and its guests. Something almost . . . otherworldly. The inn is keeping a magical secret—but to protect the place she’s come to love, Calisa must unravel the truth before it’s too late.",
-      "source": "nyt",
-      "score": -0.0148
-    },
-    {
-      "id": "nyt:9780545880831",
-      "title": "Refugee",
-      "author": "Alan Gratz",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780545880831.jpg",
-      "subjects": [
-        "children’s middle grade hardcover"
-      ],
-      "year": 2026,
-      "synopsis_short": "Three children in three different conflicts…",
-      "synopsis_full": "Three children in three different conflicts look for safe haven. (Ages 9 to 12)",
-      "source": "nyt",
-      "score": -0.0152
-    },
-    {
-      "id": "nyt:9780593854297",
-      "title": "Matrimonio en Alta Mar / a Marriage at Sea",
-      "author": "Sophie Elmhirst",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593854297.jpg",
+      "id": "nyt:9781631440885",
+      "title": "Revolution",
+      "author": "Eric Metaxas",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781631440885.jpg",
       "subjects": [
         "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "In 1972, an incident with a…",
-      "synopsis_full": "In 1972, an incident with a breaching whale turns a couple’s dream of sailing on a boat into a monthslong struggle for survival on a raft.",
+      "synopsis_short": "The author of “Martin Luther” and…",
+      "synopsis_full": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America.",
       "source": "nyt",
-      "score": -0.0153
+      "score": 0.0408
     },
     {
-      "id": "nyt:9781665982290",
-      "title": "The School For Thieves",
-      "author": "Peter Burns",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781665982290.jpg",
+      "id": "nyt:9781546151210",
+      "title": "Captain Underpants: The First Epic Manga",
+      "author": "Dav Pilkey",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546151210.jpg",
       "subjects": [
-        "middle grade paperback"
+        "graphic books and manga"
       ],
       "year": 2026,
-      "synopsis_short": "A New York Times bestseller A…",
-      "synopsis_full": "A New York Times bestseller A young pickpocket gets recruited into an elite group of thieves in this “page-turning, edge-of-the-seat” (Publishers Weekly, starred review) upper middle grade boarding school adventure full of heists, danger, and secret plots perfect for fans of Spy School and Keeper of the Lost Cities. Tom Morgan’s life on the streets of London consists of shining shoes, picking pockets, and keeping his group of street kids out of the hands of snatchers. When he fails at the last and their home is raided, Tom is the only one not carted off to the workhouse. He’s determined to rescue his friends, but breaking into the workhouse is a nearly impossible task, let alone breaking back out. Tom is at a loss until he’s approached by a mysterious figure claiming to be an accomplished thief and Tom’s ticket to the best training in the clandestine arts in the world: an elite international boarding school that would teach him all the skills necessary to help his friends. Without any better ideas—and his curiosity piqued—Tom accepts the invitation. Whisked away to the snowy Alps, Tom enters a thrilling world of intrigue and heists. But the deeper he gets into the Shadow League, the harder it becomes to leave. Tom has to learn fast and uncover the nefarious secrets within the league to have any chance of saving himself, his friends—and maybe even the world.",
+      "synopsis_short": "Best friends George and Harold make…",
+      "synopsis_full": "Best friends George and Harold make a manga about their superhero creation.",
       "source": "nyt",
-      "score": -0.0155
+      "score": 0.0381
     },
     {
-      "id": "nyt:9781534467637",
-      "title": "Better Than The Movies",
-      "author": "Lynn Painter",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781534467637.jpg",
+      "id": "nyt:9781974763405",
+      "title": "Jujutsu Kaisen, Vol. 30",
+      "author": "Gege Akutami",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781974763405.jpg",
       "subjects": [
-        "young adult paperback"
+        "graphic books and manga"
       ],
       "year": 2026,
-      "synopsis_short": "Perfect for fans of Emily Henry…",
-      "synopsis_full": "Perfect for fans of Emily Henry and Ali Hazelwood, this “sweet and funny” (Kerry Winfrey, author of Waiting for Tom Hanks) teen rom-com is hopelessly romantic with enemies to lovers and grumpy x sunshine energy! Liz hates her annoyingly attractive neighbour but he’s the only in with her long-term crush… Perpetual daydreamer and hopeless romantic Liz Buxbaum gave her heart to Michael a long time ago. But her cool, aloof forever crush never really saw her before he moved away. Now that he’s back in town, Liz will do whatever it takes to get on his radar—and maybe snag him as a prom date—even befriend Wes Bennet. The annoyingly attractive next-door neighbour might seem like a prime candidate for romantic comedy fantasies, but Wes has only been a pain in Liz’s butt since they were kids. Pranks involving frogs and decapitated lawn gnomes do not a potential boyfriend make. Yet, somehow, Wes and Michael are hitting it off, which means Wes is Liz’s in. But as Liz and Wes scheme to get Liz noticed by Michael so she can have her magical prom moment, she’s shocked to discover that she likes being around Wes. And as they continue to grow closer, she must re-examine everything she thought she knew about love—and rethink her own ideas of what Happily Ever After should look like. Better Than the Movies features quotes from the best-loved rom-coms of cinema and takes you on a rollercoaster of romance that isn’t movie-perfect but jaw-dropping and heart-stopping in unexpected ways. Pre-order Nothing Like the Movies, the swoony sequel to Better than the Movies and don't miss out on The Do-Over and Betting On You from Lynn Painter!",
+      "synopsis_short": "In the final volume of this…",
+      "synopsis_full": "In the final volume of this series, will Itadori end the battle with Sukuna once and for all?",
       "source": "nyt",
-      "score": -0.0155
+      "score": 0.0341
     },
     {
-      "id": "gb:ptQSSgAACAAJ",
-      "title": "The Lone Star Ranger",
-      "author": "Zane Grey",
-      "cover_url": "http://books.google.com/books/content?id=ptQSSgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "subjects": [],
-      "year": 2010,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "googlebooks",
-      "score": -0.0155
+      "id": "nyt:9781984898456",
+      "title": "The Art Thief",
+      "author": "Michael Finkel",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781984898456.jpg",
+      "subjects": [
+        "paperback nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The author of “The Stranger in…",
+      "synopsis_full": "The author of “The Stranger in the Woods” tells the story of Stéphane Breitwieser, who stole art more than 200 times for the sake of admiring it.",
+      "source": "nyt",
+      "score": 0.0316
+    },
+    {
+      "id": "nyt:9781982181314",
+      "title": "The Greatest Sentence Ever Written",
+      "author": "Walter Isaacson",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781982181314.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The historian and biographer examines the…",
+      "synopsis_full": "The historian and biographer examines the concepts of a statement found in the Declaration of Independence.",
+      "source": "nyt",
+      "score": 0.0287
+    },
+    {
+      "id": "nyt:9798217174072",
+      "title": "London Falling",
+      "author": "Patrick Radden Keefe",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217174072.jpg",
+      "subjects": [
+        "audio nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The author of “Say Nothing” details…",
+      "synopsis_full": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life. Read by the author. 13 hours unabridged.",
+      "source": "nyt",
+      "score": 0.0284
+    },
+    {
+      "id": "nyt:9780060959470",
+      "title": "Todo Sobre el Amor",
+      "author": "bell hooks",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780060959470.jpg",
+      "subjects": [
+        "paperback nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The deceased feminist icon explores the…",
+      "synopsis_full": "The deceased feminist icon explores the causes of a polarized society and the meaning of love.",
+      "source": "nyt",
+      "score": 0.0272
+    },
+    {
+      "id": "nyt:9781250357915",
+      "title": "Investigators: Weather Or Not",
+      "author": "John Patrick Green",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250357915.jpg",
+      "subjects": [
+        "graphic books and manga"
+      ],
+      "year": 2026,
+      "synopsis_short": "Mango and Brash, along with some…",
+      "synopsis_full": "Mango and Brash, along with some feline agents, look into what is causing the rain to turn green and the city’s water supply to become milk.",
+      "source": "nyt",
+      "score": 0.027
     }
   ]
 }

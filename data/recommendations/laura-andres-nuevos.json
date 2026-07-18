@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-07-18T16:34:55.202254Z",
+  "generated_at": "2026-07-18T16:40:29.422766Z",
   "items": [
     {
-      "id": "nyt:9798217059959",
-      "title": "The Shampoo Effect",
-      "author": "Jenny Jackson",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
+      "id": "nyt:9781368109116",
+      "title": "The Court Of The Dead",
+      "author": "Rick Riordan and Mark Oshiro",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781368109116.jpg",
       "subjects": [
-        "combined print & e-book fiction"
+        "children’s middle grade hardcover"
       ],
       "year": 2026,
-      "synopsis_short": "When Caroline Lash is pushed out…",
-      "synopsis_full": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
+      "synopsis_short": "Nico, Will and Hazel delve into…",
+      "synopsis_full": "Nico, Will and Hazel delve into the mysterious disappearances of monsters at Camp Jupiter. (Ages 10 to 14)",
       "source": "nyt",
-      "score": -0.0067
+      "score": 0.0258
     },
     {
-      "id": "nyt:9781603935470",
-      "title": "Proyecto Hail Mary",
-      "author": "Andy Weir",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781603935470.jpg",
+      "id": "nyt:9780063203877",
+      "title": "En Territorio Salvaje",
+      "author": "Erin Hunter",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063203877.jpg",
       "subjects": [
-        "audio fiction"
+        "graphic books and manga"
       ],
       "year": 2026,
-      "synopsis_short": "Ryland Grace awakes from a long…",
-      "synopsis_full": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders. Read by Ray Porter. 16 hours, 10 minutes unabridged.",
+      "synopsis_short": "A graphic novel adaptation of \"Into…",
+      "synopsis_full": "A graphic novel adaptation of \"Into the Wild\" and \"Fire and Ice.\"",
       "source": "nyt",
-      "score": -0.0101
+      "score": 0.0257
     },
     {
-      "id": "nyt:9781665947145",
-      "title": "Nothing Like The Movies",
-      "author": "Lynn Painter",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781665947145.jpg",
+      "id": "nyt:9781668653487",
+      "title": "You With The Sad Eyes",
+      "author": "Christina Applegate",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668653487.jpg",
       "subjects": [
-        "young adult paperback"
+        "audio nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "Grieving from his father's death, Wes…",
-      "synopsis_full": "Grieving from his father's death, Wes breaks up with Liz, but is now determined to win her back with grand romantic gestures despite her resistance and the presence of a new guy friend, leading him to question if their relationship is truly over.",
+      "synopsis_short": "The Emmy Award-winning actress, who received…",
+      "synopsis_full": "The Emmy Award-winning actress, who received a multiple sclerosis diagnosis in 2021, shares personal stories. Read by the author. 8 hours, 27 minutes unabridged.",
       "source": "nyt",
-      "score": -0.0146
+      "score": 0.0251
     },
     {
-      "id": "nyt:9780307245328",
-      "title": "El ladrón del rayo",
-      "author": "Rick Riordan",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780307245328.jpg",
+      "id": "nyt:9781668067246",
+      "title": "Regime Change",
+      "author": "Maggie Haberman and Jonathan Swan",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668067246.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "Two White House correspondents for The…",
+      "synopsis_full": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term.",
+      "source": "nyt",
+      "score": 0.0249
+    },
+    {
+      "id": "nyt:9781546171492",
+      "title": "Amanecer de la Cosecha",
+      "author": "Suzanne Collins",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546171492.jpg",
       "subjects": [
         "audio children's"
       ],
       "year": 2026,
-      "synopsis_short": "To prevent a war, Percy Jackson…",
-      "synopsis_full": "To prevent a war, Percy Jackson must find Zeus' stolen master lightning bolt. Read by Jesse Bernstein. 10 hours, 2 minutes unabridged.",
+      "synopsis_short": "The fifth book in the “Hunger…",
+      "synopsis_full": "The fifth book in the “Hunger Games” series. Read by Jefferson White. 12 hours, 48 minutes unabridged.",
       "source": "nyt",
-      "score": -0.0154
+      "score": 0.0246
     },
     {
-      "id": "nyt:9781368051477",
-      "title": "El ladrón del rayo",
-      "author": "Rick Riordan",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
+      "id": "nyt:9780736447256",
+      "title": "The Pumpkin Queen",
+      "author": "Megan Shepherd",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780736447256.jpg",
       "subjects": [
         "children’s & young adult series"
       ],
       "year": 2026,
-      "synopsis_short": "A boy battles mythological monsters. (Ages…",
-      "synopsis_full": "A boy battles mythological monsters. (Ages 9 to 12)",
+      "synopsis_short": "The adventures of Sally, the Pumpkin…",
+      "synopsis_full": "The adventures of Sally, the Pumpkin Queen of Halloween Town. (Ages 12 and up)",
       "source": "nyt",
-      "score": -0.0155
+      "score": 0.0244
     },
     {
-      "id": "nyt:9780062563903",
-      "title": "The Unteachables",
-      "author": "Gordon Korman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062563903.jpg",
+      "id": "nyt:9781571313560",
+      "title": "Una trenza de hierba sagrada",
+      "author": "Robin Wall Kimmerer",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781571313560.jpg",
       "subjects": [
-        "middle grade paperback"
+        "paperback nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "A hilarious new middle grade novel…",
-      "synopsis_full": "A hilarious new middle grade novel from beloved and bestselling author Gordon Korman about what happens when the worst class of kids in school is paired with the worst teacher—perfect for fans of Ms. Bixby’s Last Day. A good choice for summer reading or anytime! The Unteachables are a notorious class of misfits, delinquents, and academic train wrecks. Like Aldo, with anger management issues; Parker, who can’t read; Kiana, who doesn’t even belong in the class—or any class; and Elaine (rhymes with pain). The Unteachables have been removed from the student body and isolated in room 117. Their teacher is Mr. Zachary Kermit, the most burned-out teacher in all of Greenwich. He was once a rising star, but his career was shattered by a cheating scandal that still haunts him. After years of phoning it in, he is finally one year away from early retirement. But the superintendent has his own plans to torpedo that idea—and it involves assigning Mr. Kermit to the Unteachables. The Unteachables never thought they’d find a teacher who had a worse attitude than they did. And Mr. Kermit never thought he would actually care about teaching again. Over the course of a school year, though, room 117 will experience mayhem, destruction—and maybe even a shot at redemption.",
+      "synopsis_short": "A botanist and member of the…",
+      "synopsis_full": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
       "source": "nyt",
-      "score": -0.0161
+      "score": 0.0243
     },
     {
-      "id": "nyt:9780544336261",
-      "title": "El Dador",
-      "author": "Lois Lowry",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
+      "id": "nyt:9780593655030",
+      "title": "The Anxious Generation",
+      "author": "Jonathan Haidt",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593655030.jpg",
       "subjects": [
-        "children’s & young adult series"
+        "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "Exploring human connection in a post-apocalyptic…",
-      "synopsis_full": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
+      "synopsis_short": "A co-author of “The Coddling of…",
+      "synopsis_full": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
       "source": "nyt",
-      "score": -0.0164
+      "score": 0.0241
     },
     {
-      "id": "nyt:9798217445820",
-      "title": "Gigantic",
-      "author": "Rob Biddulph",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217445820.jpg",
+      "id": "nyt:9780385548533",
+      "title": "London Falling",
+      "author": "Patrick Radden Keefe",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780385548533.jpg",
       "subjects": [
-        "children’s picture books"
+        "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "A minuscule blue whale shows bravery…",
-      "synopsis_full": "A minuscule blue whale shows bravery despite his size. (Ages 3 to 7)",
+      "synopsis_short": "The author of “Say Nothing” details…",
+      "synopsis_full": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life.",
       "source": "nyt",
-      "score": -0.0165
+      "score": 0.024
     },
     {
-      "id": "nyt:9781626251700",
-      "title": "Adult Children Of Emotionally Immature Parents",
-      "author": "Lindsay C. Gibson",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781626251700.jpg",
+      "id": "nyt:9780679763888",
+      "title": "The Warmth Of Other Suns",
+      "author": "Isabel Wilkerson",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780679763888.jpg",
       "subjects": [
-        "advice, how-to & miscellaneous"
+        "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "Was your parent difficult, immature, or…",
-      "synopsis_full": "Was your parent difficult, immature, or emotionally unavailable?If you grew up with an emotionally immature, unavailable, or selfi sh parent, you may have lingering feelings of anger, loneliness, betrayal, or abandonment. You may recall your childhood as a time when your emotional needs were not met, when your feelings were dismissed, or when you took on adult levels of responsibility in an effort to compensate for your parent's behavior. These wounds can be healed, and you can move forward in your life.In this breakthrough book, clinical psychologist Lindsay Gibson exposes the destructive nature of parents who are emotionally immature or unavailable. You will see how these parents create a sense of neglect, and discover ways to heal from the pain and confusion caused by your childhood. By freeing yourself from your parents' emotional immaturity, you can recover your true nature, control how you react to them, and avoid disappointment. Finally, you'll learn how to create positive, new relationships so you can build a better life.Discover the four types of diffi cult parents:- THE EMOTIONAL PARENT -instills feelings of instability and anxiety- THE DRIVEN PARENT -stays busy trying to perfect everything and everyone- THE PASSIVE PARENT -avoids dealing with anything upsetting- THE REJECTING PARENT -is withdrawn, dismissive, and derogatory",
+      "synopsis_short": "An account of the Great Migration…",
+      "synopsis_full": "An account of the Great Migration of 1915-70, in which nearly six million African-Americans abandoned the South.",
       "source": "nyt",
-      "score": -0.0167
-    },
-    {
-      "id": "nyt:9780142426425",
-      "title": "Fish In A Tree",
-      "author": "Lynda Mullaly Hunt",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780142426425.jpg",
-      "subjects": [
-        "middle grade paperback"
-      ],
-      "year": 2026,
-      "synopsis_short": "A New York Times Bestseller •…",
-      "synopsis_full": "A New York Times Bestseller • An emotionally-charged, uplifting novel that will speak to anyone who’s ever thought there was something wrong with them because they didn’t fit in. \"Fans of R.J. Palacio’s Wonder will appreciate this feel-good story of friendship and unconventional smarts.” —Kirkus Reviews “Everybody is smart in different ways. But if you judge a fish by its ability to climb a tree, it will live its life believing it is stupid.” Ally has been smart enough to fool a lot of smart people. Every time she lands in a new school, she is able to hide her inability to read by creating clever yet disruptive distractions. She is afraid to ask for help; after all, how can you cure dumb? However, her newest teacher Mr. Daniels sees the bright, creative kid underneath the trouble maker. With his help, Ally learns not to be so hard on herself and that dyslexia is nothing to be ashamed of. As her confidence grows, Ally feels free to be herself and the world starts opening up with possibilities. She discovers that there’s a lot more to her—and to everyone—than a label, and that great minds don’t always think alike. Schneider Family Book Award • ALA Notable • Global Read-Aloud Selection • Crystal Kite Nerdy Book Award",
-      "source": "nyt",
-      "score": -0.0168
+      "score": 0.0236
     }
   ]
 }
