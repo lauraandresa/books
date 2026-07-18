@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-07-18T16:15:03.357584Z",
+  "generated_at": "2026-07-18T16:20:45.397951Z",
   "items": [
     {
-      "id": "nyt:9780063204164",
-      "title": "Remarkably Bright Creatures",
-      "author": "Shelby Van Pelt",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
+      "id": "nyt:9798217006120",
+      "title": "The Escape Game",
+      "author": "Marissa Meyer and Tamara Moss",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217006120.jpg",
       "subjects": [
-        "paperback trade fiction"
+        "young adult hardcover"
       ],
       "year": 2026,
-      "synopsis_short": "A widow working the night shift…",
-      "synopsis_full": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
+      "synopsis_short": "A real murder takes place on…",
+      "synopsis_full": "A real murder takes place on an escape room-themed game show. (Ages 14 and up)",
       "source": "nyt",
-      "score": 0.0891
+      "score": 0.0559
     },
     {
-      "id": "nyt:9781546126119",
-      "title": "Sleepless",
-      "author": "Gordon Korman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546126119.jpg",
-      "subjects": [
-        "children’s middle grade hardcover"
-      ],
-      "year": 2026,
-      "synopsis_short": "Five suburban tweens try to solve…",
-      "synopsis_full": "Five suburban tweens try to solve the mystery behind their insomnia. (Ages 8 to 12)",
-      "source": "nyt",
-      "score": 0.0729
-    },
-    {
-      "id": "nyt:9780593955970",
-      "title": "The Gate of the Feral Gods",
-      "author": "Matt Dinniman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593955970.jpg",
-      "subjects": [
-        "hardcover fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The fourth book in the \"Dungeon…",
-      "synopsis_full": "The fourth book in the \"Dungeon Crawler Carl\" series. Obstacles abound on the fifth floor of the dungeon.",
-      "source": "nyt",
-      "score": 0.0689
-    },
-    {
-      "id": "nyt:9781668236512",
-      "title": "Theo of Golden",
-      "author": "Allen Levi",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668236512.jpg",
+      "id": "nyt:9780593819487",
+      "title": "The Exquisite Torment of Loving Your Enemy",
+      "author": "Brigitte Knightley",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593819487.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "A man travels to a small…",
-      "synopsis_full": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
+      "synopsis_short": "The second book in the Dearly…",
+      "synopsis_full": "The second book in the Dearly Beloathed series. Boundaries weaken between an assassin and a healer.",
       "source": "nyt",
-      "score": 0.0657
+      "score": 0.0513
     },
     {
-      "id": "nyt:9780385348768",
-      "title": "The Demon of Unrest: Abraham Lincoln & America’s Road to Civil War",
-      "author": "Erik Larson",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780385348768.jpg",
+      "id": "nyt:9780593819708",
+      "title": "Twisted Road",
+      "author": "Christine Feehan",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593819708.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The 10th book in the Torpedo…",
+      "synopsis_full": "The 10th book in the Torpedo Ink series.",
+      "source": "nyt",
+      "score": 0.0512
+    },
+    {
+      "id": "nyt:9783748087373",
+      "title": "The Eye of the Bedlam Bride",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9783748087373.jpg",
+      "subjects": [
+        "audio fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The sixth book in the \"Dungeon…",
+      "synopsis_full": "The sixth book in the \"Dungeon Crawler Carl\" series. On the eighth floor, Carl and Donut must capture a dangerous monster. Read by Jeff Hays, Patrick Warburton, Travis Baldree and Annie Ellicott. 26 hours, 46 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.0507
+    },
+    {
+      "id": "nyt:9798350448757",
+      "title": "A Parade of Horribles",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798350448757.jpg",
+      "subjects": [
+        "audio fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The eighth book in the “Dungeon…",
+      "synopsis_full": "The eighth book in the “Dungeon Crawler Carl” series. A sense of normalcy might be a set-up that spells danger for Carl and Donut. Read by Jeff Hays. 20 hours, 27 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.0504
+    },
+    {
+      "id": "nyt:9780593820285",
+      "title": "The Dungeon Anarchist's Cookbook",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593820285.jpg",
+      "subjects": [
+        "hardcover fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The third book in the \"Dungeon…",
+      "synopsis_full": "The third book in the \"Dungeon Crawler Carl\" series. Carl and Donut are up against a subway system filled with monsters.",
+      "source": "nyt",
+      "score": 0.0482
+    },
+    {
+      "id": "nyt:9780593820261",
+      "title": "Carl's Doomsday Scenario",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593820261.jpg",
+      "subjects": [
+        "hardcover fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The second book in the \"Dungeon…",
+      "synopsis_full": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
+      "source": "nyt",
+      "score": 0.0479
+    },
+    {
+      "id": "nyt:9783748087366",
+      "title": "The Butcher's Masquerade",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9783748087366.jpg",
+      "subjects": [
+        "audio fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The fifth book in the \"Dungeon…",
+      "synopsis_full": "The fifth book in the \"Dungeon Crawler Carl\" series. The action moves to the sixth floor, which is known as the Hunting Grounds. Read by Jeff Hays. 23 hours, 33 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.0474
+    },
+    {
+      "id": "nyt:9781586424367",
+      "title": "A Resistance History of the United States",
+      "author": "Tad Stoermer",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781586424367.jpg",
       "subjects": [
         "paperback nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "The author of “The Splendid and…",
-      "synopsis_full": "The author of “The Splendid and the Vile” portrays the months between the election of Abraham Lincoln and the beginning of the Civil War.",
+      "synopsis_short": "Moments in American history that elucidate…",
+      "synopsis_full": "Moments in American history that elucidate the tension between resistance and power.",
       "source": "nyt",
-      "score": 0.0636
+      "score": 0.0459
     },
     {
-      "id": "nyt:9783748087359",
-      "title": "The Gate of the Feral Gods",
-      "author": "Matt Dinniman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9783748087359.jpg",
-      "subjects": [
-        "audio fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The fourth book in the \"Dungeon…",
-      "synopsis_full": "The fourth book in the \"Dungeon Crawler Carl\" series. Obstacles abound on the fifth floor of the dungeon. Read by Jeff Hays. 18 hours, 3 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0633
-    },
-    {
-      "id": "nyt:9781668173107",
-      "title": "Theo of Golden",
-      "author": "Allen Levi",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668173107.jpg",
-      "subjects": [
-        "audio fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "A man travels to a small…",
-      "synopsis_full": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories. Read by David Morse. 13 hours, 12 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0606
-    },
-    {
-      "id": "nyt:9781954118812",
-      "title": "The Calamity Club",
-      "author": "Kathryn Stockett",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
-      "subjects": [
-        "hardcover fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "As things get tougher during the…",
-      "synopsis_full": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
-      "source": "nyt",
-      "score": 0.0572
-    },
-    {
-      "id": "nyt:9781954118829",
-      "title": "The Calamity Club",
-      "author": "Kathryn Stockett",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781954118829.jpg",
-      "subjects": [
-        "combined print & e-book fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "As things get tougher during the…",
-      "synopsis_full": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
-      "source": "nyt",
-      "score": 0.0562
-    },
-    {
-      "id": "nyt:9781775293958",
-      "title": "The Score",
+      "id": "nyt:9781775293934",
+      "title": "The Deal",
       "author": "Elle Kennedy",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781775293934.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The third book in the Off-Campus…",
-      "synopsis_full": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
+      "synopsis_short": "Hannah Wells makes a deal with…",
+      "synopsis_full": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship.",
       "source": "nyt",
-      "score": 0.0558
+      "score": 0.0454
     }
   ]
 }
