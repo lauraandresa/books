@@ -114,6 +114,18 @@
       "year": 2026,
       "source": "nyt",
       "swiped_at": "2026-07-18T17:07:22.762Z"
+    },
+    {
+      "id": "nyt:9781668157350",
+      "title": "View From The East Wing",
+      "author": "Jill Biden",
+      "subjects": [
+        "audio nonfiction"
+      ],
+      "description": "The former first lady recounts her time in the White House, causes she championed and her simultaneous work as a community college professor. Read by the author. 7 hours, 42 minutes unabridged.",
+      "year": 2026,
+      "source": "nyt",
+      "swiped_at": "2026-07-18T17:07:30.988Z"
     }
   ],
   "disliked": [],
