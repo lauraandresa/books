@@ -1,203 +1,205 @@
 {
-  "generated_at": "2026-07-18T12:31:42.471197Z",
+  "generated_at": "2026-07-18T12:42:48.834702Z",
   "items": [
     {
-      "id": "ol:/works/OL262426W",
-      "title": "The Case-Book of Sherlock Holmes",
-      "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/8350410-M.jpg",
+      "id": "ol:/works/OL471932W",
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "cover_url": "https://covers.openlibrary.org/b/id/13151356-M.jpg",
       "subjects": [
-        "fiction",
-        "english detective and mystery stories",
+        "detective fiction",
+        "mystery",
+        "murder",
+        "investigation",
+        "victim",
         "private investigators",
-        "children's stories, english",
-        "mystery and detective stories",
-        "english short stories",
-        "watson, john h. (fictitious character), fiction",
-        "british and irish fiction (fictional works by one author)"
-      ],
-      "synopsis_short": "The Case-Book of Sherlock Holmes",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 10.0097
-    },
-    {
-      "id": "ol:/works/OL262452W",
-      "title": "His Last Bow [8 stories]",
-      "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/8243267-M.jpg",
-      "subjects": [
-        "short stories",
-        "detective and mystery fiction",
-        "fiction",
-        "mystery fiction",
-        "historical fiction",
-        "classic literature",
-        "english detective and mystery stories",
-        "mystery"
-      ],
-      "synopsis_short": "His Last Bow [8 stories]",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 9.942
-    },
-    {
-      "id": "ol:/works/OL262505W",
-      "title": "The Valley of Fear",
-      "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/8350377-M.jpg",
-      "subjects": [
-        "english detective and mystery stories",
-        "fiction",
-        "private investigators",
-        "private investigators in fiction",
-        "romans",
-        "roman policier anglais",
         "detective and mystery stories",
-        "chinese detective and mystery stories"
+        "fiction"
       ],
-      "synopsis_short": "The Valley of Fear",
+      "synopsis_short": "The Murder of Roger Ackroyd",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 8.432
+      "score": 19.0562
     },
     {
-      "id": "ol:/works/OL1315930W",
-      "title": "Trent's Last Case",
-      "author": "E. C. Bentley",
-      "cover_url": "https://covers.openlibrary.org/b/id/118583-M.jpg",
+      "id": "ol:/works/OL15845689W",
+      "title": "The unexpected guest [adaptation]",
+      "author": "Charles Osborne, Charles Osborne, Charles Osborne",
+      "cover_url": "https://covers.openlibrary.org/b/id/6808750-M.jpg",
       "subjects": [
-        "fiction, general",
-        "fiction, mystery & detective, general",
+        "murder",
+        "open library staff picks",
         "fiction",
-        "philip trent (fictitious character)",
-        "private investigators",
-        "private investigators in fiction",
-        "england, fiction",
-        "detective and mystery stories"
+        "investigation",
+        "russian language edition",
+        "large type books",
+        "english literature",
+        "asesinato"
       ],
-      "synopsis_short": "Trent's Last Case",
+      "synopsis_short": "The unexpected guest [adaptation]",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 8.3387
+      "score": 9.8578
     },
     {
-      "id": "ol:/works/OL262454W",
-      "title": "The Hound of the Baskervilles",
-      "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/8063264-M.jpg",
+      "id": "ol:/works/OL17792692W",
+      "title": "Temporada de huracanes",
+      "author": "Fernanda Melchor",
+      "cover_url": "https://covers.openlibrary.org/b/id/10354466-M.jpg",
       "subjects": [
-        "crime novel",
-        "english civil war",
-        "mires",
-        "tors",
-        "tombs",
-        "dogs",
-        "england, fiction",
-        "watson, john h. (fictitious character), fiction"
-      ],
-      "synopsis_short": "The Hound of the Baskervilles",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 6.6824
-    },
-    {
-      "id": "ol:/works/OL76487W",
-      "title": "The Man Who Was Thursday",
-      "author": "Gilbert Keith Chesterton",
-      "cover_url": "https://covers.openlibrary.org/b/id/8242857-M.jpg",
-      "subjects": [
-        "anarchists",
-        "novela de misterio",
-        "police",
-        "libros en letra grande",
-        "fiction",
-        "novela fantástica",
+        "murder",
+        "investigation",
+        "asesinato",
         "ficción",
-        "classic literature"
+        "investigación",
+        "fiction",
+        "romance literature",
+        "mexico, fiction"
       ],
-      "synopsis_short": "The Man Who Was Thursday",
+      "synopsis_short": "Temporada de huracanes",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 6.6615
+      "score": 8.2828
     },
     {
-      "id": "ol:/works/OL8763148W",
-      "title": "The mystery of Edwin Drood",
-      "author": "Charles Dickens, Samuel Luke Fildes, Charles Bernard Derosne, TC, John Cuming Walters",
-      "cover_url": "https://covers.openlibrary.org/b/id/8243336-M.jpg",
+      "id": "ol:/works/OL553754W",
+      "title": "The Black Dahlia",
+      "author": "James Ellroy",
+      "cover_url": "https://covers.openlibrary.org/b/id/1474254-M.jpg",
       "subjects": [
-        "missing persons",
-        "triangles (interpersonal relations)",
+        "detective and mystery fiction",
+        "hard-boiled",
+        "thrillers",
+        "crime",
+        "noir",
         "fiction",
-        "choral conductors",
-        "separation (psychology)",
-        "british and irish fiction (fictional works by one author)",
-        "england, fiction",
-        "england in fiction"
+        "police",
+        "young womendetective and mystery stories"
       ],
-      "synopsis_short": "The mystery of Edwin Drood",
+      "synopsis_short": "The Black Dahlia",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 6.633
+      "score": 8.2749
     },
     {
-      "id": "ol:/works/OL76325W",
-      "title": "The Club of Queer Trades",
-      "author": "Gilbert Keith Chesterton",
-      "cover_url": "https://covers.openlibrary.org/b/id/8242288-M.jpg",
+      "id": "ol:/works/OL59933W",
+      "title": "The White Queen",
+      "author": "Philippa Gregory",
+      "cover_url": "https://covers.openlibrary.org/b/id/10959129-M.jpg",
       "subjects": [
-        "english detective and mystery stories",
-        "classic literature",
         "fiction",
-        "mystery fiction",
-        "british and irish fiction (fictional works by one author)",
-        "fiction, mystery & detective, short stories",
-        "fiction, mystery & detective, traditional",
-        "fiction, historical, general"
+        "history",
+        "death and burial",
+        "queens",
+        "murder",
+        "medieval ages",
+        "elizabeth, -- queen, consort of edward iv, king of england, -- 1437?-1492 -- fiction",
+        "reines"
       ],
-      "synopsis_short": "The Club of Queer Trades",
+      "synopsis_short": "The White Queen",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 5.2543
+      "score": 8.1943
     },
     {
-      "id": "ol:/works/OL1868679W",
-      "title": "R. Holmes & Co.",
-      "author": "John Kendrick Bangs",
-      "cover_url": "https://covers.openlibrary.org/b/id/5716647-M.jpg",
+      "id": "ol:/works/OL81596W",
+      "title": "Black house",
+      "author": "Stephen King, Peter Straub",
+      "cover_url": "https://covers.openlibrary.org/b/id/14652973-M.jpg",
       "subjects": [
-        "criminals",
         "fiction",
-        "private investigators",
-        "mystery",
-        "fiction, mystery & detective, general",
-        "fiction, general"
+        "ficción",
+        "novela de misterio",
+        "asesinatos seriales",
+        "serial murders",
+        "ex-police officers",
+        "novela fantástica",
+        "ex-policía"
       ],
-      "synopsis_short": "R. Holmes & Co.",
+      "synopsis_short": "Black house",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 5.0691
+      "score": 8.17
     },
     {
-      "id": "ol:/works/OL176068W",
-      "title": "The Black Robe",
-      "author": "Wilkie Collins",
-      "cover_url": "https://covers.openlibrary.org/b/id/1759983-M.jpg",
+      "id": "ol:/works/OL675834W",
+      "title": "Alias Grace",
+      "author": "Margaret Atwood",
+      "cover_url": "https://covers.openlibrary.org/b/id/6642671-M.jpg",
       "subjects": [
-        "classic literature",
         "fiction",
-        "mystery",
-        "priesthood",
-        "fiction, thrillers, general",
-        "british and irish fiction (fictional works by one author)",
-        "fiction, christian, general",
-        "man-woman relationships, fiction"
+        "trials (murder)",
+        "women murderers",
+        "murder",
+        "history",
+        "romans",
+        "marks, grace, née 1827",
+        "marks, grace, b. 1827"
       ],
-      "synopsis_short": "The Black Robe",
+      "synopsis_short": "Alias Grace",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 5.0217
+      "score": 8.1343
+    },
+    {
+      "id": "ol:/works/OL19090069W",
+      "title": "La Reina Descalza (Em Portuguese do Brasil) (Spanish Edition)",
+      "author": "Ildefonso Falcones de Sierra",
+      "cover_url": "https://covers.openlibrary.org/b/id/8407198-M.jpg",
+      "subjects": [
+        "freedmen",
+        "mujeres",
+        "black women",
+        "gitanos",
+        "romani women",
+        "fiction",
+        "historia",
+        "negros"
+      ],
+      "synopsis_short": "La Reina Descalza (Em Portuguese do…",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 8.0995
+    },
+    {
+      "id": "ol:/works/OL16811458W",
+      "title": "El juego de Ripper",
+      "author": "Isabel Allende",
+      "cover_url": "https://covers.openlibrary.org/b/id/7269777-M.jpg",
+      "subjects": [
+        "murder",
+        "fiction",
+        "investigation",
+        "role playing",
+        "serial murders",
+        "internet games",
+        "mystery games",
+        "teenagers"
+      ],
+      "synopsis_short": "El juego de Ripper",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 6.5256
+    },
+    {
+      "id": "ol:/works/OL5784621W",
+      "title": "Flickan som lekte med elden",
+      "author": "Stieg Larsson",
+      "cover_url": "https://covers.openlibrary.org/b/id/8345016-M.jpg",
+      "subjects": [
+        "crime fiction",
+        "investigation",
+        "hackers",
+        "human trafficking",
+        "crime",
+        "mystery and suspense stories",
+        "detectives",
+        "gritty"
+      ],
+      "synopsis_short": "Flickan som lekte med elden",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 6.4989
     }
   ]
 }
