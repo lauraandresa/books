@@ -49,6 +49,27 @@
       "description": "",
       "cover_url": "https://covers.openlibrary.org/b/id/13151356-M.jpg",
       "source": "openlibrary"
+    },
+    {
+      "id": "ol:/works/OL17872352W",
+      "title": "La novia gitana",
+      "author": "Carmen Mola",
+      "subjects": [
+        "romani women",
+        "murder",
+        "asesinato",
+        "gitanos",
+        "investigación (pesquisas)",
+        "fiction",
+        "investigation",
+        "novela policíaca",
+        "missing persons",
+        "ficción",
+        "personas desaparecidas"
+      ],
+      "description": "",
+      "cover_url": "https://covers.openlibrary.org/b/id/8179815-M.jpg",
+      "source": "openlibrary"
     }
   ],
   "liked": [],
