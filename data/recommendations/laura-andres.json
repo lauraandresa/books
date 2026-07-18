@@ -1,205 +1,202 @@
 {
-  "generated_at": "2026-07-18T13:58:18.750105Z",
+  "generated_at": "2026-07-18T15:46:52.921570Z",
   "items": [
     {
-      "id": "ol:/works/OL262421W",
-      "title": "The Adventures of Sherlock Holmes [12 stories]",
-      "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/6717853-M.jpg",
+      "id": "ol:/works/OL23704103W",
+      "title": "A splash of rubies",
+      "author": "Virginia Coffman",
+      "cover_url": "https://covers.openlibrary.org/b/id/3695374-M.jpg",
       "subjects": [
-        "classic literature",
-        "murder",
-        "mystery",
-        "conclusions",
-        "amorality",
-        "anglo-saxons",
-        "apaces",
-        "aristocracy"
-      ],
-      "synopsis_short": "The Adventures of Sherlock Holmes [12…",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3231
-    },
-    {
-      "id": "ol:/works/OL8193416W",
-      "title": "The Picture of Dorian Gray",
-      "author": "Oscar Wilde",
-      "cover_url": "https://covers.openlibrary.org/b/id/14314858-M.jpg",
-      "subjects": [
-        "british and irish fiction (fictional works by one author)",
-        "conduct of life, fiction",
-        "fantasy fiction",
-        "appearance (philosophy)",
-        "fiction",
-        "conduct of life",
-        "youthfulness",
-        "portraits"
-      ],
-      "synopsis_short": "The Picture of Dorian Gray",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3177
-    },
-    {
-      "id": "ol:/works/OL176086W",
-      "title": "Basil",
-      "author": "Wilkie Collins",
-      "cover_url": "https://covers.openlibrary.org/b/id/12968342-M.jpg",
-      "subjects": [
-        "fiction",
-        "fathers and sons",
-        "young men",
-        "revenge",
-        "inheritance and succession",
-        "psychology",
-        "classic literature",
-        "mystery"
-      ],
-      "synopsis_short": "Basil",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3142
-    },
-    {
-      "id": "ol:/works/OL32466W",
-      "title": "A Christmas Carol",
-      "author": "Charles Dickens",
-      "cover_url": "https://covers.openlibrary.org/b/id/12875748-M.jpg",
-      "subjects": [
-        "children's fiction",
-        "toy and movable books",
-        "christmas, fiction",
-        "children's plays, english",
-        "christmas",
-        "drama",
-        "ghosts",
-        "plays"
-      ],
-      "synopsis_short": "A Christmas Carol",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3121
-    },
-    {
-      "id": "ol:/works/OL10432709W",
-      "title": "Братья Карамазовы",
-      "author": "Fyodor Dostoyevsky",
-      "cover_url": "https://covers.openlibrary.org/b/id/8272336-M.jpg",
-      "subjects": [
-        "literature - classics / criticism",
-        "russian",
-        "literature: classics",
-        "classics",
-        "literary",
-        "19th century fiction",
-        "russian novel",
-        "crime and criminals"
-      ],
-      "synopsis_short": "Братья Карамазовы",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3025
-    },
-    {
-      "id": "ol:/works/OL29983W",
-      "title": "Little Women",
-      "author": "Louisa May Alcott",
-      "cover_url": "https://covers.openlibrary.org/b/id/8775559-M.jpg",
-      "subjects": [
-        "romans",
-        "jeunes filles",
-        "soeurs",
-        "sisters",
-        "young women",
-        "fiction",
-        "fiction, women",
-        "young women, fiction"
-      ],
-      "synopsis_short": "Little Women",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3016
-    },
-    {
-      "id": "ol:/works/OL38663W",
-      "title": "Heart of Darkness",
-      "author": "Joseph Conrad",
-      "cover_url": "https://covers.openlibrary.org/b/id/12307847-M.jpg",
-      "subjects": [
-        "form:novella",
-        "genre:historical fiction",
-        "fiction",
-        "romance",
-        "degeneration",
-        "literature",
-        "description and travel",
-        "diaries"
-      ],
-      "synopsis_short": "Heart of Darkness",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.2976
-    },
-    {
-      "id": "ol:/works/OL85892W",
-      "title": "Dracula",
-      "author": "Bram Stoker",
-      "cover_url": "https://covers.openlibrary.org/b/id/12216503-M.jpg",
-      "subjects": [
-        "english literature",
-        "fiction",
-        "horror",
-        "horror stories",
-        "horror tales",
-        "monsters",
-        "thriller",
-        "vampires"
-      ],
-      "synopsis_short": "Dracula",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.2778
-    },
-    {
-      "id": "ol:/works/OL262463W",
-      "title": "Memoirs of Sherlock Holmes [11 stories]",
-      "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/9246429-M.jpg",
-      "subjects": [
-        "crime & mystery",
-        "catalepsy",
-        "amyl nitrate",
-        "suicide by hanging",
-        "broughams",
-        "ancestors",
-        "asphyxiation",
-        "blackmail"
-      ],
-      "synopsis_short": "Memoirs of Sherlock Holmes [11 stories]",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.2765
-    },
-    {
-      "id": "ol:/works/OL8403727W",
-      "title": "The Hunchback of Notre Dame (Penguin Readers)",
-      "author": "Victor Hugo",
-      "cover_url": "https://covers.openlibrary.org/b/id/1289060-M.jpg",
-      "subjects": [
-        "music",
-        "adaptations",
-        "juvenile fiction",
-        "kyphosis",
-        "patients",
+        "large type books",
         "romani women",
-        "priests",
-        "history"
+        "fiction"
       ],
-      "synopsis_short": "The Hunchback of Notre Dame (Penguin…",
+      "year": 1999,
+      "synopsis_short": "Sin sinopsis disponible.",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 3.2702
+      "score": 3.2805
+    },
+    {
+      "id": "ol:/works/OL9265706W",
+      "title": "The Gypsy Chronicles",
+      "author": "Alison Mackie",
+      "cover_url": "https://covers.openlibrary.org/b/id/3364812-M.jpg",
+      "subjects": [
+        "romani women",
+        "fiction",
+        "romanies",
+        "femmes tsiganes",
+        "romans, nouvelles",
+        "tsiganes"
+      ],
+      "year": 2007,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.277
+    },
+    {
+      "id": "ol:/works/OL23918144W",
+      "title": "Romani women",
+      "author": "Svenka Savić, Aleksandra Izgarjan",
+      "cover_url": "",
+      "subjects": [
+        "romanies",
+        "biography",
+        "romani women",
+        "history",
+        "women"
+      ],
+      "year": 2002,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.2369
+    },
+    {
+      "id": "ol:/works/OL32703280W",
+      "title": "Le tremende",
+      "author": "Desconocido",
+      "cover_url": "",
+      "subjects": [
+        "women musicians",
+        "biography",
+        "romani women",
+        "music",
+        "history and criticism"
+      ],
+      "year": 2017,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 2.7146
+    },
+    {
+      "id": "ol:/works/OL450063W",
+      "title": "Frankenstein; or, The Modern Prometheus",
+      "author": "Mary Shelley",
+      "cover_url": "https://covers.openlibrary.org/b/id/12356249-M.jpg",
+      "subjects": [
+        "frankenstein (fictitious character)",
+        "frankenstein's monster (fictitious character)",
+        "fiction",
+        "victor frankenstein (fictitious character)",
+        "scientists",
+        "monsters",
+        "fiction, horror",
+        "frankenstein (fictitious character), fiction"
+      ],
+      "year": 1818,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 1.7698
+    },
+    {
+      "id": "ol:/works/OL66554W",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "cover_url": "https://covers.openlibrary.org/b/id/14348537-M.jpg",
+      "subjects": [
+        "fiction, romance, historical, regency",
+        "british and irish fiction (fictional works by one author)",
+        "brothers and sisters",
+        "courtship",
+        "drama",
+        "english fiction",
+        "english literature",
+        "families"
+      ],
+      "year": 1813,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 1.7359
+    },
+    {
+      "id": "ol:/works/OL24034W",
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "cover_url": "https://covers.openlibrary.org/b/id/13859660-M.jpg",
+      "subjects": [
+        "fiction",
+        "treasure island (imaginary place)",
+        "treasure-trove",
+        "pirates",
+        "treasure troves",
+        "children's fiction",
+        "adventure and adventurers, fiction",
+        "pirates, fiction"
+      ],
+      "year": 1880,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 1.7137
+    },
+    {
+      "id": "ol:/works/OL53908W",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "cover_url": "https://covers.openlibrary.org/b/id/8157718-M.jpg",
+      "subjects": [
+        "adventure and adventurers",
+        "adventure stories",
+        "american fiction (fictional works by one author)",
+        "american literature",
+        "boys",
+        "child and youth fiction",
+        "children's fiction",
+        "child witnesses"
+      ],
+      "year": 1876,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 1.7127
+    },
+    {
+      "id": "ol:/works/OL45089W",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe, J. J. Grandville, Petrus Borel, Les éditions du Rey, N. C. Wyeth",
+      "cover_url": "https://covers.openlibrary.org/b/id/368541-M.jpg",
+      "subjects": [
+        "crusoe, robinson (fictitious character), fiction",
+        "british and irish fiction (fictional works by one author)",
+        "survival",
+        "fiction",
+        "dans la littérature",
+        "îles",
+        "islands",
+        "naufrages"
+      ],
+      "year": 1686,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 1.7062
+    },
+    {
+      "id": "ol:/works/OL258902W",
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "cover_url": "https://covers.openlibrary.org/b/id/872432-M.jpg",
+      "subjects": [
+        "drama",
+        "regicides",
+        "kings and rulers",
+        "texts",
+        "french-canadian dialect",
+        "scotland",
+        "kings",
+        "greed"
+      ],
+      "year": 1508,
+      "synopsis_short": "Sin sinopsis disponible.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 1.7045
     }
   ]
 }
