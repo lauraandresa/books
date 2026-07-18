@@ -28,6 +28,7 @@ import os
 import re
 import time
 import datetime
+import traceback
 import urllib.request
 import urllib.parse
 
@@ -216,31 +217,45 @@ def enrich_spanish(candidate):
     """Busca la edición en español de un candidato en Google Books para
     traer título en español y sinopsis. Si no hay edición en español, usa
     cualquier idioma con tal de rellenar la sinopsis. Se llama solo sobre
-    el top final (10-15 libros), no sobre todo el pool de candidatos."""
+    el top final (10-15 libros), no sobre todo el pool de candidatos.
+    Nunca lanza excepción: si todo falla, devuelve el candidato tal cual."""
     title = candidate.get("title", "")
     author_first = (candidate.get("author") or "").split(",")[0].strip()
     if not title:
         return candidate
 
-    query = f'intitle:"{title}"' + (f' inauthor:"{author_first}"' if author_first else "")
+    try:
+        best = None
+        field_query = f'intitle:"{title}"' + (f' inauthor:"{author_first}"' if author_first else "")
 
-    es_results = gb_search(query, limit=3, lang="es")
-    best = es_results[0] if es_results else None
+        es_results = gb_search(field_query, limit=3, lang="es")
+        best = es_results[0] if es_results else None
 
-    if not best:
-        any_results = gb_search(query, limit=3)
-        best = any_results[0] if any_results else None
+        if not best:
+            any_results = gb_search(field_query, limit=3)
+            best = any_results[0] if any_results else None
 
-    if best:
-        if best.get("title"):
-            candidate["title"] = best["title"]
-        if best.get("description") and not candidate.get("description"):
-            candidate["description"] = best["description"]
-        if best.get("cover_url") and not candidate.get("cover_url"):
-            candidate["cover_url"] = best["cover_url"]
-        if not candidate.get("rating_count"):
-            candidate["rating_count"] = best.get("rating_count", 0)
-            candidate["rating_avg"] = best.get("rating_avg", 0)
+        if not best:
+            # tercer intento, más permisivo: sin restringir a campos exactos
+            # (algunos títulos con caracteres raros no casan bien con intitle:)
+            plain_query = f"{title} {author_first}".strip()
+            plain_results = gb_search(plain_query, limit=3)
+            best = plain_results[0] if plain_results else None
+
+        if best:
+            if best.get("title"):
+                candidate["title"] = best["title"]
+            if best.get("description") and not candidate.get("description"):
+                candidate["description"] = best["description"]
+            if best.get("cover_url") and not candidate.get("cover_url"):
+                candidate["cover_url"] = best["cover_url"]
+            if not candidate.get("rating_count"):
+                candidate["rating_count"] = best.get("rating_count", 0)
+                candidate["rating_avg"] = best.get("rating_avg", 0)
+            if not candidate.get("year"):
+                candidate["year"] = best.get("year")
+    except Exception as e:
+        print(f"    aviso: no se pudo enriquecer '{title}' -> {e}")
 
     return candidate
 
@@ -395,7 +410,43 @@ def to_output_items(scored_top):
             "source": c.get("source"),
             "score": c.get("score"),
         })
+    con_sinopsis = sum(1 for it in out_items if it["synopsis_full"] != "No hay sinopsis disponible para este libro.")
+    print(f"    sinopsis conseguidas: {con_sinopsis}/{len(out_items)}")
     return out_items
+
+
+def backfill_years(books):
+    """Si un libro (semilla o 'me gusta') no tiene año guardado —típicamente
+    porque se añadió antes de que la app empezara a guardarlo—, lo busca
+    aquí mismo. Muta los diccionarios in-place, así que al escribir el
+    perfil de vuelta al final, el año queda guardado para no tener que
+    volver a buscarlo la próxima semana."""
+    for b in books:
+        if parse_year(b.get("year")):
+            continue
+        title = (b.get("title") or "").strip()
+        if not title:
+            continue
+        author_first = (b.get("author") or "").split(",")[0].strip()
+        query = f"{title} {author_first}".strip()
+        year = None
+        try:
+            for r in gb_search(query, limit=3):
+                year = parse_year(r.get("year"))
+                if year:
+                    break
+            if not year:
+                for r in ol_search(query, limit=3):
+                    year = parse_year(r.get("year"))
+                    if year:
+                        break
+        except Exception as e:
+            print(f"    aviso: no se pudo recuperar año de '{title}' -> {e}")
+        if year:
+            b["year"] = year
+            print(f"    año recuperado para '{title}': {year}")
+        else:
+            print(f"    no se encontró año para '{title}' (quedará fuera del cálculo de época)")
 
 
 def process_profile(username):
@@ -411,6 +462,9 @@ def process_profile(username):
     if not positive_all:
         print(f"  {username}: sin libros semilla ni 'me gusta' todavía, se omite")
         return
+
+    print(f"  {username}: comprobando años de publicación...")
+    backfill_years(positive_all)
 
     pos_subjects = top_subjects(positive_all, n=8)
     year_range = compute_year_range(positive_all)
@@ -471,6 +525,7 @@ def main():
             process_profile(username)
         except Exception as e:
             print(f"  ERROR procesando {username}: {e}")
+            traceback.print_exc()
 
 
 if __name__ == "__main__":
