@@ -1,205 +1,202 @@
 {
-  "generated_at": "2026-07-18T12:42:48.834702Z",
+  "generated_at": "2026-07-18T12:44:32.202753Z",
   "items": [
     {
-      "id": "ol:/works/OL471932W",
-      "title": "The Murder of Roger Ackroyd",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/13151356-M.jpg",
+      "id": "ol:/works/OL23797W",
+      "title": "The Riddle of the Sands",
+      "author": "Erskine Childers",
+      "cover_url": "https://covers.openlibrary.org/b/id/2293974-M.jpg",
       "subjects": [
-        "detective fiction",
-        "mystery",
-        "murder",
-        "investigation",
-        "victim",
-        "private investigators",
-        "detective and mystery stories",
-        "fiction"
+        "great britain, fiction",
+        "fiction, action & adventure",
+        "fiction, thrillers, espionage",
+        "fiction, alternative history",
+        "fiction, sea stories",
+        "large type books",
+        "fiction",
+        "invasions"
       ],
-      "synopsis_short": "The Murder of Roger Ackroyd",
+      "synopsis_short": "The Riddle of the Sands",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 19.0562
+      "score": 5.0392
     },
     {
-      "id": "ol:/works/OL15845689W",
-      "title": "The unexpected guest [adaptation]",
-      "author": "Charles Osborne, Charles Osborne, Charles Osborne",
-      "cover_url": "https://covers.openlibrary.org/b/id/6808750-M.jpg",
+      "id": "ol:/works/OL176085W",
+      "title": "Armadale",
+      "author": "Wilkie Collins",
+      "cover_url": "https://covers.openlibrary.org/b/id/780215-M.jpg",
       "subjects": [
-        "murder",
-        "open library staff picks",
+        "classic literature",
+        "fate and fatalism",
+        "fathers and sons",
         "fiction",
-        "investigation",
-        "russian language edition",
-        "large type books",
-        "english literature",
+        "men",
+        "mystery",
+        "social life and customs",
+        "british and irish fiction (fictional works by one author)"
+      ],
+      "synopsis_short": "Armadale",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 4.9757
+    },
+    {
+      "id": "ol:/works/OL1992198W",
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "cover_url": "https://covers.openlibrary.org/b/id/228066-M.jpg",
+      "subjects": [
+        "true",
+        "crime",
+        "murder",
+        "mystery",
+        "cas, études de",
+        "meurtre",
+        "análisis de casos",
         "asesinato"
       ],
-      "synopsis_short": "The unexpected guest [adaptation]",
+      "synopsis_short": "In Cold Blood",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 9.8578
+      "score": 4.8908
     },
     {
-      "id": "ol:/works/OL17792692W",
-      "title": "Temporada de huracanes",
-      "author": "Fernanda Melchor",
-      "cover_url": "https://covers.openlibrary.org/b/id/10354466-M.jpg",
+      "id": "ol:/works/OL66513W",
+      "title": "Emma",
+      "author": "Jane Austen",
+      "cover_url": "https://covers.openlibrary.org/b/id/9278312-M.jpg",
       "subjects": [
-        "murder",
-        "investigation",
-        "asesinato",
-        "ficción",
-        "investigación",
+        "social life and customs",
+        "mate selection",
         "fiction",
-        "romance literature",
-        "mexico, fiction"
+        "fathers and daughters",
+        "open_syllabus_project",
+        "historical fiction",
+        "female friendship",
+        "young women"
       ],
-      "synopsis_short": "Temporada de huracanes",
+      "synopsis_short": "Emma",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 8.2828
+      "score": 4.8476
     },
     {
-      "id": "ol:/works/OL553754W",
-      "title": "The Black Dahlia",
-      "author": "James Ellroy",
-      "cover_url": "https://covers.openlibrary.org/b/id/1474254-M.jpg",
+      "id": "ol:/works/OL20334816W",
+      "title": "Bali sheng mu yuan =",
+      "author": "Victor Hugo",
+      "cover_url": "https://covers.openlibrary.org/b/id/8998413-M.jpg",
       "subjects": [
-        "detective and mystery fiction",
-        "hard-boiled",
-        "thrillers",
-        "crime",
-        "noir",
-        "fiction",
-        "police",
-        "young womendetective and mystery stories"
-      ],
-      "synopsis_short": "The Black Dahlia",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 8.2749
-    },
-    {
-      "id": "ol:/works/OL59933W",
-      "title": "The White Queen",
-      "author": "Philippa Gregory",
-      "cover_url": "https://covers.openlibrary.org/b/id/10959129-M.jpg",
-      "subjects": [
-        "fiction",
-        "history",
-        "death and burial",
-        "queens",
-        "murder",
-        "medieval ages",
-        "elizabeth, -- queen, consort of edward iv, king of england, -- 1437?-1492 -- fiction",
-        "reines"
-      ],
-      "synopsis_short": "The White Queen",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 8.1943
-    },
-    {
-      "id": "ol:/works/OL81596W",
-      "title": "Black house",
-      "author": "Stephen King, Peter Straub",
-      "cover_url": "https://covers.openlibrary.org/b/id/14652973-M.jpg",
-      "subjects": [
-        "fiction",
-        "ficción",
-        "novela de misterio",
-        "asesinatos seriales",
-        "serial murders",
-        "ex-police officers",
-        "novela fantástica",
-        "ex-policía"
-      ],
-      "synopsis_short": "Black house",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 8.17
-    },
-    {
-      "id": "ol:/works/OL675834W",
-      "title": "Alias Grace",
-      "author": "Margaret Atwood",
-      "cover_url": "https://covers.openlibrary.org/b/id/6642671-M.jpg",
-      "subjects": [
-        "fiction",
-        "trials (murder)",
-        "women murderers",
-        "murder",
-        "history",
-        "romans",
-        "marks, grace, née 1827",
-        "marks, grace, b. 1827"
-      ],
-      "synopsis_short": "Alias Grace",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 8.1343
-    },
-    {
-      "id": "ol:/works/OL19090069W",
-      "title": "La Reina Descalza (Em Portuguese do Brasil) (Spanish Edition)",
-      "author": "Ildefonso Falcones de Sierra",
-      "cover_url": "https://covers.openlibrary.org/b/id/8407198-M.jpg",
-      "subjects": [
-        "freedmen",
-        "mujeres",
-        "black women",
-        "gitanos",
         "romani women",
+        "man-woman relationships",
+        "notre-dame de paris (cathedral)",
+        "priests",
+        "kyphosis",
         "fiction",
-        "historia",
-        "negros"
+        "patients",
+        "people with disabilities"
       ],
-      "synopsis_short": "La Reina Descalza (Em Portuguese do…",
+      "synopsis_short": "Bali sheng mu yuan =",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 8.0995
+      "score": 4.839
     },
     {
-      "id": "ol:/works/OL16811458W",
-      "title": "El juego de Ripper",
-      "author": "Isabel Allende",
-      "cover_url": "https://covers.openlibrary.org/b/id/7269777-M.jpg",
+      "id": "ol:/works/OL262438W",
+      "title": "The Sign of Four",
+      "author": "Arthur Conan Doyle",
+      "cover_url": "https://covers.openlibrary.org/b/id/9247987-M.jpg",
       "subjects": [
-        "murder",
-        "fiction",
-        "investigation",
-        "role playing",
-        "serial murders",
-        "internet games",
-        "mystery games",
-        "teenagers"
+        "crime & mystery",
+        "classic fiction",
+        "andamanese",
+        "arrow poisons",
+        "bloguns",
+        "convicts",
+        "crime & mystery fiction",
+        "crocodiles"
       ],
-      "synopsis_short": "El juego de Ripper",
+      "synopsis_short": "The Sign of Four",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 6.5256
+      "score": 3.5442
     },
     {
-      "id": "ol:/works/OL5784621W",
-      "title": "Flickan som lekte med elden",
-      "author": "Stieg Larsson",
-      "cover_url": "https://covers.openlibrary.org/b/id/8345016-M.jpg",
+      "id": "ol:/works/OL485498W",
+      "title": "The Rainbow Trail",
+      "author": "Zane Grey",
+      "cover_url": "https://covers.openlibrary.org/b/id/6555618-M.jpg",
       "subjects": [
-        "crime fiction",
-        "investigation",
-        "hackers",
-        "human trafficking",
-        "crime",
-        "mystery and suspense stories",
-        "detectives",
-        "gritty"
+        "frontier and pioneer life",
+        "open library staff picks",
+        "fiction in english",
+        "fiction",
+        "classic literature",
+        "mormons",
+        "prisoners",
+        "murder"
       ],
-      "synopsis_short": "Flickan som lekte med elden",
+      "synopsis_short": "The Rainbow Trail",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 6.4989
+      "score": 3.3515
+    },
+    {
+      "id": "ol:/works/OL76501W",
+      "title": "Greenmantle",
+      "author": "John Buchan",
+      "cover_url": "https://covers.openlibrary.org/b/id/93023-M.jpg",
+      "subjects": [
+        "fiction, thrillers, espionage",
+        "hannay, richard (fictitious character), fiction",
+        "great britain, fiction",
+        "world war, 1914-1918, fiction",
+        "fiction, war & military",
+        "richard hannay (fictitious character)",
+        "world war, 1914-1918",
+        "literature"
+      ],
+      "synopsis_short": "Greenmantle",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.3406
+    },
+    {
+      "id": "ol:/works/OL5808761W",
+      "title": "The Quiet Child",
+      "author": "Debra Salonen",
+      "cover_url": "https://covers.openlibrary.org/b/id/1187487-M.jpg",
+      "subjects": [
+        "fiction, romance, general",
+        "christmas stories",
+        "sisters",
+        "fiction",
+        "romani women"
+      ],
+      "synopsis_short": "The Quiet Child",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.3368
+    },
+    {
+      "id": "ol:/works/OL76595W",
+      "title": "Prester John",
+      "author": "John Buchan",
+      "cover_url": "https://covers.openlibrary.org/b/id/5981967-M.jpg",
+      "subjects": [
+        "fiction",
+        "scots",
+        "clergy",
+        "zulu (african people)",
+        "viction",
+        "mystery",
+        "adventure stories",
+        "fiction, general"
+      ],
+      "synopsis_short": "Prester John",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.3307
     }
   ]
 }
