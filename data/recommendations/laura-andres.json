@@ -1,205 +1,203 @@
 {
-  "generated_at": "2026-07-18T12:30:43.712446Z",
+  "generated_at": "2026-07-18T12:31:42.471197Z",
   "items": [
     {
-      "id": "ol:/works/OL262498W",
-      "title": "Novels (Sign of Four / Study in Scarlet)",
+      "id": "ol:/works/OL262426W",
+      "title": "The Case-Book of Sherlock Holmes",
       "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/12519082-M.jpg",
+      "cover_url": "https://covers.openlibrary.org/b/id/8350410-M.jpg",
       "subjects": [
         "fiction",
-        "sherlock holmes (fictitious character)",
+        "english detective and mystery stories",
         "private investigators",
-        "action & adventure fiction",
-        "andamanese",
-        "aortic aneurysm",
-        "arrow poisons",
-        "battle of maiwand"
+        "children's stories, english",
+        "mystery and detective stories",
+        "english short stories",
+        "watson, john h. (fictitious character), fiction",
+        "british and irish fiction (fictional works by one author)"
       ],
-      "synopsis_short": "Novels (Sign of Four / Study…",
+      "synopsis_short": "The Case-Book of Sherlock Holmes",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 6.6818
+      "score": 10.0097
     },
     {
-      "id": "ol:/works/OL2163628W",
-      "title": "Dirk Gently’s Holistic Detective Agency",
-      "author": "Douglas Adams",
-      "cover_url": "https://covers.openlibrary.org/b/id/11465456-M.jpg",
+      "id": "ol:/works/OL262452W",
+      "title": "His Last Bow [8 stories]",
+      "author": "Arthur Conan Doyle",
+      "cover_url": "https://covers.openlibrary.org/b/id/8243267-M.jpg",
       "subjects": [
-        "fantasy",
-        "krimi",
-        "abiogenesis",
-        "laudanum",
-        "kubla khan",
-        "the rime of the ancient mariner",
-        "detective fiction",
-        "mystery & detective fiction"
-      ],
-      "synopsis_short": "Dirk Gently’s Holistic Detective Agency",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 6.6389
-    },
-    {
-      "id": "ol:/works/OL76833W",
-      "title": "Angels & Demons",
-      "author": "Dan Brown",
-      "cover_url": "https://covers.openlibrary.org/b/id/11408459-M.jpg",
-      "subjects": [
-        "heparin",
-        "ambigrams",
-        "antimatter",
-        "freemasons",
-        "swiss guard",
-        "murder",
-        "investigation",
-        "women scientists"
-      ],
-      "synopsis_short": "Angels & Demons",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 6.6136
-    },
-    {
-      "id": "ol:/works/OL1230613W",
-      "title": "L’étranger",
-      "author": "Albert Camus",
-      "cover_url": "https://covers.openlibrary.org/b/id/13151269-M.jpg",
-      "subjects": [
-        "philosophical novels",
-        "murder",
+        "short stories",
+        "detective and mystery fiction",
         "fiction",
-        "medicine in literature",
-        "french",
-        "novelas francesas",
-        "asesinato",
-        "ficción"
+        "mystery fiction",
+        "historical fiction",
+        "classic literature",
+        "english detective and mystery stories",
+        "mystery"
       ],
-      "synopsis_short": "L’étranger",
+      "synopsis_short": "His Last Bow [8 stories]",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 6.4977
+      "score": 9.942
     },
     {
-      "id": "ol:/works/OL471771W",
-      "title": "A Murder Is Announced",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/14578204-M.jpg",
+      "id": "ol:/works/OL262505W",
+      "title": "The Valley of Fear",
+      "author": "Arthur Conan Doyle",
+      "cover_url": "https://covers.openlibrary.org/b/id/8350377-M.jpg",
       "subjects": [
+        "english detective and mystery stories",
+        "fiction",
+        "private investigators",
+        "private investigators in fiction",
+        "romans",
+        "roman policier anglais",
+        "detective and mystery stories",
+        "chinese detective and mystery stories"
+      ],
+      "synopsis_short": "The Valley of Fear",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 8.432
+    },
+    {
+      "id": "ol:/works/OL1315930W",
+      "title": "Trent's Last Case",
+      "author": "E. C. Bentley",
+      "cover_url": "https://covers.openlibrary.org/b/id/118583-M.jpg",
+      "subjects": [
+        "fiction, general",
+        "fiction, mystery & detective, general",
+        "fiction",
+        "philip trent (fictitious character)",
+        "private investigators",
+        "private investigators in fiction",
+        "england, fiction",
+        "detective and mystery stories"
+      ],
+      "synopsis_short": "Trent's Last Case",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 8.3387
+    },
+    {
+      "id": "ol:/works/OL262454W",
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "cover_url": "https://covers.openlibrary.org/b/id/8063264-M.jpg",
+      "subjects": [
+        "crime novel",
+        "english civil war",
+        "mires",
+        "tors",
+        "tombs",
+        "dogs",
+        "england, fiction",
+        "watson, john h. (fictitious character), fiction"
+      ],
+      "synopsis_short": "The Hound of the Baskervilles",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 6.6824
+    },
+    {
+      "id": "ol:/works/OL76487W",
+      "title": "The Man Who Was Thursday",
+      "author": "Gilbert Keith Chesterton",
+      "cover_url": "https://covers.openlibrary.org/b/id/8242857-M.jpg",
+      "subjects": [
+        "anarchists",
+        "novela de misterio",
+        "police",
+        "libros en letra grande",
+        "fiction",
+        "novela fantástica",
+        "ficción",
+        "classic literature"
+      ],
+      "synopsis_short": "The Man Who Was Thursday",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 6.6615
+    },
+    {
+      "id": "ol:/works/OL8763148W",
+      "title": "The mystery of Edwin Drood",
+      "author": "Charles Dickens, Samuel Luke Fildes, Charles Bernard Derosne, TC, John Cuming Walters",
+      "cover_url": "https://covers.openlibrary.org/b/id/8243336-M.jpg",
+      "subjects": [
+        "missing persons",
+        "triangles (interpersonal relations)",
+        "fiction",
+        "choral conductors",
+        "separation (psychology)",
+        "british and irish fiction (fictional works by one author)",
+        "england, fiction",
+        "england in fiction"
+      ],
+      "synopsis_short": "The mystery of Edwin Drood",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 6.633
+    },
+    {
+      "id": "ol:/works/OL76325W",
+      "title": "The Club of Queer Trades",
+      "author": "Gilbert Keith Chesterton",
+      "cover_url": "https://covers.openlibrary.org/b/id/8242288-M.jpg",
+      "subjects": [
+        "english detective and mystery stories",
+        "classic literature",
+        "fiction",
+        "mystery fiction",
+        "british and irish fiction (fictional works by one author)",
+        "fiction, mystery & detective, short stories",
+        "fiction, mystery & detective, traditional",
+        "fiction, historical, general"
+      ],
+      "synopsis_short": "The Club of Queer Trades",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 5.2543
+    },
+    {
+      "id": "ol:/works/OL1868679W",
+      "title": "R. Holmes & Co.",
+      "author": "John Kendrick Bangs",
+      "cover_url": "https://covers.openlibrary.org/b/id/5716647-M.jpg",
+      "subjects": [
+        "criminals",
+        "fiction",
+        "private investigators",
+        "mystery",
+        "fiction, mystery & detective, general",
+        "fiction, general"
+      ],
+      "synopsis_short": "R. Holmes & Co.",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 5.0691
+    },
+    {
+      "id": "ol:/works/OL176068W",
+      "title": "The Black Robe",
+      "author": "Wilkie Collins",
+      "cover_url": "https://covers.openlibrary.org/b/id/1759983-M.jpg",
+      "subjects": [
+        "classic literature",
         "fiction",
         "mystery",
-        "agatha christie",
-        "miss marple",
-        "series",
-        "british",
-        "amateur",
-        "detective"
+        "priesthood",
+        "fiction, thrillers, general",
+        "british and irish fiction (fictional works by one author)",
+        "fiction, christian, general",
+        "man-woman relationships, fiction"
       ],
-      "synopsis_short": "A Murder Is Announced",
+      "synopsis_short": "The Black Robe",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 5.9981
-    },
-    {
-      "id": "ol:/works/OL471565W",
-      "title": "And Then There Were None",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/11172296-M.jpg",
-      "subjects": [
-        "roman policier",
-        "french language materials",
-        "français (langue)",
-        "lectures et morceaux choisis",
-        "cyanide poisoning",
-        "chloral hydrate",
-        "potassium cyanide",
-        "scotland yard"
-      ],
-      "synopsis_short": "And Then There Were None",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 5.9469
-    },
-    {
-      "id": "ol:/works/OL137395W",
-      "title": "The Man in Lower Ten",
-      "author": "Mary Roberts Rinehart",
-      "cover_url": "https://covers.openlibrary.org/b/id/2761479-M.jpg",
-      "subjects": [
-        "fiction",
-        "american detective and mystery stories",
-        "murder",
-        "railroad trains",
-        "large type books",
-        "fiction, mystery & detective, general",
-        "fiction / mystery & detective / traditional british",
-        "murder -- investigation -- fiction"
-      ],
-      "synopsis_short": "The Man in Lower Ten",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 5.1194
-    },
-    {
-      "id": "ol:/works/OL176092W",
-      "title": "The Moonstone",
-      "author": "Wilkie Collins",
-      "cover_url": "https://covers.openlibrary.org/b/id/8237041-M.jpg",
-      "subjects": [
-        "fiction",
-        "jewelry theft",
-        "east indians",
-        "police",
-        "drama",
-        "history",
-        "detective and mystery stories",
-        "readers"
-      ],
-      "synopsis_short": "The Moonstone",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 5.0033
-    },
-    {
-      "id": "ol:/works/OL262561W",
-      "title": "The Adventure of the Speckled Band",
-      "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/8517526-M.jpg",
-      "subjects": [
-        "amorality",
-        "anglo-saxons",
-        "aristocracy",
-        "detective fiction",
-        "fiction",
-        "juvenile audience",
-        "locked-room mysteries",
-        "mystery and detective stories"
-      ],
-      "synopsis_short": "The Adventure of the Speckled Band",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 4.9999
-    },
-    {
-      "id": "ol:/works/OL41072W",
-      "title": "The Murders in the Rue Morgue",
-      "author": "Edgar Allan Poe",
-      "cover_url": "https://covers.openlibrary.org/b/id/11774455-M.jpg",
-      "subjects": [
-        "murder",
-        "fiction",
-        "american detective and mystery stories",
-        "c. auguste dupin (fictitious character)",
-        "fiction, mystery & detective, general",
-        "dupin, auguste (fictitious character), fiction",
-        "libros de lectura",
-        "ingle s"
-      ],
-      "synopsis_short": "The Murders in the Rue Morgue",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 4.9998
+      "score": 5.0217
     }
   ]
 }
