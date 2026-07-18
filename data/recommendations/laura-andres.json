@@ -1,205 +1,205 @@
 {
-  "generated_at": "2026-07-18T12:25:25.688433Z",
+  "generated_at": "2026-07-18T12:29:32.154174Z",
   "items": [
     {
-      "id": "ol:/works/OL471724W",
-      "title": "Death on the Nile",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/14066646-M.jpg",
+      "id": "ol:/works/OL2234946W",
+      "title": "The Nine Tailors",
+      "author": "Dorothy L. Sayers",
+      "cover_url": "https://covers.openlibrary.org/b/id/482463-M.jpg",
       "subjects": [
-        "belgians",
         "fiction",
-        "hercule poirot (fictitious character)",
         "private investigators",
-        "english detective and mystery stories",
-        "murder",
-        "historical fiction",
-        "mystery"
+        "lord wimsey, peter (fictitious character)",
+        "mystery and detective stories",
+        "mystery",
+        "detective fiction",
+        "wimsey, peter, lord (fictitious character), fiction",
+        "england, fiction"
       ],
-      "synopsis_short": "Death on the Nile",
+      "synopsis_short": "The Nine Tailors",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 12.5408
+      "score": 13.0213
     },
     {
-      "id": "ol:/works/OL472049W",
-      "title": "Evil Under the Sun",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/13671433-M.jpg",
+      "id": "ol:/works/OL2234917W",
+      "title": "Whose Body?",
+      "author": "Dorothy L. Sayers",
+      "cover_url": "https://covers.openlibrary.org/b/id/8311819-M.jpg",
       "subjects": [
-        "hercule poirot (fictitious character)",
-        "private investigators",
-        "detective and mystery stories",
-        "open library staff picks",
+        "mystery",
         "detectives",
+        "lord wimsey, peter (fictitious character)",
+        "translations into russian",
+        "english detective and mystery stories",
+        "private investigators",
         "fiction",
-        "belgians",
-        "mystery"
+        "police"
       ],
-      "synopsis_short": "Evil Under the Sun",
+      "synopsis_short": "Whose Body?",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 12.5177
+      "score": 8.2373
     },
     {
-      "id": "ol:/works/OL471943W",
-      "title": "After the Funeral",
+      "id": "ol:/works/OL47266W",
+      "title": "The Maltese Falcon",
+      "author": "Dashiell Hammett",
+      "cover_url": "https://covers.openlibrary.org/b/id/998587-M.jpg",
+      "subjects": [
+        "fiction, mystery & detective, general",
+        "san francisco (calif.), fiction",
+        "california, fiction",
+        "private investigators, fiction",
+        "spade, sam (fictitious character), fiction",
+        "ficción",
+        "fiction",
+        "hard-boiled detectives"
+      ],
+      "synopsis_short": "The Maltese Falcon",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 8.2368
+    },
+    {
+      "id": "ol:/works/OL166894W",
+      "title": "Преступление и наказание",
+      "author": "Fyodor Dostoyevsky",
+      "cover_url": "https://covers.openlibrary.org/b/id/9411873-M.jpg",
+      "subjects": [
+        "english translations",
+        "russian literature",
+        "novela psicológica",
+        "fiction",
+        "translations into yiddish",
+        "psychological fiction",
+        "german language",
+        "murder"
+      ],
+      "synopsis_short": "Преступление и наказание",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 8.2025
+    },
+    {
+      "id": "ol:/works/OL471895W",
+      "title": "The Murder at the Vicarage",
       "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/12996535-M.jpg",
+      "cover_url": "https://covers.openlibrary.org/b/id/12996560-M.jpg",
+      "subjects": [
+        "women detectives",
+        "fiction",
+        "classic",
+        "literature",
+        "audiobook",
+        "braile",
+        "dvd",
+        "murder"
+      ],
+      "synopsis_short": "The Murder at the Vicarage",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 7.6941
+    },
+    {
+      "id": "ol:/works/OL471500W",
+      "title": "4:50 from Paddington",
+      "author": "Agatha Christie",
+      "cover_url": "https://covers.openlibrary.org/b/id/13151352-M.jpg",
       "subjects": [
         "fiction",
         "mystery",
-        "hercule poirot (fictitious character)",
-        "private investigators",
-        "belgians",
-        "mystery and detective stories",
-        "england, fiction",
+        "jane marple (fictitious character)",
+        "fiction, mystery & detective, general",
+        "marple, jane (fictitious character), fiction",
+        "english literature",
+        "english language",
         "fiction, mystery & detective, traditional"
       ],
-      "synopsis_short": "After the Funeral",
+      "synopsis_short": "4:50 from Paddington",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 10.9685
+      "score": 7.6906
     },
     {
-      "id": "ol:/works/OL471940W",
-      "title": "Poirot investigates",
+      "id": "ol:/works/OL471576W",
+      "title": "Murder on the Orient Express",
       "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/13670505-M.jpg",
+      "cover_url": "https://covers.openlibrary.org/b/id/11100465-M.jpg",
       "subjects": [
-        "hercule poirot (fictitious character)",
-        "private investigators",
-        "chief inspector japp (fictitious character)",
-        "belgians",
-        "english detective and mystery stories",
-        "detective and mystery stories",
-        "fiction",
-        "captain hastings (fictitious character)"
-      ],
-      "synopsis_short": "Poirot investigates",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 10.8587
-    },
-    {
-      "id": "ol:/works/OL472715W",
-      "title": "The Mysterious Affair at Styles",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/13699667-M.jpg",
-      "subjects": [
-        "fiction",
-        "mystery",
-        "crime fiction",
-        "mystery thriller",
-        "thriller",
-        "adult",
-        "classic literature",
-        "british literature"
-      ],
-      "synopsis_short": "The Mysterious Affair at Styles",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 10.7696
-    },
-    {
-      "id": "ol:/works/OL472542W",
-      "title": "The Secret of Chimneys",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/12996574-M.jpg",
-      "subjects": [
-        "fiction",
-        "mystery",
-        "superintendent battle (fictitious character)",
-        "english detective and mystery stories",
+        "agatha christie",
+        "private investigator",
+        "p.i.",
+        "hercule poirot",
+        "detective",
         "murder",
-        "investigation",
-        "conspiracies",
-        "manors"
+        "mystery",
+        "juvenile"
       ],
-      "synopsis_short": "The Secret of Chimneys",
+      "synopsis_short": "Murder on the Orient Express",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 9.3869
+      "score": 7.6605
     },
     {
-      "id": "ol:/works/OL472073W",
-      "title": "Murder on the Links",
+      "id": "ol:/works/OL471610W",
+      "title": "The Body in the Library",
       "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/14582832-M.jpg",
+      "cover_url": "https://covers.openlibrary.org/b/id/12855259-M.jpg",
       "subjects": [
         "fiction",
-        "hercule poirot (fictitious character)",
-        "private investigators",
-        "murder",
-        "investigation",
-        "english detective and mystery stories",
         "mystery",
-        "golf courses"
-      ],
-      "synopsis_short": "Murder on the Links",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 9.3221
-    },
-    {
-      "id": "ol:/works/OL471891W",
-      "title": "Crooked House",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/14570595-M.jpg",
-      "subjects": [
-        "mystery",
-        "fiction",
-        "jane marple (fictitious character)",
-        "large type books",
         "women detectives",
-        "murder",
-        "investigation",
-        "detective and mystery stories"
+        "detective and mystery stories",
+        "jane marple (fictitious character)",
+        "agatha christie",
+        "miss marple",
+        "series"
       ],
-      "synopsis_short": "Crooked House",
+      "synopsis_short": "The Body in the Library",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 9.2324
+      "score": 7.6212
     },
     {
-      "id": "ol:/works/OL471789W",
-      "title": "The Secret Adversary",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/14590159-M.jpg",
+      "id": "ol:/works/OL137396W",
+      "title": "The Circular Staircase",
+      "author": "Mary Roberts Rinehart",
+      "cover_url": "https://covers.openlibrary.org/b/id/2761207-M.jpg",
       "subjects": [
         "classic literature",
-        "english language",
         "fiction",
-        "married people",
-        "murder",
-        "mystery",
-        "private investigators",
-        "problems, exercises"
+        "detective and mystery stories",
+        "innes, rachel (fictitious character), fiction",
+        "adirondack mountains (n.y.), fiction",
+        "fiction, suspense",
+        "large type books",
+        "open library staff picks"
       ],
-      "synopsis_short": "The Secret Adversary",
+      "synopsis_short": "The Circular Staircase",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 9.1073
+      "score": 6.7057
     },
     {
-      "id": "ol:/works/OL262496W",
-      "title": "A Study in Scarlet",
-      "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/13405534-M.jpg",
+      "id": "ol:/works/OL176081W",
+      "title": "The Law and the Lady",
+      "author": "Wilkie Collins, Camille de Cendrey, Jenny Bourne Taylor",
+      "cover_url": "https://covers.openlibrary.org/b/id/6396941-M.jpg",
       "subjects": [
-        "action & adventure fiction",
-        "aortic aneurysm",
-        "battle of maiwand",
-        "blessing and cursing",
-        "british and irish fiction (fictional works by one author)",
-        "children's fiction",
-        "classics",
-        "crime scenes"
+        "classic literature",
+        "fiction",
+        "mystery",
+        "women detectives",
+        "married women",
+        "investigation",
+        "social conditions",
+        "women"
       ],
-      "synopsis_short": "A Study in Scarlet",
+      "synopsis_short": "The Law and the Lady",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 8.2326
+      "score": 6.6987
     }
   ]
 }
