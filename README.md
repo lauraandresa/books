@@ -1,2 +1,2 @@
 # books
-Recomendaciones actualizadas de libros que te gustan
+Recomendaciones actualizadas de libros que te gustan. Importante sobre qué tipo de recomendación es esta: no es "la gente que leyó esto también leyó esto otro" (ese dato es propiedad de Goodreads/Amazon y no lo dan gratis, ni se puede sacar legalmente por scraping). Es recomendación por contenido: compara género, temática, autor y similitud del texto de la sinopsis entre tus libros favoritos y los candidatos nuevos, apoyándose también en la nota media y el nº de valoraciones públicas.
