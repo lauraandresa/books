@@ -150,6 +150,18 @@
       "year": 2026,
       "source": "nyt",
       "swiped_at": "2026-07-18T17:25:25.311Z"
+    },
+    {
+      "id": "nyt:9781338589016",
+      "title": "En llamas",
+      "author": "Suzanne Collins",
+      "subjects": [
+        "audio children's"
+      ],
+      "description": "The second book in the “Hunger Games” series. Read by Tatiana Maslany. 11 hours, 3 minutes unabridged.",
+      "year": 2026,
+      "source": "nyt",
+      "swiped_at": "2026-07-18T17:25:28.278Z"
     }
   ],
   "disliked": [],
