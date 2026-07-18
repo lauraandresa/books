@@ -1,4 +1,145 @@
 {
-  "generated_at": "2026-07-18T15:47:11.389662Z",
-  "items": []
+  "generated_at": "2026-07-18T16:15:03.357584Z",
+  "items": [
+    {
+      "id": "nyt:9780063204164",
+      "title": "Remarkably Bright Creatures",
+      "author": "Shelby Van Pelt",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063204164.jpg",
+      "subjects": [
+        "paperback trade fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "A widow working the night shift…",
+      "synopsis_full": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there; the basis of the movie.",
+      "source": "nyt",
+      "score": 0.0891
+    },
+    {
+      "id": "nyt:9781546126119",
+      "title": "Sleepless",
+      "author": "Gordon Korman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546126119.jpg",
+      "subjects": [
+        "children’s middle grade hardcover"
+      ],
+      "year": 2026,
+      "synopsis_short": "Five suburban tweens try to solve…",
+      "synopsis_full": "Five suburban tweens try to solve the mystery behind their insomnia. (Ages 8 to 12)",
+      "source": "nyt",
+      "score": 0.0729
+    },
+    {
+      "id": "nyt:9780593955970",
+      "title": "The Gate of the Feral Gods",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593955970.jpg",
+      "subjects": [
+        "hardcover fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The fourth book in the \"Dungeon…",
+      "synopsis_full": "The fourth book in the \"Dungeon Crawler Carl\" series. Obstacles abound on the fifth floor of the dungeon.",
+      "source": "nyt",
+      "score": 0.0689
+    },
+    {
+      "id": "nyt:9781668236512",
+      "title": "Theo of Golden",
+      "author": "Allen Levi",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668236512.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "A man travels to a small…",
+      "synopsis_full": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
+      "source": "nyt",
+      "score": 0.0657
+    },
+    {
+      "id": "nyt:9780385348768",
+      "title": "The Demon of Unrest: Abraham Lincoln & America’s Road to Civil War",
+      "author": "Erik Larson",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780385348768.jpg",
+      "subjects": [
+        "paperback nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The author of “The Splendid and…",
+      "synopsis_full": "The author of “The Splendid and the Vile” portrays the months between the election of Abraham Lincoln and the beginning of the Civil War.",
+      "source": "nyt",
+      "score": 0.0636
+    },
+    {
+      "id": "nyt:9783748087359",
+      "title": "The Gate of the Feral Gods",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9783748087359.jpg",
+      "subjects": [
+        "audio fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The fourth book in the \"Dungeon…",
+      "synopsis_full": "The fourth book in the \"Dungeon Crawler Carl\" series. Obstacles abound on the fifth floor of the dungeon. Read by Jeff Hays. 18 hours, 3 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.0633
+    },
+    {
+      "id": "nyt:9781668173107",
+      "title": "Theo of Golden",
+      "author": "Allen Levi",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668173107.jpg",
+      "subjects": [
+        "audio fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "A man travels to a small…",
+      "synopsis_full": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories. Read by David Morse. 13 hours, 12 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.0606
+    },
+    {
+      "id": "nyt:9781954118812",
+      "title": "The Calamity Club",
+      "author": "Kathryn Stockett",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781954118812.jpg",
+      "subjects": [
+        "hardcover fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "As things get tougher during the…",
+      "synopsis_full": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
+      "source": "nyt",
+      "score": 0.0572
+    },
+    {
+      "id": "nyt:9781954118829",
+      "title": "The Calamity Club",
+      "author": "Kathryn Stockett",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781954118829.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "As things get tougher during the…",
+      "synopsis_full": "As things get tougher during the Depression, several women look for ways to improve their circumstances.",
+      "source": "nyt",
+      "score": 0.0562
+    },
+    {
+      "id": "nyt:9781775293958",
+      "title": "The Score",
+      "author": "Elle Kennedy",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781775293958.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The third book in the Off-Campus…",
+      "synopsis_full": "The third book in the Off-Campus series. A brokenhearted senior resists the charms of a hockey star.",
+      "source": "nyt",
+      "score": 0.0558
+    }
+  ]
 }

@@ -1,202 +1,145 @@
 {
-  "generated_at": "2026-07-18T15:46:52.921570Z",
+  "generated_at": "2026-07-18T16:14:57.570779Z",
   "items": [
     {
-      "id": "ol:/works/OL23704103W",
-      "title": "A splash of rubies",
-      "author": "Virginia Coffman",
-      "cover_url": "https://covers.openlibrary.org/b/id/3695374-M.jpg",
+      "id": "gb:fP33EAAAQBAJ",
+      "title": "The Murder of Roger Ackroyd",
+      "author": "AGATHA CHRISTIE",
+      "cover_url": "http://books.google.com/books/content?id=fP33EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "subjects": [
-        "large type books",
-        "romani women",
         "fiction"
       ],
-      "year": 1999,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.2805
+      "year": 2024,
+      "synopsis_short": "Considered to be one of Agatha…",
+      "synopsis_full": "Considered to be one of Agatha Christie's greatest, and also most controversial mysteries, 'The Murder Of Roger Ackroyd' breaks the rules of traditional mystery. The peaceful English village of King’s Abbot is stunned. The widow Ferrars dies from an overdose of Veronal. Not twenty-four hours later, Roger Ackroyd—the man she had planned to marry—is murdered. It is a baffling case involving blackmail and death that taxes Hercule Poirot’s “little grey cells” before he reaches one of the most startling conclusions of his career. Librarian's note: the first fifteen novels in the Hercule Poirot series are 1) The Mysterious Affair at Styles, 1920; 2) The Murder on the Links, 1923; 3) The Murder of Roger Ackroyd, 1926; 4) The Big Four, 1927; 5) The Mystery of the Blue Train, 1928; 6) Peril at End House, 1932; 7) Lord Edgware Dies, 1933; 8) Murder on the Orient Express, 1934; 9) Three Act Tragedy, 1935; 10) Death in the Clouds, 1935; 11) The A.B.C. Murders, 1936; 12) Murder in Mesopotamia, 1936; 13) Cards on the Table, 1936; 14) Dumb Witness, 1937; and 15) Death on the Nile, 1937. These are just the novels; Poirot also appears in this period in a play, Black Coffee, 1930, and two collections of short stories, Poirot Investigates, 1924, and Murder in the Mews, 1937. Each novel, play and short story has its own entry on Goodreads.",
+      "source": "googlebooks",
+      "score": 2.8084
     },
     {
-      "id": "ol:/works/OL9265706W",
-      "title": "The Gypsy Chronicles",
-      "author": "Alison Mackie",
-      "cover_url": "https://covers.openlibrary.org/b/id/3364812-M.jpg",
+      "id": "gb:MRoMUV2kLZEC",
+      "title": "Mysteries",
+      "author": "Knut Hamsun",
+      "cover_url": "http://books.google.com/books/content?id=MRoMUV2kLZEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "subjects": [
-        "romani women",
-        "fiction",
-        "romanies",
-        "femmes tsiganes",
-        "romans, nouvelles",
-        "tsiganes"
+        "fiction"
       ],
-      "year": 2007,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.277
+      "year": 2001,
+      "synopsis_short": "The first complete English translation of…",
+      "synopsis_full": "The first complete English translation of the Nobel Prize-winner’s literary masterpiece A Penguin Classic Mysteries is the story of Johan Nilsen Nagel, a mysterious stranger who suddenly turns up in a small Norwegian town one summer—and just as suddenly disappears. Nagel is a complete outsider, a sort of modern Christ treated in a spirit of near parody. He condemns the politics and thought of the age, brings comfort to the “insulted and injured,” and gains the love of two women suggestive of the biblical Mary and Martha. But there is a sinister side of him: in his vest he carries a vial of prussic acid... The novel creates a powerful sense of Nagel's stream of thought, as he increasingly withdraws into the torture chamber of his own subconscious psyche. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,800 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.",
+      "source": "googlebooks",
+      "score": 1.6995
     },
     {
-      "id": "ol:/works/OL23918144W",
-      "title": "Romani women",
-      "author": "Svenka Savić, Aleksandra Izgarjan",
-      "cover_url": "",
+      "id": "gb:V5mdEAAAQBAJ",
+      "title": "Stories from the Pentamerone",
+      "author": "Giambattista Basile",
+      "cover_url": "http://books.google.com/books/content?id=V5mdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "subjects": [
-        "romanies",
-        "biography",
-        "romani women",
-        "history",
-        "women"
+        "fiction"
       ],
-      "year": 2002,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.2369
+      "year": 2022,
+      "synopsis_short": "Reproduction of the original.",
+      "synopsis_full": "Reproduction of the original.",
+      "source": "googlebooks",
+      "score": 1.6924
     },
     {
-      "id": "ol:/works/OL32703280W",
-      "title": "Le tremende",
-      "author": "Desconocido",
-      "cover_url": "",
+      "id": "gb:yZAfIKgahyEC",
+      "title": "The Skinner",
+      "author": "Neal Asher",
+      "cover_url": "http://books.google.com/books/content?id=yZAfIKgahyEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "subjects": [
-        "women musicians",
-        "biography",
-        "romani women",
-        "music",
-        "history and criticism"
+        "fiction"
+      ],
+      "year": 2004,
+      "synopsis_short": "Three unusual travelers arrive on the…",
+      "synopsis_full": "Three unusual travelers arrive on the remote ocean planet of Spatterjay, braving the perils of the world's voracious wildlife as they pursue their individual quests, unaware that their paths are about to converge as the palnet threatens to erupt into chaos.",
+      "source": "googlebooks",
+      "score": 1.6677
+    },
+    {
+      "id": "gb:vp4uDwAAQBAJ",
+      "title": "Al faro",
+      "author": "Virginia Woolf",
+      "cover_url": "http://books.google.com/books/content?id=vp4uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "subjects": [
+        "fiction"
       ],
       "year": 2017,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 2.7146
+      "synopsis_short": "Movida por la inquietud de explorar…",
+      "synopsis_full": "Movida por la inquietud de explorar el análisis de la conciencia en busca de una realidad más auténtica y esencial, Virginia Woolf (1882-1941) encontró en la amalgama de sentimientos, pensamientos y emociones que es la subjetividad el material idóneo para alumbrar una de las obras que sin duda más han contribuido a forjar la sensibilidad contemporánea. Basada en los recuerdos infantiles de los veranos que la autora pasó en la costa de Cornualles y centrada en la figura de una mujer, la señora Ramsay, \"Al faro\" (1927) gira en torno al tema de la inexorabilidad del paso del tiempo y a la contraposición entre el orden y el caos. Traducción de José Luis López Muñoz",
+      "source": "googlebooks",
+      "score": 1.6516
     },
     {
-      "id": "ol:/works/OL450063W",
-      "title": "Frankenstein; or, The Modern Prometheus",
-      "author": "Mary Shelley",
-      "cover_url": "https://covers.openlibrary.org/b/id/12356249-M.jpg",
+      "id": "gb:MEYoAQAAMAAJ",
+      "title": "The Good Earth",
+      "author": "Pearl Sydenstricker Buck",
+      "cover_url": "http://books.google.com/books/content?id=MEYoAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "subjects": [
-        "frankenstein (fictitious character)",
-        "frankenstein's monster (fictitious character)",
-        "fiction",
-        "victor frankenstein (fictitious character)",
-        "scientists",
-        "monsters",
-        "fiction, horror",
-        "frankenstein (fictitious character), fiction"
+        "fiction"
       ],
-      "year": 1818,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 1.7698
+      "year": 1992,
+      "synopsis_short": "Wang Lang, a simple peasant farmer,…",
+      "synopsis_full": "Wang Lang, a simple peasant farmer, takes as a wife a battered slave girl who becomes an indomitable, loyal woman. Working the land together, they prosper and increase their holdings, yet Wang eventually betrays his family and neglects the earth he had worshiped.",
+      "source": "googlebooks",
+      "score": 1.6469
     },
     {
-      "id": "ol:/works/OL66554W",
-      "title": "Pride and Prejudice",
+      "id": "gb:UrrTEQAAQBAJ",
+      "title": "Persuasion",
       "author": "Jane Austen",
-      "cover_url": "https://covers.openlibrary.org/b/id/14348537-M.jpg",
+      "cover_url": "http://books.google.com/books/content?id=UrrTEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "subjects": [
-        "fiction, romance, historical, regency",
-        "british and irish fiction (fictional works by one author)",
-        "brothers and sisters",
-        "courtship",
-        "drama",
-        "english fiction",
-        "english literature",
-        "families"
+        "fiction"
       ],
-      "year": 1813,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 1.7359
+      "year": 2026,
+      "synopsis_short": "Discover the timeless allure of love…",
+      "synopsis_full": "Discover the timeless allure of love and second chances with Jane Austen's Persuasion. Persuasion, Jane Austen's final completed novel, is a masterful exploration of hope, regret, and the enduring power of love. Set in the early 19th century, the story follows Anne Elliot, a woman of quiet dignity and intelligence, who once was persuaded to reject the love of her life, Captain Frederick Wentworth, due to societal pressures and her own doubts. Years later, circumstances bring them back into each other's lives, igniting a rekindling of feelings and challenging their perceptions of worth and happiness. Austen's keen insight into human nature and her sharp wit shine through as she examines themes of social class, personal growth, and the resilience of the human spirit. The novel's nuanced characters and elegant prose make it a compelling read that resonates across generations. Austen's portrayal of Anne's inner strength and the subtle critique of societal expectations elevate Persuasion beyond a simple romance, making it a profound reflection on the importance of authenticity and perseverance in love and life.Jane Austen (1775–1817) was an English novelist renowned for her keen social commentary and pioneering contributions to the romance genre. Her works, including Pride and Prejudice, Sense and Sensibility, and Emma, are celebrated for their wit, humor, and insightful depiction of early 19th-century English society. Austen's writing continues to captivate readers worldwide, admired for its timeless themes, memorable characters, and elegant style. Her legacy endures as one of the most influential authors in English literature, offering a window into her era while exploring universal human experiences.",
+      "source": "googlebooks",
+      "score": 1.645
     },
     {
-      "id": "ol:/works/OL24034W",
-      "title": "Treasure Island",
-      "author": "Robert Louis Stevenson",
-      "cover_url": "https://covers.openlibrary.org/b/id/13859660-M.jpg",
+      "id": "gb:EhSj9KDEPmwC",
+      "title": "The Odyssey of Homer",
+      "author": "Richmond Lattimore",
+      "cover_url": "http://books.google.com/books/content?id=EhSj9KDEPmwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "subjects": [
-        "fiction",
-        "treasure island (imaginary place)",
-        "treasure-trove",
-        "pirates",
-        "treasure troves",
-        "children's fiction",
-        "adventure and adventurers, fiction",
-        "pirates, fiction"
+        "fiction"
       ],
-      "year": 1880,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 1.7137
+      "year": 1967,
+      "synopsis_short": "The most eloquent translation of Homer's…",
+      "synopsis_full": "The most eloquent translation of Homer's Odyssey into modern English.",
+      "source": "googlebooks",
+      "score": 1.6443
     },
     {
-      "id": "ol:/works/OL53908W",
-      "title": "Adventures of Huckleberry Finn",
-      "author": "Mark Twain",
-      "cover_url": "https://covers.openlibrary.org/b/id/8157718-M.jpg",
+      "id": "gb:qvk6DwAAQBAJ",
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "cover_url": "http://books.google.com/books/content?id=qvk6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "subjects": [
-        "adventure and adventurers",
-        "adventure stories",
-        "american fiction (fictional works by one author)",
-        "american literature",
-        "boys",
-        "child and youth fiction",
-        "children's fiction",
-        "child witnesses"
+        "fiction"
       ],
-      "year": 1876,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 1.7127
+      "year": 2017,
+      "synopsis_short": "SENSE AND SENSIBILITY written by Jane…",
+      "synopsis_full": "SENSE AND SENSIBILITY written by Jane Austen with 41 illustrations by Hugh Thomson. When Elinor Dashwood's father dies, her family's finances are crippled. After the Dashwoods move to a cottage in Devonshire, Elinor's sister Marianne is torn between the handsome John Willoughby and the older Colonel Brandon. Meanwhile, Elinor's romantic hopes with Edward Ferrars are hindered due to his prior engagement. Both Elinor and Marianne strive for love while the circumstances in their lives constantly change.",
+      "source": "googlebooks",
+      "score": 1.6297
     },
     {
-      "id": "ol:/works/OL45089W",
-      "title": "Robinson Crusoe",
-      "author": "Daniel Defoe, J. J. Grandville, Petrus Borel, Les éditions du Rey, N. C. Wyeth",
-      "cover_url": "https://covers.openlibrary.org/b/id/368541-M.jpg",
+      "id": "gb:_DYNAQAAMAAJ",
+      "title": "The Face of Another",
+      "author": "Kōbō Abe",
+      "cover_url": "http://books.google.com/books/content?id=YMyBAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "subjects": [
-        "crusoe, robinson (fictitious character), fiction",
-        "british and irish fiction (fictional works by one author)",
-        "survival",
-        "fiction",
-        "dans la littérature",
-        "îles",
-        "islands",
-        "naufrages"
+        "fiction"
       ],
-      "year": 1686,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 1.7062
-    },
-    {
-      "id": "ol:/works/OL258902W",
-      "title": "Macbeth",
-      "author": "William Shakespeare",
-      "cover_url": "https://covers.openlibrary.org/b/id/872432-M.jpg",
-      "subjects": [
-        "drama",
-        "regicides",
-        "kings and rulers",
-        "texts",
-        "french-canadian dialect",
-        "scotland",
-        "kings",
-        "greed"
-      ],
-      "year": 1508,
-      "synopsis_short": "Sin sinopsis disponible.",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 1.7045
+      "year": 1992,
+      "synopsis_short": "The Japanese novelist Kobo Abe has…",
+      "synopsis_full": "The Japanese novelist Kobo Abe has often been compared to Kafka and this 1966 novel suggests an elegantly chilling postscript to The Metamorphosis. Abe's narrator is a scientist who has been hideously deformed in a laboratory accident, a man who has lost his face in a society where \"losing face\" is a synonym for humiliation. Alienated from his fellows, sexually rejected by his wife, the injured man painstakingly sets out to create a mask so perfect as to be undetectable. Yet once he achieves his goal, he realizes that he has not fashioned a disguise, but an alternate self -- a self that is capable of anything. The Face of Another is an intellectual horror story of the highest order.",
+      "source": "googlebooks",
+      "score": 1.6199
     }
   ]
 }
