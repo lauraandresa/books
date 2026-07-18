@@ -45,6 +45,32 @@
       "cover_url": "https://covers.openlibrary.org/b/id/9269909-M.jpg",
       "source": "openlibrary",
       "year": 2016
+    },
+    {
+      "id": "ol:/works/OL116250W",
+      "title": "Holes",
+      "author": "Louis Sachar",
+      "subjects": [
+        "newbery medal",
+        "fluch",
+        "amistad",
+        "fiction",
+        "homeless persons",
+        "junge",
+        "juvenile corrections",
+        "familie",
+        "treasure troves",
+        "treasure-trove",
+        "flucht",
+        "judicial error",
+        "buried treasure",
+        "open library staff picks",
+        "juvenile delinquency"
+      ],
+      "description": "",
+      "cover_url": "https://covers.openlibrary.org/b/id/19797-M.jpg",
+      "year": 1988,
+      "source": "openlibrary"
     }
   ],
   "liked": [
