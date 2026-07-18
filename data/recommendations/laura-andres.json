@@ -1,202 +1,205 @@
 {
-  "generated_at": "2026-07-18T12:44:32.202753Z",
+  "generated_at": "2026-07-18T13:58:18.750105Z",
   "items": [
     {
-      "id": "ol:/works/OL23797W",
-      "title": "The Riddle of the Sands",
-      "author": "Erskine Childers",
-      "cover_url": "https://covers.openlibrary.org/b/id/2293974-M.jpg",
-      "subjects": [
-        "great britain, fiction",
-        "fiction, action & adventure",
-        "fiction, thrillers, espionage",
-        "fiction, alternative history",
-        "fiction, sea stories",
-        "large type books",
-        "fiction",
-        "invasions"
-      ],
-      "synopsis_short": "The Riddle of the Sands",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 5.0392
-    },
-    {
-      "id": "ol:/works/OL176085W",
-      "title": "Armadale",
-      "author": "Wilkie Collins",
-      "cover_url": "https://covers.openlibrary.org/b/id/780215-M.jpg",
+      "id": "ol:/works/OL262421W",
+      "title": "The Adventures of Sherlock Holmes [12 stories]",
+      "author": "Arthur Conan Doyle",
+      "cover_url": "https://covers.openlibrary.org/b/id/6717853-M.jpg",
       "subjects": [
         "classic literature",
-        "fate and fatalism",
-        "fathers and sons",
-        "fiction",
-        "men",
-        "mystery",
-        "social life and customs",
-        "british and irish fiction (fictional works by one author)"
-      ],
-      "synopsis_short": "Armadale",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 4.9757
-    },
-    {
-      "id": "ol:/works/OL1992198W",
-      "title": "In Cold Blood",
-      "author": "Truman Capote",
-      "cover_url": "https://covers.openlibrary.org/b/id/228066-M.jpg",
-      "subjects": [
-        "true",
-        "crime",
         "murder",
         "mystery",
-        "cas, études de",
-        "meurtre",
-        "análisis de casos",
-        "asesinato"
+        "conclusions",
+        "amorality",
+        "anglo-saxons",
+        "apaces",
+        "aristocracy"
       ],
-      "synopsis_short": "In Cold Blood",
+      "synopsis_short": "The Adventures of Sherlock Holmes [12…",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 4.8908
+      "score": 3.3231
     },
     {
-      "id": "ol:/works/OL66513W",
-      "title": "Emma",
-      "author": "Jane Austen",
-      "cover_url": "https://covers.openlibrary.org/b/id/9278312-M.jpg",
+      "id": "ol:/works/OL8193416W",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "cover_url": "https://covers.openlibrary.org/b/id/14314858-M.jpg",
       "subjects": [
-        "social life and customs",
-        "mate selection",
+        "british and irish fiction (fictional works by one author)",
+        "conduct of life, fiction",
+        "fantasy fiction",
+        "appearance (philosophy)",
         "fiction",
-        "fathers and daughters",
-        "open_syllabus_project",
-        "historical fiction",
-        "female friendship",
-        "young women"
+        "conduct of life",
+        "youthfulness",
+        "portraits"
       ],
-      "synopsis_short": "Emma",
+      "synopsis_short": "The Picture of Dorian Gray",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 4.8476
+      "score": 3.3177
     },
     {
-      "id": "ol:/works/OL20334816W",
-      "title": "Bali sheng mu yuan =",
-      "author": "Victor Hugo",
-      "cover_url": "https://covers.openlibrary.org/b/id/8998413-M.jpg",
+      "id": "ol:/works/OL176086W",
+      "title": "Basil",
+      "author": "Wilkie Collins",
+      "cover_url": "https://covers.openlibrary.org/b/id/12968342-M.jpg",
       "subjects": [
-        "romani women",
-        "man-woman relationships",
-        "notre-dame de paris (cathedral)",
-        "priests",
-        "kyphosis",
         "fiction",
-        "patients",
-        "people with disabilities"
+        "fathers and sons",
+        "young men",
+        "revenge",
+        "inheritance and succession",
+        "psychology",
+        "classic literature",
+        "mystery"
       ],
-      "synopsis_short": "Bali sheng mu yuan =",
+      "synopsis_short": "Basil",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 4.839
+      "score": 3.3142
     },
     {
-      "id": "ol:/works/OL262438W",
-      "title": "The Sign of Four",
+      "id": "ol:/works/OL32466W",
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "cover_url": "https://covers.openlibrary.org/b/id/12875748-M.jpg",
+      "subjects": [
+        "children's fiction",
+        "toy and movable books",
+        "christmas, fiction",
+        "children's plays, english",
+        "christmas",
+        "drama",
+        "ghosts",
+        "plays"
+      ],
+      "synopsis_short": "A Christmas Carol",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.3121
+    },
+    {
+      "id": "ol:/works/OL10432709W",
+      "title": "Братья Карамазовы",
+      "author": "Fyodor Dostoyevsky",
+      "cover_url": "https://covers.openlibrary.org/b/id/8272336-M.jpg",
+      "subjects": [
+        "literature - classics / criticism",
+        "russian",
+        "literature: classics",
+        "classics",
+        "literary",
+        "19th century fiction",
+        "russian novel",
+        "crime and criminals"
+      ],
+      "synopsis_short": "Братья Карамазовы",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.3025
+    },
+    {
+      "id": "ol:/works/OL29983W",
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "cover_url": "https://covers.openlibrary.org/b/id/8775559-M.jpg",
+      "subjects": [
+        "romans",
+        "jeunes filles",
+        "soeurs",
+        "sisters",
+        "young women",
+        "fiction",
+        "fiction, women",
+        "young women, fiction"
+      ],
+      "synopsis_short": "Little Women",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.3016
+    },
+    {
+      "id": "ol:/works/OL38663W",
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "cover_url": "https://covers.openlibrary.org/b/id/12307847-M.jpg",
+      "subjects": [
+        "form:novella",
+        "genre:historical fiction",
+        "fiction",
+        "romance",
+        "degeneration",
+        "literature",
+        "description and travel",
+        "diaries"
+      ],
+      "synopsis_short": "Heart of Darkness",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.2976
+    },
+    {
+      "id": "ol:/works/OL85892W",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "cover_url": "https://covers.openlibrary.org/b/id/12216503-M.jpg",
+      "subjects": [
+        "english literature",
+        "fiction",
+        "horror",
+        "horror stories",
+        "horror tales",
+        "monsters",
+        "thriller",
+        "vampires"
+      ],
+      "synopsis_short": "Dracula",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 3.2778
+    },
+    {
+      "id": "ol:/works/OL262463W",
+      "title": "Memoirs of Sherlock Holmes [11 stories]",
       "author": "Arthur Conan Doyle",
-      "cover_url": "https://covers.openlibrary.org/b/id/9247987-M.jpg",
+      "cover_url": "https://covers.openlibrary.org/b/id/9246429-M.jpg",
       "subjects": [
         "crime & mystery",
-        "classic fiction",
-        "andamanese",
-        "arrow poisons",
-        "bloguns",
-        "convicts",
-        "crime & mystery fiction",
-        "crocodiles"
+        "catalepsy",
+        "amyl nitrate",
+        "suicide by hanging",
+        "broughams",
+        "ancestors",
+        "asphyxiation",
+        "blackmail"
       ],
-      "synopsis_short": "The Sign of Four",
+      "synopsis_short": "Memoirs of Sherlock Holmes [11 stories]",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 3.5442
+      "score": 3.2765
     },
     {
-      "id": "ol:/works/OL485498W",
-      "title": "The Rainbow Trail",
-      "author": "Zane Grey",
-      "cover_url": "https://covers.openlibrary.org/b/id/6555618-M.jpg",
+      "id": "ol:/works/OL8403727W",
+      "title": "The Hunchback of Notre Dame (Penguin Readers)",
+      "author": "Victor Hugo",
+      "cover_url": "https://covers.openlibrary.org/b/id/1289060-M.jpg",
       "subjects": [
-        "frontier and pioneer life",
-        "open library staff picks",
-        "fiction in english",
-        "fiction",
-        "classic literature",
-        "mormons",
-        "prisoners",
-        "murder"
+        "music",
+        "adaptations",
+        "juvenile fiction",
+        "kyphosis",
+        "patients",
+        "romani women",
+        "priests",
+        "history"
       ],
-      "synopsis_short": "The Rainbow Trail",
+      "synopsis_short": "The Hunchback of Notre Dame (Penguin…",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 3.3515
-    },
-    {
-      "id": "ol:/works/OL76501W",
-      "title": "Greenmantle",
-      "author": "John Buchan",
-      "cover_url": "https://covers.openlibrary.org/b/id/93023-M.jpg",
-      "subjects": [
-        "fiction, thrillers, espionage",
-        "hannay, richard (fictitious character), fiction",
-        "great britain, fiction",
-        "world war, 1914-1918, fiction",
-        "fiction, war & military",
-        "richard hannay (fictitious character)",
-        "world war, 1914-1918",
-        "literature"
-      ],
-      "synopsis_short": "Greenmantle",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3406
-    },
-    {
-      "id": "ol:/works/OL5808761W",
-      "title": "The Quiet Child",
-      "author": "Debra Salonen",
-      "cover_url": "https://covers.openlibrary.org/b/id/1187487-M.jpg",
-      "subjects": [
-        "fiction, romance, general",
-        "christmas stories",
-        "sisters",
-        "fiction",
-        "romani women"
-      ],
-      "synopsis_short": "The Quiet Child",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3368
-    },
-    {
-      "id": "ol:/works/OL76595W",
-      "title": "Prester John",
-      "author": "John Buchan",
-      "cover_url": "https://covers.openlibrary.org/b/id/5981967-M.jpg",
-      "subjects": [
-        "fiction",
-        "scots",
-        "clergy",
-        "zulu (african people)",
-        "viction",
-        "mystery",
-        "adventure stories",
-        "fiction, general"
-      ],
-      "synopsis_short": "Prester John",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 3.3307
+      "score": 3.2702
     }
   ]
 }
