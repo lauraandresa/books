@@ -474,7 +474,12 @@ async function doSearch(){
   }
 
   if(!results.length){
-    box.innerHTML = '<div class="empty-state">Sin resultados.</div>';
+    const errores = [];
+    if(olRes.status === 'rejected') errores.push('Open Library: ' + olRes.reason.message);
+    if(gbRes.status === 'rejected') errores.push('Google Books: ' + gbRes.reason.message);
+    box.innerHTML = errores.length
+      ? `<div class="empty-state">Sin resultados y hubo un problema de conexión:<br><b>${errores.map(escapeHtml).join('<br>')}</b><br>Prueba a recargar la página e intentarlo de nuevo.</div>`
+      : '<div class="empty-state">Sin resultados. Prueba con menos palabras (por ejemplo solo el título, sin el autor).</div>';
     return;
   }
   box.innerHTML = '';
