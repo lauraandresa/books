@@ -45,6 +45,32 @@
       "cover_url": "https://covers.openlibrary.org/b/id/9269909-M.jpg",
       "source": "openlibrary",
       "year": 2016
+    },
+    {
+      "id": "ol:/works/OL1833873W",
+      "title": "Le Mystère de la Chambre Jaune",
+      "author": "Gaston Leroux",
+      "subjects": [
+        "policier",
+        "rouletabille",
+        "fiction",
+        "fiction, mystery & detective, general",
+        "large type books",
+        "fiction, thrillers, suspense",
+        "romance literature",
+        "fiction, mystery & detective, collections & anthologies",
+        "journalists, fiction",
+        "classic literature",
+        "roman français",
+        "fiction, thrillers, general",
+        "lectures et morceaux choisis",
+        "rouletabille (personnage fictif)",
+        "romans"
+      ],
+      "description": "",
+      "cover_url": "https://covers.openlibrary.org/b/id/2132525-M.jpg",
+      "year": 1908,
+      "source": "openlibrary"
     }
   ],
   "liked": [
