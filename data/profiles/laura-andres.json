@@ -65,6 +65,24 @@
       "description": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
       "swiped_at": "2026-07-18T12:30:57.603Z"
+    },
+    {
+      "id": "ol:/works/OL471932W",
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "subjects": [
+        "detective fiction",
+        "mystery",
+        "murder",
+        "investigation",
+        "victim",
+        "private investigators",
+        "detective and mystery stories",
+        "fiction"
+      ],
+      "description": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "swiped_at": "2026-07-18T12:43:48.028Z"
     }
   ],
   "disliked": [],
