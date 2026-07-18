@@ -1,152 +1,145 @@
 {
-  "generated_at": "2026-07-18T17:08:09.657036Z",
+  "generated_at": "2026-07-18T17:26:14.948622Z",
   "items": [
     {
-      "id": "nyt:9781789392920",
-      "title": "Harry Potter And The Deathly Hallows (Full-Cast Edition)",
-      "author": "J.K. Rowling",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392920.jpg",
+      "id": "nyt:9780593294185",
+      "title": "Greenlights / Greenlights (Spanish Edition)",
+      "author": "Matthew McConaughey",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593294185.jpg",
       "subjects": [
-        "audio children's"
+        "audio nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "The seventh book in the Harry…",
-      "synopsis_full": "The seventh book in the Harry Potter series. Read by Hugh Laurie et al. 20 hours, 30 minutes unabridged.",
+      "synopsis_short": "The Academy Award-winning actor shares snippets…",
+      "synopsis_full": "The Academy Award-winning actor shares snippets from the diaries he kept over 35 years. Read by the author. 6 hours, 42 minutes unabridged.",
       "source": "nyt",
-      "score": 2.8345
+      "score": 1.7356
     },
     {
-      "id": "nyt:9781789392913",
-      "title": "Harry Potter And The Half-Blood Prince (Full-Cast Edition)",
-      "author": "J.K. Rowling",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392913.jpg",
+      "id": "nyt:9781668191569",
+      "title": "Take Me To Your Leader",
+      "author": "Neil deGrasse Tyson",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668191569.jpg",
       "subjects": [
-        "audio children's"
+        "audio nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "The sixth book in the Harry…",
-      "synopsis_full": "The sixth book in the Harry Potter series. Read by Hugh Laurie et al. 17 hours, 24 minutes unabridged.",
+      "synopsis_short": "The astrophysicist depicts what potential encounters…",
+      "synopsis_full": "The astrophysicist depicts what potential encounters with aliens from outer space might be like. Read by the author. 5 hours, 5 minutes unabridged.",
       "source": "nyt",
-      "score": 2.8284
+      "score": 1.7108
     },
     {
-      "id": "nyt:9781789392869",
-      "title": "Harry Potter And The Sorcerer’S Stone (Full-Cast Edition)",
-      "author": "J.K. Rowling",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392869.jpg",
+      "id": "nyt:9781797187266",
+      "title": "Don'T Believe Everything You Think",
+      "author": "Joseph Nguyen",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781797187266.jpg",
       "subjects": [
-        "audio children's"
+        "audio advice, how-to & misc"
       ],
       "year": 2026,
-      "synopsis_short": "A young wizard discovers his magical…",
-      "synopsis_full": "A young wizard discovers his magical heritage. Read by Hugh Laurie et al. 8 hours, 41 minutes unabridged.",
+      "synopsis_short": "Read by the author. 2 hours,…",
+      "synopsis_full": "Read by the author. 2 hours, 36 minutes unabridged.",
       "source": "nyt",
-      "score": 2.7837
+      "score": 0.1345
     },
     {
-      "id": "nyt:9781781102633",
-      "title": "Harry Potter y la piedra filosofal",
-      "author": "J.K. Rowling",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781781102633.jpg",
+      "id": "nyt:DBKACX0133915",
+      "title": "Can'T Hurt Me",
+      "author": "David Goggins",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/DBKACX0133915.jpg",
       "subjects": [
-        "audio children's"
+        "audio advice, how-to & misc"
       ],
       "year": 2026,
-      "synopsis_short": "A young wizard discovers his magical…",
-      "synopsis_full": "A young wizard discovers his magical heritage. Read by Jim Dale. 8 hours, 18 minutes unabridged.",
+      "synopsis_short": "Read by Adam Skolnick and the…",
+      "synopsis_full": "Read by Adam Skolnick and the author. 13 hours, 37 minutes unabridged.",
       "source": "nyt",
-      "score": 2.7054
+      "score": 0.1324
     },
     {
-      "id": "nyt:9781338589016",
-      "title": "En llamas",
-      "author": "Suzanne Collins",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338589016.jpg",
+      "id": "nyt:DBKACX0303323",
+      "title": "Montaña Eres Tú : Cómo Transformar el Autosabotaje en Automaestría / the Mountain Is You",
+      "author": "Brianna Wiest",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/DBKACX0303323.jpg",
       "subjects": [
-        "audio children's"
+        "audio advice, how-to & misc"
       ],
       "year": 2026,
-      "synopsis_short": "The second book in the “Hunger…",
-      "synopsis_full": "The second book in the “Hunger Games” series. Read by Tatiana Maslany. 11 hours, 3 minutes unabridged.",
+      "synopsis_short": "Read by Stacey Glemboski. 5 hours,…",
+      "synopsis_full": "Read by Stacey Glemboski. 5 hours, 44 minutes unabridged.",
       "source": "nyt",
-      "score": 1.6742
+      "score": 0.127
     },
     {
-      "id": "nyt:9781338589047",
-      "title": "Sinsajo (Edición Especial) / Mockingjay (Special Edition)",
-      "author": "Suzanne Collins",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338589047.jpg",
+      "id": "nyt:9781511305136",
+      "title": "How To Talk To Anyone",
+      "author": "Leil Lowndes",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781511305136.jpg",
       "subjects": [
-        "audio children's"
+        "audio advice, how-to & misc"
       ],
       "year": 2026,
-      "synopsis_short": "The third book in the “Hunger…",
-      "synopsis_full": "The third book in the “Hunger Games” series. Read by Tatiana Maslany. 11 hours, 19 minutes unabridged.",
+      "synopsis_short": "Read by Joyce Bean and the…",
+      "synopsis_full": "Read by Joyce Bean and the author. 8 hours, 59 minutes unabridged.",
       "source": "nyt",
-      "score": 1.6727
+      "score": 0.1264
     },
     {
-      "id": "nyt:9781338635201",
-      "title": "Balada de pájaros cantores y serpientes",
-      "author": "Suzanne Collins",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338635201.jpg",
+      "id": "nyt:9780062471253",
+      "title": "Rompe la barrera del NO",
+      "author": "Chris Voss with Tahl Raz",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062471253.jpg",
       "subjects": [
-        "audio children's"
+        "audio advice, how-to & misc"
       ],
       "year": 2026,
-      "synopsis_short": "A prequel to “The Hunger Games.”…",
-      "synopsis_full": "A prequel to “The Hunger Games.” Read by Santino Fontana. 16 hours, 16 minutes unabridged.",
+      "synopsis_short": "Read by Michael Kramer. 8 hours,…",
+      "synopsis_full": "Read by Michael Kramer. 8 hours, 7 minutes unabridged.",
       "source": "nyt",
-      "score": 1.6603
+      "score": 0.1141
     },
     {
-      "id": "nyt:9781338334906",
-      "title": "Los Juegos Del Hambre (Edición Especial) / the Hunger Games (Special Edition)",
-      "author": "Suzanne Collins",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338334906.jpg",
+      "id": "nyt:9798217170050",
+      "title": "Los cuatro acuerdos",
+      "author": "Don Miguel Ruiz with Janet Mills",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217170050.jpg",
       "subjects": [
-        "audio children's"
+        "audio advice, how-to & misc"
       ],
       "year": 2026,
-      "synopsis_short": "In a dystopia, a girl fights…",
-      "synopsis_full": "In a dystopia, a girl fights for survival on live TV. Read by Tatiana Maslany. 10 hours, 35 minutes unabridged.",
+      "synopsis_short": "Read by Peter Coyote. 2 hours,…",
+      "synopsis_full": "Read by Peter Coyote. 2 hours, 32 minutes unabridged.",
       "source": "nyt",
-      "score": 1.643
+      "score": 0.1124
     },
     {
-      "id": "ol:/works/OL21177W",
-      "title": "Wuthering Heights",
-      "author": "Emily Brontë",
-      "cover_url": "https://covers.openlibrary.org/b/id/12818862-M.jpg",
+      "id": "nyt:9780525556572",
+      "title": "Everything Is Tuberculosis",
+      "author": "John Green",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780525556572.jpg",
       "subjects": [
-        "form:novel",
-        "genre:tragedy",
-        "genre:gothic",
-        "british and irish fiction (fictional works by one author)",
-        "children's fiction",
-        "classic fiction",
-        "classic literature",
-        "country homes"
-      ],
-      "year": 1846,
-      "synopsis_short": "\"Catherine Earnshaw, semoga jiwamu mengembara sepanjang…",
-      "synopsis_full": "\"Catherine Earnshaw, semoga jiwamu mengembara sepanjang hidupku. Hantuilah diriku! Berubahlah dalam bentuk apa pun yang kau sukai, lalu rasukilah diriku, biarkan aku jadi gila karenanya!\" Heathcliff tergila-gila pada Catherine Earnshaw semenjak mereka baru saling mengenal. Hanya Catherine yang dapat membuat pria dingin itu menangis dan tertawa. Namun, Catherine ternyata lebih memilih Edgar Linton, bangsawan kaya yang menjadi saingan Heathcliff selama bertahun-tahun. Semuanya karena kelas sosial Heathcliff yang rendah, yang membuatnya tak pantas bersanding dengan Catherine. Heathcliff bersumpah tidak akan mati sebelum mengobrak-abrik hidup keduanya dan merenggut harta kekayaan mereka; mansion Wuthering Heights termasuk di antaranya. Dendam membuat Heathcliff menjadi pria tamak, serakah, dan tak berperasaan. Ia bahkan lebih mengerikan dari ular, lebih berbahaya dari binatang liar. Dan, itu semua karena satu hal: cinta. Namun dapatkah cintanya mengalahkan kegelapannya? Terlebih ketika Catherine tak mungkin bisa dimilikinya lagi. Wuthering Heights adalah karya yang paling banyak dibicarakan pada era Victoria di abad ke-19. Satu-satunya karya Emily Brontë ini menjadi pelopor genre roman baru, dengan atmosfer gelap, namun elegan. Sebuah kisah klasik yang tak pernah lekang oleh masa. [Mizan Publishing, Qanita, Sastra, Klasik, Roman, Novel, Terjemahan, Indonesia]",
-      "source": "openlibrary",
-      "score": 1.2698
-    },
-    {
-      "id": "nyt:9781338878929",
-      "title": "Harry Potter y la piedra filosofal",
-      "author": "J.K. Rowling",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
-      "subjects": [
-        "children’s & young adult series"
+        "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "A wizard hones his conjuring skills…",
-      "synopsis_full": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
+      "synopsis_short": "The author of “The Anthropocene Reviewed”…",
+      "synopsis_full": "The author of “The Anthropocene Reviewed” chronicles the fight against the deadly infectious disease tuberculosis.",
       "source": "nyt",
-      "score": 1.0999
+      "score": 0.0734
+    },
+    {
+      "id": "nyt:9781546135548",
+      "title": "Club de Las Canguro 23 - Dawn Se Va a California",
+      "author": "Ann M. Martin",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546135548.jpg",
+      "subjects": [
+        "graphic books and manga"
+      ],
+      "year": 2026,
+      "synopsis_short": "The 19th book in the Baby-Sitters…",
+      "synopsis_full": "The 19th book in the Baby-Sitters Club graphic novel series. Will Dawn leave Stoneybrook for California for good?",
+      "source": "nyt",
+      "score": 0.0725
     }
   ]
 }

@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-07-18T17:08:38.091122Z",
+  "generated_at": "2026-07-18T17:26:41.528519Z",
   "items": [
     {
-      "id": "nyt:9780063575080",
+      "id": "nyt:9780399588198",
+      "title": "Prohibido nacer",
+      "author": "Trevor Noah",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780399588198.jpg",
+      "subjects": [
+        "paperback nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "A memoir about growing up biracial…",
+      "synopsis_full": "A memoir about growing up biracial in apartheid South Africa by the former host of “The Daily Show.”",
+      "source": "nyt",
+      "score": 0.0727
+    },
+    {
+      "id": "nyt:9781501183065",
+      "title": "A Walk In The Park",
+      "author": "Kevin Fedarko",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781501183065.jpg",
+      "subjects": [
+        "paperback nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The author of “The Emerald Mile”…",
+      "synopsis_full": "The author of “The Emerald Mile” goes with a friend on a journey to hike the Grand Canyon from end to end.",
+      "source": "nyt",
+      "score": 0.0722
+    },
+    {
+      "id": "nyt:9780063419056",
+      "title": "Release Me",
+      "author": "Tahereh Mafi",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063419056.jpg",
+      "subjects": [
+        "young adult hardcover"
+      ],
+      "year": 2026,
+      "synopsis_short": "The romantic tension mounts between Rosabelle…",
+      "synopsis_full": "The romantic tension mounts between Rosabelle and James as the fight in the New Republic continues. (Ages 14 and up)",
+      "source": "nyt",
+      "score": 0.0695
+    },
+    {
+      "id": "nyt:9780063575011",
       "title": "Communion",
       "author": "JD Vance",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063575080.jpg",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063575011.jpg",
       "subjects": [
-        "audio nonfiction"
+        "combined print & e-book nonfiction"
       ],
       "year": 2026,
       "synopsis_short": "The vice president and author of…",
-      "synopsis_full": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life. Read by the author. 7 hours, 50 minutes unabridged.",
+      "synopsis_full": "The vice president and author of “Hillbilly Elegy” describes how he perceives his faith played a part in his work in public life.",
       "source": "nyt",
-      "score": 0.0536
+      "score": 0.0665
     },
     {
-      "id": "nyt:9780063446557",
-      "title": "Suicidal Empathy",
-      "author": "Gad Saad",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063446557.jpg",
+      "id": "nyt:9780143127741",
+      "title": "El cuerpo lleva la cuenta",
+      "author": "Bessel van der Kolk",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780143127741.jpg",
       "subjects": [
-        "audio nonfiction"
+        "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "The host of the podcast “The…",
-      "synopsis_full": "The host of the podcast “The Saad Truth” argues that what he considers misguided compassion is having a negative impact on society. Read by the author. 8 hours, 23 minutes unabridged.",
+      "synopsis_short": "How trauma affects the body and…",
+      "synopsis_full": "How trauma affects the body and mind, and innovative treatments for recovery.",
       "source": "nyt",
-      "score": 0.0516
+      "score": 0.0641
     },
     {
-      "id": "nyt:9781546176183",
-      "title": "Big Jim Believes",
-      "author": "Dav Pilkey",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546176183.jpg",
+      "id": "nyt:9780439023528",
+      "title": "Los Juegos Del Hambre (Edición Especial) / the Hunger Games (Special Edition)",
+      "author": "Suzanne Collins",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780439023528.jpg",
+      "subjects": [
+        "children’s & young adult series"
+      ],
+      "year": 2026,
+      "synopsis_short": "In a dystopia, a girl fights…",
+      "synopsis_full": "In a dystopia, a girl fights for survival on live TV. (Ages 12 and up)",
+      "source": "nyt",
+      "score": 0.0602
+    },
+    {
+      "id": "nyt:9781546129547",
+      "title": "La profecía",
+      "author": "Tui T. Sutherland",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546129547.jpg",
+      "subjects": [
+        "children’s & young adult series"
+      ],
+      "year": 2026,
+      "synopsis_short": "Only the five dragonets of destiny…",
+      "synopsis_full": "Only the five dragonets of destiny can unite the seven warring dragon tribes. (Ages 9 to 12)",
+      "source": "nyt",
+      "score": 0.06
+    },
+    {
+      "id": "nyt:9780593733318",
+      "title": "Extraños / Strangers. a Memoir of Marriage",
+      "author": "Belle Burden",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593733318.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "Burden retraces her marriage of 20…",
+      "synopsis_full": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward.",
+      "source": "nyt",
+      "score": 0.0597
+    },
+    {
+      "id": "nyt:9781975360542",
+      "title": "The Summer Hikaru Died, Vol. 1",
+      "author": "Mokumokuren",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781975360542.jpg",
       "subjects": [
         "graphic books and manga"
       ],
       "year": 2026,
-      "synopsis_short": "The 14th book in the Dog…",
-      "synopsis_full": "The 14th book in the Dog Man series. The Space Cuties From Space return and discover the city has changed.",
+      "synopsis_short": "Yoshiki suspects that the person that…",
+      "synopsis_full": "Yoshiki suspects that the person that came down from the mountains is not really his friend, Hikaru; translated by Ajani Oloye.",
       "source": "nyt",
-      "score": 0.0508
+      "score": 0.0592
     },
     {
-      "id": "nyt:9798350429084",
-      "title": "The Let Them Theory",
-      "author": "Mel Robbins",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798350429084.jpg",
+      "id": "nyt:9781665984775",
+      "title": "A Prince Among Pirates",
+      "author": "Katie Abdou",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781665984775.jpg",
       "subjects": [
-        "audio advice, how-to & misc"
+        "young adult hardcover"
       ],
       "year": 2026,
-      "synopsis_short": "Read by the author. 10 hours,…",
-      "synopsis_full": "Read by the author. 10 hours, 38 minutes unabridged.",
+      "synopsis_short": "In order to avoid an arranged…",
+      "synopsis_full": "In order to avoid an arranged marriage, Kit Davenport ends up aboard the Deliverance and meets the charismatic Captain Sharpe. (Ages 14 and up)",
       "source": "nyt",
-      "score": 0.0503
-    },
-    {
-      "id": "nyt:9780593829097",
-      "title": "The Anxious Generation",
-      "author": "Jonathan Haidt",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593829097.jpg",
-      "subjects": [
-        "audio nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "A look at the mental health…",
-      "synopsis_full": "A look at the mental health impacts that a phone-based life has on children. Read by Sean Pratt and the author. 10 hours, 33 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0502
-    },
-    {
-      "id": "nyt:9780593412701",
-      "title": "El cuerpo lleva la cuenta",
-      "author": "Bessel van der Kolk",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593412701.jpg",
-      "subjects": [
-        "audio nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "How trauma affects the body and…",
-      "synopsis_full": "How trauma affects the body and mind, and innovative treatments for recovery. Read by Sean Pratt. 16 hours, 17 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0491
-    },
-    {
-      "id": "nyt:9781622318643",
-      "title": "Las 48 Leyes del Poder",
-      "author": "Robert Greene",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781622318643.jpg",
-      "subjects": [
-        "audio advice, how-to & misc"
-      ],
-      "year": 2026,
-      "synopsis_short": "Read by Richard Poe. 23 hours,…",
-      "synopsis_full": "Read by Richard Poe. 23 hours, 6 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.048
-    },
-    {
-      "id": "nyt:9798217073443",
-      "title": "Extraños / Strangers. a Memoir of Marriage",
-      "author": "Belle Burden",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217073443.jpg",
-      "subjects": [
-        "audio nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "Burden retraces her marriage of 20…",
-      "synopsis_full": "Burden retraces her marriage of 20 years in search of clues to help shape her understanding about its demise and to find a way forward. Read by the author. 7 hours, 4 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0479
-    },
-    {
-      "id": "nyt:9780593613313",
-      "title": "Unreasonable Hospitality",
-      "author": "Will Guidara",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593613313.jpg",
-      "subjects": [
-        "audio advice, how-to & misc"
-      ],
-      "year": 2026,
-      "synopsis_short": "Read by the author. 8 hours,…",
-      "synopsis_full": "Read by the author. 8 hours, 37 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0452
-    },
-    {
-      "id": "nyt:9781524779269",
-      "title": "Hábitos atómicos. Edición Especial / Atomic Habits",
-      "author": "James Clear",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781524779269.jpg",
-      "subjects": [
-        "audio advice, how-to & misc"
-      ],
-      "year": 2026,
-      "synopsis_short": "Read by the author. 5 hours,…",
-      "synopsis_full": "Read by the author. 5 hours, 35 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0449
+      "score": 0.0587
     }
   ]
 }
