@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-07-18T16:39:57.253009Z",
+  "generated_at": "2026-07-18T16:47:05.375547Z",
   "items": [
     {
-      "id": "nyt:9781628860016",
-      "title": "The Housemaid'S Wedding",
-      "author": "Freida McFadden",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781628860016.jpg",
+      "id": "nyt:9781789392906",
+      "title": "Harry Potter And The Order Of The Phoenix (Full-Cast Edition)",
+      "author": "J.K. Rowling",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392906.jpg",
       "subjects": [
-        "paperback trade fiction"
+        "audio children's"
       ],
       "year": 2026,
-      "synopsis_short": "Someone may use deadly means to…",
-      "synopsis_full": "Someone may use deadly means to keep a wedding that is to take place in a few hours from happening.",
+      "synopsis_short": "The fifth book in the Harry…",
+      "synopsis_full": "The fifth book in the Harry Potter series. Read by Hugh Laurie et al. 26 hours, 39 minutes unabridged.",
       "source": "nyt",
-      "score": 0.0703
+      "score": 0.0352
     },
     {
-      "id": "nyt:DBKSKYH000298",
-      "title": "Revolution",
-      "author": "Eric Metaxas",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/DBKSKYH000298.jpg",
+      "id": "nyt:9781668648230",
+      "title": "The Land And Its People",
+      "author": "David Sedaris",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668648230.jpg",
       "subjects": [
         "audio nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "The author of “Martin Luther” and…",
-      "synopsis_full": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America. Read by the author. 26 hours, 47 minutes unabridged.",
+      "synopsis_short": "Essays on the passage of time,…",
+      "synopsis_full": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer. Read by the author. 7 hours, 26 minutes unabridged.",
       "source": "nyt",
-      "score": 0.0409
+      "score": 0.0346
     },
     {
-      "id": "nyt:9781631440885",
-      "title": "Revolution",
-      "author": "Eric Metaxas",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781631440885.jpg",
+      "id": "nyt:9781419782695",
+      "title": "Diario de Greg 1 - Un pringao total",
+      "author": "Jeff Kinney",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781419782695.jpg",
       "subjects": [
-        "combined print & e-book nonfiction"
+        "children’s & young adult series"
       ],
       "year": 2026,
-      "synopsis_short": "The author of “Martin Luther” and…",
-      "synopsis_full": "The author of “Martin Luther” and “Bonhoeffer” gives an account of the foundation of the United States of America.",
+      "synopsis_short": "The travails and challenges of adolescence.…",
+      "synopsis_full": "The travails and challenges of adolescence. (Ages 9 to 12)",
       "source": "nyt",
-      "score": 0.0408
+      "score": 0.0344
     },
     {
-      "id": "nyt:9781546151210",
-      "title": "Captain Underpants: The First Epic Manga",
-      "author": "Dav Pilkey",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546151210.jpg",
-      "subjects": [
-        "graphic books and manga"
-      ],
-      "year": 2026,
-      "synopsis_short": "Best friends George and Harold make…",
-      "synopsis_full": "Best friends George and Harold make a manga about their superhero creation.",
-      "source": "nyt",
-      "score": 0.0381
-    },
-    {
-      "id": "nyt:9781974763405",
-      "title": "Jujutsu Kaisen, Vol. 30",
-      "author": "Gege Akutami",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781974763405.jpg",
-      "subjects": [
-        "graphic books and manga"
-      ],
-      "year": 2026,
-      "synopsis_short": "In the final volume of this…",
-      "synopsis_full": "In the final volume of this series, will Itadori end the battle with Sukuna once and for all?",
-      "source": "nyt",
-      "score": 0.0341
-    },
-    {
-      "id": "nyt:9781984898456",
-      "title": "The Art Thief",
-      "author": "Michael Finkel",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781984898456.jpg",
-      "subjects": [
-        "paperback nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The author of “The Stranger in…",
-      "synopsis_full": "The author of “The Stranger in the Woods” tells the story of Stéphane Breitwieser, who stole art more than 200 times for the sake of admiring it.",
-      "source": "nyt",
-      "score": 0.0316
-    },
-    {
-      "id": "nyt:9781982181314",
-      "title": "The Greatest Sentence Ever Written",
-      "author": "Walter Isaacson",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781982181314.jpg",
-      "subjects": [
-        "combined print & e-book nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The historian and biographer examines the…",
-      "synopsis_full": "The historian and biographer examines the concepts of a statement found in the Declaration of Independence.",
-      "source": "nyt",
-      "score": 0.0287
-    },
-    {
-      "id": "nyt:9798217174072",
-      "title": "London Falling",
-      "author": "Patrick Radden Keefe",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217174072.jpg",
+      "id": "nyt:9781668113660",
+      "title": "Regime Change",
+      "author": "Maggie Haberman and Jonathan Swan",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668113660.jpg",
       "subjects": [
         "audio nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "The author of “Say Nothing” details…",
-      "synopsis_full": "The author of “Say Nothing” details the efforts by the parents of a 19-year-old Londoner to uncover the truth about his mysterious death and secret life. Read by the author. 13 hours unabridged.",
+      "synopsis_short": "Two White House correspondents for The…",
+      "synopsis_full": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term. Read by Robert Petkoff. 17 hours, 7 minutes unabridged.",
       "source": "nyt",
-      "score": 0.0284
+      "score": 0.0344
     },
     {
-      "id": "nyt:9780060959470",
-      "title": "Todo Sobre el Amor",
-      "author": "bell hooks",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780060959470.jpg",
+      "id": "nyt:9781668157350",
+      "title": "View From The East Wing",
+      "author": "Jill Biden",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668157350.jpg",
       "subjects": [
-        "paperback nonfiction"
+        "audio nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "The deceased feminist icon explores the…",
-      "synopsis_full": "The deceased feminist icon explores the causes of a polarized society and the meaning of love.",
+      "synopsis_short": "The former first lady recounts her…",
+      "synopsis_full": "The former first lady recounts her time in the White House, causes she championed and her simultaneous work as a community college professor. Read by the author. 7 hours, 42 minutes unabridged.",
       "source": "nyt",
-      "score": 0.0272
+      "score": 0.0343
     },
     {
-      "id": "nyt:9781250357915",
-      "title": "Investigators: Weather Or Not",
-      "author": "John Patrick Green",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250357915.jpg",
+      "id": "nyt:9781781102657",
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781781102657.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "The third book in the Harry…",
+      "synopsis_full": "The third book in the Harry Potter series. Read by Jim Dale. 11 hours, 49 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.0335
+    },
+    {
+      "id": "nyt:9798347108770",
+      "title": "Change Of Plans",
+      "author": "Sarah Dessen",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798347108770.jpg",
+      "subjects": [
+        "young adult hardcover"
+      ],
+      "year": 2026,
+      "synopsis_short": "The coming-of-age love story of a…",
+      "synopsis_full": "The coming-of-age love story of a girl named Finley, who goes on a last-minute trip with her distant mother. (Ages 12 and up)",
+      "source": "nyt",
+      "score": 0.0329
+    },
+    {
+      "id": "nyt:9781338762488",
+      "title": "First Crush",
+      "author": "Cassandra Calin",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338762488.jpg",
       "subjects": [
         "graphic books and manga"
       ],
       "year": 2026,
-      "synopsis_short": "Mango and Brash, along with some…",
-      "synopsis_full": "Mango and Brash, along with some feline agents, look into what is causing the rain to turn green and the city’s water supply to become milk.",
+      "synopsis_short": "The second book in the series…",
+      "synopsis_full": "The second book in the series “The New Girl.” Someone has feelings for Lia while she hopes to get the attention of Julien.",
       "source": "nyt",
-      "score": 0.027
+      "score": 0.0327
+    },
+    {
+      "id": "nyt:9781789392876",
+      "title": "Harry Potter And The Chamber Of Secrets (Full-Cast Edition)",
+      "author": "J.K. Rowling",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392876.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "The second book in the Harry…",
+      "synopsis_full": "The second book in the Harry Potter series. Read by Hugh Laurie et al. 9 hours, 37 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.0318
+    },
+    {
+      "id": "nyt:9798217234301",
+      "title": "Kpop Demon Hunters: The Movie In Comics",
+      "author": "based on the screenplay by Danya Jimenez, Hannah McMechan, Maggie Kang and Chris Appelhans",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217234301.jpg",
+      "subjects": [
+        "graphic books and manga"
+      ],
+      "year": 2026,
+      "synopsis_short": "An adaptation of the film.",
+      "synopsis_full": "An adaptation of the film.",
+      "source": "nyt",
+      "score": 0.0315
     }
   ]
 }
