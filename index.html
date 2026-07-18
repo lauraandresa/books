@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Estantería</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#F7F2E9">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#F7F2E9; --card:#FFFFFF; --ink:#2A2420; --muted:#8A7F6E; --faint:#B8AC97;
+    --accent:#2E4A3D; --like:#4C7A5D; --like-bg:#E7F0E9;
+    --dislike:#A24A3A; --dislike-bg:#F5E6E1;
+    --line:#E4DCC9;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:'Inter',-apple-system,sans-serif; padding-bottom:70px;
+    max-width:560px; margin-left:auto; margin-right:auto;
+  }
+  .serif{ font-family:'Lora', serif; }
+
+  header.top{ padding:20px 18px 10px; }
+  header.top h1{ font-family:'Lora'; font-size:22px; margin:0; font-weight:700; }
+  header.top p{ margin:4px 0 0; font-size:12.5px; color:var(--muted); }
+
+  nav.tabs{
+    display:flex; gap:6px; margin:14px 18px 18px; background:#EFE8D8; border-radius:12px; padding:4px;
+  }
+  nav.tabs button{
+    flex:1; border:none; background:transparent; padding:9px 6px; border-radius:9px;
+    font-family:'Inter'; font-size:12.5px; color:var(--muted); font-weight:500;
+  }
+  nav.tabs button.active{ background:var(--card); color:var(--accent); box-shadow:0 1px 3px rgba(0,0,0,.08); font-weight:600; }
+
+  .screen{ display:none; padding:0 18px; }
+  .screen.active{ display:block; }
+
+  /* ---- tarjetas de recomendación ---- */
+  .rec-list{ display:flex; flex-direction:column; gap:12px; }
+  .rec-card-wrap{ position:relative; overflow:hidden; border-radius:14px; }
+  .rec-bg{
+    position:absolute; inset:0; display:flex; align-items:center; padding:0 20px;
+    font-size:13px; font-weight:600; color:#fff;
+  }
+  .rec-bg.like{ background:var(--like); justify-content:flex-start; }
+  .rec-bg.dislike{ background:var(--dislike); justify-content:flex-end; }
+  .rec-card{
+    position:relative; display:flex; gap:12px; background:var(--card); border:1px solid var(--line);
+    border-radius:14px; padding:12px; touch-action:pan-y; will-change:transform;
+  }
+  .rec-card img.cover{ width:52px; height:76px; object-fit:cover; border-radius:6px; background:#EFE8D8; flex-shrink:0; }
+  .rec-card .cover-fallback{
+    width:52px; height:76px; border-radius:6px; background:#EFE8D8; flex-shrink:0;
+    display:flex; align-items:center; justify-content:center; font-size:20px; color:var(--faint);
+  }
+  .rec-info{ min-width:0; flex:1; }
+  .rec-info h3{ font-family:'Lora'; font-size:15px; margin:0 0 2px; font-weight:600; line-height:1.25; }
+  .rec-info .author{ font-size:12px; color:var(--muted); margin-bottom:4px; }
+  .rec-info .synopsis{ font-size:12.5px; color:var(--ink); opacity:.85; }
+  .rec-info .tap-hint{ font-size:10.5px; color:var(--faint); margin-top:4px; }
+
+  .empty-state{ text-align:center; padding:60px 20px; color:var(--muted); font-size:13px; line-height:1.6; }
+
+  /* ---- modal sinopsis completa / confirmación ---- */
+  .overlay{
+    position:fixed; inset:0; background:rgba(20,16,10,.5); display:none;
+    align-items:flex-end; justify-content:center; z-index:50;
+  }
+  .overlay.show{ display:flex; }
+  .sheet{
+    background:var(--card); border-radius:18px 18px 0 0; padding:22px 20px 28px; width:100%; max-width:560px;
+    max-height:80vh; overflow-y:auto;
+  }
+  .sheet h2{ font-family:'Lora'; font-size:19px; margin:0 0 4px; }
+  .sheet .author{ font-size:13px; color:var(--muted); margin-bottom:14px; }
+  .sheet .full-text{ font-size:14px; line-height:1.6; }
+  .sheet .tags{ display:flex; gap:6px; flex-wrap:wrap; margin-top:14px; }
+  .sheet .tag{ font-size:10.5px; padding:4px 9px; background:#EFE8D8; border-radius:12px; color:var(--muted); }
+  .sheet .actions{ display:flex; gap:10px; margin-top:20px; }
+  .sheet button{ flex:1; border:none; border-radius:10px; padding:12px; font-size:13.5px; font-weight:600; }
+  .btn-like{ background:var(--like); color:#fff; }
+  .btn-dislike{ background:var(--dislike); color:#fff; }
+  .btn-close{ background:#EFE8D8; color:var(--ink); }
+
+  .confirm-box p{ font-size:14px; line-height:1.6; }
+  .confirm-box b{ color:var(--dislike); }
+
+  /* ---- mis libros ---- */
+  .search-row{ display:flex; gap:8px; margin:14px 0; }
+  .search-row input{
+    flex:1; padding:11px 13px; border-radius:10px; border:1px solid var(--line); font-size:14px; background:var(--card);
+  }
+  .search-row button{ padding:0 16px; border-radius:10px; border:none; background:var(--accent); color:#fff; font-size:13px; }
+  .search-results{ display:flex; flex-direction:column; gap:8px; margin-bottom:22px; }
+  .search-item{ display:flex; gap:10px; align-items:center; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:9px; }
+  .search-item img, .search-item .cover-fallback{ width:36px; height:52px; border-radius:4px; object-fit:cover; background:#EFE8D8; }
+  .search-item .info{ flex:1; min-width:0; }
+  .search-item .info b{ font-size:12.5px; display:block; }
+  .search-item .info span{ font-size:11px; color:var(--muted); }
+  .search-item button{ border:none; background:var(--accent); color:#fff; border-radius:8px; padding:6px 10px; font-size:11px; white-space:nowrap; }
+  .search-item button.added{ background:var(--faint); }
+
+  .section-title{ font-family:'Lora'; font-size:15px; font-weight:600; margin:22px 0 10px; }
+  .seed-list, .history-list{ display:flex; flex-direction:column; gap:8px; }
+  .seed-item, .hist-item{ display:flex; align-items:center; gap:10px; background:var(--card); border:1px solid var(--line); border-radius:10px; padding:8px 10px; font-size:12.5px; }
+  .seed-item span, .hist-item span{ flex:1; }
+  .hist-item.dislike-tag{ border-left:3px solid var(--dislike); }
+  .hist-item.like-tag{ border-left:3px solid var(--like); }
+  .seed-item button{ border:none; background:transparent; color:var(--dislike); font-size:16px; }
+
+  /* ---- ajustes ---- */
+  .field{ margin:14px 0; }
+  .field label{ display:block; font-size:12px; color:var(--muted); margin-bottom:6px; }
+  .field input{ width:100%; padding:11px 13px; border-radius:10px; border:1px solid var(--line); font-size:14px; background:var(--card); }
+  .field small{ display:block; font-size:11px; color:var(--faint); margin-top:5px; line-height:1.5; }
+  .btn-primary{ width:100%; padding:13px; border:none; border-radius:10px; background:var(--accent); color:#fff; font-size:14px; font-weight:600; margin-top:6px; }
+  .btn-danger{ width:100%; padding:13px; border:none; border-radius:10px; background:var(--dislike-bg); color:var(--dislike); font-size:14px; font-weight:600; margin-top:26px; }
+  .status-msg{ font-size:12px; margin-top:10px; padding:9px 12px; border-radius:8px; }
+  .status-msg.ok{ background:var(--like-bg); color:var(--like); }
+  .status-msg.err{ background:var(--dislike-bg); color:var(--dislike); }
+
+  .loading{ text-align:center; padding:40px; color:var(--muted); font-size:13px; }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <h1>📚 Estantería</h1>
+  <p id="genUpdated">Recomendaciones actualizadas —</p>
+</header>
+
+<nav class="tabs">
+  <button class="active" data-screen="recs">Recomendaciones</button>
+  <button data-screen="mybooks">Mis libros</button>
+  <button data-screen="settings">Ajustes</button>
+</nav>
+
+<!-- ============ RECOMENDACIONES ============ -->
+<section class="screen active" id="screen-recs">
+  <div class="loading" id="recsLoading">Cargando recomendaciones…</div>
+  <div class="rec-list" id="recList"></div>
+</section>
+
+<!-- ============ MIS LIBROS ============ -->
+<section class="screen" id="screen-mybooks">
+  <div class="search-row">
+    <input id="searchInput" placeholder="Busca un libro o autor…" />
+    <button onclick="doSearch()">Buscar</button>
+  </div>
+  <div class="search-results" id="searchResults"></div>
+
+  <div class="section-title">Tus libros semilla</div>
+  <div class="seed-list" id="seedList"><div class="empty-state">Aún no has añadido ninguno.</div></div>
+
+  <div class="section-title">Historial (me gusta / no me gusta)</div>
+  <div class="history-list" id="historyList"></div>
+</section>
+
+<!-- ============ AJUSTES ============ -->
+<section class="screen" id="screen-settings">
+  <div class="field">
+    <label>Tu usuario de GitHub</label>
+    <input id="inputUsername" placeholder="p.ej. ana-garcia" />
+    <small>Se usa para guardar tus datos en <code>data/profiles/&lt;usuario&gt;.json</code>, separados de los demás.</small>
+  </div>
+  <div class="field">
+    <label>Token personal de GitHub (fine-grained, solo este repo, Contents: Read & write)</label>
+    <input id="inputToken" type="password" placeholder="github_pat_..." />
+    <small>Se guarda solo en este dispositivo (nunca se sube al repositorio). Créalo en GitHub → Settings → Developer settings → Fine-grained tokens.</small>
+  </div>
+  <button class="btn-primary" onclick="saveSettings()">Guardar ajustes</button>
+  <div id="settingsStatus"></div>
+
+  <button class="btn-danger" onclick="confirmClearHistory()">Limpiar todo mi historial</button>
+</section>
+
+<!-- ============ MODAL: sinopsis completa ============ -->
+<div class="overlay" id="detailOverlay">
+  <div class="sheet" id="detailSheet"></div>
+</div>
+
+<!-- ============ MODAL: confirmar no me gusta ============ -->
+<div class="overlay" id="confirmOverlay">
+  <div class="sheet confirm-box" id="confirmSheet"></div>
+</div>
+
+<script>
+const GH_API = 'https://api.github.com';
+
+function detectRepo(){
+  const host = location.hostname;
+  const owner = host.split('.')[0];
+  const parts = location.pathname.split('/').filter(Boolean);
+  const repo = parts[0] || '';
+  return { owner, repo };
+}
+
+function getSettings(){
+  return {
+    username: localStorage.getItem('br_username') || '',
+    token: localStorage.getItem('br_token') || '',
+  };
+}
+
+// ---------------------------------------------------------- GitHub API --
+async function ghRequest(path, opts={}){
+  const { token } = getSettings();
+  const { owner, repo } = detectRepo();
+  const res = await fetch(`${GH_API}/repos/${owner}/${repo}/contents/${path}`, {
+    ...opts,
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'Accept': 'application/vnd.github+json',
+      ...(opts.headers || {}),
+    },
+  });
+  return res;
+}
+
+function b64EncodeUtf8(str){ return btoa(unescape(encodeURIComponent(str))); }
+function b64DecodeUtf8(str){ return decodeURIComponent(escape(atob(str))); }
+
+async function ghGetFile(path){
+  const res = await ghRequest(path);
+  if(res.status === 404) return null;
+  if(!res.ok) throw new Error('No se pudo leer ' + path + ' (HTTP ' + res.status + ')');
+  const json = await res.json();
+  return { data: JSON.parse(b64DecodeUtf8(json.content)), sha: json.sha };
+}
+
+async function ghPutFile(path, obj, message){
+  const existing = await ghGetFile(path);
+  const body = {
+    message,
+    content: b64EncodeUtf8(JSON.stringify(obj, null, 2)),
+    branch: 'main',
+  };
+  if(existing) body.sha = existing.sha;
+  const res = await ghRequest(path, { method: 'PUT', body: JSON.stringify(body) });
+  if(!res.ok){
+    const errText = await res.text();
+    throw new Error('No se pudo guardar ' + path + ': ' + errText.slice(0,200));
+  }
+  return res.json();
+}
+
+async function getMyProfile(){
+  const { username } = getSettings();
+  if(!username) throw new Error('NO_USERNAME');
+  const existing = await ghGetFile(`data/profiles/${username}.json`);
+  return existing ? existing.data : { seed_books:[], liked:[], disliked:[], shown_ids:[] };
+}
+
+async function saveMyProfile(profile, message){
+  const { username } = getSettings();
+  await ghPutFile(`data/profiles/${username}.json`, profile, message);
+}
+
+// ------------------------------------------------------------ navegación --
+document.querySelectorAll('nav.tabs button').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    document.querySelectorAll('nav.tabs button').forEach(b=>b.classList.remove('active'));
+    document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('screen-'+btn.dataset.screen).classList.add('active');
+    if(btn.dataset.screen === 'mybooks') loadMyBooksScreen();
+  });
+});
+
+// ------------------------------------------------------------ recomendaciones --
+async function loadRecommendations(){
+  const { username } = getSettings();
+  const loading = document.getElementById('recsLoading');
+  const list = document.getElementById('recList');
+  list.innerHTML = '';
+
+  if(!username){
+    loading.textContent = 'Configura tu usuario en "Ajustes" primero.';
+    return;
+  }
+
+  try{
+    const res = await fetch(`./data/recommendations/${username}.json?cachebust=${Date.now()}`);
+    if(!res.ok){
+      loading.textContent = 'Aún no hay recomendaciones generadas para ti. Añade libros en "Mis libros" y espera al próximo cálculo semanal (o lánzalo a mano desde la pestaña Actions de GitHub).';
+      return;
+    }
+    const data = await res.json();
+    loading.style.display = 'none';
+    document.getElementById('genUpdated').textContent =
+      'Recomendaciones actualizadas — ' + new Date(data.generated_at).toLocaleDateString('es-ES');
+
+    if(!data.items || !data.items.length){
+      list.innerHTML = '<div class="empty-state">No hay recomendaciones todavía. Añade algunos libros que te gusten en "Mis libros".</div>';
+      return;
+    }
+    data.items.forEach(book => list.appendChild(buildRecCard(book)));
+  } catch(err){
+    console.error(err);
+    loading.textContent = 'No se pudieron cargar las recomendaciones.';
+  }
+}
+
+function buildRecCard(book){
+  const wrap = document.createElement('div');
+  wrap.className = 'rec-card-wrap';
+  wrap.innerHTML = `
+    <div class="rec-bg like">👍 Me gusta</div>
+    <div class="rec-bg dislike">No interesante 👎</div>
+    <div class="rec-card" data-id="${book.id}">
+      ${book.cover_url
+        ? `<img class="cover" src="${book.cover_url}" alt="">`
+        : `<div class="cover-fallback">📖</div>`}
+      <div class="rec-info">
+        <h3>${escapeHtml(book.title)}</h3>
+        <div class="author">${escapeHtml(book.author)}</div>
+        <div class="synopsis">${escapeHtml(book.synopsis_short)}</div>
+        <div class="tap-hint">Toca para ver más · desliza para valorar</div>
+      </div>
+    </div>
+  `;
+  const card = wrap.querySelector('.rec-card');
+  attachSwipe(card, wrap, book);
+  card.addEventListener('click', (e)=>{
+    if(card.dataset.dragged === '1'){ card.dataset.dragged = '0'; return; }
+    openDetail(book);
+  });
+  return wrap;
+}
+
+function escapeHtml(s){
+  const d = document.createElement('div');
+  d.textContent = s || '';
+  return d.innerHTML;
+}
+
+// ------------------------------------------------------------ swipe (estilo Gmail) --
+function attachSwipe(card, wrap, book){
+  let startX = 0, currentX = 0, dragging = false;
+
+  function onDown(e){
+    dragging = true;
+    startX = (e.touches ? e.touches[0].clientX : e.clientX);
+    card.style.transition = 'none';
+  }
+  function onMove(e){
+    if(!dragging) return;
+    const x = (e.touches ? e.touches[0].clientX : e.clientX);
+    currentX = x - startX;
+    if(Math.abs(currentX) > 8) card.dataset.dragged = '1';
+    card.style.transform = `translateX(${currentX}px) rotate(${currentX/20}deg)`;
+  }
+  function onUp(){
+    if(!dragging) return;
+    dragging = false;
+    card.style.transition = 'transform .25s ease';
+    const threshold = 90;
+    if(currentX > threshold){
+      card.style.transform = `translateX(600px) rotate(20deg)`;
+      setTimeout(()=> handleSwipe(book, 'like', wrap), 200);
+    } else if(currentX < -threshold){
+      card.style.transform = `translateX(0) rotate(0)`;
+      askDislikeConfirm(book, wrap);
+    } else {
+      card.style.transform = `translateX(0) rotate(0)`;
+    }
+    currentX = 0;
+  }
+
+  card.addEventListener('mousedown', onDown);
+  window.addEventListener('mousemove', onMove);
+  window.addEventListener('mouseup', onUp);
+  card.addEventListener('touchstart', onDown, {passive:true});
+  card.addEventListener('touchmove', onMove, {passive:true});
+  card.addEventListener('touchend', onUp);
+}
+
+function askDislikeConfirm(book, wrap){
+  const overlay = document.getElementById('confirmOverlay');
+  const sheet = document.getElementById('confirmSheet');
+  sheet.innerHTML = `
+    <h2>¿Marcar como no interesante?</h2>
+    <p>A partir de ahora, <b>${escapeHtml((book.subjects && book.subjects[0]) || 'este tipo de temática')}</b> y géneros parecidos a <b>${escapeHtml(book.title)}</b> contarán como negativo en tus futuras recomendaciones.</p>
+    <div class="actions">
+      <button class="btn-close" id="btnCancelDislike">Cancelar</button>
+      <button class="btn-dislike" id="btnConfirmDislike">Confirmar</button>
+    </div>
+  `;
+  overlay.classList.add('show');
+  document.getElementById('btnCancelDislike').onclick = ()=> overlay.classList.remove('show');
+  document.getElementById('btnConfirmDislike').onclick = ()=>{
+    overlay.classList.remove('show');
+    wrap.querySelector('.rec-card').style.transform = 'translateX(-600px) rotate(-20deg)';
+    setTimeout(()=> handleSwipe(book, 'dislike', wrap), 200);
+  };
+}
+
+async function handleSwipe(book, direction, wrap){
+  wrap.remove();
+  try{
+    const profile = await getMyProfile();
+    const entry = { id:book.id, title:book.title, author:book.author, subjects:book.subjects || [], description:book.synopsis_full || '', source:book.source, swiped_at:new Date().toISOString() };
+    if(direction === 'like') profile.liked.push(entry);
+    else profile.disliked.push(entry);
+    await saveMyProfile(profile, `${direction === 'like' ? 'Me gusta' : 'No me gusta'}: ${book.title}`);
+  } catch(err){
+    console.error(err);
+    alert('No se pudo guardar tu valoración. Revisa el token en Ajustes.\n' + err.message);
+  }
+}
+
+function openDetail(book){
+  const overlay = document.getElementById('detailOverlay');
+  const sheet = document.getElementById('detailSheet');
+  sheet.innerHTML = `
+    <h2>${escapeHtml(book.title)}</h2>
+    <div class="author">${escapeHtml(book.author)}</div>
+    <div class="full-text">${escapeHtml(book.synopsis_full)}</div>
+    <div class="tags">${(book.subjects||[]).map(s=>`<span class="tag">${escapeHtml(s)}</span>`).join('')}</div>
+    <div class="actions">
+      <button class="btn-close" id="btnCloseDetail">Cerrar</button>
+    </div>
+  `;
+  overlay.classList.add('show');
+  document.getElementById('btnCloseDetail').onclick = ()=> overlay.classList.remove('show');
+}
+document.getElementById('detailOverlay').addEventListener('click', (e)=>{
+  if(e.target.id === 'detailOverlay') e.currentTarget.classList.remove('show');
+});
+document.getElementById('confirmOverlay').addEventListener('click', (e)=>{
+  if(e.target.id === 'confirmOverlay') e.currentTarget.classList.remove('show');
+});
+
+// ------------------------------------------------------------ mis libros --
+async function doSearch(){
+  const q = document.getElementById('searchInput').value.trim();
+  if(!q) return;
+  const box = document.getElementById('searchResults');
+  box.innerHTML = '<div class="loading">Buscando…</div>';
+
+  const [olRes, gbRes] = await Promise.allSettled([
+    fetch(`https://openlibrary.org/search.json?q=${encodeURIComponent(q)}&limit=6&fields=key,title,author_name,subject,cover_i`).then(r=>r.json()),
+    fetch(`https://www.googleapis.com/books/v1/volumes?q=${encodeURIComponent(q)}&maxResults=6`).then(r=>r.json()),
+  ]);
+
+  const results = [];
+  if(olRes.status === 'fulfilled'){
+    (olRes.value.docs || []).forEach(d=>{
+      results.push({
+        id: 'ol:' + d.key, title: d.title, author: (d.author_name||['Desconocido']).join(', '),
+        subjects: (d.subject||[]).slice(0,15).map(s=>s.toLowerCase()),
+        description: '', cover_url: d.cover_i ? `https://covers.openlibrary.org/b/id/${d.cover_i}-M.jpg` : '',
+        source: 'openlibrary',
+      });
+    });
+  }
+  if(gbRes.status === 'fulfilled'){
+    (gbRes.value.items || []).forEach(it=>{
+      const vi = it.volumeInfo || {};
+      results.push({
+        id: 'gb:' + it.id, title: vi.title || 'Sin título', author: (vi.authors||['Desconocido']).join(', '),
+        subjects: (vi.categories||[]).map(s=>s.toLowerCase()),
+        description: vi.description || '', cover_url: (vi.imageLinks||{}).thumbnail || '',
+        source: 'googlebooks',
+      });
+    });
+  }
+
+  if(!results.length){
+    box.innerHTML = '<div class="empty-state">Sin resultados.</div>';
+    return;
+  }
+  box.innerHTML = '';
+  results.forEach(book=>{
+    const item = document.createElement('div');
+    item.className = 'search-item';
+    item.innerHTML = `
+      ${book.cover_url ? `<img src="${book.cover_url}">` : `<div class="cover-fallback">📖</div>`}
+      <div class="info"><b>${escapeHtml(book.title)}</b><span>${escapeHtml(book.author)}</span></div>
+      <button>+ Añadir</button>
+    `;
+    item.querySelector('button').addEventListener('click', async (e)=>{
+      e.target.textContent = '...';
+      try{
+        await addSeedBook(book);
+        e.target.textContent = 'Añadido ✓';
+        e.target.classList.add('added');
+      } catch(err){
+        alert('No se pudo añadir: ' + err.message);
+        e.target.textContent = '+ Añadir';
+      }
+    });
+    box.appendChild(item);
+  });
+}
+document.getElementById('searchInput').addEventListener('keydown', e=>{ if(e.key === 'Enter') doSearch(); });
+
+async function addSeedBook(book){
+  const profile = await getMyProfile();
+  if(profile.seed_books.find(b=>b.id === book.id)) return;
+  profile.seed_books.push(book);
+  await saveMyProfile(profile, `Añade libro semilla: ${book.title}`);
+}
+
+async function loadMyBooksScreen(){
+  const seedList = document.getElementById('seedList');
+  const historyList = document.getElementById('historyList');
+  seedList.innerHTML = '<div class="loading">Cargando…</div>';
+  historyList.innerHTML = '';
+  try{
+    const profile = await getMyProfile();
+
+    seedList.innerHTML = '';
+    if(!profile.seed_books.length){
+      seedList.innerHTML = '<div class="empty-state">Aún no has añadido ninguno.</div>';
+    } else {
+      profile.seed_books.forEach(b=>{
+        const row = document.createElement('div');
+        row.className = 'seed-item';
+        row.innerHTML = `<span>${escapeHtml(b.title)} — ${escapeHtml(b.author)}</span><button title="Quitar">✕</button>`;
+        row.querySelector('button').onclick = async ()=>{
+          const p = await getMyProfile();
+          p.seed_books = p.seed_books.filter(x=>x.id !== b.id);
+          await saveMyProfile(p, `Quita libro semilla: ${b.title}`);
+          loadMyBooksScreen();
+        };
+        seedList.appendChild(row);
+      });
+    }
+
+    const combined = [
+      ...profile.liked.map(b=>({...b, dir:'like'})),
+      ...profile.disliked.map(b=>({...b, dir:'dislike'})),
+    ].sort((a,b)=> new Date(b.swiped_at) - new Date(a.swiped_at));
+
+    if(!combined.length){
+      historyList.innerHTML = '<div class="empty-state">Todavía no has valorado ningún libro.</div>';
+    } else {
+      combined.forEach(b=>{
+        const row = document.createElement('div');
+        row.className = 'hist-item ' + (b.dir === 'like' ? 'like-tag' : 'dislike-tag');
+        row.innerHTML = `<span>${b.dir === 'like' ? '👍' : '👎'} ${escapeHtml(b.title)} — ${escapeHtml(b.author)}</span>`;
+        historyList.appendChild(row);
+      });
+    }
+  } catch(err){
+    seedList.innerHTML = `<div class="empty-state">No se pudo cargar. Revisa el token en Ajustes.<br>${escapeHtml(err.message)}</div>`;
+  }
+}
+
+// ------------------------------------------------------------ ajustes --
+function loadSettingsForm(){
+  const s = getSettings();
+  document.getElementById('inputUsername').value = s.username;
+  document.getElementById('inputToken').value = s.token;
+}
+
+function saveSettings(){
+  const username = document.getElementById('inputUsername').value.trim();
+  const token = document.getElementById('inputToken').value.trim();
+  localStorage.setItem('br_username', username);
+  localStorage.setItem('br_token', token);
+  const status = document.getElementById('settingsStatus');
+  status.className = 'status-msg ok';
+  status.textContent = 'Ajustes guardados en este dispositivo.';
+  loadRecommendations();
+}
+
+function confirmClearHistory(){
+  const overlay = document.getElementById('confirmOverlay');
+  const sheet = document.getElementById('confirmSheet');
+  sheet.innerHTML = `
+    <h2>¿Borrar todo tu historial?</h2>
+    <p>Se eliminarán tus <b>me gusta</b>, <b>no me gusta</b> y el registro de recomendaciones ya vistas. Tus libros semilla no se tocan. Esta acción no se puede deshacer.</p>
+    <div class="actions">
+      <button class="btn-close" id="btnCancelClear">Cancelar</button>
+      <button class="btn-dislike" id="btnConfirmClear">Borrar todo</button>
+    </div>
+  `;
+  overlay.classList.add('show');
+  document.getElementById('btnCancelClear').onclick = ()=> overlay.classList.remove('show');
+  document.getElementById('btnConfirmClear').onclick = async ()=>{
+    overlay.classList.remove('show');
+    try{
+      const profile = await getMyProfile();
+      profile.liked = []; profile.disliked = []; profile.shown_ids = [];
+      await saveMyProfile(profile, 'Limpia historial');
+      const status = document.getElementById('settingsStatus');
+      status.className = 'status-msg ok';
+      status.textContent = 'Historial borrado.';
+    } catch(err){
+      const status = document.getElementById('settingsStatus');
+      status.className = 'status-msg err';
+      status.textContent = 'Error: ' + err.message;
+    }
+  };
+}
+
+// ------------------------------------------------------------ init --
+loadSettingsForm();
+loadRecommendations();
+
+if('serviceWorker' in navigator){
+  window.addEventListener('load', ()=>{
+    navigator.serviceWorker.register('sw.js').catch(()=>{});
+  });
+}
+</script>
+</body>
+</html>
