@@ -1,31 +1,6 @@
 {
   "seed_books": [
     {
-      "id": "ol:/works/OL1914022W",
-      "title": "The Pillars of the Earth",
-      "author": "Ken Follett",
-      "subjects": [
-        "white ship",
-        "the anarchy",
-        "battle of lincoln",
-        "anglo-saxon law",
-        "suspense & thriller",
-        "epic fiction",
-        "suspense fiction",
-        "church and state",
-        "historical literature",
-        "church architecture",
-        "fiction",
-        "epic literature",
-        "historical fiction",
-        "history",
-        "monks"
-      ],
-      "description": "",
-      "cover_url": "https://covers.openlibrary.org/b/id/9269909-M.jpg",
-      "source": "openlibrary"
-    },
-    {
       "id": "ol:/works/OL471932W",
       "title": "The Murder of Roger Ackroyd",
       "author": "Agatha Christie",
