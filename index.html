@@ -64,7 +64,13 @@
   .rec-info h3{ font-family:'Lora'; font-size:15px; margin:0 0 2px; font-weight:600; line-height:1.25; }
   .rec-info .author{ font-size:12px; color:var(--muted); margin-bottom:4px; }
   .rec-info .synopsis{ font-size:12.5px; color:var(--ink); opacity:.85; }
-  .rec-info .tap-hint{ font-size:10.5px; color:var(--faint); margin-top:4px; }
+  .rec-info .tap-hint{ font-size:10.5px; color:var(--faint); margin-top:4px; display:flex; align-items:center; gap:4px; }
+  .rec-info .tap-hint .arrow-dislike{ color:var(--dislike); font-weight:700; }
+  .rec-info .tap-hint .arrow-like{ color:var(--like); font-weight:700; }
+  .rec-dismiss{
+    position:absolute; top:8px; right:8px; width:22px; height:22px; border-radius:50%;
+    border:none; background:#EFE8D8; color:var(--muted); font-size:12px; line-height:22px; text-align:center; padding:0;
+  }
 
   .empty-state{ text-align:center; padding:60px 20px; color:var(--muted); font-size:13px; line-height:1.6; }
 
@@ -113,7 +119,7 @@
   .seed-item span, .hist-item span{ flex:1; }
   .hist-item.dislike-tag{ border-left:3px solid var(--dislike); }
   .hist-item.like-tag{ border-left:3px solid var(--like); }
-  .seed-item button{ border:none; background:transparent; color:var(--dislike); font-size:16px; }
+  .seed-item button, .hist-item button{ border:none; background:transparent; color:var(--dislike); font-size:16px; flex-shrink:0; }
 
   /* ---- ajustes ---- */
   .field{ margin:14px 0; }
@@ -144,6 +150,10 @@
 
 <!-- ============ RECOMENDACIONES ============ -->
 <section class="screen active" id="screen-recs">
+  <nav class="tabs" id="recSubTabs" style="margin-top:4px;">
+    <button class="active" data-sub="main">Para ti</button>
+    <button data-sub="new">Novedades</button>
+  </nav>
   <div class="loading" id="recsLoading">Cargando recomendaciones…</div>
   <div class="rec-list" id="recList"></div>
 </section>
@@ -275,30 +285,47 @@ document.querySelectorAll('nav.tabs button').forEach(btn=>{
 });
 
 // ------------------------------------------------------------ recomendaciones --
+let currentRecTab = 'main';
+
+document.getElementById('recSubTabs').addEventListener('click', e=>{
+  const btn = e.target.closest('button');
+  if(!btn) return;
+  document.querySelectorAll('#recSubTabs button').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  currentRecTab = btn.dataset.sub;
+  loadRecommendations();
+});
+
 async function loadRecommendations(){
   const { username } = getSettings();
   const loading = document.getElementById('recsLoading');
   const list = document.getElementById('recList');
   list.innerHTML = '';
+  loading.style.display = 'block';
 
   if(!username){
     loading.textContent = 'Configura tu usuario en "Ajustes" primero.';
     return;
   }
 
+  const filename = currentRecTab === 'new' ? `${username}-nuevos` : username;
+
   try{
-    const res = await fetch(`./data/recommendations/${username}.json?cachebust=${Date.now()}`);
+    const res = await fetch(`./data/recommendations/${filename}.json?cachebust=${Date.now()}`);
     if(!res.ok){
-      loading.textContent = 'Aún no hay recomendaciones generadas para ti. Añade libros en "Mis libros" y espera al próximo cálculo semanal (o lánzalo a mano desde la pestaña Actions de GitHub).';
+      loading.textContent = currentRecTab === 'new'
+        ? 'Aún no hay novedades calculadas. Se generan en el mismo cálculo semanal que "Para ti".'
+        : 'Aún no hay recomendaciones generadas para ti. Añade libros en "Mis libros" y espera al próximo cálculo semanal (o lánzalo a mano desde la pestaña Actions de GitHub).';
       return;
     }
     const data = await res.json();
     loading.style.display = 'none';
     document.getElementById('genUpdated').textContent =
-      'Recomendaciones actualizadas — ' + new Date(data.generated_at).toLocaleDateString('es-ES');
+      (currentRecTab === 'new' ? 'Novedades actualizadas — ' : 'Recomendaciones actualizadas — ') +
+      new Date(data.generated_at).toLocaleDateString('es-ES');
 
     if(!data.items || !data.items.length){
-      list.innerHTML = '<div class="empty-state">No hay recomendaciones todavía. Añade algunos libros que te gusten en "Mis libros".</div>';
+      list.innerHTML = '<div class="empty-state">No hay libros todavía. Añade algunos que te gusten en "Mis libros".</div>';
       return;
     }
     data.items.forEach(book => list.appendChild(buildRecCard(book)));
@@ -315,19 +342,25 @@ function buildRecCard(book){
     <div class="rec-bg like">👍 Me gusta</div>
     <div class="rec-bg dislike">No interesante 👎</div>
     <div class="rec-card" data-id="${book.id}">
+      <button class="rec-dismiss" title="Ya lo he leído / no quiero valorarlo">✕</button>
       ${book.cover_url
         ? `<img class="cover" src="${book.cover_url}" alt="">`
         : `<div class="cover-fallback">📖</div>`}
       <div class="rec-info">
-        <h3>${escapeHtml(book.title)}</h3>
+        <h3>${escapeHtml(book.title)}${book.year ? ` <span style="color:var(--faint);font-weight:400;font-size:12px;">(${book.year})</span>` : ''}</h3>
         <div class="author">${escapeHtml(book.author)}</div>
         <div class="synopsis">${escapeHtml(book.synopsis_short)}</div>
-        <div class="tap-hint">Toca para ver más · desliza para valorar</div>
+        <div class="tap-hint"><span class="arrow-dislike">← no me gusta</span>&nbsp;·&nbsp;toca para ver más&nbsp;·&nbsp;<span class="arrow-like">me gusta →</span></div>
       </div>
     </div>
   `;
   const card = wrap.querySelector('.rec-card');
   attachSwipe(card, wrap, book);
+  card.querySelector('.rec-dismiss').addEventListener('click', (e)=>{
+    e.stopPropagation();
+    wrap.remove(); // solo se quita de la vista: no cuenta como me gusta ni no me gusta,
+                    // y ya está en shown_ids desde que se generó, así que no volverá a salir
+  });
   card.addEventListener('click', (e)=>{
     if(card.dataset.dragged === '1'){ card.dataset.dragged = '0'; return; }
     openDetail(book);
@@ -406,7 +439,7 @@ async function handleSwipe(book, direction, wrap){
   wrap.remove();
   try{
     const profile = await getMyProfile();
-    const entry = { id:book.id, title:book.title, author:book.author, subjects:book.subjects || [], description:book.synopsis_full || '', source:book.source, swiped_at:new Date().toISOString() };
+    const entry = { id:book.id, title:book.title, author:book.author, subjects:book.subjects || [], description:book.synopsis_full || '', year:book.year || null, source:book.source, swiped_at:new Date().toISOString() };
     if(direction === 'like') profile.liked.push(entry);
     else profile.disliked.push(entry);
     await saveMyProfile(profile, `${direction === 'like' ? 'Me gusta' : 'No me gusta'}: ${book.title}`);
@@ -446,7 +479,7 @@ async function doSearch(){
   box.innerHTML = '<div class="loading">Buscando…</div>';
 
   const [olRes, gbRes] = await Promise.allSettled([
-    fetch(`https://openlibrary.org/search.json?q=${encodeURIComponent(q)}&limit=6&fields=key,title,author_name,subject,cover_i`).then(r=>r.json()),
+    fetch(`https://openlibrary.org/search.json?q=${encodeURIComponent(q)}&limit=6&fields=key,title,author_name,subject,cover_i,first_publish_year`).then(r=>r.json()),
     fetch(`https://www.googleapis.com/books/v1/volumes?q=${encodeURIComponent(q)}&maxResults=6`).then(r=>r.json()),
   ]);
 
@@ -457,6 +490,7 @@ async function doSearch(){
         id: 'ol:' + d.key, title: d.title, author: (d.author_name||['Desconocido']).join(', '),
         subjects: (d.subject||[]).slice(0,15).map(s=>s.toLowerCase()),
         description: '', cover_url: d.cover_i ? `https://covers.openlibrary.org/b/id/${d.cover_i}-M.jpg` : '',
+        year: d.first_publish_year || null,
         source: 'openlibrary',
       });
     });
@@ -464,10 +498,12 @@ async function doSearch(){
   if(gbRes.status === 'fulfilled'){
     (gbRes.value.items || []).forEach(it=>{
       const vi = it.volumeInfo || {};
+      const yearMatch = (vi.publishedDate || '').match(/\d{4}/);
       results.push({
         id: 'gb:' + it.id, title: vi.title || 'Sin título', author: (vi.authors||['Desconocido']).join(', '),
         subjects: (vi.categories||[]).map(s=>s.toLowerCase()),
         description: vi.description || '', cover_url: (vi.imageLinks||{}).thumbnail || '',
+        year: yearMatch ? parseInt(yearMatch[0]) : null,
         source: 'googlebooks',
       });
     });
@@ -551,7 +587,20 @@ async function loadMyBooksScreen(){
       combined.forEach(b=>{
         const row = document.createElement('div');
         row.className = 'hist-item ' + (b.dir === 'like' ? 'like-tag' : 'dislike-tag');
-        row.innerHTML = `<span>${b.dir === 'like' ? '👍' : '👎'} ${escapeHtml(b.title)} — ${escapeHtml(b.author)}</span>`;
+        row.innerHTML = `<span>${b.dir === 'like' ? '👍' : '👎'} ${escapeHtml(b.title)} — ${escapeHtml(b.author)}</span><button title="Quitar, ya no contará">✕</button>`;
+        row.querySelector('button').onclick = async ()=>{
+          row.style.opacity = '.4';
+          try{
+            const p = await getMyProfile();
+            if(b.dir === 'like') p.liked = p.liked.filter(x=>x.id !== b.id);
+            else p.disliked = p.disliked.filter(x=>x.id !== b.id);
+            await saveMyProfile(p, `Quita del historial: ${b.title}`);
+            loadMyBooksScreen();
+          } catch(err){
+            alert('No se pudo quitar: ' + err.message);
+            row.style.opacity = '1';
+          }
+        };
         historyList.appendChild(row);
       });
     }
