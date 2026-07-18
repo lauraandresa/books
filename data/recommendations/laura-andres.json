@@ -1,145 +1,152 @@
 {
-  "generated_at": "2026-07-18T16:47:05.375547Z",
+  "generated_at": "2026-07-18T17:08:09.657036Z",
   "items": [
     {
-      "id": "nyt:9781789392906",
-      "title": "Harry Potter And The Order Of The Phoenix (Full-Cast Edition)",
+      "id": "nyt:9781789392920",
+      "title": "Harry Potter And The Deathly Hallows (Full-Cast Edition)",
       "author": "J.K. Rowling",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392906.jpg",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392920.jpg",
       "subjects": [
         "audio children's"
       ],
       "year": 2026,
-      "synopsis_short": "The fifth book in the Harry…",
-      "synopsis_full": "The fifth book in the Harry Potter series. Read by Hugh Laurie et al. 26 hours, 39 minutes unabridged.",
+      "synopsis_short": "The seventh book in the Harry…",
+      "synopsis_full": "The seventh book in the Harry Potter series. Read by Hugh Laurie et al. 20 hours, 30 minutes unabridged.",
       "source": "nyt",
-      "score": 0.0352
+      "score": 2.8345
     },
     {
-      "id": "nyt:9781668648230",
-      "title": "The Land And Its People",
-      "author": "David Sedaris",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668648230.jpg",
+      "id": "nyt:9781789392913",
+      "title": "Harry Potter And The Half-Blood Prince (Full-Cast Edition)",
+      "author": "J.K. Rowling",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392913.jpg",
       "subjects": [
-        "audio nonfiction"
+        "audio children's"
       ],
       "year": 2026,
-      "synopsis_short": "Essays on the passage of time,…",
-      "synopsis_full": "Essays on the passage of time, complicated relationships and some unexpected delights life has to offer. Read by the author. 7 hours, 26 minutes unabridged.",
+      "synopsis_short": "The sixth book in the Harry…",
+      "synopsis_full": "The sixth book in the Harry Potter series. Read by Hugh Laurie et al. 17 hours, 24 minutes unabridged.",
       "source": "nyt",
-      "score": 0.0346
+      "score": 2.8284
     },
     {
-      "id": "nyt:9781419782695",
-      "title": "Diario de Greg 1 - Un pringao total",
-      "author": "Jeff Kinney",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781419782695.jpg",
+      "id": "nyt:9781789392869",
+      "title": "Harry Potter And The Sorcerer’S Stone (Full-Cast Edition)",
+      "author": "J.K. Rowling",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392869.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "A young wizard discovers his magical…",
+      "synopsis_full": "A young wizard discovers his magical heritage. Read by Hugh Laurie et al. 8 hours, 41 minutes unabridged.",
+      "source": "nyt",
+      "score": 2.7837
+    },
+    {
+      "id": "nyt:9781781102633",
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781781102633.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "A young wizard discovers his magical…",
+      "synopsis_full": "A young wizard discovers his magical heritage. Read by Jim Dale. 8 hours, 18 minutes unabridged.",
+      "source": "nyt",
+      "score": 2.7054
+    },
+    {
+      "id": "nyt:9781338589016",
+      "title": "En llamas",
+      "author": "Suzanne Collins",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338589016.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "The second book in the “Hunger…",
+      "synopsis_full": "The second book in the “Hunger Games” series. Read by Tatiana Maslany. 11 hours, 3 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.6742
+    },
+    {
+      "id": "nyt:9781338589047",
+      "title": "Sinsajo (Edición Especial) / Mockingjay (Special Edition)",
+      "author": "Suzanne Collins",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338589047.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "The third book in the “Hunger…",
+      "synopsis_full": "The third book in the “Hunger Games” series. Read by Tatiana Maslany. 11 hours, 19 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.6727
+    },
+    {
+      "id": "nyt:9781338635201",
+      "title": "Balada de pájaros cantores y serpientes",
+      "author": "Suzanne Collins",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338635201.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "A prequel to “The Hunger Games.”…",
+      "synopsis_full": "A prequel to “The Hunger Games.” Read by Santino Fontana. 16 hours, 16 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.6603
+    },
+    {
+      "id": "nyt:9781338334906",
+      "title": "Los Juegos Del Hambre (Edición Especial) / the Hunger Games (Special Edition)",
+      "author": "Suzanne Collins",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338334906.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "In a dystopia, a girl fights…",
+      "synopsis_full": "In a dystopia, a girl fights for survival on live TV. Read by Tatiana Maslany. 10 hours, 35 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.643
+    },
+    {
+      "id": "ol:/works/OL21177W",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "cover_url": "https://covers.openlibrary.org/b/id/12818862-M.jpg",
+      "subjects": [
+        "form:novel",
+        "genre:tragedy",
+        "genre:gothic",
+        "british and irish fiction (fictional works by one author)",
+        "children's fiction",
+        "classic fiction",
+        "classic literature",
+        "country homes"
+      ],
+      "year": 1846,
+      "synopsis_short": "\"Catherine Earnshaw, semoga jiwamu mengembara sepanjang…",
+      "synopsis_full": "\"Catherine Earnshaw, semoga jiwamu mengembara sepanjang hidupku. Hantuilah diriku! Berubahlah dalam bentuk apa pun yang kau sukai, lalu rasukilah diriku, biarkan aku jadi gila karenanya!\" Heathcliff tergila-gila pada Catherine Earnshaw semenjak mereka baru saling mengenal. Hanya Catherine yang dapat membuat pria dingin itu menangis dan tertawa. Namun, Catherine ternyata lebih memilih Edgar Linton, bangsawan kaya yang menjadi saingan Heathcliff selama bertahun-tahun. Semuanya karena kelas sosial Heathcliff yang rendah, yang membuatnya tak pantas bersanding dengan Catherine. Heathcliff bersumpah tidak akan mati sebelum mengobrak-abrik hidup keduanya dan merenggut harta kekayaan mereka; mansion Wuthering Heights termasuk di antaranya. Dendam membuat Heathcliff menjadi pria tamak, serakah, dan tak berperasaan. Ia bahkan lebih mengerikan dari ular, lebih berbahaya dari binatang liar. Dan, itu semua karena satu hal: cinta. Namun dapatkah cintanya mengalahkan kegelapannya? Terlebih ketika Catherine tak mungkin bisa dimilikinya lagi. Wuthering Heights adalah karya yang paling banyak dibicarakan pada era Victoria di abad ke-19. Satu-satunya karya Emily Brontë ini menjadi pelopor genre roman baru, dengan atmosfer gelap, namun elegan. Sebuah kisah klasik yang tak pernah lekang oleh masa. [Mizan Publishing, Qanita, Sastra, Klasik, Roman, Novel, Terjemahan, Indonesia]",
+      "source": "openlibrary",
+      "score": 1.2698
+    },
+    {
+      "id": "nyt:9781338878929",
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338878929.jpg",
       "subjects": [
         "children’s & young adult series"
       ],
       "year": 2026,
-      "synopsis_short": "The travails and challenges of adolescence.…",
-      "synopsis_full": "The travails and challenges of adolescence. (Ages 9 to 12)",
+      "synopsis_short": "A wizard hones his conjuring skills…",
+      "synopsis_full": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
       "source": "nyt",
-      "score": 0.0344
-    },
-    {
-      "id": "nyt:9781668113660",
-      "title": "Regime Change",
-      "author": "Maggie Haberman and Jonathan Swan",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668113660.jpg",
-      "subjects": [
-        "audio nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "Two White House correspondents for The…",
-      "synopsis_full": "Two White House correspondents for The New York Times delve into the first year of President Trump's second term. Read by Robert Petkoff. 17 hours, 7 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0344
-    },
-    {
-      "id": "nyt:9781668157350",
-      "title": "View From The East Wing",
-      "author": "Jill Biden",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668157350.jpg",
-      "subjects": [
-        "audio nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The former first lady recounts her…",
-      "synopsis_full": "The former first lady recounts her time in the White House, causes she championed and her simultaneous work as a community college professor. Read by the author. 7 hours, 42 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0343
-    },
-    {
-      "id": "nyt:9781781102657",
-      "title": "Harry Potter y la piedra filosofal",
-      "author": "J.K. Rowling",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781781102657.jpg",
-      "subjects": [
-        "audio children's"
-      ],
-      "year": 2026,
-      "synopsis_short": "The third book in the Harry…",
-      "synopsis_full": "The third book in the Harry Potter series. Read by Jim Dale. 11 hours, 49 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0335
-    },
-    {
-      "id": "nyt:9798347108770",
-      "title": "Change Of Plans",
-      "author": "Sarah Dessen",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798347108770.jpg",
-      "subjects": [
-        "young adult hardcover"
-      ],
-      "year": 2026,
-      "synopsis_short": "The coming-of-age love story of a…",
-      "synopsis_full": "The coming-of-age love story of a girl named Finley, who goes on a last-minute trip with her distant mother. (Ages 12 and up)",
-      "source": "nyt",
-      "score": 0.0329
-    },
-    {
-      "id": "nyt:9781338762488",
-      "title": "First Crush",
-      "author": "Cassandra Calin",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338762488.jpg",
-      "subjects": [
-        "graphic books and manga"
-      ],
-      "year": 2026,
-      "synopsis_short": "The second book in the series…",
-      "synopsis_full": "The second book in the series “The New Girl.” Someone has feelings for Lia while she hopes to get the attention of Julien.",
-      "source": "nyt",
-      "score": 0.0327
-    },
-    {
-      "id": "nyt:9781789392876",
-      "title": "Harry Potter And The Chamber Of Secrets (Full-Cast Edition)",
-      "author": "J.K. Rowling",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781789392876.jpg",
-      "subjects": [
-        "audio children's"
-      ],
-      "year": 2026,
-      "synopsis_short": "The second book in the Harry…",
-      "synopsis_full": "The second book in the Harry Potter series. Read by Hugh Laurie et al. 9 hours, 37 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.0318
-    },
-    {
-      "id": "nyt:9798217234301",
-      "title": "Kpop Demon Hunters: The Movie In Comics",
-      "author": "based on the screenplay by Danya Jimenez, Hannah McMechan, Maggie Kang and Chris Appelhans",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217234301.jpg",
-      "subjects": [
-        "graphic books and manga"
-      ],
-      "year": 2026,
-      "synopsis_short": "An adaptation of the film.",
-      "synopsis_full": "An adaptation of the film.",
-      "source": "nyt",
-      "score": 0.0315
+      "score": 1.0999
     }
   ]
 }
