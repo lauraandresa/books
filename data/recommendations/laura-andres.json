@@ -1,143 +1,145 @@
 {
-  "generated_at": "2026-07-18T16:20:24.418254Z",
+  "generated_at": "2026-07-18T16:25:12.049385Z",
   "items": [
     {
-      "id": "gb:QwVWCgAAQBAJ",
-      "title": "Mark Twain's \"1601\"",
-      "author": "Mark Twain",
-      "cover_url": "http://books.google.com/books/content?id=QwVWCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "subjects": [
-        "fiction"
-      ],
-      "year": 1900,
-      "synopsis_short": "1601 was written during the summer…",
-      "synopsis_full": "1601 was written during the summer of 1876 when the Clemens family had retreated to Quarry Farm in Elmira County, New York. Here Mrs. Clemens enjoyed relief from social obligations, the children romped over the countryside, and Mark retired to his octagonal study, which, perched high on the hill, looked out upon the valley below. It was in the famous summer of 1876, too, that Mark was putting the finishing touches to Tom Sawyer. Before the close of the same year he had already begun work on ‘The Adventures of Huckleberry Finn’, published in 1885. It is interesting to note the use of the title, the “Duke of Bilgewater,” in Huck Finn when the “Duchess of Bilgewater” had already made her appearance in 1601. Sandwiched between his two great masterpieces, Tom Sawyer and Huck Finn, the writing of 1601 was indeed a strange interlude. During this prolific period Mark wrote many minor items, most of them rejected by Howells, and read extensively in one of his favorite books, Pepys’ Diary. Like many another writer Mark was captivated by Pepys’ style and spirit, and “he determined,” says Albert Bigelow Paine in his ‘Mark Twain, A Biography’, “to try his hand on an imaginary record of conversation and court manners of a bygone day, written in the phrase of the period. The result was ‘Fireside Conversation in the Time of Queen Elizabeth’, or as he later called it, ‘1601’. The ‘conversation’ recorded by a supposed Pepys of that period, was written with all the outspoken coarseness and nakedness of that rank day, when fireside sociabilities were limited only to the loosened fancy, vocabulary, and physical performance, and not by any bounds of convention.”",
-      "source": "googlebooks",
-      "score": 1.0866
-    },
-    {
-      "id": "nyt:9781250326997",
-      "title": "The Heirs",
-      "author": "Faridah Àbíké-Íyímídé",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250326997.jpg",
-      "subjects": [
-        "young adult hardcover"
-      ],
-      "year": 2026,
-      "synopsis_short": "The five adopted children of the…",
-      "synopsis_full": "The five adopted children of the billionaire Leontes Button are suspects in his murder. (Ages 14 to 18)",
-      "source": "nyt",
-      "score": 0.0641
-    },
-    {
-      "id": "nyt:9798888770207",
-      "title": "GACHIAKUTA 12",
-      "author": "Kei Urana",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798888770207.jpg",
-      "subjects": [
-        "graphic books and manga"
-      ],
-      "year": 2026,
-      "synopsis_short": "A boy who lives in a…",
-      "synopsis_full": "A boy who lives in a floating city is wrongfully accused of murder and exiled to an abyss filled with garbage and monsters.",
-      "source": "nyt",
-      "score": 0.058
-    },
-    {
-      "id": "nyt:9780593135228",
-      "title": "Project Hail Mary",
-      "author": "Andy Weir",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593135228.jpg",
+      "id": "nyt:9780063511637",
+      "title": "Whistler",
+      "author": "Ann Patchett",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063511637.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "Ryland Grace awakes from a long…",
-      "synopsis_full": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders; the basis of the movie.",
+      "synopsis_short": "Decades after their time together, a…",
+      "synopsis_full": "Decades after their time together, a woman reconnects with her stepfather and they look back at the directions their lives have taken.",
       "source": "nyt",
-      "score": 0.0525
+      "score": 0.0159
     },
     {
-      "id": "gb:svtYzgEACAAJ",
-      "title": "Don Quixote Annotated",
-      "author": "Migue D Cervantes",
-      "cover_url": "http://books.google.com/books/content?id=svtYzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "subjects": [],
-      "year": 2021,
-      "synopsis_short": "\"The Ingenious Gentleman Don Quixote of…",
-      "synopsis_full": "\"The Ingenious Gentleman Don Quixote of is a Spanish novel by Miguel de Cervantes. Published in two parts, in 1605 and 1615, Don Quixote is the most influential work of literature from the Spanish Golden Age and the entire Spanish literary canon. A founding work of Western literature, it is often labeled \"\"the first modern novel and is sometimes considered the best literary work ever written.The plot revolves around the adventures of a noble from La Mancha named Alonso Quixano, who reads so many chivalric romances that he loses his mind and decides to become a knight errant (caballero andante) to revive chivalry and serve his nation, under the name Don Quixote de la Mancha. He recruits a simple farmer, Sancho Panza, as his squire, who often employs a unique, earthy wit in dealing with Don Quixote's rhetorical monologues on knighthood, already considered old-fashioned at the time. Don Quixote, in the first part of the book, does not see the world for what it is and prefers to imagine that he is living out a knightly story.\"",
-      "source": "googlebooks",
-      "score": 0.0524
+      "id": "nyt:9780593853979",
+      "title": "Dolly All The Time",
+      "author": "Annabel Monaghan",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593853979.jpg",
+      "subjects": [
+        "paperback trade fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "When Dolly agrees to help Stewart…",
+      "synopsis_full": "When Dolly agrees to help Stewart after his public breakup, things might evolve into something more.",
+      "source": "nyt",
+      "score": 0.0116
     },
     {
-      "id": "nyt:9780593955994",
-      "title": "The Butcher's Masquerade",
-      "author": "Matt Dinniman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593955994.jpg",
+      "id": "nyt:9781638493457",
+      "title": "He Who Fights With Monsters, Book 1: Outworlder",
+      "author": "Travis Deverell",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781638493457.jpg",
       "subjects": [
         "hardcover fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The fifth book in the \"Dungeon…",
-      "synopsis_full": "The fifth book in the \"Dungeon Crawler Carl\" series. The action moves to the sixth floor, which is known as the Hunting Grounds.",
+      "synopsis_short": "A middle manager at an office…",
+      "synopsis_full": "A middle manager at an office supplies store becomes an interdimensional adventurer.",
       "source": "nyt",
-      "score": 0.0523
+      "score": 0.0059
     },
     {
-      "id": "nyt:9780345539809",
-      "title": "Red Rising (Deluxe Slipcase Edition)",
-      "author": "Pierce Brown",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780345539809.jpg",
-      "subjects": [
-        "paperback trade fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "Darrow, a member of the lowest…",
-      "synopsis_full": "Darrow, a member of the lowest rung of a society on Mars in the future, mixes in with humanity’s overlords in the hopes of taking them down.",
-      "source": "nyt",
-      "score": 0.0517
-    },
-    {
-      "id": "nyt:9798217116775",
-      "title": "A Good Girl's Guide to Murder",
-      "author": "Holly Jackson",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217116775.jpg",
-      "subjects": [
-        "children’s & young adult series"
-      ],
-      "year": 2026,
-      "synopsis_short": "Pippa Fitz-Amobi solves murderous crimes. (Ages…",
-      "synopsis_full": "Pippa Fitz-Amobi solves murderous crimes. (Ages 14 and up)",
-      "source": "nyt",
-      "score": 0.0511
-    },
-    {
-      "id": "nyt:9780316587587",
-      "title": "In the Wake of the Ruined",
-      "author": "Kalie Cassidy",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780316587587.jpg",
-      "subjects": [
-        "paperback trade fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The second book in the Siren…",
-      "synopsis_full": "The second book in the Siren Mage series. With her abilities exposed, Imogen faces new threats.",
-      "source": "nyt",
-      "score": 0.0503
-    },
-    {
-      "id": "nyt:9798347810307",
-      "title": "The Calamity Club",
-      "author": "Kathryn Stockett",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798347810307.jpg",
+      "id": "nyt:9780063511668",
+      "title": "Whistler",
+      "author": "Ann Patchett",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063511668.jpg",
       "subjects": [
         "audio fiction"
       ],
       "year": 2026,
-      "synopsis_short": "As things get tougher during the…",
-      "synopsis_full": "As things get tougher during the Depression, several women look for ways to improve their circumstances. Read by Jenna Lamia and January LaVoy. 28 hours, 44 minutes unabridged.",
+      "synopsis_short": "Decades after their time together, a…",
+      "synopsis_full": "Decades after their time together, a woman reconnects with her stepfather and they look back at the directions their lives have taken. Read by the author. 10 hours, 44 minutes unabridged.",
       "source": "nyt",
-      "score": 0.0494
+      "score": 0.0023
+    },
+    {
+      "id": "nyt:9780593158739",
+      "title": "Atmosphere",
+      "author": "Taylor Jenkins Reid",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593158739.jpg",
+      "subjects": [
+        "paperback trade fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "In the summer of 1980, Joan…",
+      "synopsis_full": "In the summer of 1980, Joan Goodwin begins training with a group of candidates for NASA’s space shuttle program.",
+      "source": "nyt",
+      "score": 0.0002
+    },
+    {
+      "id": "nyt:9780593296967",
+      "title": "1929",
+      "author": "Andrew Ross Sorkin",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593296967.jpg",
+      "subjects": [
+        "business"
+      ],
+      "year": 2026,
+      "synopsis_short": "#1 NEW YORK TIMES BESTSELLER “It…",
+      "synopsis_full": "#1 NEW YORK TIMES BESTSELLER “It is one of the best narrative histories I’ve read.” —The Wall Street Journal A New York Times Notable Book of 2025 • One of Barack Obama's Favorite Books of 2025 • Named a BEST BOOK OF 2025 by The Washington Post, TIME, The Economist, Air Mail, Bloomberg, Fast Company, Katie Couric Media, and History From the bestselling author of Too Big to Fail, “the definitive history of the 2008 banking crisis,” (The Atlantic) comes a riveting narrative of the most infamous stock market crash in history—one with ripple effects that still shape our society today. In 1929, the world watched in shock as the unstoppable Wall Street bull market went into a freefall, wiping out fortunes and igniting a depression that would reshape a generation. But behind the flashing ticker tapes and panicked traders, another drama unfolded—one of visionaries and fraudsters, titans and dreamers, euphoria and ruin. With unparalleled access to historical records and newly uncovered documents, New York Times bestselling author Andrew Ross Sorkin takes readers inside the chaos of the crash, behind the scenes of a raging battle between Wall Street and Washington and the larger-than-life characters whose ambition and naïveté in an endless boom led to disaster. The dizzying highs and brutal lows of this era eerily mirror today’s world—where markets soar, political tensions mount, and the fight over financial influence plays out once again. This is not just a story about money. 1929 is a tale of power, psychology, and the seductive illusion that this time is different. It’s about disregarded alarm bells, financiers who fell from grace, and skeptics who saw the crash coming—only to be dismissed until it was too late. Hailed as a landmark book, Too Big to Fail reimagined how financial crises are told. Now, with 1929, Sorkin delivers an immersive, electrifying account of the most pivotal market collapse of all time—with lessons that remain as urgent as ever. More than just a history, 1929 is a crucial blueprint for understanding the cycles of speculation, the forces that drive financial upheaval, and the warning signs we ignore at our peril.",
+      "source": "nyt",
+      "score": 0.0
+    },
+    {
+      "id": "nyt:9781338053807",
+      "title": "Restart",
+      "author": "Gordon Korman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781338053807.jpg",
+      "subjects": [
+        "middle grade paperback"
+      ],
+      "year": 2026,
+      "synopsis_short": "Chase does not remember falling off…",
+      "synopsis_full": "Chase does not remember falling off the roof, in fact he does not remember anything about himself, and when he gets back to middle school he begins to learn who he was through the reactions of the other kids--trouble is, he really is not sure he likes the Chase that is being revealed, but can he take the opportunity amnesia has provided and restart his life? - source not specified.",
+      "source": "nyt",
+      "score": 0.0
+    },
+    {
+      "id": "nyt:9781250423429",
+      "title": "Odder",
+      "author": "Katherine Applegate",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250423429.jpg",
+      "subjects": [
+        "middle grade paperback"
+      ],
+      "year": 2026,
+      "synopsis_short": "Odder spends her days off the…",
+      "synopsis_full": "Odder spends her days off the coast of central California, practicing her underwater acrobatics and spinning the quirky stories for which she's known. But when Odder comes face-to-face with a hungry great white shark, her life takes a dramatic turn, one that will challenge everything she believes about herself--and about the humans who hope to save her.",
+      "source": "nyt",
+      "score": 0.0
+    },
+    {
+      "id": "nyt:9781635864342",
+      "title": "What Can I Say?",
+      "author": "Catherine Newman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781635864342.jpg",
+      "subjects": [
+        "middle grade paperback"
+      ],
+      "year": 2026,
+      "synopsis_short": "Middle school is an essential time…",
+      "synopsis_full": "Middle school is an essential time to learn and practice social skills, including how to get along with others, talk about hard things, be an ally, and a good friend. In What Can I Say?,Catherine Newman, author of the bestseller How to Be a Person, provides supportive guidance and instruction to help kids establish or and maintain meaningful relationships and effective communication with friends, teachers, family members, and others in their communities. Talking the talk can be tricky, and every page of this super-useful book provides easy, accessible scripts and guidance on the right thing to say in all kinds of situations, from how to be inclusive, listen, give advice, argue, stick up for yourself, and ask for help to how to turn down a date, express sympathy, deal with offensive comments, respond to bullying, and be trustworthy. Humorous, graphic-style illustrations that play our familiar scenarios reenforce Newman's friendly, non-judgmental tone and her commitment to helping kids develop the skills to express themselves clearly while showing empathy, care, and generosity towards others.",
+      "source": "nyt",
+      "score": 0.0
+    },
+    {
+      "id": "nyt:9781250346797",
+      "title": "Every Exquisite Thing",
+      "author": "Laura Steven",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250346797.jpg",
+      "subjects": [
+        "young adult paperback"
+      ],
+      "year": 2026,
+      "synopsis_short": "A YA horror-thriller-romance retelling of The…",
+      "synopsis_full": "A YA horror-thriller-romance retelling of The Picture of Dorian Gray by the #1 New York Times bestselling author of Our Infinite Fates, with a never-before-seen bonus chapter! Penny Paxton is the daughter of an icon. Her supermodel mother has legions of adoring fans around the world, and Penny is ready to begin her journey to international adoration, starting with joining the elite Dorian Drama School. When Penny’s new mentor offers her an opportunity she cannot refuse, to have a portrait painted by a mysterious artist who can grant immortal beauty to all his subjects, Penny happily follows in the footsteps of Dorian’s most glittering alumni, knowing that stardom is sure to soon be hers. But when her trusted mentor is found murdered, Penny realises she’s made a terrible mistake – a sinister someone is using the uncanny portraits to kill off the subjects one by one. As more perfectly beautiful students start to fall, Penny knows her time is running out . . . A seductive and searing exploration of beauty, identity, and what the pursuit of perfection can truly cost.",
+      "source": "nyt",
+      "score": 0.0
     }
   ]
 }
