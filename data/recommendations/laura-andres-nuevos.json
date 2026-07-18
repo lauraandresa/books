@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-07-18T16:27:52.924416Z",
+  "generated_at": "2026-07-18T16:34:55.202254Z",
   "items": [
     {
-      "id": "nyt:9780316259187",
-      "title": "The Five-Star Weekend",
-      "author": "Elin Hilderbrand",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780316259187.jpg",
-      "subjects": [
-        "paperback trade fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "After a tragedy, a popular food…",
-      "synopsis_full": "After a tragedy, a popular food blogger brings friends from distinct times in her life to spend a weekend in Nantucket.",
-      "source": "nyt",
-      "score": 0.0001
-    },
-    {
-      "id": "nyt:9798350430479",
-      "title": "This Inevitable Ruin",
-      "author": "Matt Dinniman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798350430479.jpg",
-      "subjects": [
-        "audio fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The seventh book in the \"Dungeon…",
-      "synopsis_full": "The seventh book in the \"Dungeon Crawler Carl\" series. After becoming fully self-aware, the NPCs join the Faction Wars. Read by Jeff Hays and Travis Baldree. 28 hours, 40 minutes unabridged.",
-      "source": "nyt",
-      "score": -0.0011
-    },
-    {
-      "id": "nyt:9783748087328",
-      "title": "Dungeon Crawler Carl",
-      "author": "Matt Dinniman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9783748087328.jpg",
-      "subjects": [
-        "audio fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "A Coast Guard vet named Carl…",
-      "synopsis_full": "A Coast Guard vet named Carl and his ex-girlfriend’s cat, Princess Donut, are trapped in a fantasy dungeon. Read by Jeff Hays. 13 hours, 31 minutes unabridged.",
-      "source": "nyt",
-      "score": -0.0017
-    },
-    {
-      "id": "nyt:9780593600320",
-      "title": "Love You More",
-      "author": "Emily Giffin",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593600320.jpg",
+      "id": "nyt:9798217059959",
+      "title": "The Shampoo Effect",
+      "author": "Jenny Jackson",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217059959.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "Shortly after becoming engaged, Billie receives…",
-      "synopsis_full": "Shortly after becoming engaged, Billie receives a call from her first love that compels her to return to Wisconsin.",
+      "synopsis_short": "When Caroline Lash is pushed out…",
+      "synopsis_full": "When Caroline Lash is pushed out of a social circle in a small seaside town, she exposes secrets that rile up the residents.",
       "source": "nyt",
-      "score": -0.0025
+      "score": -0.0067
     },
     {
-      "id": "nyt:DBKADBL025354",
-      "title": "Prohibido enamorarse",
-      "author": "Elle Kennedy",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/DBKADBL025354.jpg",
+      "id": "nyt:9781603935470",
+      "title": "Proyecto Hail Mary",
+      "author": "Andy Weir",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781603935470.jpg",
       "subjects": [
         "audio fiction"
       ],
       "year": 2026,
-      "synopsis_short": "Hannah Wells makes a deal with…",
-      "synopsis_full": "Hannah Wells makes a deal with the captain of the college hockey team in exchange for tutoring him that may complicate their relationship. Read by Christian Fox and Lorelei Avalon. 12 hours, 25 minutes unabridged.",
+      "synopsis_short": "Ryland Grace awakes from a long…",
+      "synopsis_full": "Ryland Grace awakes from a long sleep alone and far from home, and the fate of humanity rests on his shoulders. Read by Ray Porter. 16 hours, 10 minutes unabridged.",
       "source": "nyt",
-      "score": -0.0086
+      "score": -0.0101
     },
     {
-      "id": "nyt:9781464277061",
-      "title": "Keeping 13",
-      "author": "Chloe Walsh",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781464277061.jpg",
+      "id": "nyt:9781665947145",
+      "title": "Nothing Like The Movies",
+      "author": "Lynn Painter",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781665947145.jpg",
+      "subjects": [
+        "young adult paperback"
+      ],
+      "year": 2026,
+      "synopsis_short": "Grieving from his father's death, Wes…",
+      "synopsis_full": "Grieving from his father's death, Wes breaks up with Liz, but is now determined to win her back with grand romantic gestures despite her resistance and the presence of a new guy friend, leading him to question if their relationship is truly over.",
+      "source": "nyt",
+      "score": -0.0146
+    },
+    {
+      "id": "nyt:9780307245328",
+      "title": "El ladrón del rayo",
+      "author": "Rick Riordan",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780307245328.jpg",
+      "subjects": [
+        "audio children's"
+      ],
+      "year": 2026,
+      "synopsis_short": "To prevent a war, Percy Jackson…",
+      "synopsis_full": "To prevent a war, Percy Jackson must find Zeus' stolen master lightning bolt. Read by Jesse Bernstein. 10 hours, 2 minutes unabridged.",
+      "source": "nyt",
+      "score": -0.0154
+    },
+    {
+      "id": "nyt:9781368051477",
+      "title": "El ladrón del rayo",
+      "author": "Rick Riordan",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781368051477.jpg",
       "subjects": [
         "children’s & young adult series"
       ],
       "year": 2026,
-      "synopsis_short": "In Ireland, friends at the private…",
-      "synopsis_full": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
+      "synopsis_short": "A boy battles mythological monsters. (Ages…",
+      "synopsis_full": "A boy battles mythological monsters. (Ages 9 to 12)",
       "source": "nyt",
-      "score": -0.0102
+      "score": -0.0155
     },
     {
-      "id": "nyt:9780062407801",
-      "title": "Rompe la barrera del NO",
-      "author": "Chris Voss with Tahl Raz",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062407801.jpg",
+      "id": "nyt:9780062563903",
+      "title": "The Unteachables",
+      "author": "Gordon Korman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062563903.jpg",
       "subjects": [
-        "business"
+        "middle grade paperback"
       ],
       "year": 2026,
-      "synopsis_short": "Summary of Never Split The Difference:…",
-      "synopsis_full": "Summary of Never Split The Difference: Negotiating As If Your Life Depended On It by Chris Voss and Tahl Raz ===================================================================== Chris Voss is a FBI negotiator with over two decades of experience working in the field, and a long second career teaching at Georgetown University and USC. In his book, Never Split the Difference: Negotiating As If Your Life Depended on It, Voss brings the reader right into the exhilarating world of crisis negotiations, starting each chapter with a thrilling case where he or one of his colleagues had to negotiate to save someone's life. His captivating accounts include kidnappings, hostage situations, and humorously a trip to the car dealership to haggle for a new truck. Interspersed between the actions, Voss delivers a lesson in each chapter explaining the principles and tactics he used to resolve each particular negotiation. He explains the psychology of his principles in easy to understand language, and makes them relate-able to our everyday lives by giving examples of exactly how they were applied by an average person in a situation at their job, in business dealing, or even when speaking to a telemarketer. Click for buy button more information about summary book of Never split the Difference. tag: never split the difference, never split the differnece, never split the differance, never split the difference by chris voss, never split the difference book, never split, chris voss, chris voss never split the difference, never split the difference by chris voss paperback, never split the difference by christopher voss and tahl raz, never split the difference by chris voss, chris voss negotiating as if your life, chris voss never split the difference, never split the difference book, never split the difference book",
+      "synopsis_short": "A hilarious new middle grade novel…",
+      "synopsis_full": "A hilarious new middle grade novel from beloved and bestselling author Gordon Korman about what happens when the worst class of kids in school is paired with the worst teacher—perfect for fans of Ms. Bixby’s Last Day. A good choice for summer reading or anytime! The Unteachables are a notorious class of misfits, delinquents, and academic train wrecks. Like Aldo, with anger management issues; Parker, who can’t read; Kiana, who doesn’t even belong in the class—or any class; and Elaine (rhymes with pain). The Unteachables have been removed from the student body and isolated in room 117. Their teacher is Mr. Zachary Kermit, the most burned-out teacher in all of Greenwich. He was once a rising star, but his career was shattered by a cheating scandal that still haunts him. After years of phoning it in, he is finally one year away from early retirement. But the superintendent has his own plans to torpedo that idea—and it involves assigning Mr. Kermit to the Unteachables. The Unteachables never thought they’d find a teacher who had a worse attitude than they did. And Mr. Kermit never thought he would actually care about teaching again. Over the course of a school year, though, room 117 will experience mayhem, destruction—and maybe even a shot at redemption.",
       "source": "nyt",
-      "score": -0.0126
+      "score": -0.0161
     },
     {
-      "id": "nyt:9781401997373",
-      "title": "The Freedom-Based Business Method",
-      "author": "Natalie Ellis",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781401997373.jpg",
+      "id": "nyt:9780544336261",
+      "title": "El Dador",
+      "author": "Lois Lowry",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780544336261.jpg",
       "subjects": [
-        "business"
+        "children’s & young adult series"
       ],
       "year": 2026,
-      "synopsis_short": "The host of Bossbabe shows you…",
-      "synopsis_full": "The host of Bossbabe shows you how to build a thriving, scalable small business that aligns with your values—anytime, anywhere. With the right business strategy, new and experienced entrepreneurs can achieve work-life balance and financial fulfillment. Are you tired of planning your life around your work? Does it feel like you can’t find the balance between working too much and focusing on everything else you care about? What if you could pivot your business so you could finally achieve true financial freedom and the time to focus on what matters most? Natalie Ellis, CEO of Bossbabe and host of the top-rated Bossbabe podcast, introduces a powerful operating system for scaling your business so it aligns with your values of freedom. In this clear step-by-step guide for running a successful business, Natalie will show you how to: Use her signature Alignment Audit to figure out what your big vision is and where to spend more (or less!) of your time Build a sales engine that will effortlessly bring in predictable revenue to fuel your entire business Plug in to the Audience Growth System to grow and nurture an engaged community Learn the secrets to successful delegation Whether you’re starting a side hustle from scratch or looking to break free from burnout, The Freedom-Based Business Method will guide you to create a thriving business so you can live life on your terms.",
+      "synopsis_short": "Exploring human connection in a post-apocalyptic…",
+      "synopsis_full": "Exploring human connection in a post-apocalyptic world. (Ages 12 to 18)",
       "source": "nyt",
-      "score": -0.0126
+      "score": -0.0164
     },
     {
-      "id": "nyt:9798217197453",
-      "title": "Romeo y Julieta",
-      "author": "Daniel Mason",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217197453.jpg",
+      "id": "nyt:9798217445820",
+      "title": "Gigantic",
+      "author": "Rob Biddulph",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217445820.jpg",
       "subjects": [
-        "hardcover fiction"
+        "children’s picture books"
       ],
       "year": 2026,
-      "synopsis_short": "When his wife accepts a visiting…",
-      "synopsis_full": "When his wife accepts a visiting professorship in Vermont, Miles encounters a story that may have more to it than seems at first glance.",
+      "synopsis_short": "A minuscule blue whale shows bravery…",
+      "synopsis_full": "A minuscule blue whale shows bravery despite his size. (Ages 3 to 7)",
       "source": "nyt",
-      "score": -0.013
+      "score": -0.0165
     },
     {
-      "id": "nyt:9780593652886",
-      "title": "The Creative Act",
-      "author": "Rick Rubin with Neil Strauss",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593652886.jpg",
+      "id": "nyt:9781626251700",
+      "title": "Adult Children Of Emotionally Immature Parents",
+      "author": "Lindsay C. Gibson",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781626251700.jpg",
       "subjects": [
-        "business"
+        "advice, how-to & miscellaneous"
       ],
       "year": 2026,
-      "synopsis_short": "The #1 New York Times bestseller.…",
-      "synopsis_full": "The #1 New York Times bestseller. \"A gorgeous and inspiring work of art on creation, creativity, the work of the artist. It will gladden the hearts of writers and artists everywhere, and get them working again with a new sense of meaning and direction. A stunning accomplishment.” —Anne Lamott From the legendary music producer, a master at helping people connect with the wellsprings of their creativity, comes a beautifully crafted book many years in the making that offers that same deep wisdom to all of us. “I set out to write a book about what to do to make a great work of art. Instead, it revealed itself to be a book on how to be.” —Rick Rubin Many famed music producers are known for a particular sound that has its day. Rick Rubin is known for something else: creating a space where artists of all different genres and traditions can home in on who they really are and what they really offer. He has made a practice of helping people transcend their self-imposed expectations in order to reconnect with a state of innocence from which the surprising becomes inevitable. Over the years, as he has thought deeply about where creativity comes from and where it doesn’t, he has learned that being an artist isn’t about your specific output, it’s about your relationship to the world. Creativity has a place in everyone’s life, and everyone can make that place larger. In fact, there are few more important responsibilities. The Creative Act is a beautiful and generous course of study that illuminates the path of the artist as a road we all can follow. It distills the wisdom gleaned from a lifetime’s work into a luminous reading experience that puts the power to create moments—and lifetimes—of exhilaration and transcendence within closer reach for all of us.",
+      "synopsis_short": "Was your parent difficult, immature, or…",
+      "synopsis_full": "Was your parent difficult, immature, or emotionally unavailable?If you grew up with an emotionally immature, unavailable, or selfi sh parent, you may have lingering feelings of anger, loneliness, betrayal, or abandonment. You may recall your childhood as a time when your emotional needs were not met, when your feelings were dismissed, or when you took on adult levels of responsibility in an effort to compensate for your parent's behavior. These wounds can be healed, and you can move forward in your life.In this breakthrough book, clinical psychologist Lindsay Gibson exposes the destructive nature of parents who are emotionally immature or unavailable. You will see how these parents create a sense of neglect, and discover ways to heal from the pain and confusion caused by your childhood. By freeing yourself from your parents' emotional immaturity, you can recover your true nature, control how you react to them, and avoid disappointment. Finally, you'll learn how to create positive, new relationships so you can build a better life.Discover the four types of diffi cult parents:- THE EMOTIONAL PARENT -instills feelings of instability and anxiety- THE DRIVEN PARENT -stays busy trying to perfect everything and everyone- THE PASSIVE PARENT -avoids dealing with anything upsetting- THE REJECTING PARENT -is withdrawn, dismissive, and derogatory",
       "source": "nyt",
-      "score": -0.0131
+      "score": -0.0167
+    },
+    {
+      "id": "nyt:9780142426425",
+      "title": "Fish In A Tree",
+      "author": "Lynda Mullaly Hunt",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780142426425.jpg",
+      "subjects": [
+        "middle grade paperback"
+      ],
+      "year": 2026,
+      "synopsis_short": "A New York Times Bestseller •…",
+      "synopsis_full": "A New York Times Bestseller • An emotionally-charged, uplifting novel that will speak to anyone who’s ever thought there was something wrong with them because they didn’t fit in. \"Fans of R.J. Palacio’s Wonder will appreciate this feel-good story of friendship and unconventional smarts.” —Kirkus Reviews “Everybody is smart in different ways. But if you judge a fish by its ability to climb a tree, it will live its life believing it is stupid.” Ally has been smart enough to fool a lot of smart people. Every time she lands in a new school, she is able to hide her inability to read by creating clever yet disruptive distractions. She is afraid to ask for help; after all, how can you cure dumb? However, her newest teacher Mr. Daniels sees the bright, creative kid underneath the trouble maker. With his help, Ally learns not to be so hard on herself and that dyslexia is nothing to be ashamed of. As her confidence grows, Ally feels free to be herself and the world starts opening up with possibilities. She discovers that there’s a lot more to her—and to everyone—than a label, and that great minds don’t always think alike. Schneider Family Book Award • ALA Notable • Global Read-Aloud Selection • Crystal Kite Nerdy Book Award",
+      "source": "nyt",
+      "score": -0.0168
     }
   ]
 }
