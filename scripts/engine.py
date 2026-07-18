@@ -2,24 +2,25 @@
 """
 Motor de recomendación de libros.
 
-Para cada archivo data/profiles/<usuario>.json:
-  1. Construye un "perfil positivo" (materias/autores de los libros que le
-     gustan) y un "perfil negativo" (de los que no).
-  2. Busca candidatos nuevos: novedades/más vendidos (NYT) + libros
-     recientes en las materias que más le gustan (Open Library / Google
-     Books).
-  3. Puntúa cada candidato por similitud de contenido (materias, autor,
-     texto de la sinopsis) y por señales públicas de popularidad (nº de
-     valoraciones, nota media) — NO es recomendación colaborativa
-     ("la gente que leyó esto también leyó"), porque esa información no
-     está disponible de forma gratuita y legal en ningún sitio (ver
-     README).
-  4. Escribe el top 10 en data/recommendations/<usuario>.json
+Para cada archivo data/profiles/<usuario>.json genera DOS listas:
 
-Fuentes usadas, todas gratuitas y dentro de sus términos de uso:
+  1. data/recommendations/<usuario>.json        -> top 10 "para ti"
+     (puntuado por similitud de contenido + época + popularidad pública)
+  2. data/recommendations/<usuario>-nuevos.json  -> top 10 "novedades"
+     (libros publicados en las últimas ~5 semanas que encajan con tu
+     gusto, sin exigir valoraciones porque son demasiado recientes para
+     tenerlas)
+
+No es recomendación colaborativa ("la gente que leyó esto también leyó
+esto otro") — esa información es propiedad de Goodreads/Amazon y no existe
+de forma gratuita y legal en ningún sitio (ver README). Es recomendación
+por contenido: materias, autor, época de publicación y similitud del
+texto de la sinopsis, con la nota media / nº de valoraciones públicas como
+señal extra de popularidad.
+
+Fuentes, todas gratuitas y dentro de sus términos de uso:
   - Open Library API   (sin clave)
-  - Google Books API   (sin clave, límite bajo sin clave; se puede añadir
-                         GOOGLE_BOOKS_API_KEY como secreto del repo)
+  - Google Books API   (sin clave; opcional GOOGLE_BOOKS_API_KEY para más cuota)
   - NYT Books API       (clave gratuita obligatoria: NYT_API_KEY)
 """
 import json
@@ -42,6 +43,8 @@ GOOGLE_BOOKS_API_KEY = os.environ.get("GOOGLE_BOOKS_API_KEY", "").strip()
 
 MAX_RECS = 10
 CANDIDATE_POOL_TARGET = 120
+NEW_RELEASE_WINDOW_DAYS = 35
+YEAR_RANGE_PADDING = 12  # años de margen a cada lado del rango de tus libros
 
 
 # ---------------------------------------------------------------- utils --
@@ -60,6 +63,35 @@ def http_get_json(url, retries=2):
 
 def norm_subject(s):
     return re.sub(r"\s+", " ", s.strip().lower())
+
+
+def parse_year(value):
+    """Intenta sacar un año (int) de cualquier formato: 1985, '1985',
+    '2024-05', '2024-05-13'... Devuelve None si no hay forma."""
+    if value is None:
+        return None
+    m = re.search(r"(1[5-9]\d{2}|20\d{2})", str(value))
+    return int(m.group(1)) if m else None
+
+
+def parse_date_best_effort(value):
+    """Devuelve un datetime.date aproximado a partir de 'YYYY', 'YYYY-MM'
+    o 'YYYY-MM-DD'. Si falta mes/día, asume el más reciente posible del
+    trozo que sí hay (útil para no descartar novedades por precisión baja)."""
+    if not value:
+        return None
+    value = str(value)
+    try:
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+            return datetime.date.fromisoformat(value)
+        if re.fullmatch(r"\d{4}-\d{2}", value):
+            y, m = value.split("-")
+            return datetime.date(int(y), int(m), 28)
+        if re.fullmatch(r"\d{4}", value):
+            return datetime.date(int(value), 12, 31)
+    except Exception:
+        return None
+    return None
 
 
 def book_text(b):
@@ -122,8 +154,10 @@ def ol_subject_works(subject, limit=25):
     return out
 
 
-def gb_search(query, order="relevance", limit=20):
+def gb_search(query, order="relevance", limit=20, lang=None):
     params = {"q": query, "maxResults": min(limit, 40), "orderBy": order, "printType": "books"}
+    if lang:
+        params["langRestrict"] = lang
     if GOOGLE_BOOKS_API_KEY:
         params["key"] = GOOGLE_BOOKS_API_KEY
     url = "https://www.googleapis.com/books/v1/volumes?" + urllib.parse.urlencode(params)
@@ -142,7 +176,9 @@ def gb_search(query, order="relevance", limit=20):
             "cover_url": (vi.get("imageLinks") or {}).get("thumbnail", ""),
             "rating_avg": vi.get("averageRating") or 0,
             "rating_count": vi.get("ratingsCount") or 0,
-            "year": (vi.get("publishedDate") or "")[:4],
+            "year": parse_year(vi.get("publishedDate")),
+            "published_date": vi.get("publishedDate", ""),
+            "language": vi.get("language", ""),
             "source": "googlebooks",
         })
     return out
@@ -157,6 +193,7 @@ def nyt_new_releases():
     out = []
     if not data:
         return out
+    today = datetime.date.today()
     for lst in data.get("results", {}).get("lists", []):
         for b in lst.get("books", []):
             out.append({
@@ -168,10 +205,44 @@ def nyt_new_releases():
                 "cover_url": b.get("book_image", ""),
                 "rating_avg": 0,
                 "rating_count": 0,
-                "year": datetime.date.today().year,
+                "year": today.year,
+                "published_date": today.isoformat(),
                 "source": "nyt",
             })
     return out
+
+
+def enrich_spanish(candidate):
+    """Busca la edición en español de un candidato en Google Books para
+    traer título en español y sinopsis. Si no hay edición en español, usa
+    cualquier idioma con tal de rellenar la sinopsis. Se llama solo sobre
+    el top final (10-15 libros), no sobre todo el pool de candidatos."""
+    title = candidate.get("title", "")
+    author_first = (candidate.get("author") or "").split(",")[0].strip()
+    if not title:
+        return candidate
+
+    query = f'intitle:"{title}"' + (f' inauthor:"{author_first}"' if author_first else "")
+
+    es_results = gb_search(query, limit=3, lang="es")
+    best = es_results[0] if es_results else None
+
+    if not best:
+        any_results = gb_search(query, limit=3)
+        best = any_results[0] if any_results else None
+
+    if best:
+        if best.get("title"):
+            candidate["title"] = best["title"]
+        if best.get("description") and not candidate.get("description"):
+            candidate["description"] = best["description"]
+        if best.get("cover_url") and not candidate.get("cover_url"):
+            candidate["cover_url"] = best["cover_url"]
+        if not candidate.get("rating_count"):
+            candidate["rating_count"] = best.get("rating_count", 0)
+            candidate["rating_avg"] = best.get("rating_avg", 0)
+
+    return candidate
 
 
 # ------------------------------------------------------------- perfiles --
@@ -186,6 +257,17 @@ def top_subjects(books, n=8):
         for s in b.get("subjects", []):
             counts[s] = counts.get(s, 0) + 1
     return [s for s, _ in sorted(counts.items(), key=lambda kv: -kv[1])[:n]]
+
+
+def compute_year_range(books):
+    """Rango de años que sueles leer, con un margen. None si no hay datos
+    suficientes (en ese caso no se penaliza por época a nadie)."""
+    years = [parse_year(b.get("year")) for b in books]
+    years = [y for y in years if y]
+    if len(years) < 2:
+        return None
+    lo, hi = min(years), max(years)
+    return (lo - YEAR_RANGE_PADDING, hi + YEAR_RANGE_PADDING)
 
 
 def build_candidate_pool(positive_subjects):
@@ -207,7 +289,25 @@ def build_candidate_pool(positive_subjects):
     return list(pool.values())
 
 
-def score_candidates(candidates, liked, disliked):
+def build_new_release_pool(positive_subjects):
+    """Solo libros publicados en la ventana de novedades reciente."""
+    pool = {}
+    cutoff = datetime.date.today() - datetime.timedelta(days=NEW_RELEASE_WINDOW_DAYS)
+
+    for subj in positive_subjects[:6]:
+        for it in gb_search(f"subject:{subj}", order="newest", limit=20):
+            d = parse_date_best_effort(it.get("published_date"))
+            if d and d >= cutoff and it["id"] not in pool:
+                pool[it["id"]] = it
+
+    for it in nyt_new_releases():
+        if it["id"] not in pool:
+            pool[it["id"]] = it
+
+    return list(pool.values())
+
+
+def score_candidates(candidates, liked, disliked, year_range=None, popularity_weight=0.6):
     if not candidates:
         return []
 
@@ -245,13 +345,23 @@ def score_candidates(candidates, liked, disliked):
         rating_count = c.get("rating_count") or 0
         popularity_boost = min(1.0, (rating_count ** 0.3) / 20) if rating_count else 0
 
+        year_penalty = 0.0
+        cy = parse_year(c.get("year"))
+        if year_range and cy:
+            lo, hi = year_range
+            if cy < lo:
+                year_penalty = min(1.5, (lo - cy) / 25)
+            elif cy > hi:
+                year_penalty = min(1.5, (cy - hi) / 25)
+
         score = (
             1.6 * subj_pos_overlap
             - 2.2 * subj_neg_overlap
             + 1.8 * tfidf_pos_sim[i]
             - 1.3 * tfidf_neg_sim[i]
             + 1.0 * author_match
-            + 0.6 * popularity_boost
+            + popularity_weight * popularity_boost
+            - 1.4 * year_penalty
         )
         c2 = dict(c)
         c2["score"] = round(score, 4)
@@ -269,6 +379,25 @@ def synopsis_short(text, n_words=6):
     return short + ("…" if len(words) > n_words else "")
 
 
+def to_output_items(scored_top):
+    out_items = []
+    for c in scored_top:
+        c = enrich_spanish(dict(c))
+        out_items.append({
+            "id": c["id"],
+            "title": c["title"],
+            "author": c["author"],
+            "cover_url": c.get("cover_url", ""),
+            "subjects": c.get("subjects", [])[:8],
+            "year": parse_year(c.get("year")),
+            "synopsis_short": synopsis_short(c.get("description", "") or ""),
+            "synopsis_full": c.get("description") or "No hay sinopsis disponible para este libro.",
+            "source": c.get("source"),
+            "score": c.get("score"),
+        })
+    return out_items
+
+
 def process_profile(username):
     path = os.path.join(PROFILES_DIR, f"{username}.json")
     profile = load_profile(path)
@@ -284,47 +413,48 @@ def process_profile(username):
         return
 
     pos_subjects = top_subjects(positive_all, n=8)
+    year_range = compute_year_range(positive_all)
     print(f"  {username}: materias favoritas -> {pos_subjects}")
+    print(f"  {username}: rango de época preferido -> {year_range or 'sin datos suficientes, sin filtrar'}")
 
-    candidates = build_candidate_pool(pos_subjects)
-    candidates = [c for c in candidates if c["id"] not in shown_ids]
-    # quita libros ya marcados
     known_ids = set(b["id"] for b in positive_all + disliked)
-    candidates = [c for c in candidates if c["id"] not in known_ids]
 
-    print(f"  {username}: {len(candidates)} candidatos nuevos encontrados")
-
-    scored = score_candidates(candidates, positive_all, disliked)
-    top = scored[:MAX_RECS]
-
-    out_items = []
-    for c in top:
-        out_items.append({
-            "id": c["id"],
-            "title": c["title"],
-            "author": c["author"],
-            "cover_url": c.get("cover_url", ""),
-            "subjects": c.get("subjects", [])[:8],
-            "synopsis_short": synopsis_short(c.get("description", "") or c["title"]),
-            "synopsis_full": c.get("description") or "No hay sinopsis disponible para este libro.",
-            "source": c.get("source"),
-            "score": c.get("score"),
-        })
+    # ---- lista principal "para ti" ----
+    candidates = build_candidate_pool(pos_subjects)
+    candidates = [c for c in candidates if c["id"] not in shown_ids and c["id"] not in known_ids]
+    print(f"  {username}: {len(candidates)} candidatos nuevos (principal)")
+    scored = score_candidates(candidates, positive_all, disliked, year_range=year_range, popularity_weight=0.6)
+    top_main = scored[:MAX_RECS]
+    main_items = to_output_items(top_main)
 
     os.makedirs(RECS_DIR, exist_ok=True)
-    out_path = os.path.join(RECS_DIR, f"{username}.json")
-    with open(out_path, "w") as f:
+    with open(os.path.join(RECS_DIR, f"{username}.json"), "w") as f:
         json.dump({
             "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z"),
-            "items": out_items,
+            "items": main_items,
         }, f, ensure_ascii=False, indent=2)
+    print(f"  {username}: {len(main_items)} recomendaciones principales guardadas")
 
-    # actualiza shown_ids en el propio perfil para no repetir en semanas futuras
-    profile["shown_ids"] = list(shown_ids | set(c["id"] for c in top))
+    # ---- lista de novedades (sin exigir popularidad, sin filtrar por época) ----
+    new_candidates = build_new_release_pool(pos_subjects)
+    new_candidates = [c for c in new_candidates if c["id"] not in shown_ids and c["id"] not in known_ids
+                       and c["id"] not in {m["id"] for m in main_items}]
+    print(f"  {username}: {len(new_candidates)} candidatos nuevos (novedades)")
+    scored_new = score_candidates(new_candidates, positive_all, disliked, year_range=None, popularity_weight=0.0)
+    top_new = scored_new[:MAX_RECS]
+    new_items = to_output_items(top_new)
+
+    with open(os.path.join(RECS_DIR, f"{username}-nuevos.json"), "w") as f:
+        json.dump({
+            "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z"),
+            "items": new_items,
+        }, f, ensure_ascii=False, indent=2)
+    print(f"  {username}: {len(new_items)} novedades guardadas")
+
+    # ---- actualizar shown_ids para no repetir en semanas futuras ----
+    profile["shown_ids"] = list(shown_ids | {c["id"] for c in top_main} | {c["id"] for c in top_new})
     with open(path, "w") as f:
         json.dump(profile, f, ensure_ascii=False, indent=2)
-
-    print(f"  {username}: {len(out_items)} recomendaciones guardadas")
 
 
 def main():
