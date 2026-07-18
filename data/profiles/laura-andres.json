@@ -72,7 +72,26 @@
       "source": "openlibrary"
     }
   ],
-  "liked": [],
+  "liked": [
+    {
+      "id": "ol:/works/OL471943W",
+      "title": "After the Funeral",
+      "author": "Agatha Christie",
+      "subjects": [
+        "fiction",
+        "mystery",
+        "hercule poirot (fictitious character)",
+        "private investigators",
+        "belgians",
+        "mystery and detective stories",
+        "england, fiction",
+        "fiction, mystery & detective, traditional"
+      ],
+      "description": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "swiped_at": "2026-07-18T12:30:57.603Z"
+    }
+  ],
   "disliked": [],
   "shown_ids": [
     "ol:/works/OL8193478W",
