@@ -24,6 +24,31 @@
       "description": "",
       "cover_url": "https://covers.openlibrary.org/b/id/9269909-M.jpg",
       "source": "openlibrary"
+    },
+    {
+      "id": "ol:/works/OL471932W",
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "subjects": [
+        "detective fiction",
+        "mystery",
+        "murder",
+        "investigation",
+        "victim",
+        "private investigators",
+        "detective and mystery stories",
+        "fiction",
+        "mystery & detective fiction",
+        "historical fiction",
+        "crime fiction",
+        "unreliable narrator",
+        "belgians",
+        "investigadores privados",
+        "novela policíaca"
+      ],
+      "description": "",
+      "cover_url": "https://covers.openlibrary.org/b/id/13151356-M.jpg",
+      "source": "openlibrary"
     }
   ],
   "liked": [],
