@@ -31,6 +31,7 @@ import datetime
 import traceback
 import urllib.request
 import urllib.parse
+import urllib.error
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -49,17 +50,31 @@ YEAR_RANGE_PADDING = 12  # años de margen a cada lado del rango de tus libros
 
 
 # ---------------------------------------------------------------- utils --
-def http_get_json(url, retries=2):
+def http_get_json(url, retries=3):
     req = urllib.request.Request(url, headers=HEADERS)
     for attempt in range(retries + 1):
         try:
             with urllib.request.urlopen(req, timeout=20) as r:
                 return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                if attempt == retries:
+                    print(f"  aviso: 429 persistente en {url[:90]}..., se abandona esta petición")
+                    return None
+                wait = 4 * (attempt + 1)
+                print(f"  aviso: 429 (demasiadas peticiones), esperando {wait}s...")
+                time.sleep(wait)
+                continue
+            if attempt == retries:
+                print(f"  aviso: fallo al pedir {url[:90]}... -> {e}")
+                return None
+            time.sleep(1.5)
         except Exception as e:
             if attempt == retries:
                 print(f"  aviso: fallo al pedir {url[:90]}... -> {e}")
                 return None
             time.sleep(1.5)
+    return None
 
 
 def norm_subject(s):
@@ -163,6 +178,11 @@ def gb_search(query, order="relevance", limit=20, lang=None):
         params["key"] = GOOGLE_BOOKS_API_KEY
     url = "https://www.googleapis.com/books/v1/volumes?" + urllib.parse.urlencode(params)
     data = http_get_json(url)
+    # Pequeño respiro entre peticiones a Google Books: sin esto, en una
+    # sola ejecución se pueden lanzar 50-80 peticiones seguidas y saltar
+    # el límite de peticiones por segundo aunque la cuota diaria total
+    # (con clave) sea de sobra suficiente.
+    time.sleep(0.35 if GOOGLE_BOOKS_API_KEY else 1.2)
     out = []
     if not data:
         return out
@@ -213,16 +233,54 @@ def nyt_new_releases():
     return out
 
 
+def ol_find_spanish_edition(title, author_first):
+    """Busca la 'obra' en Open Library y revisa sus distintas ediciones
+    para encontrar una en español. A diferencia de buscar por texto en
+    Google Books, esto SÍ funciona para títulos traducidos, porque Open
+    Library agrupa todas las ediciones (en cualquier idioma) bajo la misma
+    obra — no hace falta adivinar cómo se llama la traducción."""
+    try:
+        query = f"{title} {author_first}".strip()
+        url = ("https://openlibrary.org/search.json?q=" + urllib.parse.quote(query) +
+               "&limit=3&fields=key,title")
+        data = http_get_json(url)
+        time.sleep(0.3)
+        if not data:
+            return None
+        for doc in data.get("docs", [])[:3]:
+            work_key = doc.get("key")  # p.ej. "/works/OL12345W"
+            if not work_key:
+                continue
+            ed_data = http_get_json(f"https://openlibrary.org{work_key}/editions.json?limit=50")
+            time.sleep(0.3)
+            if not ed_data:
+                continue
+            for ed in ed_data.get("entries", []):
+                langs = [l.get("key", "") for l in (ed.get("languages") or [])]
+                if any("spa" in l for l in langs) and ed.get("title"):
+                    return ed["title"]
+    except Exception as e:
+        print(f"    aviso: fallo buscando edición en español (Open Library) -> {e}")
+    return None
+
+
 def enrich_spanish(candidate):
-    """Busca la edición en español de un candidato en Google Books para
-    traer título en español y sinopsis. Si no hay edición en español, usa
-    cualquier idioma con tal de rellenar la sinopsis. Se llama solo sobre
-    el top final (10-15 libros), no sobre todo el pool de candidatos.
-    Nunca lanza excepción: si todo falla, devuelve el candidato tal cual."""
+    """Título en español (vía Open Library, buscando ediciones de la
+    misma obra) + sinopsis (vía Google Books, en el idioma que sea con
+    tal de tener alguna). Se llama solo sobre el top final (10-15 libros),
+    no sobre todo el pool de candidatos. Nunca lanza excepción: si todo
+    falla, devuelve el candidato tal cual, con su título original."""
     title = candidate.get("title", "")
     author_first = (candidate.get("author") or "").split(",")[0].strip()
     if not title:
         return candidate
+
+    try:
+        titulo_es = ol_find_spanish_edition(title, author_first)
+        if titulo_es:
+            candidate["title"] = titulo_es
+    except Exception as e:
+        print(f"    aviso: no se pudo buscar título en español de '{title}' -> {e}")
 
     try:
         best = None
@@ -243,8 +301,6 @@ def enrich_spanish(candidate):
             best = plain_results[0] if plain_results else None
 
         if best:
-            if best.get("title"):
-                candidate["title"] = best["title"]
             if best.get("description") and not candidate.get("description"):
                 candidate["description"] = best["description"]
             if best.get("cover_url") and not candidate.get("cover_url"):
