@@ -1,205 +1,205 @@
 {
-  "generated_at": "2026-07-18T12:29:32.154174Z",
+  "generated_at": "2026-07-18T12:30:43.712446Z",
   "items": [
     {
-      "id": "ol:/works/OL2234946W",
-      "title": "The Nine Tailors",
-      "author": "Dorothy L. Sayers",
-      "cover_url": "https://covers.openlibrary.org/b/id/482463-M.jpg",
+      "id": "ol:/works/OL262498W",
+      "title": "Novels (Sign of Four / Study in Scarlet)",
+      "author": "Arthur Conan Doyle",
+      "cover_url": "https://covers.openlibrary.org/b/id/12519082-M.jpg",
       "subjects": [
         "fiction",
+        "sherlock holmes (fictitious character)",
         "private investigators",
-        "lord wimsey, peter (fictitious character)",
-        "mystery and detective stories",
-        "mystery",
+        "action & adventure fiction",
+        "andamanese",
+        "aortic aneurysm",
+        "arrow poisons",
+        "battle of maiwand"
+      ],
+      "synopsis_short": "Novels (Sign of Four / Study…",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 6.6818
+    },
+    {
+      "id": "ol:/works/OL2163628W",
+      "title": "Dirk Gently’s Holistic Detective Agency",
+      "author": "Douglas Adams",
+      "cover_url": "https://covers.openlibrary.org/b/id/11465456-M.jpg",
+      "subjects": [
+        "fantasy",
+        "krimi",
+        "abiogenesis",
+        "laudanum",
+        "kubla khan",
+        "the rime of the ancient mariner",
         "detective fiction",
-        "wimsey, peter, lord (fictitious character), fiction",
-        "england, fiction"
+        "mystery & detective fiction"
       ],
-      "synopsis_short": "The Nine Tailors",
+      "synopsis_short": "Dirk Gently’s Holistic Detective Agency",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 13.0213
+      "score": 6.6389
     },
     {
-      "id": "ol:/works/OL2234917W",
-      "title": "Whose Body?",
-      "author": "Dorothy L. Sayers",
-      "cover_url": "https://covers.openlibrary.org/b/id/8311819-M.jpg",
+      "id": "ol:/works/OL76833W",
+      "title": "Angels & Demons",
+      "author": "Dan Brown",
+      "cover_url": "https://covers.openlibrary.org/b/id/11408459-M.jpg",
       "subjects": [
-        "mystery",
-        "detectives",
-        "lord wimsey, peter (fictitious character)",
-        "translations into russian",
-        "english detective and mystery stories",
-        "private investigators",
-        "fiction",
-        "police"
-      ],
-      "synopsis_short": "Whose Body?",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 8.2373
-    },
-    {
-      "id": "ol:/works/OL47266W",
-      "title": "The Maltese Falcon",
-      "author": "Dashiell Hammett",
-      "cover_url": "https://covers.openlibrary.org/b/id/998587-M.jpg",
-      "subjects": [
-        "fiction, mystery & detective, general",
-        "san francisco (calif.), fiction",
-        "california, fiction",
-        "private investigators, fiction",
-        "spade, sam (fictitious character), fiction",
-        "ficción",
-        "fiction",
-        "hard-boiled detectives"
-      ],
-      "synopsis_short": "The Maltese Falcon",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 8.2368
-    },
-    {
-      "id": "ol:/works/OL166894W",
-      "title": "Преступление и наказание",
-      "author": "Fyodor Dostoyevsky",
-      "cover_url": "https://covers.openlibrary.org/b/id/9411873-M.jpg",
-      "subjects": [
-        "english translations",
-        "russian literature",
-        "novela psicológica",
-        "fiction",
-        "translations into yiddish",
-        "psychological fiction",
-        "german language",
-        "murder"
-      ],
-      "synopsis_short": "Преступление и наказание",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 8.2025
-    },
-    {
-      "id": "ol:/works/OL471895W",
-      "title": "The Murder at the Vicarage",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/12996560-M.jpg",
-      "subjects": [
-        "women detectives",
-        "fiction",
-        "classic",
-        "literature",
-        "audiobook",
-        "braile",
-        "dvd",
-        "murder"
-      ],
-      "synopsis_short": "The Murder at the Vicarage",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 7.6941
-    },
-    {
-      "id": "ol:/works/OL471500W",
-      "title": "4:50 from Paddington",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/13151352-M.jpg",
-      "subjects": [
-        "fiction",
-        "mystery",
-        "jane marple (fictitious character)",
-        "fiction, mystery & detective, general",
-        "marple, jane (fictitious character), fiction",
-        "english literature",
-        "english language",
-        "fiction, mystery & detective, traditional"
-      ],
-      "synopsis_short": "4:50 from Paddington",
-      "synopsis_full": "No hay sinopsis disponible para este libro.",
-      "source": "openlibrary",
-      "score": 7.6906
-    },
-    {
-      "id": "ol:/works/OL471576W",
-      "title": "Murder on the Orient Express",
-      "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/11100465-M.jpg",
-      "subjects": [
-        "agatha christie",
-        "private investigator",
-        "p.i.",
-        "hercule poirot",
-        "detective",
+        "heparin",
+        "ambigrams",
+        "antimatter",
+        "freemasons",
+        "swiss guard",
         "murder",
-        "mystery",
-        "juvenile"
+        "investigation",
+        "women scientists"
       ],
-      "synopsis_short": "Murder on the Orient Express",
+      "synopsis_short": "Angels & Demons",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 7.6605
+      "score": 6.6136
     },
     {
-      "id": "ol:/works/OL471610W",
-      "title": "The Body in the Library",
+      "id": "ol:/works/OL1230613W",
+      "title": "L’étranger",
+      "author": "Albert Camus",
+      "cover_url": "https://covers.openlibrary.org/b/id/13151269-M.jpg",
+      "subjects": [
+        "philosophical novels",
+        "murder",
+        "fiction",
+        "medicine in literature",
+        "french",
+        "novelas francesas",
+        "asesinato",
+        "ficción"
+      ],
+      "synopsis_short": "L’étranger",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 6.4977
+    },
+    {
+      "id": "ol:/works/OL471771W",
+      "title": "A Murder Is Announced",
       "author": "Agatha Christie",
-      "cover_url": "https://covers.openlibrary.org/b/id/12855259-M.jpg",
+      "cover_url": "https://covers.openlibrary.org/b/id/14578204-M.jpg",
       "subjects": [
         "fiction",
         "mystery",
-        "women detectives",
-        "detective and mystery stories",
-        "jane marple (fictitious character)",
         "agatha christie",
         "miss marple",
-        "series"
+        "series",
+        "british",
+        "amateur",
+        "detective"
       ],
-      "synopsis_short": "The Body in the Library",
+      "synopsis_short": "A Murder Is Announced",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 7.6212
+      "score": 5.9981
     },
     {
-      "id": "ol:/works/OL137396W",
-      "title": "The Circular Staircase",
+      "id": "ol:/works/OL471565W",
+      "title": "And Then There Were None",
+      "author": "Agatha Christie",
+      "cover_url": "https://covers.openlibrary.org/b/id/11172296-M.jpg",
+      "subjects": [
+        "roman policier",
+        "french language materials",
+        "français (langue)",
+        "lectures et morceaux choisis",
+        "cyanide poisoning",
+        "chloral hydrate",
+        "potassium cyanide",
+        "scotland yard"
+      ],
+      "synopsis_short": "And Then There Were None",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 5.9469
+    },
+    {
+      "id": "ol:/works/OL137395W",
+      "title": "The Man in Lower Ten",
       "author": "Mary Roberts Rinehart",
-      "cover_url": "https://covers.openlibrary.org/b/id/2761207-M.jpg",
+      "cover_url": "https://covers.openlibrary.org/b/id/2761479-M.jpg",
       "subjects": [
-        "classic literature",
         "fiction",
-        "detective and mystery stories",
-        "innes, rachel (fictitious character), fiction",
-        "adirondack mountains (n.y.), fiction",
-        "fiction, suspense",
+        "american detective and mystery stories",
+        "murder",
+        "railroad trains",
         "large type books",
-        "open library staff picks"
+        "fiction, mystery & detective, general",
+        "fiction / mystery & detective / traditional british",
+        "murder -- investigation -- fiction"
       ],
-      "synopsis_short": "The Circular Staircase",
+      "synopsis_short": "The Man in Lower Ten",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 6.7057
+      "score": 5.1194
     },
     {
-      "id": "ol:/works/OL176081W",
-      "title": "The Law and the Lady",
-      "author": "Wilkie Collins, Camille de Cendrey, Jenny Bourne Taylor",
-      "cover_url": "https://covers.openlibrary.org/b/id/6396941-M.jpg",
+      "id": "ol:/works/OL176092W",
+      "title": "The Moonstone",
+      "author": "Wilkie Collins",
+      "cover_url": "https://covers.openlibrary.org/b/id/8237041-M.jpg",
       "subjects": [
-        "classic literature",
         "fiction",
-        "mystery",
-        "women detectives",
-        "married women",
-        "investigation",
-        "social conditions",
-        "women"
+        "jewelry theft",
+        "east indians",
+        "police",
+        "drama",
+        "history",
+        "detective and mystery stories",
+        "readers"
       ],
-      "synopsis_short": "The Law and the Lady",
+      "synopsis_short": "The Moonstone",
       "synopsis_full": "No hay sinopsis disponible para este libro.",
       "source": "openlibrary",
-      "score": 6.6987
+      "score": 5.0033
+    },
+    {
+      "id": "ol:/works/OL262561W",
+      "title": "The Adventure of the Speckled Band",
+      "author": "Arthur Conan Doyle",
+      "cover_url": "https://covers.openlibrary.org/b/id/8517526-M.jpg",
+      "subjects": [
+        "amorality",
+        "anglo-saxons",
+        "aristocracy",
+        "detective fiction",
+        "fiction",
+        "juvenile audience",
+        "locked-room mysteries",
+        "mystery and detective stories"
+      ],
+      "synopsis_short": "The Adventure of the Speckled Band",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 4.9999
+    },
+    {
+      "id": "ol:/works/OL41072W",
+      "title": "The Murders in the Rue Morgue",
+      "author": "Edgar Allan Poe",
+      "cover_url": "https://covers.openlibrary.org/b/id/11774455-M.jpg",
+      "subjects": [
+        "murder",
+        "fiction",
+        "american detective and mystery stories",
+        "c. auguste dupin (fictitious character)",
+        "fiction, mystery & detective, general",
+        "dupin, auguste (fictitious character), fiction",
+        "libros de lectura",
+        "ingle s"
+      ],
+      "synopsis_short": "The Murders in the Rue Morgue",
+      "synopsis_full": "No hay sinopsis disponible para este libro.",
+      "source": "openlibrary",
+      "score": 4.9998
     }
   ]
 }
