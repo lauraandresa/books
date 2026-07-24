@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-07-20T10:41:10.095707Z",
+  "generated_at": "2026-07-24T16:22:16.101186Z",
   "items": [
     {
-      "id": "nyt:9780063446533",
-      "title": "Suicidal Empathy",
-      "author": "Gad Saad",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063446533.jpg",
+      "id": "nyt:9781990101069",
+      "title": "The Legacy",
+      "author": "Elle Kennedy",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781990101069.jpg",
       "subjects": [
-        "hardcover nonfiction"
+        "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The host of the podcast “The…",
-      "synopsis_full": "The host of the podcast “The Saad Truth” argues that what he considers misguided compassion is having a negative impact on society.",
+      "synopsis_short": "The fifth book in the Off-Campus…",
+      "synopsis_full": "The fifth book in the Off-Campus series. Four couples experience the ups and downs of life after graduating college.",
       "source": "nyt",
-      "score": 0.0567
+      "score": 0.1255
     },
     {
-      "id": "nyt:9798217234288",
-      "title": "Kpop Demon Hunters",
-      "author": "Jessica Yoon",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217234288.jpg",
+      "id": "nyt:9781464244827",
+      "title": "The Legacy",
+      "author": "Elle Kennedy",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781464244827.jpg",
+      "subjects": [
+        "hardcover fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The fifth book in the Off-Campus…",
+      "synopsis_full": "The fifth book in the Off-Campus series. Four couples experience the ups and downs of life after graduating college.",
+      "source": "nyt",
+      "score": 0.1245
+    },
+    {
+      "id": "nyt:9781464221736",
+      "title": "Forsaking Midnight",
+      "author": "Emily McIntire",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781464221736.jpg",
+      "subjects": [
+        "paperback trade fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The second book in the Defying…",
+      "synopsis_full": "The second book in the Defying the Stars series. Genevieve becomes attracted to the man assigned to guard her.",
+      "source": "nyt",
+      "score": 0.1148
+    },
+    {
+      "id": "nyt:9781668065297",
+      "title": "Push The Wall",
+      "author": "Frank Miller",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668065297.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The comic book writer and artist…",
+      "synopsis_full": "The comic book writer and artist chronicles his career from his time in New York in the 1970s to projects made in Hollywood over the decades.",
+      "source": "nyt",
+      "score": 0.0965
+    },
+    {
+      "id": "nyt:9780063384262",
+      "title": "Ransom",
+      "author": "Daniel Silva",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063384262.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The 26th book in the Gabriel…",
+      "synopsis_full": "The 26th book in the Gabriel Allon series. A search for a British billionaire’s missing wife turns up secrets and an old enemy.",
+      "source": "nyt",
+      "score": 0.0904
+    },
+    {
+      "id": "nyt:9780063384224",
+      "title": "Ransom",
+      "author": "Daniel Silva",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063384224.jpg",
+      "subjects": [
+        "hardcover fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The 26th book in the Gabriel…",
+      "synopsis_full": "The 26th book in the Gabriel Allon series. A search for a British billionaire’s missing wife turns up secrets and an old enemy.",
+      "source": "nyt",
+      "score": 0.0881
+    },
+    {
+      "id": "nyt:9781464244810",
+      "title": "Contigo hasta el final",
+      "author": "Elle Kennedy",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781464244810.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "Pregnancy complicates the budding relationship between…",
+      "synopsis_full": "Pregnancy complicates the budding relationship between a college senior and a hockey player.",
+      "source": "nyt",
+      "score": 0.0786
+    },
+    {
+      "id": "nyt:9780593230862",
+      "title": "Catch The Devil",
+      "author": "Pamela Colloff",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593230862.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "A staff writer at The New…",
+      "synopsis_full": "A staff writer at The New York Times Magazine and reporter at ProPublica gives an account of the damage caused by a con man in Florida.",
+      "source": "nyt",
+      "score": 0.075
+    },
+    {
+      "id": "nyt:9780593809907",
+      "title": "Criaturas Imposibles 2. el Rey Envenenado / Impossible Creatures 2. the Poisoned King",
+      "author": "Katherine Rundell",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593809907.jpg",
       "subjects": [
         "children’s middle grade hardcover"
       ],
       "year": 2026,
-      "synopsis_short": "Huntrix takes on the Saja Boys,…",
-      "synopsis_full": "Huntrix takes on the Saja Boys, a boy band who happen to be demons in disguise. Based on the movie. (Ages 7 to 10)",
+      "synopsis_short": "Christopher and Anya must save the…",
+      "synopsis_full": "Christopher and Anya must save the dragons of the Archipelago from a strange new threat. (Ages 10 and up)",
       "source": "nyt",
-      "score": 0.0516
+      "score": 0.0708
     },
     {
-      "id": "nyt:9780063491946",
-      "title": "On Courage",
-      "author": "Julia Angwin and Ami Fields-Meyer",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063491946.jpg",
+      "id": "nyt:9780316599870",
+      "title": "The Country Road Murders",
+      "author": "James Patterson and Mike Lupica",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780316599870.jpg",
       "subjects": [
-        "hardcover nonfiction"
+        "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The authors of the New Yorker…",
-      "synopsis_full": "The authors of the New Yorker essay “So You Want to Be a Dissident?” profile people who stood up to authoritarianism.",
+      "synopsis_short": "A former football player returns to…",
+      "synopsis_full": "A former football player returns to the town where his father was killed.",
       "source": "nyt",
-      "score": 0.0495
-    },
-    {
-      "id": "nyt:9780307742490",
-      "title": "Los Náufragos Del Wager / the Wager",
-      "author": "David Grann",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780307742490.jpg",
-      "subjects": [
-        "paperback nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The survivors of a shipwrecked British…",
-      "synopsis_full": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
-      "source": "nyt",
-      "score": 0.0491
-    },
-    {
-      "id": "nyt:9798893310474",
-      "title": "The Simple Path To Wealth",
-      "author": "JL Collins",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798893310474.jpg",
-      "subjects": [
-        "business"
-      ],
-      "year": 2026,
-      "synopsis_short": "\"This comprehensive guide covers everything from…",
-      "synopsis_full": "\"This comprehensive guide covers everything from debt elimination to optimizing retirement accounts, all while exposing the marketing myths and investment industry practices that keep most people from building real wealth. Collins shares specific, actionable strategies for both wealth-building and wealth-preservation phases, with a straightforward approach to asset allocation that anyone can implement\"--",
-      "source": "nyt",
-      "score": 0.048
-    },
-    {
-      "id": "nyt:9798217113026",
-      "title": "The Secret World Of Briar Rose",
-      "author": "Cindy Pham",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217113026.jpg",
-      "subjects": [
-        "young adult hardcover"
-      ],
-      "year": 2026,
-      "synopsis_short": "Two sisters discover an underground, magical…",
-      "synopsis_full": "Two sisters discover an underground, magical dreamworld. (Ages 14 and up)",
-      "source": "nyt",
-      "score": 0.0474
-    },
-    {
-      "id": "nyt:9781668018057",
-      "title": "Mailman",
-      "author": "Stephen Starring Grant",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668018057.jpg",
-      "subjects": [
-        "paperback nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "After losing his corporate job and…",
-      "synopsis_full": "After losing his corporate job and being diagnosed with cancer, Grant becomes a mailman in the Blue Ridge Mountains of Virginia.",
-      "source": "nyt",
-      "score": 0.0464
-    },
-    {
-      "id": "nyt:9780385376716",
-      "title": "The Wonderful Things You Will Be",
-      "author": "Emily Winfield Martin",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780385376716.jpg",
-      "subjects": [
-        "children’s picture books"
-      ],
-      "year": 2026,
-      "synopsis_short": "A celebration of future possibilities. (Ages…",
-      "synopsis_full": "A celebration of future possibilities. (Ages 3 to 7)",
-      "source": "nyt",
-      "score": 0.0462
-    },
-    {
-      "id": "nyt:9781665921268",
-      "title": "Fake Skating",
-      "author": "Lynn Painter",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781665921268.jpg",
-      "subjects": [
-        "young adult hardcover"
-      ],
-      "year": 2026,
-      "synopsis_short": "After years of separation, the childhood…",
-      "synopsis_full": "After years of separation, the childhood friends Alec and Dani reunite and face their true feelings toward each other. (Ages 14 and up)",
-      "source": "nyt",
-      "score": 0.0462
-    },
-    {
-      "id": "nyt:9781974716463",
-      "title": "Chainsaw Man, Vol. 21",
-      "author": "Tatsuki Fujimoto",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781974716463.jpg",
-      "subjects": [
-        "graphic books and manga"
-      ],
-      "year": 2026,
-      "synopsis_short": "Denji starts eating everything around him…",
-      "synopsis_full": "Denji starts eating everything around him and must work with Yoru to get free of the Aging Devil.",
-      "source": "nyt",
-      "score": 0.045
+      "score": 0.0706
     }
   ]
 }
