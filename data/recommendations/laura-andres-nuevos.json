@@ -1,47 +1,145 @@
 {
-  "generated_at": "2026-07-27T11:01:26.134847Z",
+  "generated_at": "2026-08-03T11:13:07.704049Z",
   "items": [
     {
-      "id": "nyt:9798225096687",
-      "title": "Mac & Cheese",
-      "author": "Michael L. Benner",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798225096687.jpg",
+      "id": "nyt:9780778306108",
+      "title": "Lorenzo",
+      "author": "Sadie Kincaid",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780778306108.jpg",
+      "subjects": [
+        "paperback trade fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The third book in the Chicago…",
+      "synopsis_full": "The third book in the Chicago Ruthless series.",
+      "source": "nyt",
+      "score": 0.131
+    },
+    {
+      "id": "nyt:9780385550505",
+      "title": "Cool Machine",
+      "author": "Colson Whitehead",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780385550505.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "In the third book in the…",
+      "synopsis_full": "In the third book in the Harlem trilogy, 1980s crime and capitalism affect Ray Carney and the people around him.",
+      "source": "nyt",
+      "score": 0.1268
+    },
+    {
+      "id": "nyt:9780062976581",
+      "title": "niño, el Topo, el Zorro y el Caballo",
+      "author": "Charlie Mackesy",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062976581.jpg",
+      "subjects": [
+        "advice, how-to & miscellaneous"
+      ],
+      "year": 2026,
+      "synopsis_short": "\"Charlie Mackesy offers inspiration and hope…",
+      "synopsis_full": "\"Charlie Mackesy offers inspiration and hope in uncertain times in this beautiful book based on his famous quartet of characters. The Boy, the Mole, the Fox, and the Horse explores their unlikely friendship and the poignant, universal lessons they learn together. Radiant with Mackesy’s warmth and gentle wit, The Boy, the Mole, the Fox, and the Horse blends hand-written narrative with dozens of drawings, including some of his best-loved illustrations (including “Help,” which has been shared over one million times) and new, never-before-seen material. A modern classic in the vein of The Tao of Pooh, The Alchemist, and The Giving Tree, this charmingly designed keepsake will be treasured for generations to come.\" --Barnes & Noble website.",
+      "source": "nyt",
+      "score": 0.1205
+    },
+    {
+      "id": "nyt:9781324131434",
+      "title": "This Is The Plan",
+      "author": "Ben Wikler",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781324131434.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The former chair of the Democratic…",
+      "synopsis_full": "The former chair of the Democratic Party of Wisconsin shares his perspectives on what it takes to win elections.",
+      "source": "nyt",
+      "score": 0.0942
+    },
+    {
+      "id": "nyt:9781368046459",
+      "title": "La paloma tiene que ir al cole",
+      "author": "Mo Willems",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781368046459.jpg",
       "subjects": [
         "children’s picture books"
       ],
       "year": 2026,
-      "synopsis_short": "Mac & Cheese search for true…",
-      "synopsis_full": "Mac & Cheese search for true friendship.",
+      "synopsis_short": "Pigeon deals with the anxieties of…",
+      "synopsis_full": "Pigeon deals with the anxieties of going to school for the first time. (Ages 3 to 5)",
       "source": "nyt",
-      "score": 0.0183
+      "score": 0.0822
     },
     {
-      "id": "nyt:9781728270111",
-      "title": "Ese No Es Mi Nombre. Ella Pensaba Que Había Recuperado Su Vida. pero Se Equivocaba. / That's Not My Name",
-      "author": "Megan Lally",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781728270111.jpg",
+      "id": "nyt:9781982112837",
+      "title": "My Friends",
+      "author": "Fredrik Backman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781982112837.jpg",
       "subjects": [
-        "young adult paperback"
+        "paperback trade fiction"
       ],
       "year": 2026,
-      "synopsis_short": "A New York Times and USA…",
-      "synopsis_full": "A New York Times and USA Today Bestseller! She thought she had her life back. She was wrong. A gripping debut thriller perfect for fans of Natalie D. Richards and Vincent Ralph. It was a mistake to trust him. Shivering and bruised, a teen wakes up on the side of a dirt road with no memory of how she got there—or who she is. A passing officer takes her to the police station, and not long after, a frantic man arrives. He's been searching for her for hours. He has her school ID, her birth certificate, and even family photos. He is her father. Her name is Mary. Or so he says. When Lola slammed the car door and stormed off into the night, Drew thought they just needed some time to cool off. Except Lola disappeared, and the sheriff, his friends, and the whole town are convinced Drew murdered his girlfriend. Forget proving his innocence, he needs to find her before it's too late. The longer Lola is missing, the fewer leads there are to follow...and the more danger they both are in.",
+      "synopsis_short": "A young woman looks into the…",
+      "synopsis_full": "A young woman looks into the story behind a painting that was made 25 years ago and a small group of teens depicted in it; translated by Neil Smith.",
       "source": "nyt",
-      "score": 0.0083
+      "score": 0.0799
     },
     {
-      "id": "nyt:9781728205489",
-      "title": "If He Had Been With Me",
-      "author": "Laura Nowlin",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781728205489.jpg",
+      "id": "nyt:9780062085504",
+      "title": "Libérame",
+      "author": "Tahereh Mafi",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062085504.jpg",
       "subjects": [
-        "young adult paperback"
+        "children’s & young adult series"
       ],
       "year": 2026,
-      "synopsis_short": "If he had been with me…",
-      "synopsis_full": "If he had been with me everything would have been different... I wasn't with Finn on that August night. But I should've been. It was raining, of course. And he and Sylvie were arguing as he drove down the slick road. No one ever says what they were arguing about. Other people think it's not important. They do not know there is another story. The story that lurks between the facts. What they do not know—the cause of the argument—is crucial. So let me tell you...",
+      "synopsis_short": "In a crumbling dystopian world, dark…",
+      "synopsis_full": "In a crumbling dystopian world, dark forces want to use Juliette’s superhuman powers. (Ages 14 and up)",
       "source": "nyt",
-      "score": 0.0074
+      "score": 0.0466
+    },
+    {
+      "id": "nyt:9781250284556",
+      "title": "Mad Mabel",
+      "author": "Sally Hepworth",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250284556.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "An elderly woman who was once…",
+      "synopsis_full": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
+      "source": "nyt",
+      "score": 0.0378
+    },
+    {
+      "id": "nyt:9780593736616",
+      "title": "The New Perimenopause",
+      "author": "Mary Claire Haver",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593736616.jpg",
+      "subjects": [
+        "advice, how-to & miscellaneous"
+      ],
+      "year": 2026,
+      "synopsis_short": "The #1 New York Times bestselling…",
+      "synopsis_full": "The #1 New York Times bestselling author of The New Menopause explains everything a woman needs to know to thrive during the often-misdiagnosed and medically ignored perimenopausal years “Don’t tolerate shrugged shoulders from your doctor during your perimenopausal journey. Get ahead of the issues and your potential symptoms with this important, empowering, and scientifically dependable book.”—Vonda Wright, MD, author of Unbreakable I’m just not feeling like myself! This is the battle cry of the perimenopausal woman. Though menstrual cycle changes and the emotional rollercoaster that accompanies them are the hallmarks of the transition to menopause, many women with regular periods as young as 35 can also start to feel irregular, with symptoms that include anxiety, fatigue, joint pain, brain fog, sexual symptoms, and volatile moods. This array of symptoms can be hugely disruptive—all the more so when a doctor dismisses a woman’s complaints as all in her head or prescribes unnecessary and potentially harmful treatment. In The New Perimenopause, Dr. Mary Claire Haver—the trailblazing voice behind the movement to revolutionize health care for women—sets things straight. She explains that the numerous and varied symptoms of perimenopause occur in direct response to normal endocrine changes; this is the hormonal \"zone of chaos.\" A comprehensive, authoritative book of science-backed information and lived experience, The New Perimenopause includes: Clear, science-backed explanations of what's going on in your body, from changes in your menstrual cycle to energy levels, mood, sleep, and sexual issues. How and why dealing with these changes now is preventative medicine for your later years. Checklists, questions for your doctor, and how to insist on good care. The very latest research on the benefits and side effects of progesterone therapy to help ease your hormonal transition. Whether you have symptoms or not, The New Perimenopause helps remove the mystery around this time of change, putting women in control of their health going forward.",
+      "source": "nyt",
+      "score": 0.0335
+    },
+    {
+      "id": "nyt:9780063451070",
+      "title": "Dogs, Boys, And Other Things I'Ve Cried About",
+      "author": "Isabel Klee",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "Klee helps foster dogs overcome challenges…",
+      "synopsis_full": "Klee helps foster dogs overcome challenges while she faces her own complications.",
+      "source": "nyt",
+      "score": 0.0296
     }
   ]
 }
