@@ -1,143 +1,145 @@
 {
-  "generated_at": "2026-08-03T11:12:19.664214Z",
+  "generated_at": "2026-08-10T09:06:22.767163Z",
   "items": [
     {
-      "id": "gb:EN3E_8eU8aMC",
-      "title": "Friday Night Bites",
-      "author": "Chloe Neill",
-      "cover_url": "http://books.google.com/books/content?id=EN3E_8eU8aMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "id": "nyt:9781427295507",
+      "title": "Hijos de sangre y hueso",
+      "author": "Tomi Adeyemi",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781427295507.jpg",
       "subjects": [
-        "fiction"
+        "audio children's"
       ],
-      "year": 2009,
-      "synopsis_short": "The story of a young heiress's…",
-      "synopsis_full": "The story of a young heiress's initiation into the dark society of the Chicagoland Vampires continues... Ten months after vampires revealed their existence to the mortals of Chicago, they're enjoying a celebrity status usually reserved for the Hollywood elite. But should people learn about the Raves--mass feeding parties where vampires round up humans like cattle--the citizens will start sharpening their stakes. So now it's up to the new vampire Merit to reconnect with her upper class family and act as liaison between humans and bloodsuckers, and keep the more unsavory aspects of the vampire lifestyle out of the media. But someone doesn't want peace between them--someone with an ancient grudge...",
-      "source": "googlebooks",
-      "score": 1.7285
+      "year": 2026,
+      "synopsis_short": "Zélie fights to restore magic to…",
+      "synopsis_full": "Zélie fights to restore magic to the land of Orïsha. Read by Bahni Turpin. 17 hours, 56 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.7189
     },
     {
-      "id": "gb:v7VPEQAAQBAJ",
-      "title": "The Street of Crocodiles",
-      "author": "Bruno Schulz",
-      "cover_url": "http://books.google.com/books/content?id=v7VPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "id": "nyt:9780063495135",
+      "title": "The Day After",
+      "author": "Brian Tyler Cohen",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063495135.jpg",
+      "subjects": [
+        "audio nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The author of “Shameless” looks at…",
+      "synopsis_full": "The author of “Shameless” looks at the relationship Republicans and Democrats have to power and prescribes ways for it to be used after Donald Trump’s presidency. Read by the author. 6 hours, 22 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.7125
+    },
+    {
+      "id": "nyt:9798217079940",
+      "title": "Biological War",
+      "author": "Annie Jacobsen",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217079940.jpg",
+      "subjects": [
+        "audio nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The author of “Nuclear War” describes…",
+      "synopsis_full": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown. Read by the author. 11 hours, 14 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.7114
+    },
+    {
+      "id": "nyt:9781250403155",
+      "title": "Careless People",
+      "author": "Sarah Wynn-Williams",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250403155.jpg",
+      "subjects": [
+        "audio nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "A former Facebook executive gives an…",
+      "synopsis_full": "A former Facebook executive gives an account of policies and leadership at the social media platform. Read by the author. 13 hours, 16 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.7104
+    },
+    {
+      "id": "nyt:9781668156148",
+      "title": "Cancel Me If You Can",
+      "author": "Dave Portnoy",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668156148.jpg",
+      "subjects": [
+        "audio nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The founder of Barstool Sports describes…",
+      "synopsis_full": "The founder of Barstool Sports describes how he grew his business from a four-page newspaper into the digital media company it is today. Read by the author. 8 hours, 4 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.7075
+    },
+    {
+      "id": "nyt:9781427264305",
+      "title": "Extreme Ownership",
+      "author": "Jocko Willink and Leif Babin",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781427264305.jpg",
+      "subjects": [
+        "audio nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "Applying the principles of Navy SEALs…",
+      "synopsis_full": "Applying the principles of Navy SEALs leadership training to any organization. Read by the authors. 8 hours, 15 minutes unabridged.",
+      "source": "nyt",
+      "score": 1.7045
+    },
+    {
+      "id": "gb:XUtNEQAAQBAJ",
+      "title": "Las aventuras de Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "cover_url": "http://books.google.com/books/content?id=XUtNEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "subjects": [
         "fiction"
       ],
       "year": 2025,
-      "synopsis_short": "''The Street of Crocodiles'' by Bruno…",
-      "synopsis_full": "''The Street of Crocodiles'' by Bruno Schulz (1892-1942) was first published in Polish in 1934; this English translation was first published in the US by Walker and Company in 1963, public domain. A novel that blends the real and the fantastic, from \"one of the most original imaginations in modern Europe\" (Cynthia Ozick). The Street of Crocodiles in the Polish city of Drogobych is a street of memories and dreams where recollections of Bruno Schulz's uncommon boyhood and of the eerie side of his merchant family's life are evoked in a startling blend of the real and the fantastic. Most memorable - and most chilling - is the portrait of the author's father, a maddened shopkeeper who imports rare birds' eggs to hatch in his attic, who believes tailors' dummies should be treated like people, and whose obsessive fear of cockroaches causes him to resemble one. Bruno Schulz, a Polish Jew killed by the Nazis in 1942, is considered by many to have been the leading Polish writer between the two world wars.",
+      "synopsis_short": "In \"The Final Problem\", Sherlock Holmes…",
+      "synopsis_full": "In \"The Final Problem\", Sherlock Holmes finds himself locked in a dangerous battle of wits against Professor Moriarty, the mastermind behind London's criminal underworld. Aware of the growing threat, Holmes and Watson flee to Switzerland in an attempt to evade Moriarty's reach. As the pursuit intensifies, Holmes devises a plan to end Moriarty's influence once and for all, leading to a fateful confrontation at the Reichenbach Falls.",
       "source": "googlebooks",
-      "score": 1.71
+      "score": 1.6778
     },
     {
-      "id": "gb:-WhODwAAQBAJ",
-      "title": "Moby Dick",
-      "author": "Herman Melville",
-      "cover_url": "http://books.google.com/books/content?id=-WhODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "id": "gb:7rzMEQAAQBAJ",
+      "title": "The Maltese Falcon",
+      "author": "Desconocido",
+      "cover_url": "http://books.google.com/books/content?id=7rzMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "subjects": [
         "fiction"
       ],
-      "year": 2017,
-      "synopsis_short": "\"Moby-Dick\" is considered to be one…",
-      "synopsis_full": "\"Moby-Dick\" is considered to be one of the Great American Novels and a treasure of world literature, one of the great epics in all of literature. The story tells the adventures of wandering sailor Ishmael, and his voyage on the whaleship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab has one purpose on this voyage: to seek out Moby Dick, a ferocious, enigmatic white sperm whale. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg, which now drives Ahab to take revenge... Herman Melville (1819–1891) was an American novelist, short story writer, and poet of the American Renaissance period. His best known works include Typee (1846), a romantic account of his experiences in Polynesian life, and his whaling novel Moby-Dick (1851).",
+      "year": 2025,
+      "synopsis_short": "“When a man’s partner is killed…",
+      "synopsis_full": "“When a man’s partner is killed he’s supposed to do something about it. It doesn’t make any difference what you thought of him. He was your partner and you’re supposed to do something about it.” —Sam Spade A physically menacing character—“he looked rather pleasantly like a blond satan”—Detective Sam Spade is a lone wolf with an ambiguous moral compass. When his partner gets killed during a tense stakeout, he’s plunged headfirst into an entangled web of deceit, greed, and murder involving an extraordinary treasure with a shady backstory—the Maltese Falcon, a priceless bejeweled bird. Dashiell Hammett was a master of hard-boiled fiction, revolutionizing American detective stories with the archetypal tough guy character: aloof, sharp, and relentless. Hammett’s classic gumshoe mysteries reflected the gritty realism of his own turbulent life, from wartime experiences and political activism in the post-WWI Red Scare to a stint as a Pinkerton detective. His groundbreaking work reshaped crime writing, blurring the lines between hero and villain and transporting generations of readers into a noir world filled with betrayal and corruption.",
       "source": "googlebooks",
-      "score": 1.6881
+      "score": 1.6414
     },
     {
-      "id": "gb:NjWctE3-vzEC",
-      "title": "Uncle Tom’s Cabin (Volume 2 of 2) (EasyRead Large Edition)",
-      "author": "Harriet Beecher Stowe",
-      "cover_url": "http://books.google.com/books/content?id=NjWctE3-vzEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "id": "gb:b74fEAAAQBAJ",
+      "title": "Jane Eyre",
+      "author": "Charlotte Bronte",
+      "cover_url": "http://books.google.com/books/content?id=b74fEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "subjects": [
         "fiction"
       ],
-      "year": 2008,
-      "synopsis_short": "Stowes Uncle Toms Cabin (1852) is…",
-      "synopsis_full": "Stowes Uncle Toms Cabin (1852) is a powerful condemnation of slavery. With biblical references, she proves those wrong who contend that slavery is condoned in Christianity. The hardships faced by the Afro-Americans in order to survive are vivid and gut-wrenching, and Stowes female characters are ready to take on fate head-on.",
+      "year": 2021,
+      "synopsis_short": "Mistério, traição, escândalo e um amor…",
+      "synopsis_full": "Mistério, traição, escândalo e um amor que transcende o tempo. Desde o momento em que Jane Eyre colocou os olhos no proprietário de Thornfield Hall, soube que sua vida mudaria irrevogavelmente. O homem enigmático, complexo e tentador exige tudo o que Jane tem a oferecer ao convidá-la para uma jornada dos sentidos que escandalizaria a sociedade. Em seus braços fortes, ela se rende aos desejos mais sombrios do homem amado e descobre que os dela são igualmente abrasadores, mergulhando-a em um mundo que nunca suspeitou existir, mas do qual não quer mais escapar.",
       "source": "googlebooks",
-      "score": 1.6564
+      "score": 1.6276
     },
     {
-      "id": "gb:BjTaEAAAQBAJ",
-      "title": "Tom Swift And his Electric Rifle",
-      "author": "Victor Appleton",
-      "cover_url": "http://books.google.com/books/content?id=BjTaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "id": "nyt:9780525641544",
+      "title": "The Laws Of Human Nature",
+      "author": "Robert Greene",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780525641544.jpg",
       "subjects": [
-        "fiction"
-      ],
-      "year": 2023,
-      "synopsis_short": "“Have you anything special to do…",
-      "synopsis_full": "“Have you anything special to do to-night, Ned?” asked Tom Swift, the well-known inventor, as he paused in front of his chum’s window, in the Shopton National Bank. “No, nothing in particular,” replied the bank clerk, as he stacked up some bundles of bills. “Why do you ask?” “I wanted you to come over to the house for a while.” “Going to have a surprise party, or something like that?” “No, only I’ve got something I’d like to show you.” “A new invention?” “Well, not exactly new. You’ve seen it before, but not since I’ve improved it. I’m speaking of my new electric rifle. I’ve got it ready to try, now, and I’d like to see what you think of it. There’s a rifle range over at the house, and we can practice some shooting, if you haven’t anything else to do.” “I haven’t, and I’ll be glad to come. What are you doing in the bank, anyhow; putting away more of your wealth, Tom?” “Yes, I just made a little deposit. It’s some money I got from the government for the patents on my sky racer, and I’m salting it down here until Dad and I can think of a better investment.” “Good idea. Bring us all the money you can,” and the bank clerk, who held a small amount of stock in the financial institution, laughed, his chum joining in with him. “Well, then. I’ll expect you over this evening,” went on the youthful inventor, as he turned to leave the bank. “Yes, I’ll be there. Say, Tom, have you heard the latest about Andy Foger?” “No, I haven’t heard much since he left town right after I beat him in the aeroplane race at Eagle Park.”",
-      "source": "googlebooks",
-      "score": 1.6482
-    },
-    {
-      "id": "gb:SHDXjwEACAAJ",
-      "title": "The Ingenious Gentleman Don Quixote of La Mancha, Volume 2",
-      "author": "John Ormsby",
-      "cover_url": "http://books.google.com/books/content?id=SHDXjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "subjects": [],
-      "year": 2015,
-      "synopsis_short": "This work has been selected by…",
-      "synopsis_full": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
-      "source": "googlebooks",
-      "score": 0.1094
-    },
-    {
-      "id": "nyt:9781638932468",
-      "title": "Haunting Adeline",
-      "author": "H.D. Carlton",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781638932468.jpg",
-      "subjects": [
-        "paperback trade fiction"
+        "audio advice, how-to & misc"
       ],
       "year": 2026,
-      "synopsis_short": "The first book in the Cat…",
-      "synopsis_full": "The first book in the Cat and Mouse Duet series.",
+      "synopsis_short": "Read by Paul Michael and the…",
+      "synopsis_full": "Read by Paul Michael and the author. 28 hours, 27 minutes unabridged.",
       "source": "nyt",
-      "score": 0.102
-    },
-    {
-      "id": "nyt:9781668076279",
-      "title": "A Forsaken Prophecy",
-      "author": "Stacey McEwan",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668076279.jpg",
-      "subjects": [
-        "combined print & e-book fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The second book in the Artisan…",
-      "synopsis_full": "The second book in the Artisan trilogy. Nina and Patrick search for resources that may alter the course of the war.",
-      "source": "nyt",
-      "score": 0.1012
-    },
-    {
-      "id": "nyt:9780593726372",
-      "title": "Prince Of Swords",
-      "author": "Elise Kova",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593726372.jpg",
-      "subjects": [
-        "hardcover fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The second book in the Arcana…",
-      "synopsis_full": "The second book in the Arcana Academy series. Clara Graysword’s fate might be influenced by a secretive order known as the Worldkeepers.",
-      "source": "nyt",
-      "score": 0.0983
-    },
-    {
-      "id": "nyt:9781668043356",
-      "title": "Ghost Girl",
-      "author": "Eva Benefield",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781668043356.jpg",
-      "subjects": [
-        "hardcover nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The daughter of the victim of…",
-      "synopsis_full": "The daughter of the victim of the \"Black Swan\" murder case recounts how she navigated early adulthood on her own.",
-      "source": "nyt",
-      "score": 0.0966
+      "score": 0.1234
     }
   ]
 }

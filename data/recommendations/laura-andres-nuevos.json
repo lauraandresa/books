@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-08-03T11:13:07.704049Z",
+  "generated_at": "2026-08-10T09:06:51.798170Z",
   "items": [
     {
-      "id": "nyt:9780778306108",
-      "title": "Lorenzo",
-      "author": "Sadie Kincaid",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780778306108.jpg",
+      "id": "nyt:9780062562982",
+      "title": "El sutil arte de que te importe un caraj",
+      "author": "Mark Manson",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062562982.jpg",
       "subjects": [
-        "paperback trade fiction"
+        "audio advice, how-to & misc"
       ],
       "year": 2026,
-      "synopsis_short": "The third book in the Chicago…",
-      "synopsis_full": "The third book in the Chicago Ruthless series.",
+      "synopsis_short": "Read by Roger Wayne. 5 hours,…",
+      "synopsis_full": "Read by Roger Wayne. 5 hours, 17 minutes unabridged.",
       "source": "nyt",
-      "score": 0.131
+      "score": 0.1384
     },
     {
-      "id": "nyt:9780385550505",
-      "title": "Cool Machine",
-      "author": "Colson Whitehead",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780385550505.jpg",
+      "id": "nyt:9781508258476",
+      "title": "Atrévete a no gustar",
+      "author": "Ichiro Kishimi and Fumitake Koga",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781508258476.jpg",
+      "subjects": [
+        "audio advice, how-to & misc"
+      ],
+      "year": 2026,
+      "synopsis_short": "Read by Noah Galvin, Graeme Malcolm…",
+      "synopsis_full": "Read by Noah Galvin, Graeme Malcolm and January LaVoy. 6 hours, 28 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.1199
+    },
+    {
+      "id": "nyt:9781250433824",
+      "title": "Mad Mabel",
+      "author": "Sally Hepworth",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250433824.jpg",
+      "subjects": [
+        "audio fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "An elderly woman who was once…",
+      "synopsis_full": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden. Read by Hannah Fredericksen and Jenny Seedsman. 9 hours, 20 minutes unabridged.",
+      "source": "nyt",
+      "score": 0.1172
+    },
+    {
+      "id": "nyt:9781250861740",
+      "title": "The Adventure Zone: Story And Song",
+      "author": "Clint McElroy et al",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250861740.jpg",
+      "subjects": [
+        "graphic books and manga"
+      ],
+      "year": 2026,
+      "synopsis_short": "The seventh installment of the series…",
+      "synopsis_full": "The seventh installment of the series that is based on the podcast from the McElroy family. Just as Taako, Magnus and Merle find out lost truths about themselves, fearsome forces may cause serious trouble.",
+      "source": "nyt",
+      "score": 0.1054
+    },
+    {
+      "id": "nyt:9781250400673",
+      "title": "Sea Of Charms",
+      "author": "Sarah Beth Durst",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250400673.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "In the third book in the…",
-      "synopsis_full": "In the third book in the Harlem trilogy, 1980s crime and capitalism affect Ray Carney and the people around him.",
+      "synopsis_short": "The third book in the Spellshop…",
+      "synopsis_full": "The third book in the Spellshop series. A supply runner will allow a friend to be a member of her crew if he pretends to be her boyfriend.",
       "source": "nyt",
-      "score": 0.1268
+      "score": 0.0869
     },
     {
-      "id": "nyt:9780062976581",
-      "title": "niño, el Topo, el Zorro y el Caballo",
-      "author": "Charlie Mackesy",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062976581.jpg",
-      "subjects": [
-        "advice, how-to & miscellaneous"
-      ],
-      "year": 2026,
-      "synopsis_short": "\"Charlie Mackesy offers inspiration and hope…",
-      "synopsis_full": "\"Charlie Mackesy offers inspiration and hope in uncertain times in this beautiful book based on his famous quartet of characters. The Boy, the Mole, the Fox, and the Horse explores their unlikely friendship and the poignant, universal lessons they learn together. Radiant with Mackesy’s warmth and gentle wit, The Boy, the Mole, the Fox, and the Horse blends hand-written narrative with dozens of drawings, including some of his best-loved illustrations (including “Help,” which has been shared over one million times) and new, never-before-seen material. A modern classic in the vein of The Tao of Pooh, The Alchemist, and The Giving Tree, this charmingly designed keepsake will be treasured for generations to come.\" --Barnes & Noble website.",
-      "source": "nyt",
-      "score": 0.1205
-    },
-    {
-      "id": "nyt:9781324131434",
-      "title": "This Is The Plan",
-      "author": "Ben Wikler",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781324131434.jpg",
-      "subjects": [
-        "combined print & e-book nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The former chair of the Democratic…",
-      "synopsis_full": "The former chair of the Democratic Party of Wisconsin shares his perspectives on what it takes to win elections.",
-      "source": "nyt",
-      "score": 0.0942
-    },
-    {
-      "id": "nyt:9781368046459",
-      "title": "La paloma tiene que ir al cole",
-      "author": "Mo Willems",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781368046459.jpg",
+      "id": "nyt:9781464268076",
+      "title": "The Pumpkin Thief",
+      "author": "Alice Hemming",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781464268076.jpg",
       "subjects": [
         "children’s picture books"
       ],
       "year": 2026,
-      "synopsis_short": "Pigeon deals with the anxieties of…",
-      "synopsis_full": "Pigeon deals with the anxieties of going to school for the first time. (Ages 3 to 5)",
+      "synopsis_short": "Squirrel and Bird investigate the disappearance…",
+      "synopsis_full": "Squirrel and Bird investigate the disappearance of pumpkins from the vegetable garden. (Ages 4 to 8)",
       "source": "nyt",
-      "score": 0.0822
+      "score": 0.0833
     },
     {
-      "id": "nyt:9781982112837",
-      "title": "My Friends",
-      "author": "Fredrik Backman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781982112837.jpg",
+      "id": "nyt:9781637749289",
+      "title": "Blizzard Of Lies",
+      "author": "Dave Wedge",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781637749289.jpg",
       "subjects": [
-        "paperback trade fiction"
+        "hardcover nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "A young woman looks into the…",
-      "synopsis_full": "A young woman looks into the story behind a painting that was made 25 years ago and a small group of teens depicted in it; translated by Neil Smith.",
+      "synopsis_short": "A former journalist for The Boston…",
+      "synopsis_full": "A former journalist for The Boston Herald gives an account of the death of the police officer John O’Keefe and the subsequent fallout.",
       "source": "nyt",
-      "score": 0.0799
+      "score": 0.0798
     },
     {
-      "id": "nyt:9780062085504",
-      "title": "Libérame",
-      "author": "Tahereh Mafi",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062085504.jpg",
-      "subjects": [
-        "children’s & young adult series"
-      ],
-      "year": 2026,
-      "synopsis_short": "In a crumbling dystopian world, dark…",
-      "synopsis_full": "In a crumbling dystopian world, dark forces want to use Juliette’s superhuman powers. (Ages 14 and up)",
-      "source": "nyt",
-      "score": 0.0466
-    },
-    {
-      "id": "nyt:9781250284556",
-      "title": "Mad Mabel",
-      "author": "Sally Hepworth",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250284556.jpg",
+      "id": "nyt:9798347122363",
+      "title": "Daggermouth",
+      "author": "H.M. Wolfe",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798347122363.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "An elderly woman who was once…",
-      "synopsis_full": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
+      "synopsis_short": "In a city divided by privilege…",
+      "synopsis_full": "In a city divided by privilege and poverty, a mercenary is forced to marry the president’s son, whom she attempted to kill.",
       "source": "nyt",
-      "score": 0.0378
+      "score": 0.0776
     },
     {
-      "id": "nyt:9780593736616",
-      "title": "The New Perimenopause",
-      "author": "Mary Claire Haver",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593736616.jpg",
+      "id": "nyt:9781250899552",
+      "title": "The Wedding People",
+      "author": "Alison Espach",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250899552.jpg",
       "subjects": [
-        "advice, how-to & miscellaneous"
+        "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The #1 New York Times bestselling…",
-      "synopsis_full": "The #1 New York Times bestselling author of The New Menopause explains everything a woman needs to know to thrive during the often-misdiagnosed and medically ignored perimenopausal years “Don’t tolerate shrugged shoulders from your doctor during your perimenopausal journey. Get ahead of the issues and your potential symptoms with this important, empowering, and scientifically dependable book.”—Vonda Wright, MD, author of Unbreakable I’m just not feeling like myself! This is the battle cry of the perimenopausal woman. Though menstrual cycle changes and the emotional rollercoaster that accompanies them are the hallmarks of the transition to menopause, many women with regular periods as young as 35 can also start to feel irregular, with symptoms that include anxiety, fatigue, joint pain, brain fog, sexual symptoms, and volatile moods. This array of symptoms can be hugely disruptive—all the more so when a doctor dismisses a woman’s complaints as all in her head or prescribes unnecessary and potentially harmful treatment. In The New Perimenopause, Dr. Mary Claire Haver—the trailblazing voice behind the movement to revolutionize health care for women—sets things straight. She explains that the numerous and varied symptoms of perimenopause occur in direct response to normal endocrine changes; this is the hormonal \"zone of chaos.\" A comprehensive, authoritative book of science-backed information and lived experience, The New Perimenopause includes: Clear, science-backed explanations of what's going on in your body, from changes in your menstrual cycle to energy levels, mood, sleep, and sexual issues. How and why dealing with these changes now is preventative medicine for your later years. Checklists, questions for your doctor, and how to insist on good care. The very latest research on the benefits and side effects of progesterone therapy to help ease your hormonal transition. Whether you have symptoms or not, The New Perimenopause helps remove the mystery around this time of change, putting women in control of their health going forward.",
+      "synopsis_short": "A woman who is down on…",
+      "synopsis_full": "A woman who is down on her luck forms an unexpected bond with the bride at a wedding in Rhode Island.",
       "source": "nyt",
-      "score": 0.0335
+      "score": 0.0694
     },
     {
-      "id": "nyt:9780063451070",
-      "title": "Dogs, Boys, And Other Things I'Ve Cried About",
-      "author": "Isabel Klee",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063451070.jpg",
+      "id": "nyt:9780593129333",
+      "title": "Famesick",
+      "author": "Lena Dunham",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593129333.jpg",
       "subjects": [
         "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "Klee helps foster dogs overcome challenges…",
-      "synopsis_full": "Klee helps foster dogs overcome challenges while she faces her own complications.",
+      "synopsis_short": "The author of “Not That Kind…",
+      "synopsis_full": "The author of “Not That Kind of Girl” evaluates the effects that pursuing her creative endeavors had on her.",
       "source": "nyt",
-      "score": 0.0296
+      "score": 0.0625
     }
   ]
 }
