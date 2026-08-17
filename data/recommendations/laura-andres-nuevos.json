@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-08-10T09:06:51.798170Z",
+  "generated_at": "2026-08-17T09:00:19.767914Z",
   "items": [
     {
-      "id": "nyt:9780062562982",
-      "title": "El sutil arte de que te importe un caraj",
-      "author": "Mark Manson",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780062562982.jpg",
-      "subjects": [
-        "audio advice, how-to & misc"
-      ],
-      "year": 2026,
-      "synopsis_short": "Read by Roger Wayne. 5 hours,…",
-      "synopsis_full": "Read by Roger Wayne. 5 hours, 17 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.1384
-    },
-    {
-      "id": "nyt:9781508258476",
-      "title": "Atrévete a no gustar",
-      "author": "Ichiro Kishimi and Fumitake Koga",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781508258476.jpg",
-      "subjects": [
-        "audio advice, how-to & misc"
-      ],
-      "year": 2026,
-      "synopsis_short": "Read by Noah Galvin, Graeme Malcolm…",
-      "synopsis_full": "Read by Noah Galvin, Graeme Malcolm and January LaVoy. 6 hours, 28 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.1199
-    },
-    {
-      "id": "nyt:9781250433824",
-      "title": "Mad Mabel",
-      "author": "Sally Hepworth",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250433824.jpg",
-      "subjects": [
-        "audio fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "An elderly woman who was once…",
-      "synopsis_full": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden. Read by Hannah Fredericksen and Jenny Seedsman. 9 hours, 20 minutes unabridged.",
-      "source": "nyt",
-      "score": 0.1172
-    },
-    {
-      "id": "nyt:9781250861740",
-      "title": "The Adventure Zone: Story And Song",
-      "author": "Clint McElroy et al",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250861740.jpg",
-      "subjects": [
-        "graphic books and manga"
-      ],
-      "year": 2026,
-      "synopsis_short": "The seventh installment of the series…",
-      "synopsis_full": "The seventh installment of the series that is based on the podcast from the McElroy family. Just as Taako, Magnus and Merle find out lost truths about themselves, fearsome forces may cause serious trouble.",
-      "source": "nyt",
-      "score": 0.1054
-    },
-    {
-      "id": "nyt:9781250400673",
-      "title": "Sea Of Charms",
-      "author": "Sarah Beth Durst",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250400673.jpg",
+      "id": "nyt:9780593820278",
+      "title": "Carl'S Doomsday Scenario",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The third book in the Spellshop…",
-      "synopsis_full": "The third book in the Spellshop series. A supply runner will allow a friend to be a member of her crew if he pretends to be her boyfriend.",
+      "synopsis_short": "The second book in the \"Dungeon…",
+      "synopsis_full": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
       "source": "nyt",
-      "score": 0.0869
+      "score": 0.0903
     },
     {
-      "id": "nyt:9781464268076",
-      "title": "The Pumpkin Thief",
-      "author": "Alice Hemming",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781464268076.jpg",
+      "id": "nyt:9780385551298",
+      "title": "The Amateur",
+      "author": "Chris Bohjalian",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780385551298.jpg",
       "subjects": [
-        "children’s picture books"
+        "hardcover fiction"
       ],
       "year": 2026,
-      "synopsis_short": "Squirrel and Bird investigate the disappearance…",
-      "synopsis_full": "Squirrel and Bird investigate the disappearance of pumpkins from the vegetable garden. (Ages 4 to 8)",
+      "synopsis_short": "In 1978, the life of Mira…",
+      "synopsis_full": "In 1978, the life of Mira Winston, an 18-year-old golfer, begins to unravel when the ball from her practice swing kills a caddy.",
       "source": "nyt",
-      "score": 0.0833
+      "score": 0.0822
     },
     {
-      "id": "nyt:9781637749289",
-      "title": "Blizzard Of Lies",
-      "author": "Dave Wedge",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781637749289.jpg",
+      "id": "nyt:9780316587778",
+      "title": "Cursed By The Dawn",
+      "author": "Logan Karlie",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780316587778.jpg",
+      "subjects": [
+        "young adult hardcover"
+      ],
+      "year": 2026,
+      "synopsis_short": "Esmer and Erebus fight the demon…",
+      "synopsis_full": "Esmer and Erebus fight the demon king to save the Kingdom of Noctis.",
+      "source": "nyt",
+      "score": 0.0771
+    },
+    {
+      "id": "nyt:9780593832837",
+      "title": "How To Rule The World",
+      "author": "Theo Baker",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593832837.jpg",
       "subjects": [
         "hardcover nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "A former journalist for The Boston…",
-      "synopsis_full": "A former journalist for The Boston Herald gives an account of the death of the police officer John O’Keefe and the subsequent fallout.",
+      "synopsis_short": "The Stanford University student chronicles his…",
+      "synopsis_full": "The Stanford University student chronicles his investigation that helped end the tenure of Marc Tessier-Lavigne as the school’s president.",
       "source": "nyt",
-      "score": 0.0798
+      "score": 0.0751
     },
     {
-      "id": "nyt:9798347122363",
-      "title": "Daggermouth",
-      "author": "H.M. Wolfe",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798347122363.jpg",
+      "id": "nyt:9798256510381",
+      "title": "Death Row",
+      "author": "Freida McFadden",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798256510381.jpg",
+      "subjects": [
+        "paperback trade fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "As Talia Kemper’s execution draws nearer,…",
+      "synopsis_full": "As Talia Kemper’s execution draws nearer, she thinks she sees her husband, whom she is accused of killing, in the visiting area.",
+      "source": "nyt",
+      "score": 0.0654
+    },
+    {
+      "id": "nyt:9781510766808",
+      "title": "The Real Anthony Fauci",
+      "author": "Robert F. Kennedy Jr",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781510766808.jpg",
+      "subjects": [
+        "hardcover nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The anti-vaccine advocate gives his take…",
+      "synopsis_full": "The anti-vaccine advocate gives his take on the former chief medical advisor to the president.",
+      "source": "nyt",
+      "score": 0.0649
+    },
+    {
+      "id": "nyt:9781538765142",
+      "title": "You'Ll Be Sorry",
+      "author": "Lisa Gardner",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781538765142.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "In a city divided by privilege…",
-      "synopsis_full": "In a city divided by privilege and poverty, a mercenary is forced to marry the president’s son, whom she attempted to kill.",
+      "synopsis_short": "After a tragedy, a couple moves…",
+      "synopsis_full": "After a tragedy, a couple moves into a lodge in New Hampshire that bears the weight of a difficult and mysterious past.",
       "source": "nyt",
-      "score": 0.0776
+      "score": 0.0632
     },
     {
-      "id": "nyt:9781250899552",
-      "title": "The Wedding People",
-      "author": "Alison Espach",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250899552.jpg",
+      "id": "nyt:9781546137757",
+      "title": "I Survived The Bombing Of Pearl Harbor, 1941",
+      "author": "Lauren Tarshis",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546137757.jpg",
       "subjects": [
-        "combined print & e-book fiction"
+        "graphic books and manga"
       ],
       "year": 2026,
-      "synopsis_short": "A woman who is down on…",
-      "synopsis_full": "A woman who is down on her luck forms an unexpected bond with the bride at a wedding in Rhode Island.",
+      "synopsis_short": "A couple of months after moving…",
+      "synopsis_full": "A couple of months after moving to Hawaii from New York City, Danny Crane attempts to stow away on a ship, only to be interrupted by bullets and bombs coming from the sky; adapted into a graphic novel by Georgia Ball.",
       "source": "nyt",
-      "score": 0.0694
+      "score": 0.0614
     },
     {
-      "id": "nyt:9780593129333",
-      "title": "Famesick",
-      "author": "Lena Dunham",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593129333.jpg",
+      "id": "nyt:9780063450882",
+      "title": "Warriors: The New Prophecy",
+      "author": "Erin Hunter",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063450882.jpg",
       "subjects": [
-        "combined print & e-book nonfiction"
+        "graphic books and manga"
       ],
       "year": 2026,
-      "synopsis_short": "The author of “Not That Kind…",
-      "synopsis_full": "The author of “Not That Kind of Girl” evaluates the effects that pursuing her creative endeavors had on her.",
+      "synopsis_short": "The novels “Midnight” and “Moonrise” are…",
+      "synopsis_full": "The novels “Midnight” and “Moonrise” are adapted into a graphic novel by Gibson Twist.",
       "source": "nyt",
-      "score": 0.0625
+      "score": 0.0588
+    },
+    {
+      "id": "nyt:9798225003326",
+      "title": "Dragon Masters",
+      "author": "Tracey West",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798225003326.jpg",
+      "subjects": [
+        "children’s & young adult series"
+      ],
+      "year": 2026,
+      "synopsis_short": "Drake, once skeptical of the existence…",
+      "synopsis_full": "Drake, once skeptical of the existence of dragons, now trains his very own. (Ages 6 to 8)",
+      "source": "nyt",
+      "score": 0.0579
     }
   ]
 }
