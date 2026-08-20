@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-08-17T08:45:48.724793Z",
+  "generated_at": "2026-08-20T12:14:14.358793Z",
   "items": [
     {
-      "id": "gb:ZIGxEAAAQBAJ",
-      "title": "Persuasion",
-      "author": "Jane Austen",
-      "cover_url": "http://books.google.com/books/content?id=ZIGxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "subjects": [
-        "fiction"
-      ],
-      "year": 2023,
-      "synopsis_short": "The story concerns Anne Elliot, a…",
-      "synopsis_full": "The story concerns Anne Elliot, a young Englishwoman of 27 years, whose family is moving to lower their expenses and get out of debt, at the same time as the wars come to an end, putting sailors on shore. They rent their home to an Admiral and his wife. The wife's brother, Navy Captain Frederick Wentworth, had been engaged to Anne in 1806, and now they meet again, both single and unattached, after no contact in more than seven years.",
-      "source": "googlebooks",
-      "score": 1.6647
-    },
-    {
-      "id": "gb:xNAmBQAAQBAJ",
-      "title": "Afterdark",
-      "author": "Haruki Murakami",
-      "cover_url": "http://books.google.com/books/content?id=xNAmBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "subjects": [
-        "fiction"
-      ],
-      "year": 2011,
-      "synopsis_short": "Geschichten zwischen Mitternacht und Morgengrauen, die…",
-      "synopsis_full": "Geschichten zwischen Mitternacht und Morgengrauen, die sich in unseren Fantasien weiterspinnen. ›Afterdark‹ – nach einer Jazznummer ist dieser Roman von Haruki Murakami benannt. Es ist das spannungsvolle Buch einer Nacht, erzählt wie durch das Auge einer Kamera. Diese streift über das Panorama der nächtlichen Großstadt: Leuchtreklame und digitale Riesenbildschirme, Hip-Hop aus Lautsprechern, Ströme erlebnishungriger Angestellter und weißblonder Teenager in Miniröcken. Wie mit einem Zoom beobachten wir die Orte nächtlicher Handlungen, die sich dramatisch verbinden und entfalten. Wir begegnen dem jungen Mädchen Mari mit einem Musiker in der Filiale einer Restaurant-Kette sowie der Geschäftsführerin eines Love-Hotels, in dem gerade eine chinesische Prostituierte von einem Freier misshandelt wurde. Wir sehen im 24-Stunden-Supermarkt einen Büroangestellten, wie er das Handy der Chinesin aus dem Love-Hotel in ein Kühlregal legt. Und wir haben die Videoüberwachung bemerkt und dass ihm bereits der Zuhälter auf der Spur ist. Außerdem betritt der junge Musiker diesen Supermarkt und hört das fremde Handy läuten, während das wunderschöne Mädchen Eri, die Schwester von Mari, seit Monaten ununterbrochen schläft. ›Afterdark‹ bleibt voller Geheimnisse. Am Ende der sich überstürzenden und mysteriösen Ereignisse schickt uns Haruki Murakamis beunruhigende Prosa von der Nacht in den Tag zurück.",
-      "source": "googlebooks",
-      "score": 1.6195
-    },
-    {
-      "id": "nyt:9781546171607",
-      "title": "The Hunger Games",
-      "author": "Suzanne Collins",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546171607.jpg",
-      "subjects": [
-        "children’s & young adult series"
-      ],
-      "year": 2026,
-      "synopsis_short": "In a dystopia, a girl fights…",
-      "synopsis_full": "In a dystopia, a girl fights for survival on live TV.",
-      "source": "nyt",
-      "score": 1.0957
-    },
-    {
-      "id": "nyt:9780593723869",
-      "title": "A Trade Of Blood",
-      "author": "Robert Jackson Bennett",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593723869.jpg",
+      "id": "nyt:9780063458819",
+      "title": "The Secrets We Hide",
+      "author": "Karin Slaughter",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063458819.jpg",
       "subjects": [
         "combined print & e-book fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The third book in the Shadow…",
-      "synopsis_full": "The third book in the Shadow of the Leviathan series. Detective Ana Dolabra must prove the innocence of a powerful family’s heir.",
+      "synopsis_short": "The second book in the North…",
+      "synopsis_full": "The second book in the North Falls thriller series. Sheriff Emmy Clifton investigates a crime in which a mother was murdered and her daughter left for dead.",
       "source": "nyt",
-      "score": 0.117
+      "score": 1.7433
     },
     {
-      "id": "nyt:9780593723852",
-      "title": "A Trade Of Blood",
-      "author": "Robert Jackson Bennett",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593723852.jpg",
+      "id": "nyt:9781638933403",
+      "title": "The Butcher Legacy",
+      "author": "Alaina Urquhart",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781638933403.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The third book in the Dr.…",
+      "synopsis_full": "The third book in the Dr. Wren Muller series. Wren and Leroux get back to work as young girls vanish in two cities.",
+      "source": "nyt",
+      "score": 1.7321
+    },
+    {
+      "id": "nyt:9781538784051",
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781538784051.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "Lowen Ashleigh is hired by the…",
+      "synopsis_full": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+      "source": "nyt",
+      "score": 1.6972
+    },
+    {
+      "id": "nyt:9798217044092",
+      "title": "The Unknown",
+      "author": "Riley Sager",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217044092.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "A century after some spiritual mediums…",
+      "synopsis_full": "A century after some spiritual mediums disappeared from a remote Vermont island, a research trip for a film starts old troubles anew.",
+      "source": "nyt",
+      "score": 1.6631
+    },
+    {
+      "id": "nyt:9780593973141",
+      "title": "The True Meaning Of Love",
+      "author": "Danielle Steel",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593973141.jpg",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "When Russia attacks their country, Ukrainian…",
+      "synopsis_full": "When Russia attacks their country, Ukrainian citizens find ways to fight while others must flee.",
+      "source": "nyt",
+      "score": 1.6613
+    },
+    {
+      "id": "nyt:9780593956014",
+      "title": "The Eye Of The Bedlam Bride",
+      "author": "Matt Dinniman",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593956014.jpg",
       "subjects": [
         "hardcover fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The third book in the Shadow…",
-      "synopsis_full": "The third book in the Shadow of the Leviathan series. Detective Ana Dolabra must prove the innocence of a powerful family’s heir.",
+      "synopsis_short": "The sixth book in the \"Dungeon…",
+      "synopsis_full": "The sixth book in the \"Dungeon Crawler Carl\" series. On the eighth floor, Carl and Donut must capture a lethal monster.",
       "source": "nyt",
-      "score": 0.1151
+      "score": 0.136
     },
     {
-      "id": "nyt:9781682816721",
-      "title": "Adversary To The Villain",
-      "author": "Hannah Nicole Maehrer",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781682816721.jpg",
+      "id": "nyt:9780063458789",
+      "title": "The Secrets We Hide",
+      "author": "Karin Slaughter",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063458789.jpg",
       "subjects": [
-        "combined print & e-book fiction"
+        "hardcover fiction"
       ],
       "year": 2026,
-      "synopsis_short": "The fourth book in the Assistant…",
-      "synopsis_full": "The fourth book in the Assistant and the Villain series. Evie Sage gets ensnared in evil.",
+      "synopsis_short": "The second book in the North…",
+      "synopsis_full": "The second book in the North Falls thriller series. Sheriff Emmy Clifton investigates a crime in which a mother was murdered and her daughter left for dead.",
       "source": "nyt",
-      "score": 0.0974
+      "score": 0.1325
     },
     {
-      "id": "nyt:9781250367846",
-      "title": "The Lion & The Deathless Dark",
-      "author": "Carissa Broadbent",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250367846.jpg",
-      "subjects": [
-        "combined print & e-book fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The fifth book in the Crowns…",
-      "synopsis_full": "The fifth book in the Crowns of Nyaxia series. After committing a crime, a bounty hunter makes a deal with a vampire.",
-      "source": "nyt",
-      "score": 0.0892
-    },
-    {
-      "id": "nyt:9780374621568",
-      "title": "The Reverse Centaur'S Guide To Life After Ai",
-      "author": "Cory Doctorow",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780374621568.jpg",
-      "subjects": [
-        "combined print & e-book nonfiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "The journalist and science fiction writer…",
-      "synopsis_full": "The journalist and science fiction writer envisions the future of work and artificial intelligence.",
-      "source": "nyt",
-      "score": 0.0857
-    },
-    {
-      "id": "nyt:9798225017477",
-      "title": "Ghost In The Night",
-      "author": "Tiffany D. Jackson",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798225017477.jpg",
-      "subjects": [
-        "children’s middle grade hardcover"
-      ],
-      "year": 2026,
-      "synopsis_short": "Harmony Roundtree stumbles upon a murder…",
-      "synopsis_full": "Harmony Roundtree stumbles upon a murder mystery in Savannah, Ga. (Ages 9 to 12)",
-      "source": "nyt",
-      "score": 0.0788
-    },
-    {
-      "id": "nyt:9780593685297",
-      "title": "The Widow",
-      "author": "John Grisham",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593685297.jpg",
+      "id": "nyt:9798217180219",
+      "title": "Bonfire & Bliss Bookstore",
+      "author": "Brittanée Nicole",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217180219.jpg",
       "subjects": [
         "paperback trade fiction"
       ],
       "year": 2026,
-      "synopsis_short": "When Simon Latch, a lawyer in…",
-      "synopsis_full": "When Simon Latch, a lawyer in rural Virginia, is accused of murder, he goes in search of the real killer.",
+      "synopsis_short": "The second book in the Hope…",
+      "synopsis_full": "The second book in the Hope Harbor series. Penny Darling makes a deal with an old friend that may change their relationship.",
       "source": "nyt",
-      "score": 0.0777
+      "score": 0.1027
+    },
+    {
+      "id": "nyt:9798217032822",
+      "title": "Criaturas Imposibles 2. el Rey Envenenado / Impossible Creatures 2. the Poisoned King",
+      "author": "Katherine Rundell",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217032822.jpg",
+      "subjects": [
+        "children’s middle grade hardcover"
+      ],
+      "year": 2026,
+      "synopsis_short": "Christopher and Anya must save the…",
+      "synopsis_full": "Christopher and Anya must save the dragons of the Archipelago from a strange new threat. (Ages 10 and up)",
+      "source": "nyt",
+      "score": 0.0887
+    },
+    {
+      "id": "nyt:9780142001615",
+      "title": "Salt",
+      "author": "Mark Kurlansky",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780142001615.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "The author of “The Food of…",
+      "synopsis_full": "The author of “The Food of a Younger Land” describes several ways in which a valuable substance has impacted civilization.",
+      "source": "nyt",
+      "score": 0.0836
     }
   ]
 }

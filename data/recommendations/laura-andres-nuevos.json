@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-08-17T09:00:19.767914Z",
+  "generated_at": "2026-08-20T12:14:39.657623Z",
   "items": [
     {
-      "id": "nyt:9780593820278",
-      "title": "Carl'S Doomsday Scenario",
-      "author": "Matt Dinniman",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593820278.jpg",
+      "id": "nyt:9780743247542",
+      "title": "El castillo de cristal",
+      "author": "Jeannette Walls",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780743247542.jpg",
       "subjects": [
-        "combined print & e-book fiction"
+        "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "The second book in the \"Dungeon…",
-      "synopsis_full": "The second book in the \"Dungeon Crawler Carl\" series. Carl and Donut confront an ancient spell and heightened dangers.",
+      "synopsis_short": "The author recalls how she and…",
+      "synopsis_full": "The author recalls how she and her siblings were constantly moved from one bleak place to another.",
       "source": "nyt",
-      "score": 0.0903
+      "score": 0.101
     },
     {
-      "id": "nyt:9780385551298",
-      "title": "The Amateur",
-      "author": "Chris Bohjalian",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780385551298.jpg",
+      "id": "nyt:9780316601856",
+      "title": "The Last Immortals: Dawn Of The Axolotl",
+      "author": "Kit Brooks",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780316601856.jpg",
       "subjects": [
-        "hardcover fiction"
+        "middle grade paperback"
       ],
       "year": 2026,
-      "synopsis_short": "In 1978, the life of Mira…",
-      "synopsis_full": "In 1978, the life of Mira Winston, an 18-year-old golfer, begins to unravel when the ball from her practice swing kills a caddy.",
+      "synopsis_short": "Abandoned at birth, Ace the axolotl…",
+      "synopsis_full": "Abandoned at birth, Ace the axolotl struggles to survive both human and animal predators in his quest to save himself—and his entire species—in this epic middle grade fantasy for fans of Warrior Cats, with 24 black-and-white illustrations throughout. There’s danger lurking in the depths of the lake. Ace learns this early—when his twin brother cruelly devours his tail and leaves him for dead. Separated from his family, Ace is cast into a perilous waterway. He is wary of trusting others, but his survival will depend on it as he navigates treacherous algae blooms and hunts for food while he waits for his tail to regenerate. And when he stumbles upon a glowing green axolotl named Ariel, he learns that, with training, axolotls can develop an incredible power: immortality. With high rewards come unspeakable risks, and Ace has been hurt before. But the potential to cheat death might be too hard to resist. This action-packed adventure explores the strength that develops through adversity as Ace confronts bullying, betrayal, poisoned waters, and vicious predators, all while forming lasting bonds with the courageous axolotls he meets along the way.",
       "source": "nyt",
-      "score": 0.0822
+      "score": 0.0819
     },
     {
-      "id": "nyt:9780316587778",
-      "title": "Cursed By The Dawn",
-      "author": "Logan Karlie",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780316587778.jpg",
+      "id": "nyt:9781665985468",
+      "title": "The Aftermyth",
+      "author": "Tracy Wolff",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781665985468.jpg",
+      "subjects": [
+        "children’s middle grade hardcover"
+      ],
+      "year": 2026,
+      "synopsis_short": "When Penelope Weaver attends the prestigious…",
+      "synopsis_full": "When Penelope Weaver attends the prestigious Anaximander’s Academy, things don’t quite go her way. (Ages 8 to 12)",
+      "source": "nyt",
+      "score": 0.0773
+    },
+    {
+      "id": "nyt:9780593831403",
+      "title": "All That'S Unseen",
+      "author": "Emilee Hackney",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593831403.jpg",
+      "subjects": [
+        "combined print & e-book nonfiction"
+      ],
+      "year": 2026,
+      "synopsis_short": "Hackney recounts moving away from her…",
+      "synopsis_full": "Hackney recounts moving away from her Pentecostal upbringing in the Appalachian Mountains to attend Harvard.",
+      "source": "nyt",
+      "score": 0.0759
+    },
+    {
+      "id": "nyt:9798217445875",
+      "title": "Rootbound",
+      "author": "Margaret Owen",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217445875.jpg",
       "subjects": [
         "young adult hardcover"
       ],
       "year": 2026,
-      "synopsis_short": "Esmer and Erebus fight the demon…",
-      "synopsis_full": "Esmer and Erebus fight the demon king to save the Kingdom of Noctis.",
+      "synopsis_short": "Rapunzel travels to the neighboring kingdom…",
+      "synopsis_full": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony. (Ages 12 and up)",
       "source": "nyt",
-      "score": 0.0771
+      "score": 0.0723
     },
     {
-      "id": "nyt:9780593832837",
-      "title": "How To Rule The World",
-      "author": "Theo Baker",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780593832837.jpg",
+      "id": "nyt:9798217236237",
+      "title": "Wings Of Reverie",
+      "author": "Anna Bright",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217236237.jpg",
       "subjects": [
-        "hardcover nonfiction"
+        "young adult hardcover"
       ],
       "year": 2026,
-      "synopsis_short": "The Stanford University student chronicles his…",
-      "synopsis_full": "The Stanford University student chronicles his investigation that helped end the tenure of Marc Tessier-Lavigne as the school’s president.",
+      "synopsis_short": "Periwinkle and Weaver embark on a…",
+      "synopsis_full": "Periwinkle and Weaver embark on a quest to find the magic tools to save the Pixie Dust Tree. (Ages 12 and up)",
       "source": "nyt",
-      "score": 0.0751
+      "score": 0.0682
     },
     {
-      "id": "nyt:9798256510381",
-      "title": "Death Row",
-      "author": "Freida McFadden",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798256510381.jpg",
+      "id": "nyt:9798217046034",
+      "title": "Biological War",
+      "author": "Annie Jacobsen",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798217046034.jpg",
       "subjects": [
-        "paperback trade fiction"
+        "combined print & e-book nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "As Talia Kemper’s execution draws nearer,…",
-      "synopsis_full": "As Talia Kemper’s execution draws nearer, she thinks she sees her husband, whom she is accused of killing, in the visiting area.",
+      "synopsis_short": "The author of “Nuclear War” describes…",
+      "synopsis_full": "The author of “Nuclear War” describes potential outcomes of biological warfare, including mass death and societal breakdown.",
       "source": "nyt",
-      "score": 0.0654
+      "score": 0.0673
     },
     {
-      "id": "nyt:9781510766808",
-      "title": "The Real Anthony Fauci",
-      "author": "Robert F. Kennedy Jr",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781510766808.jpg",
+      "id": "nyt:9781250392817",
+      "title": "The Lions' Run",
+      "author": "Sara Pennypacker",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9781250392817.jpg",
       "subjects": [
-        "hardcover nonfiction"
+        "children’s middle grade hardcover"
       ],
       "year": 2026,
-      "synopsis_short": "The anti-vaccine advocate gives his take…",
-      "synopsis_full": "The anti-vaccine advocate gives his take on the former chief medical advisor to the president.",
+      "synopsis_short": "A young, orphaned boy’s courage emerges…",
+      "synopsis_full": "A young, orphaned boy’s courage emerges amid the Nazi occupation of his French village during World World II. (Ages 8 to 12)",
       "source": "nyt",
-      "score": 0.0649
+      "score": 0.0647
     },
     {
-      "id": "nyt:9781538765142",
-      "title": "You'Ll Be Sorry",
-      "author": "Lisa Gardner",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781538765142.jpg",
-      "subjects": [
-        "combined print & e-book fiction"
-      ],
-      "year": 2026,
-      "synopsis_short": "After a tragedy, a couple moves…",
-      "synopsis_full": "After a tragedy, a couple moves into a lodge in New Hampshire that bears the weight of a difficult and mysterious past.",
-      "source": "nyt",
-      "score": 0.0632
-    },
-    {
-      "id": "nyt:9781546137757",
-      "title": "I Survived The Bombing Of Pearl Harbor, 1941",
-      "author": "Lauren Tarshis",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9781546137757.jpg",
-      "subjects": [
-        "graphic books and manga"
-      ],
-      "year": 2026,
-      "synopsis_short": "A couple of months after moving…",
-      "synopsis_full": "A couple of months after moving to Hawaii from New York City, Danny Crane attempts to stow away on a ship, only to be interrupted by bullets and bombs coming from the sky; adapted into a graphic novel by Georgia Ball.",
-      "source": "nyt",
-      "score": 0.0614
-    },
-    {
-      "id": "nyt:9780063450882",
-      "title": "Warriors: The New Prophecy",
+      "id": "nyt:9780063203907",
+      "title": "Warriors: The Prophecies Begin #2",
       "author": "Erin Hunter",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063450882.jpg",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9780063203907.jpg",
       "subjects": [
         "graphic books and manga"
       ],
       "year": 2026,
-      "synopsis_short": "The novels “Midnight” and “Moonrise” are…",
-      "synopsis_full": "The novels “Midnight” and “Moonrise” are adapted into a graphic novel by Gibson Twist.",
+      "synopsis_short": "A graphic novel adaptation of “Forest…",
+      "synopsis_full": "A graphic novel adaptation of “Forest of Secrets\" and “Rising Storm.”",
       "source": "nyt",
-      "score": 0.0588
+      "score": 0.0617
     },
     {
-      "id": "nyt:9798225003326",
-      "title": "Dragon Masters",
-      "author": "Tracey West",
-      "cover_url": "https://static01.nyt.com/bestsellers/images/9798225003326.jpg",
+      "id": "nyt:9798898550387",
+      "title": "Knicker Bonkers",
+      "author": "The New York Post",
+      "cover_url": "https://static01.nyt.com/bestsellers/images/9798898550387.jpg",
       "subjects": [
-        "children’s & young adult series"
+        "paperback nonfiction"
       ],
       "year": 2026,
-      "synopsis_short": "Drake, once skeptical of the existence…",
-      "synopsis_full": "Drake, once skeptical of the existence of dragons, now trains his very own. (Ages 6 to 8)",
+      "synopsis_short": "An overview of the New York…",
+      "synopsis_full": "An overview of the New York Knicks’ 2026 championship season. ",
       "source": "nyt",
-      "score": 0.0579
+      "score": 0.0602
     }
   ]
 }
