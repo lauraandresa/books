@@ -78,6 +78,17 @@
       "year": 1926,
       "source": "openlibrary",
       "score": 5
+    },
+    {
+      "id": "ol:/works/OL456226W",
+      "title": "La Joven de La Perla",
+      "author": "Tracy Chevalier",
+      "subjects": [],
+      "description": "",
+      "cover_url": "https://covers.openlibrary.org/b/id/2291127-M.jpg",
+      "year": 1989,
+      "source": "openlibrary",
+      "score": 5
     }
   ],
   "liked": [
