@@ -1,123 +1,31 @@
 {
-  "generated_at": "2026-08-22T12:35:01.803962Z",
+  "generated_at": "2026-08-22T12:37:18.987207Z",
   "categories": [
     {
-      "name": "Clásicos",
+      "name": "Fantasía",
       "weight": 0,
       "items": [
         {
-          "id": "ol:/works/OL66562W",
-          "title": "Emma",
-          "author": "Jane Austen",
-          "cover_url": "https://covers.openlibrary.org/b/id/9278292-M.jpg",
+          "id": "ol:/works/OL138052W",
+          "title": "Alice's Adventures in Wonderland",
+          "author": "Lewis Carroll",
+          "cover_url": "https://covers.openlibrary.org/b/id/10527843-M.jpg",
           "subjects": [
-            "fiction, romance, historical, regency",
-            "inheritance and succession, fiction",
-            "mate selection, fiction",
-            "social classes, fiction",
-            "family life, fiction",
-            "text-books for foreigners",
-            "young women, fiction",
-            "literature"
+            "alice (fictitious character : carroll), fiction",
+            "british and irish fiction (fictional works by one author)",
+            "fiction, fantasy, general",
+            "juvenile fiction",
+            "classics",
+            "fantasy & magic",
+            "imagination & play",
+            "adventure and adventurers"
           ],
-          "year": 1811,
-          "category": "Clásicos",
-          "synopsis_short": "No home library is complete without…",
-          "synopsis_full": "No home library is complete without the classics! Sense and Sensibility is a keepsake to be read and treasured. Jane Austen wrote the original draft of Sense and Sensibility around 1795 at the age of nineteen, and published it in 1811. This classic tale takes place in southwest England and follows the Dashwood sisters, Elinor and Marianne, who are reduced to meager means when their father passes and entrusts his fortune to their half brother, John. Now available as part of the Word Cloud Classics series, Sense and Sensibility, a story of love, romance, and heartache, is a must-have addition to the libraries of all classic literature lovers.",
+          "year": 1865,
+          "category": "Fantasía",
+          "synopsis_short": "A little girl falls down a…",
+          "synopsis_full": "A little girl falls down a rabbit hole and discovers a world of nonsensical and amusing characters.",
           "source": "openlibrary",
-          "score": 0.037
-        }
-      ]
-    },
-    {
-      "name": "Otros",
-      "weight": 0,
-      "items": [
-        {
-          "id": "nyt:9780063288096",
-          "title": "Aphmau: Searching For Home",
-          "author": "Aphmau",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063288096.jpg",
-          "subjects": [
-            "graphic books and manga"
-          ],
-          "year": 2025,
-          "category": "Otros",
-          "synopsis_short": "When her birthday cake is sprinkled…",
-          "synopsis_full": "When her birthday cake is sprinkled with magic, a girl who is new in town finds her wishes come to life.",
-          "source": "nyt",
-          "score": 0.0155
-        },
-        {
-          "id": "nyt:9781665931960",
-          "title": "Rebellion 1776",
-          "author": "Laurie Halse Anderson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665931960.jpg",
-          "subjects": [
-            "middle grade paperback"
-          ],
-          "year": 2025,
-          "category": "Otros",
-          "synopsis_short": "Set in 1776, this is the…",
-          "synopsis_full": "Set in 1776, this is the story of thirteen-year-old Elsbeth, who struggles to find her missing father amidst the smallpox epidemic sweeping across Boston duriing the American revolution.",
-          "source": "nyt",
-          "score": 0.0
-        }
-      ]
-    },
-    {
-      "name": "Infantil y juvenil",
-      "weight": 0,
-      "items": [
-        {
-          "id": "ol:/works/OL20600W",
-          "title": "Los Viajes de Gulliver",
-          "author": "Jonathan Swift",
-          "cover_url": "https://covers.openlibrary.org/b/id/12717083-M.jpg",
-          "subjects": [
-            "ya",
-            "young adult",
-            "juvenile",
-            "fiction",
-            "fantasy",
-            "utopias",
-            "classic",
-            "classics"
-          ],
-          "year": 1726,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Travels into Several Remote Nations of…",
-          "synopsis_full": "Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships, better known simply as Gulliver's Travels (1726, amended 1735), is a novel by Anglo-Irish writer and clergyman Jonathan Swift, that is both a satire on human nature and a parody of the \"travellers' tales\" literary subgenre. It is Swift's best known full-length work, and a classic of English literature.",
-          "source": "openlibrary",
-          "score": -0.3514
-        }
-      ]
-    },
-    {
-      "name": "Histórico",
-      "weight": 0,
-      "items": [
-        {
-          "id": "ol:/works/OL9170454W",
-          "title": "Romeo y Julieta",
-          "author": "William Shakespeare",
-          "cover_url": "https://covers.openlibrary.org/b/id/8281954-M.jpg",
-          "subjects": [
-            "performing arts",
-            "stage history",
-            "reyes, reinas, soberanos",
-            "venganza",
-            "history and criticism",
-            "criticism and interpretation",
-            "literary criticism",
-            "succession"
-          ],
-          "year": 1603,
-          "category": "Histórico",
-          "synopsis_short": "The core of the ground-breaking, three…",
-          "synopsis_full": "The core of the ground-breaking, three text edition, this self-contained, free-standing volume gives readers the Second Quarto text (1604-5) and includes in its Introduction, notes and Appendices all the reader might expect to find in any standard Arden edition. As well as a full, illustrated Introduction to the play?s historical, cultural and performance contexts and a thorough survey of critical approaches to the play, an appendix contains the additional passages found only in the 1623 text. The core of the ground-breaking, three text edition, this self-contained, free-standing volume gives readers the Second Quarto text (1604-5) and includes in its Introduction, notes and Appendices all the reader might expect to find in any standard Arden edition. As well as a full, illustrated Introduction to the play?s historical, cultural and performance contexts and a thorough survey of critical approaches to the play, an appendix contains the additional passages found only in the 1623 text.",
-          "source": "openlibrary",
-          "score": -0.4235
+          "score": -1.461
         }
       ]
     }
