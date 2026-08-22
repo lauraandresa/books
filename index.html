@@ -589,7 +589,7 @@ document.getElementById('searchInput').addEventListener('keydown', e=>{ if(e.key
 async function addSeedBook(book){
   const profile = await getMyProfile();
   if(profile.seed_books.find(b=>b.id === book.id)) return;
-  profile.seed_books.push(book);
+  profile.seed_books.push({ ...book, score: 5 });
   await saveMyProfile(profile, `Añade libro semilla: ${book.title}`);
 }
 
