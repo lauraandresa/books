@@ -1,26 +1,6 @@
 {
   "seed_books": [
     {
-      "id": "ol:/works/OL17872352W",
-      "title": "La novia gitana",
-      "author": "Carmen Mola",
-      "subjects": [
-        "murder",
-        "asesinato",
-        "investigación (pesquisas)",
-        "fiction",
-        "investigation",
-        "novela policíaca",
-        "missing persons",
-        "ficción",
-        "personas desaparecidas"
-      ],
-      "description": "",
-      "cover_url": "https://covers.openlibrary.org/b/id/8179815-M.jpg",
-      "source": "openlibrary",
-      "year": 2021
-    },
-    {
       "id": "ol:/works/OL1914022W",
       "title": "The Pillars of the Earth",
       "author": "Ken Follett",
@@ -599,5 +579,6 @@
     "nyt:9780399588198",
     "ol:/works/OL176085W",
     "nyt:9781464249631"
-  ]
+  ],
+  "read": []
 }
