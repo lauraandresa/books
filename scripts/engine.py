@@ -362,7 +362,7 @@ def weighted_read(profile):
     favoritos, no hace falta puntuarlos)."""
     positive, negative = [], []
     for b in profile.get("seed_books", []):
-        positive.append((b, 2.0))  # equivalente a "nota 5" de peso
+        positive.append((b, float(b.get("score", 5) - 3)))  # 5★ por defecto -> peso 2.0
     for b in profile.get("read", []):
         score = b.get("score", 3)
         weight = score - 3
