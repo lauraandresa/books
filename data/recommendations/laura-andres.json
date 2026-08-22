@@ -1,33 +1,4 @@
 {
-  "generated_at": "2026-08-22T12:37:18.987207Z",
-  "categories": [
-    {
-      "name": "Fantasía",
-      "weight": 0,
-      "items": [
-        {
-          "id": "ol:/works/OL138052W",
-          "title": "Alice's Adventures in Wonderland",
-          "author": "Lewis Carroll",
-          "cover_url": "https://covers.openlibrary.org/b/id/10527843-M.jpg",
-          "subjects": [
-            "alice (fictitious character : carroll), fiction",
-            "british and irish fiction (fictional works by one author)",
-            "fiction, fantasy, general",
-            "juvenile fiction",
-            "classics",
-            "fantasy & magic",
-            "imagination & play",
-            "adventure and adventurers"
-          ],
-          "year": 1865,
-          "category": "Fantasía",
-          "synopsis_short": "A little girl falls down a…",
-          "synopsis_full": "A little girl falls down a rabbit hole and discovers a world of nonsensical and amusing characters.",
-          "source": "openlibrary",
-          "score": -1.461
-        }
-      ]
-    }
-  ]
+  "generated_at": "2026-08-22T12:38:38.354784Z",
+  "categories": []
 }
