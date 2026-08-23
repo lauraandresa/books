@@ -399,7 +399,7 @@ def category_weights(weighted_positive):
     return {k: v / total for k, v in weights.items()}
 
 
-def build_candidate_pool(positive_subjects):
+def build_candidate_pool(positive_subjects, positive_authors=None):
     pool = {}
 
     def add_all(items):
@@ -413,6 +413,15 @@ def build_candidate_pool(positive_subjects):
         add_all(gb_search(f"subject:{subj}", order="newest", limit=15))
         if len(pool) >= CANDIDATE_POOL_TARGET:
             break
+
+    if not positive_subjects and positive_authors:
+        # último recurso: si no tenemos ninguna materia (por eso no hay
+        # nada en el pool todavía), buscamos por autor para no quedarnos
+        # sin candidatos.
+        print("    sin materias disponibles, buscando por autor como alternativa")
+        for author in positive_authors[:5]:
+            add_all(gb_search(f'inauthor:"{author}"', order="newest", limit=15))
+            add_all(ol_search(author, limit=15))
     return list(pool.values())
 
 
@@ -557,6 +566,38 @@ def enrich_and_format(scored_group_items):
     return out
 
 
+def backfill_book_metadata(books):
+    """Si un libro tuyo (semilla o leído) no tiene año y/o materias
+    guardadas -típicamente porque vino de un resultado de Google Books,
+    que muy a menudo no rellena el campo de categorías-, se busca aquí
+    mismo en Open Library, que suele tener mejores materias. Muta los
+    diccionarios in-place, así que al guardar el perfil de vuelta, ya no
+    hace falta repetir la búsqueda la próxima vez."""
+    for b in books:
+        needs_year = not parse_year(b.get("year"))
+        needs_subjects = not b.get("subjects")
+        if not needs_year and not needs_subjects:
+            continue
+        title = (b.get("title") or "").strip()
+        if not title:
+            continue
+        author_first = (b.get("author") or "").split(",")[0].strip()
+        try:
+            results = ol_search(f"{title} {author_first}".strip(), limit=3)
+            if not results:
+                results = gb_search(f"{title} {author_first}".strip(), limit=3)
+            if results:
+                r = results[0]
+                if needs_year and r.get("year"):
+                    b["year"] = r["year"]
+                    print(f"    año recuperado para '{title}': {r['year']}")
+                if needs_subjects and r.get("subjects"):
+                    b["subjects"] = r["subjects"]
+                    print(f"    materias recuperadas para '{title}': {r['subjects'][:5]}")
+        except Exception as e:
+            print(f"    aviso: no se pudo completar '{title}' -> {e}")
+
+
 def process_profile(username):
     path = os.path.join(PROFILES_DIR, f"{username}.json")
     profile = load_profile(path)
@@ -566,7 +607,11 @@ def process_profile(username):
         print(f"  {username}: sin libros semilla ni lecturas valoradas positivamente, se omite")
         return
 
+    print(f"  {username}: comprobando año/materias de tus libros...")
+    backfill_book_metadata([b for b, _ in weighted_positive] + [b for b, _ in weighted_negative])
+
     pos_subjects = top_subjects_weighted(weighted_positive, n=8)
+    pos_authors = list({b.get("author", "").strip() for b, _ in weighted_positive if b.get("author")})
     year_range = compute_year_range(weighted_positive)
     cat_weights = category_weights(weighted_positive)
     print(f"  {username}: materias favoritas -> {pos_subjects}")
@@ -580,7 +625,7 @@ def process_profile(username):
     all_negative = weighted_negative + [(b, 2.0) for b in profile.get("disliked", [])]
 
     # ---- lista principal "para ti" ----
-    candidates = build_candidate_pool(pos_subjects)
+    candidates = build_candidate_pool(pos_subjects, pos_authors)
     candidates = [c for c in candidates if c["id"] not in shown_ids and c["id"] not in known_ids]
     print(f"  {username}: {len(candidates)} candidatos nuevos (principal)")
     scored = score_candidates(candidates, weighted_positive, all_negative, year_range=year_range, popularity_weight=0.6)
