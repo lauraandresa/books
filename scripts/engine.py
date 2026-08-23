@@ -42,8 +42,8 @@ HEADERS = {"User-Agent": "personal-book-recs/1.0 (uso personal, no comercial)"}
 NYT_API_KEY = os.environ.get("NYT_API_KEY", "").strip()
 GOOGLE_BOOKS_API_KEY = os.environ.get("GOOGLE_BOOKS_API_KEY", "").strip()
 
-MAX_RECS_PER_CATEGORY = 5
-MAX_CATEGORIES = 4
+MAX_RECS_PER_CATEGORY = 4
+MAX_CATEGORIES = 3
 CANDIDATE_POOL_TARGET = 150
 NEW_RELEASE_WINDOW_DAYS = 35
 YEAR_RANGE_PADDING = 12
@@ -304,18 +304,15 @@ def enrich_book(candidate):
         print(f"    aviso: no se pudo buscar título en español de '{title}' -> {e}")
 
     try:
+        # UNA sola llamada a Google Books por libro (antes se hacían
+        # hasta 4: español, cualquier idioma, texto libre, y otra más
+        # para el año). Cada llamada de más aquí se multiplica por
+        # decenas de libros y agota la cuota diaria gratuita de Google
+        # (1.000 peticiones/día) muy rápido.
         best = None
-        field_query = f'intitle:"{title}"' + (f' inauthor:"{author_first}"' if author_first else "")
-
-        if not candidate.get("description"):
-            es_results = gb_search(field_query, limit=3, lang="es")
-            best = es_results[0] if es_results else None
-            if not best:
-                any_results = gb_search(field_query, limit=3)
-                best = any_results[0] if any_results else None
-            if not best:
-                plain_results = gb_search(f"{title} {author_first}".strip(), limit=3)
-                best = plain_results[0] if plain_results else None
+        if not candidate.get("description") or not parse_year(candidate.get("year")):
+            results = gb_search(f"{title} {author_first}".strip(), limit=1)
+            best = results[0] if results else None
 
         if best:
             if best.get("description") and not candidate.get("description"):
@@ -325,16 +322,8 @@ def enrich_book(candidate):
             if not candidate.get("rating_count"):
                 candidate["rating_count"] = best.get("rating_count", 0)
                 candidate["rating_avg"] = best.get("rating_avg", 0)
-
-        # el año se intenta recuperar SIEMPRE que falte, tanto si hubo
-        # "best" de la búsqueda de sinopsis como si no
-        if not parse_year(candidate.get("year")):
-            year_source = best
-            if not year_source:
-                yr_results = gb_search(f"{title} {author_first}".strip(), limit=3)
-                year_source = yr_results[0] if yr_results else None
-            if year_source and year_source.get("year"):
-                candidate["year"] = year_source["year"]
+            if not parse_year(candidate.get("year")) and best.get("year"):
+                candidate["year"] = best["year"]
     except Exception as e:
         print(f"    aviso: no se pudo enriquecer '{title}' -> {e}")
 
@@ -408,7 +397,7 @@ def build_candidate_pool(positive_subjects, positive_authors=None):
                 pool[it["id"]] = it
 
     add_all(nyt_new_releases())
-    for subj in positive_subjects[:6]:
+    for subj in positive_subjects[:4]:
         add_all(ol_subject_works(subj, limit=20))
         add_all(gb_search(f"subject:{subj}", order="newest", limit=15))
         if len(pool) >= CANDIDATE_POOL_TARGET:
@@ -428,7 +417,7 @@ def build_candidate_pool(positive_subjects, positive_authors=None):
 def build_new_release_pool(positive_subjects):
     pool = {}
     cutoff = datetime.date.today() - datetime.timedelta(days=NEW_RELEASE_WINDOW_DAYS)
-    for subj in positive_subjects[:6]:
+    for subj in positive_subjects[:4]:
         for it in gb_search(f"subject:{subj}", order="newest", limit=20):
             d = parse_date_best_effort(it.get("published_date"))
             if d and d >= cutoff and it["id"] not in pool:
