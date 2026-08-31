@@ -1,4 +1,158 @@
 {
-  "generated_at": "2026-08-24T08:34:53.495355Z",
-  "categories": []
+  "generated_at": "2026-08-31T15:47:12.824195Z",
+  "categories": [
+    {
+      "name": "Drama y literatura general",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781635575569",
+          "title": "Corte de Rosas y Espinas 1 / a Court of Thorns and Roses 1",
+          "author": "Sarah J. Maas",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781635575569.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2015,
+          "category": "Drama y literatura general",
+          "synopsis_short": "After killing a wolf in the…",
+          "synopsis_full": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
+          "source": "nyt",
+          "score": 0.1792
+        },
+        {
+          "id": "nyt:9780316569835",
+          "title": "Delusional",
+          "author": "James Patterson and James O. Born",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316569835.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 18th book in the Michael…",
+          "synopsis_full": "The 18th book in the Michael Bennett series. A group that is angry with the government gets investigated.",
+          "source": "nyt",
+          "score": 0.1481
+        },
+        {
+          "id": "nyt:9780316569842",
+          "title": "Delusional",
+          "author": "James Patterson and James O. Born",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316569842.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 18th book in the Michael…",
+          "synopsis_full": "The 18th book in the Michael Bennett series. A group that is angry with the government gets investigated.",
+          "source": "nyt",
+          "score": 0.1425
+        },
+        {
+          "id": "nyt:9781668236567",
+          "title": "Theo Of Golden",
+          "author": "Allen Levi",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668236567.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2025,
+          "category": "Drama y literatura general",
+          "synopsis_short": "A man travels to a small…",
+          "synopsis_full": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
+          "source": "nyt",
+          "score": 0.1277
+        }
+      ]
+    },
+    {
+      "name": "Otros",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781368108706",
+          "title": "Penelope Rex Vs. The New Kid",
+          "author": "Ryan T. Higgins",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781368108706.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Penelope Rex discovers that she’s no…",
+          "synopsis_full": "Penelope Rex discovers that she’s no longer the only dinosaur in her school. (Ages 3 to 5)",
+          "source": "nyt",
+          "score": 0.0542
+        },
+        {
+          "id": "nyt:9780063436121",
+          "title": "Little Blue Truck Lost And Found",
+          "author": "Alice Schertle",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063436121.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Blue and friends search for Toad…",
+          "synopsis_full": "Blue and friends search for Toad before the hayride. (Ages 4 to 8)",
+          "source": "nyt",
+          "score": 0.0424
+        },
+        {
+          "id": "nyt:9798217423965",
+          "title": "The Digital Delusion",
+          "author": "Jared Cooney Horvath",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217423965.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2025,
+          "category": "Otros",
+          "synopsis_short": "NEW YORK TIMES BESTSELLER • Educator…",
+          "synopsis_full": "NEW YORK TIMES BESTSELLER • Educator and neuroscientist Dr. Jared Cooney Horvath reveals why digital tools in school consistently undermine learning—and what parents, teachers, and schools can do to push back with purpose. Our children are struggling. Schools, once alive with human connection, are now dominated by screens and digital tools. The result is unmistakable: declining performance, fractured attention, and the slow erosion of rigorous thought. For the first time in recent history, children are falling behind previous generations on many key measures of cognitive development. In The Digital Delusion, neuroscientist and educator Dr. Jared Cooney Horvath reveals how the widespread use of laptops, tablets, and classroom software is undermining how children learn and develop. Drawing on decades of research, he provides practical tools for families to reassess device use at home, equips educators with the means to restore attention-rich learning environments, and helps schools make smarter decisions about technology. He exposes and dismantles the central myths driving the EdTech movement and lays out a clear path for putting people—not programs—back at the center of education. This is not a call to reject technology. It’s a call to reclaim real learning.",
+          "source": "nyt",
+          "score": 0.0265
+        },
+        {
+          "id": "nyt:9798217113217",
+          "title": "Dragonborn",
+          "author": "Struan Murray",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217113217.jpg",
+          "subjects": [
+            "children’s middle grade hardcover"
+          ],
+          "year": 2025,
+          "category": "Otros",
+          "synopsis_short": "Alex Evans, once thought to be…",
+          "synopsis_full": "Alex Evans, once thought to be only human, has the dragon within her awakened. (Ages 8 to 12)",
+          "source": "nyt",
+          "score": 0.0156
+        }
+      ]
+    },
+    {
+      "name": "No ficción",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781637749364",
+          "title": "Beyond Darwin",
+          "author": "Bruce H. Lipton with Patricia King",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781637749364.jpg",
+          "subjects": [
+            "hardcover nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "Lipton argues that cooperation rather than…",
+          "synopsis_full": "Lipton argues that cooperation rather than competition drives human evolution.",
+          "source": "nyt",
+          "score": 0.0
+        }
+      ]
+    }
+  ]
 }

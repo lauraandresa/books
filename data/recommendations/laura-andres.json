@@ -1,4 +1,188 @@
 {
-  "generated_at": "2026-08-24T08:34:48.302815Z",
-  "categories": []
+  "generated_at": "2026-08-31T15:43:38.797683Z",
+  "categories": [
+    {
+      "name": "Drama y literatura general",
+      "weight": 0,
+      "items": [
+        {
+          "id": "gb:l4MZAAAAYAAJ",
+          "title": "A House-boat on the Styx",
+          "author": "John Kendrick Bangs",
+          "cover_url": "http://books.google.com/books/content?id=l4MZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          "subjects": [
+            "fiction"
+          ],
+          "year": 1898,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The premise of the book is…",
+          "synopsis_full": "The premise of the book is that everyone who has ever died (up to the time in which the book is set, which seems to be about the time of its publication) has gone to Styx, the river that circles the underworld. The book begins with Charon, ferryman of the Styx being startled - and annoyed - by the arrival of a houseboat on the Styx. At first afraid that the boat will put him out of business, he later finds out that he is actually to be appointed the boat's janitor. What follows are eleven more stories (for a total of twelve) which are set on the house boat. There is no central theme, and the purpose of the book appears to be as a literary thought experiment to see what would happen if various famous dead people were put in the same room with each other. Each chapter is a short story featuring various souls from history and mythology. In the twelfth chapter the house boat disappears, leading into the sequel, The Pursuit of the House-Boat.",
+          "source": "googlebooks",
+          "score": 1.7087
+        },
+        {
+          "id": "gb:_Cg9s9pfOsIC",
+          "title": "Santa Cruise",
+          "author": "Mary Higgins Clark, Carol Higgins Clark",
+          "cover_url": "http://books.google.com/books/content?id=_Cg9s9pfOsIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          "subjects": [
+            "fiction"
+          ],
+          "year": 2009,
+          "category": "Drama y literatura general",
+          "synopsis_short": "Embarking on a mystery seminar cruise…",
+          "synopsis_full": "Embarking on a mystery seminar cruise during the holiday season, amateur sleuth Alvirah, private detective Regan, and their family members find their voyage overshadowed by a ghost spotting, the disappearance of a fan, and an unexpected storm.",
+          "source": "googlebooks",
+          "score": 1.2981
+        },
+        {
+          "id": "nyt:9781668231869",
+          "title": "God'S Country",
+          "author": "William Kent Krueger",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668231869.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 22nd book in the Cork…",
+          "synopsis_full": "The 22nd book in the Cork O'Connor mystery series. Cork prepares for a family trip but encounters violence and danger instead.",
+          "source": "nyt",
+          "score": 0.1449
+        },
+        {
+          "id": "nyt:9781668231883",
+          "title": "God'S Country",
+          "author": "William Kent Krueger",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668231883.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 22nd book in the Cork…",
+          "synopsis_full": "The 22nd book in the Cork O'Connor mystery series. Cork prepares for a family trip but encounters violence and danger instead.",
+          "source": "nyt",
+          "score": 0.141
+        }
+      ]
+    },
+    {
+      "name": "No ficción",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781324130482",
+          "title": "No Prophets",
+          "author": "Jared Huffman",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781324130482.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The California congressman describes Christian nationalism’s…",
+          "synopsis_full": "The California congressman describes Christian nationalism’s work inside government to end the separation of church and state.",
+          "source": "nyt",
+          "score": 0.0845
+        },
+        {
+          "id": "nyt:9781538773420",
+          "title": "This Is Me",
+          "author": "Hayden Panettiere",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538773420.jpg",
+          "subjects": [
+            "hardcover nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The late Golden Globe-nominated actress describes…",
+          "synopsis_full": "The late Golden Globe-nominated actress describes how she contended with fame and handled difficulties in her life.",
+          "source": "nyt",
+          "score": 0.0371
+        },
+        {
+          "id": "nyt:9781538773444",
+          "title": "This Is Me",
+          "author": "Hayden Panettiere",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538773444.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The late Golden Globe-nominated actress describes…",
+          "synopsis_full": "The late Golden Globe-nominated actress describes how she contended with fame and handled difficulties in her life.",
+          "source": "nyt",
+          "score": 0.0364
+        },
+        {
+          "id": "nyt:9781668221402",
+          "title": "The Nerd Reich",
+          "author": "Gil Durán",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668221402.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "An independent journalist portrays a new…",
+          "synopsis_full": "An independent journalist portrays a new political order that would supplant elected governments with corporate rule.",
+          "source": "nyt",
+          "score": 0.0094
+        }
+      ]
+    },
+    {
+      "name": "Infantil y juvenil",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781546148500",
+          "title": "Harry Potter y la piedra filosofal",
+          "author": "J.K. Rowling",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546148500.jpg",
+          "subjects": [
+            "children’s & young adult series"
+          ],
+          "year": 1997,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "A wizard hones his conjuring skills…",
+          "synopsis_full": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
+          "source": "nyt",
+          "score": 0.0465
+        },
+        {
+          "id": "nyt:9780063481152",
+          "title": "The Thorn Queen",
+          "author": "Sasha Peyton Smith",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063481152.jpg",
+          "subjects": [
+            "young adult hardcover"
+          ],
+          "year": 2026,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Ivy Benton, now the queen of…",
+          "synopsis_full": "Ivy Benton, now the queen of England, schemes to dethrone her husband, save her sister and reunite with her true love, Emmett. (Ages 13 and up)",
+          "source": "nyt",
+          "score": 0.0366
+        },
+        {
+          "id": "nyt:9781640366008",
+          "title": "Barbie: Dreamscape",
+          "author": "Alex Aster",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781640366008.jpg",
+          "subjects": [
+            "young adult hardcover"
+          ],
+          "year": 2026,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "When Barbie graduates from Swancrest Academy…",
+          "synopsis_full": "When Barbie graduates from Swancrest Academy without a “fate,” she sets out on a quest to find her own. (Ages 12 and up)",
+          "source": "nyt",
+          "score": 0.0051
+        }
+      ]
+    }
+  ]
 }
