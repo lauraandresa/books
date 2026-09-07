@@ -1,135 +1,135 @@
 {
-  "generated_at": "2026-08-31T15:47:12.824195Z",
+  "generated_at": "2026-09-07T13:54:00.729074Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781635575569",
-          "title": "Corte de Rosas y Espinas 1 / a Court of Thorns and Roses 1",
-          "author": "Sarah J. Maas",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781635575569.jpg",
+          "id": "nyt:9780593336823",
+          "title": "La hipótesis del amor",
+          "author": "Ali Hazelwood",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593336823.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "paperback trade fiction"
           ],
-          "year": 2015,
+          "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "After killing a wolf in the…",
-          "synopsis_full": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
+          "synopsis_short": "A young professor agrees to pretend…",
+          "synopsis_full": "A young professor agrees to pretend to be a third-year Ph.D. candidate’s boyfriend.",
           "source": "nyt",
-          "score": 0.1792
+          "score": 0.1211
         },
         {
-          "id": "nyt:9780316569835",
-          "title": "Delusional",
-          "author": "James Patterson and James O. Born",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316569835.jpg",
+          "id": "nyt:9780593798638",
+          "title": "Pequeñas Mentiras / Big Little Lies",
+          "author": "Liane Moriarty",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593798638.jpg",
           "subjects": [
             "hardcover fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The 18th book in the Michael…",
-          "synopsis_full": "The 18th book in the Michael Bennett series. A group that is angry with the government gets investigated.",
+          "synopsis_short": "In a sequel to “Big Little…",
+          "synopsis_full": "In a sequel to “Big Little Lies,” a stranger’s presence at a school may force things to the fore that had not been shared.",
           "source": "nyt",
-          "score": 0.1481
+          "score": 0.1206
         },
         {
-          "id": "nyt:9780316569842",
-          "title": "Delusional",
-          "author": "James Patterson and James O. Born",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316569842.jpg",
+          "id": "nyt:9780593798645",
+          "title": "Big Little Truths",
+          "author": "Liane Moriarty",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593798645.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The 18th book in the Michael…",
-          "synopsis_full": "The 18th book in the Michael Bennett series. A group that is angry with the government gets investigated.",
+          "synopsis_short": "In a sequel to “Big Little…",
+          "synopsis_full": "In a sequel to “Big Little Lies,” a stranger’s presence at a school may force things to the fore that had not been shared.",
           "source": "nyt",
-          "score": 0.1425
+          "score": 0.1175
         },
         {
-          "id": "nyt:9781668236567",
-          "title": "Theo Of Golden",
-          "author": "Allen Levi",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668236567.jpg",
+          "id": "nyt:9781250284549",
+          "title": "Mad Mabel",
+          "author": "Sally Hepworth",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250284549.jpg",
           "subjects": [
             "hardcover fiction"
           ],
           "year": 2025,
           "category": "Drama y literatura general",
-          "synopsis_short": "A man travels to a small…",
-          "synopsis_full": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
+          "synopsis_short": "An elderly woman who was once…",
+          "synopsis_full": "An elderly woman who was once Australia’s youngest convicted murderer tries to keep her previous life hidden.",
           "source": "nyt",
-          "score": 0.1277
+          "score": 0.1066
         }
       ]
     },
     {
-      "name": "Otros",
+      "name": "Infantil y juvenil",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781368108706",
-          "title": "Penelope Rex Vs. The New Kid",
-          "author": "Ryan T. Higgins",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781368108706.jpg",
+          "id": "nyt:9780061992278",
+          "title": "El único e incomparable Iván",
+          "author": "Katherine Applegate",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780061992278.jpg",
           "subjects": [
-            "children’s picture books"
+            "children’s & young adult series"
+          ],
+          "year": 2015,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "The stories of Ivan, Bob and…",
+          "synopsis_full": "The stories of Ivan, Bob and Ruby. (Ages 8 to 12)",
+          "source": "nyt",
+          "score": 0.0652
+        },
+        {
+          "id": "nyt:9781368101042",
+          "title": "Rootbound",
+          "author": "Margaret Owen",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781368101042.jpg",
+          "subjects": [
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Penelope Rex discovers that she’s no…",
-          "synopsis_full": "Penelope Rex discovers that she’s no longer the only dinosaur in her school. (Ages 3 to 5)",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Rapunzel travels to the neighboring kingdom…",
+          "synopsis_full": "Rapunzel travels to the neighboring kingdom of Astera to attend the princess’ coming-of-age ceremony. (Ages 12 and up)",
           "source": "nyt",
-          "score": 0.0542
+          "score": 0.0466
         },
         {
-          "id": "nyt:9780063436121",
-          "title": "Little Blue Truck Lost And Found",
-          "author": "Alice Schertle",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063436121.jpg",
+          "id": "nyt:9781250347831",
+          "title": "But I Hate Him",
+          "author": "Page Powars",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250347831.jpg",
           "subjects": [
-            "children’s picture books"
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Blue and friends search for Toad…",
-          "synopsis_full": "Blue and friends search for Toad before the hayride. (Ages 4 to 8)",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Two academic rivals go head to…",
+          "synopsis_full": "Two academic rivals go head to head at BRAIN, one of the most cutthroat academic camps in the country. (Ages 14 to 18)",
           "source": "nyt",
-          "score": 0.0424
+          "score": 0.0395
         },
         {
-          "id": "nyt:9798217423965",
-          "title": "The Digital Delusion",
-          "author": "Jared Cooney Horvath",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217423965.jpg",
+          "id": "nyt:9798347119615",
+          "title": "21 Days Of Fear",
+          "author": "Hervé Commère",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798347119615.jpg",
           "subjects": [
-            "advice, how-to & miscellaneous"
+            "young adult paperback"
           ],
-          "year": 2025,
-          "category": "Otros",
-          "synopsis_short": "NEW YORK TIMES BESTSELLER • Educator…",
-          "synopsis_full": "NEW YORK TIMES BESTSELLER • Educator and neuroscientist Dr. Jared Cooney Horvath reveals why digital tools in school consistently undermine learning—and what parents, teachers, and schools can do to push back with purpose. Our children are struggling. Schools, once alive with human connection, are now dominated by screens and digital tools. The result is unmistakable: declining performance, fractured attention, and the slow erosion of rigorous thought. For the first time in recent history, children are falling behind previous generations on many key measures of cognitive development. In The Digital Delusion, neuroscientist and educator Dr. Jared Cooney Horvath reveals how the widespread use of laptops, tablets, and classroom software is undermining how children learn and develop. Drawing on decades of research, he provides practical tools for families to reassess device use at home, equips educators with the means to restore attention-rich learning environments, and helps schools make smarter decisions about technology. He exposes and dismantles the central myths driving the EdTech movement and lays out a clear path for putting people—not programs—back at the center of education. This is not a call to reject technology. It’s a call to reclaim real learning.",
+          "year": 2026,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "A teen is offered the chance…",
+          "synopsis_full": "A teen is offered the chance to reunite with his missing sister in this heart-wrenching young adult thriller told in a unique format, with chapter-a-day reading perfectly paced for amping up the chilling suspense! What would you do to bring your sister back from the dead? After Lucas’s sister mysteriously disappeared right under his nose ten years ago, his family was torn apart. His mother has been lost in a deep depression, his father unable to speak of what happened, and Lucas trapped in his guilt…until he receives a note that changes everything. He has twenty-one days to find out the truth. Twenty-one days to save his sister…if she really is still alive. Twenty-one days to figure out if he can sacrifice everything to bring her home. Every action is watched, every choice counted. Can he save his sister without losing himself again?",
           "source": "nyt",
-          "score": 0.0265
-        },
-        {
-          "id": "nyt:9798217113217",
-          "title": "Dragonborn",
-          "author": "Struan Murray",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217113217.jpg",
-          "subjects": [
-            "children’s middle grade hardcover"
-          ],
-          "year": 2025,
-          "category": "Otros",
-          "synopsis_short": "Alex Evans, once thought to be…",
-          "synopsis_full": "Alex Evans, once thought to be only human, has the dragon within her awakened. (Ages 8 to 12)",
-          "source": "nyt",
-          "score": 0.0156
+          "score": 0.0171
         }
       ]
     },
@@ -138,19 +138,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781637749364",
-          "title": "Beyond Darwin",
-          "author": "Bruce H. Lipton with Patricia King",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781637749364.jpg",
+          "id": "nyt:9781668655627",
+          "title": "This Is Me",
+          "author": "Hayden Panettiere",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668655627.jpg",
           "subjects": [
-            "hardcover nonfiction"
+            "audio nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "Lipton argues that cooperation rather than…",
-          "synopsis_full": "Lipton argues that cooperation rather than competition drives human evolution.",
+          "synopsis_short": "The late actress describes how she…",
+          "synopsis_full": "The late actress describes how she contended with fame and handled difficulties in her life. Read by the author. 8 hours, 47 minutes unabridged.",
           "source": "nyt",
-          "score": 0.0
+          "score": 0.0497
+        },
+        {
+          "id": "nyt:9781984863133",
+          "title": "Star Of The Show",
+          "author": "Dolly Parton with Tom Roland",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781984863133.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2025,
+          "category": "No ficción",
+          "synopsis_short": "Stories and photographs documenting the late…",
+          "synopsis_full": "Stories and photographs documenting the late country music icon’s career onstage.",
+          "source": "nyt",
+          "score": 0.0488
+        },
+        {
+          "id": "nyt:9781984862129",
+          "title": "Behind The Seams",
+          "author": "Dolly Parton with Holly George-Warren",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781984862129.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2023,
+          "category": "No ficción",
+          "synopsis_short": "The late country music legend shares…",
+          "synopsis_full": "The late country music legend shares stories about her favorite outfits on and off the stage.",
+          "source": "nyt",
+          "score": 0.042
+        },
+        {
+          "id": "nyt:9780525555247",
+          "title": "Tu Mundo y el Mío",
+          "author": "John Green",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780525555247.jpg",
+          "subjects": [
+            "paperback nonfiction"
+          ],
+          "year": 2023,
+          "category": "No ficción",
+          "synopsis_short": "A collection of personal essays that…",
+          "synopsis_full": "A collection of personal essays that review different facets of the human-centered planet.",
+          "source": "nyt",
+          "score": 0.0413
         }
       ]
     }
