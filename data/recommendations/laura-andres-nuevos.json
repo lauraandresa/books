@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-14T14:42:33.950380Z",
+  "generated_at": "2026-09-21T14:40:23.502126Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780316608329",
+          "id": "nyt:9780316601849",
           "title": "The Knave And The Moon",
           "author": "Rachel Gillig",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316608329.jpg",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316601849.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
@@ -18,118 +18,118 @@
           "synopsis_short": "The second book in the Stonewater…",
           "synopsis_full": "The second book in the Stonewater Kingdom series. A knave who is lacking his memory may help Sybil take Benji out of power.",
           "source": "nyt",
-          "score": 0.129
+          "score": 0.1363
         },
         {
-          "id": "nyt:9781668239247",
-          "title": "Scion",
-          "author": "James Islington",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668239247.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "In a world where the ultrawealthy…",
-          "synopsis_full": "In a world where the ultrawealthy can live forever, an assassin takes a job outside his regular line of work.",
-          "source": "nyt",
-          "score": 0.1242
-        },
-        {
-          "id": "nyt:9781335002679",
-          "title": "A Time Of Witches",
-          "author": "Madeline Martin",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781335002679.jpg",
+          "id": "nyt:9798890920461",
+          "title": "Stitched",
+          "author": "Eli McCann",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798890920461.jpg",
           "subjects": [
             "paperback trade fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "Lilith Legare discovers she has a…",
-          "synopsis_full": "Lilith Legare discovers she has a connection with a woman who was accused of being a witch in 1645.",
+          "synopsis_short": "When a big quilting competition in…",
+          "synopsis_full": "When a big quilting competition in Utah is announced, the women belonging to a quilting group add two young gay men as members.",
           "source": "nyt",
-          "score": 0.1229
+          "score": 0.1335
         },
         {
-          "id": "nyt:9780063488762",
-          "title": "The Most Dangerous Games",
-          "author": "MrBeast and James Patterson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063488762.jpg",
+          "id": "nyt:9781668074640",
+          "title": "The Witches Of Cambridge",
+          "author": "Alice Hoffman",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668074640.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "A group of mysteriously summoned competitors…",
-          "synopsis_full": "A group of mysteriously summoned competitors must overcome difficult terrain and tough challengers.",
+          "synopsis_short": "In 1950s Cambridge, Mass., Ava and…",
+          "synopsis_full": "In 1950s Cambridge, Mass., Ava and Lauren join a society of witches with ties going back to colonial times.",
           "source": "nyt",
-          "score": 0.1205
+          "score": 0.1322
+        },
+        {
+          "id": "nyt:9780385550345",
+          "title": "The Pirate Queen",
+          "author": "Ariel Lawhon",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780385550345.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "In 16th-century Ireland, Grace O’Malley endures…",
+          "synopsis_full": "In 16th-century Ireland, Grace O’Malley endures betrayal and hardship before leading a fleet of ships to defend her land.",
+          "source": "nyt",
+          "score": 0.1302
         }
       ]
     },
     {
-      "name": "Otros",
+      "name": "Infantil y juvenil",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798217236558",
-          "title": "Kiki'S Delivery Service",
-          "author": "Eiko Kadono",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217236558.jpg",
+          "id": "nyt:9780736447362",
+          "title": "Wings Of Reverie",
+          "author": "Anna Bright",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780736447362.jpg",
           "subjects": [
-            "children’s middle grade hardcover"
-          ],
-          "year": 2003,
-          "category": "Otros",
-          "synopsis_short": "When Kiki turns 13, she follows…",
-          "synopsis_full": "When Kiki turns 13, she follows the witches’ tradition of living in another town for a year, the seaside village of Koriko; translated by Emily Balistrieri. (Ages 8 to 12)",
-          "source": "nyt",
-          "score": 0.0445
-        },
-        {
-          "id": "nyt:9781665982344",
-          "title": "Island Of Skulls",
-          "author": "Peter Burns",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665982344.jpg",
-          "subjects": [
-            "children’s middle grade hardcover"
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Tom Morgan searches for a treasure…",
-          "synopsis_full": "Tom Morgan searches for a treasure of jewels, secret documents and plans for an ultimate weapon and he must beat the Chevaliers to it. (Ages 10 and up)",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Periwinkle and Weaver embark on a…",
+          "synopsis_full": "Periwinkle and Weaver embark on a quest to find the magic tools to save the Pixie Dust Tree. (Ages 12 and up)",
           "source": "nyt",
-          "score": 0.043
+          "score": 0.0421
         },
         {
-          "id": "nyt:9780763680893",
-          "title": "Despereaux (Spanish)",
-          "author": "Kate DiCamillo",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780763680893.jpg",
+          "id": "nyt:9798217124183",
+          "title": "Our Strange Duet",
+          "author": "Erin A. Craig",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217124183.jpg",
           "subjects": [
-            "middle grade paperback"
-          ],
-          "year": 2007,
-          "category": "Otros",
-          "synopsis_short": "A Literature Kit. A story of…",
-          "synopsis_full": "A Literature Kit. A story of a special mouse who is on a dangerous quest to rescue a princess. Despereaux falls in love with the princess even though mice and humans are not supposed to. Caught, Despereaux is sentenced to the dungeon, however he escapes and goes looking for his beloved princess. The princess, however, has already been tricked and has been taken to the dungeon. Despereaux must save his love, and together with the help of his friends, eventually rescues her. As his quest comes to a close, Despereaux realizes that he still cannot marry the princess, however they become friends. The story ends with the king, the princess, and Despereaux eating a feast and living happily together forever.",
-          "source": "nyt",
-          "score": 0.0334
-        },
-        {
-          "id": "nyt:9798217227105",
-          "title": "Kiki And The New Magic",
-          "author": "Eiko Kadono",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217227105.jpg",
-          "subjects": [
-            "children’s middle grade hardcover"
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Kiki faces the challenges of growing…",
-          "synopsis_full": "Kiki faces the challenges of growing up as an honest-to-goodness witch; translated by Emily Balistrieri. (Ages 8 to 12)",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Christine Daaé is visited by the…",
+          "synopsis_full": "Christine Daaé is visited by the Opera Ghost. Inspired by “The Phantom of the Opera.” (Ages 12 and up)",
           "source": "nyt",
-          "score": 0.0316
+          "score": 0.0405
+        },
+        {
+          "id": "nyt:9798217446353",
+          "title": "Blightfall",
+          "author": "Brandon Sanderson and Janci Patterson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217446353.jpg",
+          "subjects": [
+            "young adult hardcover"
+          ],
+          "year": 2026,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Arturo Mendez and his team escort…",
+          "synopsis_full": "Arturo Mendez and his team escort diplomats to the planet of Blightfall, where things are not what they appear to be. (Ages 12 and up)",
+          "source": "nyt",
+          "score": 0.0358
+        },
+        {
+          "id": "nyt:9781250894939",
+          "title": "Espíritu",
+          "author": "Aiden Thomas",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250894939.jpg",
+          "subjects": [
+            "young adult hardcover"
+          ],
+          "year": 2026,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "In this sequel to “Cemetery Boys,”…",
+          "synopsis_full": "In this sequel to “Cemetery Boys,” Julian is now able to see and communicate with spirits. (Ages 13 to 18)",
+          "source": "nyt",
+          "score": 0.0254
         }
       ]
     },
@@ -138,64 +138,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780063572676",
-          "title": "Let Us Do Good",
-          "author": "Frank Siller",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063572676.jpg",
+          "id": "nyt:9780306837432",
+          "title": "In My Darkest Hour",
+          "author": "Dave Mustaine with Joe Layden",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780306837432.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The chief executive of the Tunnel…",
-          "synopsis_full": "The chief executive of the Tunnel to Towers Foundation describes how the actions his deceased brother took on 9/11 inspired the creation of his nonprofit.",
+          "synopsis_short": "The lead vocalist and guitarist for…",
+          "synopsis_full": "The lead vocalist and guitarist for Megadeth describes the turn his life took when he was diagnosed with squamous cell carcinoma.",
           "source": "nyt",
-          "score": 0.0426
+          "score": 0.0406
         },
         {
-          "id": "nyt:9798886087178",
-          "title": "50 True Stories That Will Scare You To Death",
-          "author": "Sebastian Krahl",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798886087178.jpg",
-          "subjects": [
-            "paperback nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "A true-crime storyteller shares a collection…",
-          "synopsis_full": "A true-crime storyteller shares a collection of scary and gruesome tales.",
-          "source": "nyt",
-          "score": 0.0425
-        },
-        {
-          "id": "nyt:9781250869517",
-          "title": "John & Paul",
-          "author": "Ian Leslie",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250869517.jpg",
+          "id": "nyt:9781982116644",
+          "title": "I Once Knew A Guy Named Charlie",
+          "author": "Jaclyn Smith",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781982116644.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
-          "year": 2025,
+          "year": null,
           "category": "No ficción",
-          "synopsis_short": "The 23-year relationship between John Lennon…",
-          "synopsis_full": "The 23-year relationship between John Lennon and Paul McCartney is viewed through the lens of the songs they wrote together.",
+          "synopsis_short": "The actress recounts some of her…",
+          "synopsis_full": "The actress recounts some of her personal and professional experiences, including her five seasons on the TV series “Charlie’s Angels.”",
           "source": "nyt",
-          "score": 0.0353
+          "score": 0.0303
         },
         {
-          "id": "nyt:9780812984965",
-          "title": "Just Mercy",
-          "author": "Bryan Stevenson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780812984965.jpg",
+          "id": "nyt:9781250464170",
+          "title": "How To Eat An Elephant",
+          "author": "Sarah Longwell",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250464170.jpg",
           "subjects": [
-            "paperback nonfiction"
+            "combined print & e-book nonfiction"
           ],
-          "year": 2015,
+          "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "A civil rights lawyer and MacArthur…",
-          "synopsis_full": "A civil rights lawyer and MacArthur grant recipient’s memoir of his decades of work to free innocent people condemned to death.",
+          "synopsis_short": "The publisher of The Bulwark builds…",
+          "synopsis_full": "The publisher of The Bulwark builds upon her interactions with voters to envision a modern pro-democracy movement.",
           "source": "nyt",
-          "score": 0.0263
+          "score": 0.0277
+        },
+        {
+          "id": "nyt:9781980072157",
+          "title": "Dolly Parton, Songteller",
+          "author": "Dolly Parton and Robert K. Oermann",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781980072157.jpg",
+          "subjects": [
+            "audio nonfiction"
+          ],
+          "year": 2020,
+          "category": "No ficción",
+          "synopsis_short": "The late country music icon offers…",
+          "synopsis_full": "The late country music icon offers insights on 175 of her songs. Read by Dolly Parton. 5 hours, 18 minutes unabridged.",
+          "source": "nyt",
+          "score": 0.0204
         }
       ]
     }

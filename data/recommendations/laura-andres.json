@@ -1,135 +1,69 @@
 {
-  "generated_at": "2026-09-14T14:36:35.077339Z",
+  "generated_at": "2026-09-21T14:39:48.349733Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "gb:ggpgAAAAMAAJ",
-          "title": "Generations of Winter",
-          "author": "Василий Аксенов",
-          "cover_url": "http://books.google.com/books/content?id=ggpgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          "id": "gb:mM_otAEACAAJ",
+          "title": "The Ingenious Knight, Don Quixote de la Mancha;",
+          "author": "Juan Antonio Pellicer y. Pilares, Diego Clemencin, John Bowle",
+          "cover_url": "http://books.google.com/books/content?id=mM_otAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
           "subjects": [
             "fiction"
           ],
-          "year": 1994,
+          "year": 2018,
           "category": "Drama y literatura general",
-          "synopsis_short": "\"Written in the great tradition of…",
-          "synopsis_full": "\"Written in the great tradition of epic Russian fiction, Generations of Winter is a magnificent saga that captures one of the most fascinating chapters in modern history - the Soviet Union in the years 1925 to 1945. Breathtaking in its scope, masterful in its command of historical events and its understanding of timeless human truths, the novel has been likened to a twentieth-century War and Peace, and it marks a bold and brilliant departure for celebrated Russian author Vassily Aksyonov.\" \"At the center of this vast panoramic work is the genteel Gradov family. Patriarch Boris is an esteemed surgeon, his wife, Mary, a pianist, has two great passions - her family and the music of Chopin. Their elder son, Nikita, is a dashing officer in the Red Army, their younger son, Kirill, is a philosopher and devout Marxist, and their daughter, Nina, is a free-spirited poet with a dangerous tendency to speak her mind. Propelled by their loves, ambitions, and beliefs, the Gradovs cross paths with such historical figures as Joseph Stalin and head of the secret police Lavrenty Beria, who are brought unforgettably to life in these pages. As Stalin's power grows in the 1930s, the Soviet Union is plunged into a period of unprecedented intrigue, paranoia, and oppression, and the Gradovs suffer their share of tragedy. When the nation is caught up in the tidal wave of the Second World War, we follow the family through episodes of heroism and betrayal, victory and loss, on the battlefield and the home front alike.\" \"Supremely ambitious, artistically daring, deeply satisfying, Generations of Winter is a modern classic.\"--BOOK JACKET.Title Summary field provided by Blackwell North America, Inc. All Rights Reserved",
+          "synopsis_short": "This work has been selected by…",
+          "synopsis_full": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
           "source": "googlebooks",
-          "score": 1.777
+          "score": 0.7543
         },
         {
-          "id": "gb:r21zlfLLqUAC",
-          "title": "Jack and the Beanstalk",
-          "author": "Desconocido",
-          "cover_url": "http://books.google.com/books/content?id=r21zlfLLqUAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-          "subjects": [
-            "fiction"
-          ],
-          "year": 1999,
-          "category": "Drama y literatura general",
-          "synopsis_short": "Jack raced out of the kitchen…",
-          "synopsis_full": "Jack raced out of the kitchen just as the giant woke up, saw what was happening and began to give chase. Faster and faster ran Jack. Closer and closer ran the giant.",
-          "source": "googlebooks",
-          "score": 1.7205
-        },
-        {
-          "id": "nyt:9781636416151",
-          "title": "The Altar Of Pergamon",
-          "author": "Jonathan Cahn",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781636416151.jpg",
+          "id": "nyt:9781250414564",
+          "title": "Fury In Death",
+          "author": "J.D. Robb",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250414564.jpg",
           "subjects": [
             "hardcover fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "Ariel Herzog and Lara Winter are…",
-          "synopsis_full": "Ariel Herzog and Lara Winter are pursued as they go around the world in an attempt to unlock a mystery.",
+          "synopsis_short": "The 63rd book of the In…",
+          "synopsis_full": "The 63rd book of the In Death series. Eve Dallas investigates the violent death of a wealthy biotech executive.",
           "source": "nyt",
-          "score": 0.1755
+          "score": 0.1455
         },
         {
-          "id": "nyt:9780593717202",
-          "title": "The Disappearers",
-          "author": "Marlon James",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593717202.jpg",
+          "id": "nyt:9781250414571",
+          "title": "Fury In Death",
+          "author": "J.D. Robb",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250414571.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "In 1988, a group of eight…",
-          "synopsis_full": "In 1988, a group of eight gay men are attacked in Jamaica. One of them is killed, leaving the others to respond in different ways.",
+          "synopsis_short": "The 63rd book of the In…",
+          "synopsis_full": "The 63rd book of the In Death series. Eve Dallas investigates the violent death of a wealthy biotech executive.",
           "source": "nyt",
-          "score": 0.1287
-        }
-      ]
-    },
-    {
-      "name": "Infantil y juvenil",
-      "weight": 0,
-      "items": [
-        {
-          "id": "nyt:9781250411235",
-          "title": "Hawk & Sparrow",
-          "author": "Ayana Gray",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250411235.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Vesper Evans is hired to prove…",
-          "synopsis_full": "Vesper Evans is hired to prove the innocence of Maximilian Kite, a prime suspect in a murder case. (Ages 14 to 18)",
-          "source": "nyt",
-          "score": 0.0527
+          "score": 0.1417
         },
         {
-          "id": "nyt:9780593809945",
-          "title": "Impossible Creatures",
-          "author": "Katherine Rundell",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593809945.jpg",
+          "id": "nyt:9781668200223",
+          "title": "Burn Of The Everflame",
+          "author": "Penn Cole",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668200223.jpg",
           "subjects": [
-            "children’s & young adult series"
+            "combined print & e-book fiction"
           ],
           "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Christopher and his friends race to…",
-          "synopsis_full": "Christopher and his friends race to save the magic and the creatures of the Archipelago. (Ages 10 and up)",
+          "category": "Drama y literatura general",
+          "synopsis_short": "The fourth book of the Kindred's…",
+          "synopsis_full": "The fourth book of the Kindred's Curse Saga. War, rebellion and an unlikely alliance factor into whether the future will be in darkness.",
           "source": "nyt",
-          "score": 0.0446
-        },
-        {
-          "id": "nyt:9798347116430",
-          "title": "Falling Like Leaves",
-          "author": "Misty Wilson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798347116430.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2025,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Ellis and Cooper fall in love…",
-          "synopsis_full": "Ellis and Cooper fall in love during the Falling Leaves Festival in Connecticut. (Ages 12 and up)",
-          "source": "nyt",
-          "score": 0.0416
-        },
-        {
-          "id": "nyt:9798217027668",
-          "title": "The Gods Will Sing Our Song",
-          "author": "Autumn Krause",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217027668.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Love blooms in a Japanese internment…",
-          "synopsis_full": "Love blooms in a Japanese internment camp in California. (Ages 12 and up)",
-          "source": "nyt",
-          "score": 0.0405
+          "score": 0.1326
         }
       ]
     },
@@ -138,64 +72,130 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781324099406",
-          "title": "Crossing The Wine-Dark Sea",
-          "author": "Emily Wilson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781324099406.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "The translator of editions of Homer’s…",
-          "synopsis_full": "The translator of editions of Homer’s “Iliad” and “Odyssey” explicates potential complications encountered in her line of work.",
-          "source": "nyt",
-          "score": 0.0518
-        },
-        {
-          "id": "nyt:9780063447707",
-          "title": "A Life In Lyrics",
-          "author": "Freddie Mercury with Mary Austin",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063447707.jpg",
+          "id": "nyt:9781400256761",
+          "title": "Idle In Provence",
+          "author": "Eric Idle",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781400256761.jpg",
           "subjects": [
             "hardcover nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "Stories, notes and photographs that give…",
-          "synopsis_full": "Stories, notes and photographs that give insights into the deceased musician’s process of creating lyrics.",
+          "synopsis_short": "The Monty Python co-founder and author…",
+          "synopsis_full": "The Monty Python co-founder and author of \"Always Look on the Bright Side of Life\" describes how in 1971 he took a stone shack in disrepair in southeastern France and turned it into a haven for respite and creativity.",
           "source": "nyt",
-          "score": 0.0489
+          "score": 0.0759
         },
         {
-          "id": "nyt:9781668090169",
-          "title": "The Final Solution To The Jewish Question",
-          "author": "Dara Horn",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668090169.jpg",
+          "id": "nyt:9781541607828",
+          "title": "The Counterrevolution",
+          "author": "Victor Davis Hanson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781541607828.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The National Jewish Book Award winner…",
-          "synopsis_full": "The National Jewish Book Award winner looks at some of the causes of antisemitism throughout history.",
+          "synopsis_short": "The author of “The End of…",
+          "synopsis_full": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term.",
           "source": "nyt",
-          "score": 0.0458
+          "score": 0.057
         },
         {
-          "id": "nyt:9781668031575",
-          "title": "American Scoundrel",
-          "author": "Kai Bird with Susan Goldmark",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668031575.jpg",
+          "id": "nyt:9780593716342",
+          "title": "Money To Burn",
+          "author": "William D. Cohan",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593716342.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
-          "year": 2026,
+          "year": null,
           "category": "No ficción",
-          "synopsis_short": "A co-author of “American Prometheus” chronicles…",
-          "synopsis_full": "A co-author of “American Prometheus” chronicles the life and work of the lawyer and political fixer Roy Cohn.",
+          "synopsis_short": "The author of “Power Failure” depicts…",
+          "synopsis_full": "The author of “Power Failure” depicts the rise and fall of Leon Black, a founder of the investment firm Apollo Global Management.",
           "source": "nyt",
-          "score": 0.0432
+          "score": 0.0496
+        },
+        {
+          "id": "nyt:9781538784624",
+          "title": "Plot Twist",
+          "author": "Harlan Coben",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538784624.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": null,
+          "category": "No ficción",
+          "synopsis_short": "Coben, known for his suspense novels,…",
+          "synopsis_full": "Coben, known for his suspense novels, shares stories from his childhood, inspirations for his characters and insights into his craft.",
+          "source": "nyt",
+          "score": 0.0436
+        }
+      ]
+    },
+    {
+      "name": "Otros",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781338245752",
+          "title": "Ground Zero",
+          "author": "Alan Gratz",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781338245752.jpg",
+          "subjects": [
+            "children’s middle grade hardcover"
+          ],
+          "year": 2021,
+          "category": "Otros",
+          "synopsis_short": "Parallel storylines of Brandon and Reshmina…",
+          "synopsis_full": "Parallel storylines of Brandon and Reshmina take place on Sept. 11th, in 2001 and 2019. (Ages 9 to 12)",
+          "source": "nyt",
+          "score": 0.0359
+        },
+        {
+          "id": "nyt:9781668246498",
+          "title": "The Book Of Possibility",
+          "author": "Jim Curtis",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668246498.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "For fans of Manifest and Don’t…",
+          "synopsis_full": "For fans of Manifest and Don’t Believe Everything You Think, a practical and compassionate guide to healing from transformational coach Jim Curtis, using decades of experience and breakthrough techniques to help you unlock the power of your subconscious mind, release fear, and create lasting change. Real transformation doesn’t come from forcing your life to look a certain way on the outside. It begins by changing the identity, beliefs, and patterns operating from within. In his groundbreaking guide The Book of Possibility, transformational coach Jim Curtis draws from his own health challenges and decades of experience and reveals in this essential guide how subconscious patterns quietly shape your health, relationships, confidence, and sense of fulfillment—and how to break free. Blending neuroscience, hypnotherapy, mindfulness, and spirituality in a grounded and accessible way, Jim introduces his signature three-step process: - Release the fear-based conditioning that has been holding you back. - Align with the clarity, healing, and possibility already within you. - Become the version of yourself who can create lasting change from the inside out. Designed to feel like a one-on-one coaching session with Jim, The Book of Possibility is not just a book to read—it’s an experience. Each chapter weaves together reading, guided listening, and reflective writing to engage the senses and deepen self-discovery. Hypno-meditations, compassionate prompts, and coaching-style questions help you uncover what lies beneath the surface and teach you how to harness that inner potential to create meaningful change in real time. Empowering, practical, and deeply supportive, The Book of Possibility is for anyone ready to let go of old patterns, open themselves to change, and step into what is truly possible. Whether you are seeking emotional healing, more confidence, deeper clarity, healthier relationships, or a more empowered way of living, this book will remind you that what you’re seeking isn’t missing—it’s already within you, waiting to be remembered.",
+          "source": "nyt",
+          "score": 0.0301
+        },
+        {
+          "id": "nyt:9780593420225",
+          "title": "The Art Of Fighting",
+          "author": "Priya Parker",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593420225.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "AN INSTANT NEW YORK TIMES BESTSELLER…",
+          "synopsis_full": "AN INSTANT NEW YORK TIMES BESTSELLER FEATURED AT NBC’S TODAY SHOW, NEW YORK TIMES MAGAZINE, THE WALL STREET JOURNAL, AND MANY MORE “This is not just a book about having better arguments, it's a manual for building stronger relationships.”—Adam Grant “A paradigm-shifting examination of how we can get along better by understanding the role of conflict in our lives more deeply.” —Jefferson Fisher “Priya Parker offers a generous, radically helpful guide through our divides—without flattening what makes us different.” — Suleika Jaouad A paradigm-shattering exploration of how we fight and how we build healthy conflict, from the bestselling author of The Art of Gathering We say we want community. Successful teams. High-performing colleagues and workplaces. Dynamic friend groups. Yet many of us don’t understand the crucial element we need to forge long-lasting communities in our lives: healthy conflict. In The Art of Fighting, Priya Parker explains that we can’t form and grow effective relationships without a fight. She rejects the idea that conflict is abnormal or that good groups don’t fight. All groups change and evolve; indeed, it’s because people disagree that good groups flourish. As she did in the now-classic The Art of Gathering, Parker draws on her far-reaching experience as a conflict facilitator, her own detailed research, and real-world examples to lay out the ways that people can identify disputes, determine how to address them, and what to do if they are insurmountable. Whether people disagree in the boardroom or the locker room, on a playground or in church, online or in person, conflict is a part of life, and understanding healthy conflict and how to harness its power is more important than ever. The Art of Fighting is a vital primer to help all of us understand how to do that.",
+          "source": "nyt",
+          "score": 0.0284
+        },
+        {
+          "id": "nyt:9781492648949",
+          "title": "How To Catch A Monster",
+          "author": "Adam Wallace",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781492648949.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": 2017,
+          "category": "Otros",
+          "synopsis_short": "A boy attempts to catch the…",
+          "synopsis_full": "A boy attempts to catch the monster in his closet. (Ages 4 to 8)",
+          "source": "nyt",
+          "score": 0.0276
         }
       ]
     }
