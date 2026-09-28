@@ -1,135 +1,69 @@
 {
-  "generated_at": "2026-09-21T14:40:23.502126Z",
+  "generated_at": "2026-09-28T16:13:53.894714Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780316601849",
-          "title": "The Knave And The Moon",
-          "author": "Rachel Gillig",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316601849.jpg",
+          "id": "nyt:9798217060399",
+          "title": "We Chase Shadows",
+          "author": "Richard Osman",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217060399.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The second book in the We…",
+          "synopsis_full": "The second book in the We Solve Murders series. Amy, Rosie and Steve go after a killer at large.",
+          "source": "nyt",
+          "score": 0.141
+        },
+        {
+          "id": "nyt:9781464261183",
+          "title": "Eldritch",
+          "author": "Keri Lake",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464261183.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The second book in the Eating…",
+          "synopsis_full": "The second book in the Eating Woods series. As the mortal world grows darker, Maevyth and Zevander face new dangers.",
+          "source": "nyt",
+          "score": 0.1383
+        },
+        {
+          "id": "nyt:9798217060405",
+          "title": "We Chase Shadows",
+          "author": "Richard Osman",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217060405.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The second book in the Stonewater…",
-          "synopsis_full": "The second book in the Stonewater Kingdom series. A knave who is lacking his memory may help Sybil take Benji out of power.",
+          "synopsis_short": "The second book in the We…",
+          "synopsis_full": "The second book in the We Solve Murders series. Amy, Rosie and Steve go after a killer at large.",
           "source": "nyt",
-          "score": 0.1363
+          "score": 0.137
         },
         {
-          "id": "nyt:9798890920461",
-          "title": "Stitched",
-          "author": "Eli McCann",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798890920461.jpg",
-          "subjects": [
-            "paperback trade fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "When a big quilting competition in…",
-          "synopsis_full": "When a big quilting competition in Utah is announced, the women belonging to a quilting group add two young gay men as members.",
-          "source": "nyt",
-          "score": 0.1335
-        },
-        {
-          "id": "nyt:9781668074640",
-          "title": "The Witches Of Cambridge",
-          "author": "Alice Hoffman",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668074640.jpg",
+          "id": "nyt:9780778307518",
+          "title": "The Emperor'S Enemy",
+          "author": "Jasmine Mas",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780778307518.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "In 1950s Cambridge, Mass., Ava and…",
-          "synopsis_full": "In 1950s Cambridge, Mass., Ava and Lauren join a society of witches with ties going back to colonial times.",
+          "synopsis_short": "A skilled hunter named Zora Ravenal…",
+          "synopsis_full": "A skilled hunter named Zora Ravenal is caught in a war and kept in close quarters with a man who is obsessed with her.",
           "source": "nyt",
-          "score": 0.1322
-        },
-        {
-          "id": "nyt:9780385550345",
-          "title": "The Pirate Queen",
-          "author": "Ariel Lawhon",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780385550345.jpg",
-          "subjects": [
-            "combined print & e-book fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "In 16th-century Ireland, Grace O’Malley endures…",
-          "synopsis_full": "In 16th-century Ireland, Grace O’Malley endures betrayal and hardship before leading a fleet of ships to defend her land.",
-          "source": "nyt",
-          "score": 0.1302
-        }
-      ]
-    },
-    {
-      "name": "Infantil y juvenil",
-      "weight": 0,
-      "items": [
-        {
-          "id": "nyt:9780736447362",
-          "title": "Wings Of Reverie",
-          "author": "Anna Bright",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780736447362.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Periwinkle and Weaver embark on a…",
-          "synopsis_full": "Periwinkle and Weaver embark on a quest to find the magic tools to save the Pixie Dust Tree. (Ages 12 and up)",
-          "source": "nyt",
-          "score": 0.0421
-        },
-        {
-          "id": "nyt:9798217124183",
-          "title": "Our Strange Duet",
-          "author": "Erin A. Craig",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217124183.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Christine Daaé is visited by the…",
-          "synopsis_full": "Christine Daaé is visited by the Opera Ghost. Inspired by “The Phantom of the Opera.” (Ages 12 and up)",
-          "source": "nyt",
-          "score": 0.0405
-        },
-        {
-          "id": "nyt:9798217446353",
-          "title": "Blightfall",
-          "author": "Brandon Sanderson and Janci Patterson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217446353.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Arturo Mendez and his team escort…",
-          "synopsis_full": "Arturo Mendez and his team escort diplomats to the planet of Blightfall, where things are not what they appear to be. (Ages 12 and up)",
-          "source": "nyt",
-          "score": 0.0358
-        },
-        {
-          "id": "nyt:9781250894939",
-          "title": "Espíritu",
-          "author": "Aiden Thomas",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250894939.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "In this sequel to “Cemetery Boys,”…",
-          "synopsis_full": "In this sequel to “Cemetery Boys,” Julian is now able to see and communicate with spirits. (Ages 13 to 18)",
-          "source": "nyt",
-          "score": 0.0254
+          "score": 0.1204
         }
       ]
     },
@@ -138,64 +72,130 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780306837432",
-          "title": "In My Darkest Hour",
-          "author": "Dave Mustaine with Joe Layden",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780306837432.jpg",
+          "id": "nyt:9781982177331",
+          "title": "One Man In",
+          "author": "Christian Craighead",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781982177331.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The lead vocalist and guitarist for…",
-          "synopsis_full": "The lead vocalist and guitarist for Megadeth describes the turn his life took when he was diagnosed with squamous cell carcinoma.",
+          "synopsis_short": "A former British special forces soldier…",
+          "synopsis_full": "A former British special forces soldier gives an account of his fight against a unit of ethnic Somali terrorists at a hotel and office complex in Nairobi.",
           "source": "nyt",
-          "score": 0.0406
+          "score": 0.0621
         },
         {
-          "id": "nyt:9781982116644",
-          "title": "I Once Knew A Guy Named Charlie",
-          "author": "Jaclyn Smith",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781982116644.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "The actress recounts some of her…",
-          "synopsis_full": "The actress recounts some of her personal and professional experiences, including her five seasons on the TV series “Charlie’s Angels.”",
-          "source": "nyt",
-          "score": 0.0303
-        },
-        {
-          "id": "nyt:9781250464170",
-          "title": "How To Eat An Elephant",
-          "author": "Sarah Longwell",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250464170.jpg",
+          "id": "nyt:9781538777879",
+          "title": "The Perilous Fight",
+          "author": "Colin Kaepernick with Nick Chiles",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538777879.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The publisher of The Bulwark builds…",
-          "synopsis_full": "The publisher of The Bulwark builds upon her interactions with voters to envision a modern pro-democracy movement.",
+          "synopsis_short": "The Super Bowl quarterback and civil…",
+          "synopsis_full": "The Super Bowl quarterback and civil rights activist describes defining moments in his life and their outcomes.",
           "source": "nyt",
-          "score": 0.0277
+          "score": 0.0523
         },
         {
-          "id": "nyt:9781980072157",
-          "title": "Dolly Parton, Songteller",
-          "author": "Dolly Parton and Robert K. Oermann",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781980072157.jpg",
+          "id": "nyt:9780374621384",
+          "title": "End Times Fascism",
+          "author": "Naomi Klein and Astra Taylor",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780374621384.jpg",
           "subjects": [
-            "audio nonfiction"
+            "combined print & e-book nonfiction"
           ],
-          "year": 2020,
+          "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The late country music icon offers…",
-          "synopsis_full": "The late country music icon offers insights on 175 of her songs. Read by Dolly Parton. 5 hours, 18 minutes unabridged.",
+          "synopsis_short": "An investigation of the shared beliefs…",
+          "synopsis_full": "An investigation of the shared beliefs belonging to religious fundamentalists, Silicon Valley technologists and ethno-nationalists.",
           "source": "nyt",
-          "score": 0.0204
+          "score": 0.0501
+        },
+        {
+          "id": "nyt:9781546008842",
+          "title": "My Battlefield",
+          "author": "Joyce Meyer",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546008842.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The author of “God Is Not…",
+          "synopsis_full": "The author of “God Is Not Mad at You” retraces her journey to become a Bible teacher and ministry leader.",
+          "source": "nyt",
+          "score": 0.0329
+        }
+      ]
+    },
+    {
+      "name": "Otros",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781368117869",
+          "title": "The Art Of Gravity Falls",
+          "author": "Alex Hirsch and Rob Renzetti",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781368117869.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "This is a forthcoming title from…",
+          "synopsis_full": "This is a forthcoming title from Hyperion Avenue. It will be released on 9/15/2026.",
+          "source": "nyt",
+          "score": 0.0477
+        },
+        {
+          "id": "nyt:9780763680909",
+          "title": "Prodigioso Viaje de Edward Tulane",
+          "author": "Kate DiCamillo",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780763680909.jpg",
+          "subjects": [
+            "middle grade paperback"
+          ],
+          "year": 2006,
+          "category": "Otros",
+          "synopsis_short": "Edward Tulane, a cold-hearted and proud…",
+          "synopsis_full": "Edward Tulane, a cold-hearted and proud toy rabbit, loves only himself until he is separated from the little girl who adores him and travels across the country, acquiring new owners and listening to their hopes, dreams, and histories.",
+          "source": "nyt",
+          "score": 0.0402
+        },
+        {
+          "id": "nyt:9798225063191",
+          "title": "Flight",
+          "author": "Alan Gratz",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798225063191.jpg",
+          "subjects": [
+            "children’s middle grade hardcover"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Two Honduran refugee children ride on…",
+          "synopsis_full": "Two Honduran refugee children ride on the top of a freight train known as “The Beast” to get to the Mexican-U.S. border. (Ages 9 to 12)",
+          "source": "nyt",
+          "score": 0.0387
+        },
+        {
+          "id": "nyt:9781419770555",
+          "title": "Spooky Rivers",
+          "author": "Geo Rutherford",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781419770555.jpg",
+          "subjects": [
+            "children’s middle grade hardcover"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "The histories of 25 mysterious rivers…",
+          "synopsis_full": "The histories of 25 mysterious rivers around the world. (Ages 8 to 11)",
+          "source": "nyt",
+          "score": 0.0371
         }
       ]
     }

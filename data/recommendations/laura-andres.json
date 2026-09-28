@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-21T14:39:48.349733Z",
+  "generated_at": "2026-09-28T16:12:05.843735Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "gb:mM_otAEACAAJ",
-          "title": "The Ingenious Knight, Don Quixote de la Mancha;",
-          "author": "Juan Antonio Pellicer y. Pilares, Diego Clemencin, John Bowle",
-          "cover_url": "http://books.google.com/books/content?id=mM_otAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-          "subjects": [
-            "fiction"
-          ],
-          "year": 2018,
-          "category": "Drama y literatura general",
-          "synopsis_short": "This work has been selected by…",
-          "synopsis_full": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
-          "source": "googlebooks",
-          "score": 0.7543
-        },
-        {
-          "id": "nyt:9781250414564",
-          "title": "Fury In Death",
-          "author": "J.D. Robb",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250414564.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The 63rd book of the In…",
-          "synopsis_full": "The 63rd book of the In Death series. Eve Dallas investigates the violent death of a wealthy biotech executive.",
-          "source": "nyt",
-          "score": 0.1455
-        },
-        {
-          "id": "nyt:9781250414571",
-          "title": "Fury In Death",
-          "author": "J.D. Robb",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250414571.jpg",
+          "id": "nyt:9780316567916",
+          "title": "The Thoroughbreds",
+          "author": "Elin Hilderbrand and Shelby Cunningham",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316567916.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The 63rd book of the In…",
-          "synopsis_full": "The 63rd book of the In Death series. Eve Dallas investigates the violent death of a wealthy biotech executive.",
+          "synopsis_short": "The second book in the Academy…",
+          "synopsis_full": "The second book in the Academy series. Close relationships and the stability of the boarding school are in doubt.",
           "source": "nyt",
-          "score": 0.1417
+          "score": 0.1621
         },
         {
-          "id": "nyt:9781668200223",
-          "title": "Burn Of The Everflame",
-          "author": "Penn Cole",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668200223.jpg",
+          "id": "nyt:9780593321461",
+          "title": "Exit Party",
+          "author": "Emily St",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593321461.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The fourth book of the Kindred's…",
-          "synopsis_full": "The fourth book of the Kindred's Curse Saga. War, rebellion and an unlikely alliance factor into whether the future will be in darkness.",
+          "synopsis_short": "In the near future, after America…",
+          "synopsis_full": "In the near future, after America has had another civil war, Ari Waker embarks on a journey to seek answers to a mystery.",
           "source": "nyt",
-          "score": 0.1326
+          "score": 0.1486
+        },
+        {
+          "id": "nyt:9781250178640",
+          "title": "El Ruiseñor",
+          "author": "Kristin Hannah",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250178640.jpg",
+          "subjects": [
+            "paperback trade fiction"
+          ],
+          "year": 2024,
+          "category": "Drama y literatura general",
+          "synopsis_short": "A nurse follows her brother to…",
+          "synopsis_full": "A nurse follows her brother to serve during the Vietnam War and returns to a divided America.",
+          "source": "nyt",
+          "score": 0.1479
+        },
+        {
+          "id": "nyt:9781250884312",
+          "title": "Dead Beat",
+          "author": "Leigh Bardugo",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250884312.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The third book in the Ninth…",
+          "synopsis_full": "The third book in the Ninth House series. Alex and her allies battle demons found in New Haven and on the Yale campus.",
+          "source": "nyt",
+          "score": 0.1462
         }
       ]
     },
@@ -72,130 +72,130 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781400256761",
-          "title": "Idle In Provence",
-          "author": "Eric Idle",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781400256761.jpg",
-          "subjects": [
-            "hardcover nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "The Monty Python co-founder and author…",
-          "synopsis_full": "The Monty Python co-founder and author of \"Always Look on the Bright Side of Life\" describes how in 1971 he took a stone shack in disrepair in southeastern France and turned it into a haven for respite and creativity.",
-          "source": "nyt",
-          "score": 0.0759
-        },
-        {
-          "id": "nyt:9781541607828",
-          "title": "The Counterrevolution",
-          "author": "Victor Davis Hanson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781541607828.jpg",
+          "id": "nyt:9781324090977",
+          "title": "Live Laugh Love",
+          "author": "Kristin Kobes Du Mez",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781324090977.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The author of “The End of…",
-          "synopsis_full": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term.",
+          "synopsis_short": "The author of “Jesus and John…",
+          "synopsis_full": "The author of “Jesus and John Wayne\" explores the history of white Christian womanhood in the United States.",
           "source": "nyt",
-          "score": 0.057
+          "score": 0.0879
         },
         {
-          "id": "nyt:9780593716342",
-          "title": "Money To Burn",
-          "author": "William D. Cohan",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593716342.jpg",
+          "id": "nyt:9781250901637",
+          "title": "The Steal",
+          "author": "Alex Wagner",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250901637.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
-          "year": null,
+          "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The author of “Power Failure” depicts…",
-          "synopsis_full": "The author of “Power Failure” depicts the rise and fall of Leon Black, a founder of the investment firm Apollo Global Management.",
+          "synopsis_short": "The host of the podcast Runaway…",
+          "synopsis_full": "The host of the podcast Runaway Country profiles a handful of conservatives whose efforts during the Reagan administration impacted the American judiciary.",
           "source": "nyt",
-          "score": 0.0496
+          "score": 0.0569
         },
         {
-          "id": "nyt:9781538784624",
-          "title": "Plot Twist",
-          "author": "Harlan Coben",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538784624.jpg",
+          "id": "nyt:9780593728123",
+          "title": "Redwood",
+          "author": "Ben Macintyre",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593728123.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
-          "year": null,
+          "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "Coben, known for his suspense novels,…",
-          "synopsis_full": "Coben, known for his suspense novels, shares stories from his childhood, inspirations for his characters and insights into his craft.",
+          "synopsis_short": "The author of “The Spy and…",
+          "synopsis_full": "The author of “The Spy and the Traitor” portrays an MI6 undercover officer’s work to help a Russian double agent hiding a secret in 1981.",
           "source": "nyt",
-          "score": 0.0436
+          "score": 0.0513
+        },
+        {
+          "id": "nyt:9798217062591",
+          "title": "Profiles In Cowardice",
+          "author": "Jacob Weisberg",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217062591.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "An examination of how eight individuals…",
+          "synopsis_full": "An examination of how eight individuals may have been complicit in President Trump’s acquisition of authoritarian power.",
+          "source": "nyt",
+          "score": 0.048
         }
       ]
     },
     {
-      "name": "Otros",
+      "name": "Infantil y juvenil",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781338245752",
-          "title": "Ground Zero",
-          "author": "Alan Gratz",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781338245752.jpg",
+          "id": "nyt:9798225066772",
+          "title": "Sobreviví - Los Ataques de Tiburones de 1916",
+          "author": "Lauren Tarshis",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798225066772.jpg",
           "subjects": [
-            "children’s middle grade hardcover"
+            "children’s & young adult series"
           ],
-          "year": 2021,
-          "category": "Otros",
-          "synopsis_short": "Parallel storylines of Brandon and Reshmina…",
-          "synopsis_full": "Parallel storylines of Brandon and Reshmina take place on Sept. 11th, in 2001 and 2019. (Ages 9 to 12)",
+          "year": 2022,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Youngsters' tales of living through dangerous…",
+          "synopsis_full": "Youngsters' tales of living through dangerous historical events. (Ages 9 to 11)",
           "source": "nyt",
-          "score": 0.0359
+          "score": 0.061
         },
         {
-          "id": "nyt:9781668246498",
-          "title": "The Book Of Possibility",
-          "author": "Jim Curtis",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668246498.jpg",
+          "id": "nyt:9780316581851",
+          "title": "Styx",
+          "author": "Nikita Gill",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316581851.jpg",
           "subjects": [
-            "advice, how-to & miscellaneous"
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "For fans of Manifest and Don’t…",
-          "synopsis_full": "For fans of Manifest and Don’t Believe Everything You Think, a practical and compassionate guide to healing from transformational coach Jim Curtis, using decades of experience and breakthrough techniques to help you unlock the power of your subconscious mind, release fear, and create lasting change. Real transformation doesn’t come from forcing your life to look a certain way on the outside. It begins by changing the identity, beliefs, and patterns operating from within. In his groundbreaking guide The Book of Possibility, transformational coach Jim Curtis draws from his own health challenges and decades of experience and reveals in this essential guide how subconscious patterns quietly shape your health, relationships, confidence, and sense of fulfillment—and how to break free. Blending neuroscience, hypnotherapy, mindfulness, and spirituality in a grounded and accessible way, Jim introduces his signature three-step process: - Release the fear-based conditioning that has been holding you back. - Align with the clarity, healing, and possibility already within you. - Become the version of yourself who can create lasting change from the inside out. Designed to feel like a one-on-one coaching session with Jim, The Book of Possibility is not just a book to read—it’s an experience. Each chapter weaves together reading, guided listening, and reflective writing to engage the senses and deepen self-discovery. Hypno-meditations, compassionate prompts, and coaching-style questions help you uncover what lies beneath the surface and teach you how to harness that inner potential to create meaningful change in real time. Empowering, practical, and deeply supportive, The Book of Possibility is for anyone ready to let go of old patterns, open themselves to change, and step into what is truly possible. Whether you are seeking emotional healing, more confidence, deeper clarity, healthier relationships, or a more empowered way of living, this book will remind you that what you’re seeking isn’t missing—it’s already within you, waiting to be remembered.",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "A lifelong bond of sisterhood forms…",
+          "synopsis_full": "A lifelong bond of sisterhood forms between the goddesses Styx and Asteria. (Ages 14 to 18)",
           "source": "nyt",
-          "score": 0.0301
+          "score": 0.027
         },
         {
-          "id": "nyt:9780593420225",
-          "title": "The Art Of Fighting",
-          "author": "Priya Parker",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593420225.jpg",
+          "id": "nyt:9780063462274",
+          "title": "Winterveil",
+          "author": "Ava Reid",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063462274.jpg",
           "subjects": [
-            "advice, how-to & miscellaneous"
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "AN INSTANT NEW YORK TIMES BESTSELLER…",
-          "synopsis_full": "AN INSTANT NEW YORK TIMES BESTSELLER FEATURED AT NBC’S TODAY SHOW, NEW YORK TIMES MAGAZINE, THE WALL STREET JOURNAL, AND MANY MORE “This is not just a book about having better arguments, it's a manual for building stronger relationships.”—Adam Grant “A paradigm-shifting examination of how we can get along better by understanding the role of conflict in our lives more deeply.” —Jefferson Fisher “Priya Parker offers a generous, radically helpful guide through our divides—without flattening what makes us different.” — Suleika Jaouad A paradigm-shattering exploration of how we fight and how we build healthy conflict, from the bestselling author of The Art of Gathering We say we want community. Successful teams. High-performing colleagues and workplaces. Dynamic friend groups. Yet many of us don’t understand the crucial element we need to forge long-lasting communities in our lives: healthy conflict. In The Art of Fighting, Priya Parker explains that we can’t form and grow effective relationships without a fight. She rejects the idea that conflict is abnormal or that good groups don’t fight. All groups change and evolve; indeed, it’s because people disagree that good groups flourish. As she did in the now-classic The Art of Gathering, Parker draws on her far-reaching experience as a conflict facilitator, her own detailed research, and real-world examples to lay out the ways that people can identify disputes, determine how to address them, and what to do if they are insurmountable. Whether people disagree in the boardroom or the locker room, on a playground or in church, online or in person, conflict is a part of life, and understanding healthy conflict and how to harness its power is more important than ever. The Art of Fighting is a vital primer to help all of us understand how to do that.",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Four teenagers with unique skill sets…",
+          "synopsis_full": "Four teenagers with unique skill sets are recruited by the C.I.A. for a dangerous secret mission. (Ages 14 and up)",
           "source": "nyt",
-          "score": 0.0284
+          "score": 0.0141
         },
         {
-          "id": "nyt:9781492648949",
-          "title": "How To Catch A Monster",
-          "author": "Adam Wallace",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781492648949.jpg",
+          "id": "nyt:9780062882790",
+          "title": "Anger Is Only A Shadow",
+          "author": "Elizabeth Acevedo",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780062882790.jpg",
           "subjects": [
-            "children’s picture books"
+            "young adult hardcover"
           ],
-          "year": 2017,
-          "category": "Otros",
-          "synopsis_short": "A boy attempts to catch the…",
-          "synopsis_full": "A boy attempts to catch the monster in his closet. (Ages 4 to 8)",
+          "year": 2026,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "A teenage girl risks violating her…",
+          "synopsis_full": "A teenage girl risks violating her probation to help her older brother. (Ages 14 and up)",
           "source": "nyt",
-          "score": 0.0276
+          "score": 0.0061
         }
       ]
     }
