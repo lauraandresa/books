@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-09-28T16:13:53.894714Z",
+  "generated_at": "2026-10-05T16:32:50.044348Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798217060399",
-          "title": "We Chase Shadows",
-          "author": "Richard Osman",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217060399.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The second book in the We…",
-          "synopsis_full": "The second book in the We Solve Murders series. Amy, Rosie and Steve go after a killer at large.",
-          "source": "nyt",
-          "score": 0.141
-        },
-        {
-          "id": "nyt:9781464261183",
-          "title": "Eldritch",
-          "author": "Keri Lake",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464261183.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The second book in the Eating…",
-          "synopsis_full": "The second book in the Eating Woods series. As the mortal world grows darker, Maevyth and Zevander face new dangers.",
-          "source": "nyt",
-          "score": 0.1383
-        },
-        {
-          "id": "nyt:9798217060405",
-          "title": "We Chase Shadows",
-          "author": "Richard Osman",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217060405.jpg",
+          "id": "nyt:9798212182881",
+          "title": "Sometimes I Scare Myself",
+          "author": "Jeneva Rose",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798212182881.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The second book in the We…",
-          "synopsis_full": "The second book in the We Solve Murders series. Amy, Rosie and Steve go after a killer at large.",
+          "synopsis_short": "Three horror stories: “Never Kill the…",
+          "synopsis_full": "Three horror stories: “Never Kill the Medium,” “The Nightmare House” and “All Curses Are Final.”",
           "source": "nyt",
-          "score": 0.137
+          "score": 0.1161
         },
         {
-          "id": "nyt:9780778307518",
-          "title": "The Emperor'S Enemy",
-          "author": "Jasmine Mas",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780778307518.jpg",
+          "id": "nyt:9781668045916",
+          "title": "Vince Flynn: Double Tap",
+          "author": "Don Bentley",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668045916.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 25th book in the Mitch…",
+          "synopsis_full": "The 25th book in the Mitch Rapp series. When a scientist is kidnapped, Mitch must infiltrate a jihadi cell.",
+          "source": "nyt",
+          "score": 0.1154
+        },
+        {
+          "id": "nyt:9781668045947",
+          "title": "Vince Flynn: Double Tap",
+          "author": "Don Bentley",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668045947.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "A skilled hunter named Zora Ravenal…",
-          "synopsis_full": "A skilled hunter named Zora Ravenal is caught in a war and kept in close quarters with a man who is obsessed with her.",
+          "synopsis_short": "The 25th book in the Mitch…",
+          "synopsis_full": "The 25th book in the Mitch Rapp series. When a scientist is kidnapped, Mitch must infiltrate a jihadi cell.",
           "source": "nyt",
-          "score": 0.1204
+          "score": 0.1117
+        },
+        {
+          "id": "nyt:9781250397751",
+          "title": "The Wretched Divine",
+          "author": "Adalyn Grace",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250397751.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "As she searches for a cure…",
+          "synopsis_full": "As she searches for a cure to turn demons back into humans, Aurelie Chantelune questions her place in the war.",
+          "source": "nyt",
+          "score": 0.1082
         }
       ]
     },
@@ -72,64 +72,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781982177331",
-          "title": "One Man In",
-          "author": "Christian Craighead",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781982177331.jpg",
+          "id": "nyt:9798217209347",
+          "title": "Roll The Calls",
+          "author": "Ari Emanuel",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217209347.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "A former British special forces soldier…",
-          "synopsis_full": "A former British special forces soldier gives an account of his fight against a unit of ethnic Somali terrorists at a hotel and office complex in Nairobi.",
+          "synopsis_short": "The Hollywood mogul charts his rise…",
+          "synopsis_full": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry.",
           "source": "nyt",
-          "score": 0.0621
+          "score": 0.0521
         },
         {
-          "id": "nyt:9781538777879",
-          "title": "The Perilous Fight",
-          "author": "Colin Kaepernick with Nick Chiles",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538777879.jpg",
+          "id": "nyt:9781250374073",
+          "title": "Confronting America",
+          "author": "Bill O'Reilly and Josh Hammer",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250374073.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The Super Bowl quarterback and civil…",
-          "synopsis_full": "The Super Bowl quarterback and civil rights activist describes defining moments in his life and their outcomes.",
+          "synopsis_short": "The conservative commentator shares his views…",
+          "synopsis_full": "The conservative commentator shares his views on education, family, drugs, work and religion.",
           "source": "nyt",
-          "score": 0.0523
+          "score": 0.0272
         },
         {
-          "id": "nyt:9780374621384",
-          "title": "End Times Fascism",
-          "author": "Naomi Klein and Astra Taylor",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780374621384.jpg",
+          "id": "nyt:9798217379743",
+          "title": "Cuento de Navidad",
+          "author": "Charles Spencer",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217379743.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "An investigation of the shared beliefs…",
-          "synopsis_full": "An investigation of the shared beliefs belonging to religious fundamentalists, Silicon Valley technologists and ethno-nationalists.",
+          "synopsis_short": "The ninth Earl Spencer shares personal…",
+          "synopsis_full": "The ninth Earl Spencer shares personal stories about his sister, Diana, from childhood through her untimely death.",
           "source": "nyt",
-          "score": 0.0501
+          "score": 0.0172
         },
         {
-          "id": "nyt:9781546008842",
-          "title": "My Battlefield",
-          "author": "Joyce Meyer",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546008842.jpg",
+          "id": "nyt:9780063499058",
+          "title": "Unburdened",
+          "author": "Lindy Li",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063499058.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The author of “God Is Not…",
-          "synopsis_full": "The author of “God Is Not Mad at You” retraces her journey to become a Bible teacher and ministry leader.",
+          "synopsis_short": "A former Democratic fund-raiser gives her…",
+          "synopsis_full": "A former Democratic fund-raiser gives her perspectives on actions taken by the consultants, staffers, celebrities and elites connected to that party.",
           "source": "nyt",
-          "score": 0.0329
+          "score": 0.0165
         }
       ]
     },
@@ -138,64 +138,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781368117869",
-          "title": "The Art Of Gravity Falls",
-          "author": "Alex Hirsch and Rob Renzetti",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781368117869.jpg",
+          "id": "nyt:9780062954541",
+          "title": "The Bad Seed Presents: The Good, The Bad, And The Spooky",
+          "author": "Jory John",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780062954541.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": null,
+          "category": "Otros",
+          "synopsis_short": "Bad Seed seeks the perfect Halloween…",
+          "synopsis_full": "Bad Seed seeks the perfect Halloween costume. (Ages 4 to 8)",
+          "source": "nyt",
+          "score": 0.0493
+        },
+        {
+          "id": "nyt:9781426224386",
+          "title": "Lost In Space",
+          "author": "Neil deGrasse Tyson and Lindsey Nyx Walker",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781426224386.jpg",
           "subjects": [
             "advice, how-to & miscellaneous"
           ],
           "year": 2026,
           "category": "Otros",
-          "synopsis_short": "This is a forthcoming title from…",
-          "synopsis_full": "This is a forthcoming title from Hyperion Avenue. It will be released on 9/15/2026.",
+          "synopsis_short": "Space facts can be astonishing and…",
+          "synopsis_full": "Space facts can be astonishing and still leave you without a clear picture of how the universe works. When distances, images, headlines and discoveries arrive without a framework, wonder quickly turns into confusion. This independent companion turns major astronomy ideas into a practical way of thinking. You will learn how evidence travels from a distant source to an instrument, how scientists test an interpretation, and how to place new findings inside a reliable cosmic map. Inside, you’ll find: • A scale-reading method that makes enormous distances and times easier to compare without distorting their meaning • A clear account of light, spectra, redshift and telescopes as the evidence system behind modern astronomy • A guided tour of planets, moons, asteroids and comets that explains what each world reveals about formation • An accessible explanation of stellar birth, fusion, supernovae, neutron stars and the recycling of elements • A grounded approach to exoplanets that separates detection methods, selection effects and claims about habitability • A structured view of the Milky Way, other galaxies and the observations used to reconstruct cosmic history • A careful treatment of black holes, gravitational waves, dark matter and dark energy without exaggerated certainty • A practical framework for evaluating claims about life elsewhere, biosignatures, technosignatures and false positives • Quick-reference summaries, concept maps and recurring questions that help new information fit into what you already know • A durable method for checking sources, units, assumptions and independent confirmation whenever a new discovery appears This book is for curious adult readers, students, educators and science enthusiasts who want more than isolated trivia but do not want a mathematics-heavy textbook. It also suits readers seeking an independent interpretive companion to popular astronomy books and media. Build a clearer cosmic perspective and meet the next astronomy headline with informed curiosity—start reading today.",
           "source": "nyt",
-          "score": 0.0477
+          "score": 0.0378
         },
         {
-          "id": "nyt:9780763680909",
-          "title": "Prodigioso Viaje de Edward Tulane",
-          "author": "Kate DiCamillo",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780763680909.jpg",
+          "id": "nyt:9781680108354",
+          "title": "Frankenkitty",
+          "author": "Maudie Powell-Tuck",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781680108354.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "When Frankenkitty is banished from the…",
+          "synopsis_full": "When Frankenkitty is banished from the castle, it’s Olive to the rescue. (Ages 3 to 7)",
+          "source": "nyt",
+          "score": 0.0254
+        },
+        {
+          "id": "nyt:9781250489425",
+          "title": "The Ginghams",
+          "author": "T.C. Kemper",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250489425.jpg",
           "subjects": [
             "middle grade paperback"
           ],
-          "year": 2006,
-          "category": "Otros",
-          "synopsis_short": "Edward Tulane, a cold-hearted and proud…",
-          "synopsis_full": "Edward Tulane, a cold-hearted and proud toy rabbit, loves only himself until he is separated from the little girl who adores him and travels across the country, acquiring new owners and listening to their hopes, dreams, and histories.",
-          "source": "nyt",
-          "score": 0.0402
-        },
-        {
-          "id": "nyt:9798225063191",
-          "title": "Flight",
-          "author": "Alan Gratz",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798225063191.jpg",
-          "subjects": [
-            "children’s middle grade hardcover"
-          ],
           "year": 2026,
           "category": "Otros",
-          "synopsis_short": "Two Honduran refugee children ride on…",
-          "synopsis_full": "Two Honduran refugee children ride on the top of a freight train known as “The Beast” to get to the Mexican-U.S. border. (Ages 9 to 12)",
+          "synopsis_short": "An eerie middle grade mystery debut…",
+          "synopsis_full": "An eerie middle grade mystery debut that follows a young girl who returns home to find the people of her little town, including her best friend, chillingly changed after the arrival of the prim and proper Gingham family. \"A rip-roaring adventure, but more importantly, a kids’ power ballad to the importance of being yourself.\" —Gordon Korman, New York Times-bestselling author When 12-year-old Joni Bird returns home from summer camp, it’s clear something strange is afoot in Olive Springs. May, her usually head-banging best friend, now wears her hair in a tight bun and calls playing the drums “unladylike.” The ice cream shop only serves vanilla ice cream. The women and girls of the neighborhood all sport big pearl earrings and crisp cotton dresses. At the heart of it all? The creepy new family in the neighborhood with their soulless, carnival smiles and retro fashion sense: the Ginghams. Everyone they invite to their Thursday night book club re-emerges as dead-eyed, smiling, Gingham-approved \"model citizens,\" all thanks to Mr. Gingham’s lifestyle guide, The Pillars of Perfection—and something even more sinister hidden behind his basement door. Through quick thinking and cunning, Joni and her friend Tyler set out to fight not only to get their friend May back, but to save their whole town from forever falling under the Ginghams' control.",
           "source": "nyt",
-          "score": 0.0387
-        },
-        {
-          "id": "nyt:9781419770555",
-          "title": "Spooky Rivers",
-          "author": "Geo Rutherford",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781419770555.jpg",
-          "subjects": [
-            "children’s middle grade hardcover"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "The histories of 25 mysterious rivers…",
-          "synopsis_full": "The histories of 25 mysterious rivers around the world. (Ages 8 to 11)",
-          "source": "nyt",
-          "score": 0.0371
+          "score": 0.0199
         }
       ]
     }

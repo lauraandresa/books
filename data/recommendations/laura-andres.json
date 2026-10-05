@@ -1,135 +1,69 @@
 {
-  "generated_at": "2026-09-28T16:12:05.843735Z",
+  "generated_at": "2026-10-05T16:32:28.647772Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780316567916",
-          "title": "The Thoroughbreds",
-          "author": "Elin Hilderbrand and Shelby Cunningham",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316567916.jpg",
+          "id": "nyt:9780063453272",
+          "title": "The Sweetest Fiend",
+          "author": "Raven Kennedy",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063453272.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "A romantasy reimagining of the story…",
+          "synopsis_full": "A romantasy reimagining of the story of the Pied Piper.",
+          "source": "nyt",
+          "score": 0.1606
+        },
+        {
+          "id": "nyt:9781464252082",
+          "title": "Fallen Rook",
+          "author": "L.J. Shen",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464252082.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The second book in the Academy…",
-          "synopsis_full": "The second book in the Academy series. Close relationships and the stability of the boarding school are in doubt.",
+          "synopsis_short": "The third book in the Society…",
+          "synopsis_full": "The third book in the Society of Villains series. An F.B.I. special agent and a member of a crime organization develop a forbidden relationship.",
           "source": "nyt",
-          "score": 0.1621
+          "score": 0.1542
         },
         {
-          "id": "nyt:9780593321461",
-          "title": "Exit Party",
-          "author": "Emily St",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593321461.jpg",
+          "id": "nyt:9780063376694",
+          "title": "Agatha Christie: Murder At The Grand Alpine Hotel",
+          "author": "Lucy Foley",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063376694.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "In the near future, after America…",
-          "synopsis_full": "In the near future, after America has had another civil war, Ari Waker embarks on a journey to seek answers to a mystery.",
+          "synopsis_short": "At a secluded hotel in the…",
+          "synopsis_full": "At a secluded hotel in the Swiss Alps during a blizzard, Miss Marple must determine the identity of a killer.",
           "source": "nyt",
-          "score": 0.1486
+          "score": 0.1501
         },
         {
-          "id": "nyt:9781250178640",
-          "title": "El Ruiseñor",
-          "author": "Kristin Hannah",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250178640.jpg",
-          "subjects": [
-            "paperback trade fiction"
-          ],
-          "year": 2024,
-          "category": "Drama y literatura general",
-          "synopsis_short": "A nurse follows her brother to…",
-          "synopsis_full": "A nurse follows her brother to serve during the Vietnam War and returns to a divided America.",
-          "source": "nyt",
-          "score": 0.1479
-        },
-        {
-          "id": "nyt:9781250884312",
-          "title": "Dead Beat",
-          "author": "Leigh Bardugo",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250884312.jpg",
+          "id": "nyt:9780316404099",
+          "title": "The Munich Affair",
+          "author": "James Patterson and David Ellis",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316404099.jpg",
           "subjects": [
             "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The third book in the Ninth…",
-          "synopsis_full": "The third book in the Ninth House series. Alex and her allies battle demons found in New Haven and on the Yale campus.",
+          "synopsis_short": "An investigation into the death of…",
+          "synopsis_full": "An investigation into the death of a young woman in Hitler’s apartment in 1931 puts several people at risk.",
           "source": "nyt",
-          "score": 0.1462
-        }
-      ]
-    },
-    {
-      "name": "No ficción",
-      "weight": 0,
-      "items": [
-        {
-          "id": "nyt:9781324090977",
-          "title": "Live Laugh Love",
-          "author": "Kristin Kobes Du Mez",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781324090977.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "The author of “Jesus and John…",
-          "synopsis_full": "The author of “Jesus and John Wayne\" explores the history of white Christian womanhood in the United States.",
-          "source": "nyt",
-          "score": 0.0879
-        },
-        {
-          "id": "nyt:9781250901637",
-          "title": "The Steal",
-          "author": "Alex Wagner",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250901637.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "The host of the podcast Runaway…",
-          "synopsis_full": "The host of the podcast Runaway Country profiles a handful of conservatives whose efforts during the Reagan administration impacted the American judiciary.",
-          "source": "nyt",
-          "score": 0.0569
-        },
-        {
-          "id": "nyt:9780593728123",
-          "title": "Redwood",
-          "author": "Ben Macintyre",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593728123.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "The author of “The Spy and…",
-          "synopsis_full": "The author of “The Spy and the Traitor” portrays an MI6 undercover officer’s work to help a Russian double agent hiding a secret in 1981.",
-          "source": "nyt",
-          "score": 0.0513
-        },
-        {
-          "id": "nyt:9798217062591",
-          "title": "Profiles In Cowardice",
-          "author": "Jacob Weisberg",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217062591.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "An examination of how eight individuals…",
-          "synopsis_full": "An examination of how eight individuals may have been complicit in President Trump’s acquisition of authoritarian power.",
-          "source": "nyt",
-          "score": 0.048
+          "score": 0.1439
         }
       ]
     },
@@ -138,64 +72,130 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798225066772",
-          "title": "Sobreviví - Los Ataques de Tiburones de 1916",
-          "author": "Lauren Tarshis",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798225066772.jpg",
+          "id": "nyt:9781250474933",
+          "title": "Érase una vez un corazón roto",
+          "author": "Stephanie Garber",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250474933.jpg",
           "subjects": [
             "children’s & young adult series"
           ],
-          "year": 2022,
+          "year": 2021,
           "category": "Infantil y juvenil",
-          "synopsis_short": "Youngsters' tales of living through dangerous…",
-          "synopsis_full": "Youngsters' tales of living through dangerous historical events. (Ages 9 to 11)",
+          "synopsis_short": "The story of Evangeline Fox, Jacks,…",
+          "synopsis_full": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
           "source": "nyt",
-          "score": 0.061
+          "score": 0.0716
         },
         {
-          "id": "nyt:9780316581851",
-          "title": "Styx",
-          "author": "Nikita Gill",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316581851.jpg",
+          "id": "nyt:9780593616970",
+          "title": "Empire",
+          "author": "Sabaa Tahir",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593616970.jpg",
           "subjects": [
             "young adult hardcover"
           ],
           "year": 2026,
           "category": "Infantil y juvenil",
-          "synopsis_short": "A lifelong bond of sisterhood forms…",
-          "synopsis_full": "A lifelong bond of sisterhood forms between the goddesses Styx and Asteria. (Ages 14 to 18)",
+          "synopsis_short": "In the conclusion to the \"Heir\"…",
+          "synopsis_full": "In the conclusion to the \"Heir\" duology, a fractured empire faces a grim reckoning. (Ages 14 and up)",
           "source": "nyt",
-          "score": 0.027
+          "score": 0.0358
         },
         {
-          "id": "nyt:9780063462274",
-          "title": "Winterveil",
-          "author": "Ava Reid",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063462274.jpg",
+          "id": "nyt:9780316581097",
+          "title": "Robot Salvaje",
+          "author": "Peter Brown",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316581097.jpg",
           "subjects": [
-            "young adult hardcover"
+            "children’s & young adult series"
           ],
-          "year": 2026,
+          "year": 2016,
           "category": "Infantil y juvenil",
-          "synopsis_short": "Four teenagers with unique skill sets…",
-          "synopsis_full": "Four teenagers with unique skill sets are recruited by the C.I.A. for a dangerous secret mission. (Ages 14 and up)",
+          "synopsis_short": "Roz the robot adapts to her…",
+          "synopsis_full": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
           "source": "nyt",
-          "score": 0.0141
+          "score": 0.0138
         },
         {
-          "id": "nyt:9780062882790",
-          "title": "Anger Is Only A Shadow",
-          "author": "Elizabeth Acevedo",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780062882790.jpg",
+          "id": "nyt:9781484727218",
+          "title": "El ladrón del rayo",
+          "author": "Rick Riordan",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781484727218.jpg",
           "subjects": [
-            "young adult hardcover"
+            "children’s & young adult series"
+          ],
+          "year": 2009,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "A boy battles mythological monsters. (Ages…",
+          "synopsis_full": "A boy battles mythological monsters. (Ages 9 to 12)",
+          "source": "nyt",
+          "score": 0.0087
+        }
+      ]
+    },
+    {
+      "name": "No ficción",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9780063569805",
+          "title": "Pay Attention",
+          "author": "David Pakman",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063569805.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
           ],
           "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "A teenage girl risks violating her…",
-          "synopsis_full": "A teenage girl risks violating her probation to help her older brother. (Ages 14 and up)",
+          "category": "No ficción",
+          "synopsis_short": "The author of “The Echo Machine”…",
+          "synopsis_full": "The author of “The Echo Machine” looks at the ways in which technology exacerbates political and cultural divisions.",
           "source": "nyt",
-          "score": 0.0061
+          "score": 0.0599
+        },
+        {
+          "id": "nyt:9781250452719",
+          "title": "Go And Do Likewise",
+          "author": "Andy Beshear",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250452719.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The governor of Kentucky, who is…",
+          "synopsis_full": "The governor of Kentucky, who is the grandson of Baptist lay ministers, shares his views on the role that faith might have on public life.",
+          "source": "nyt",
+          "score": 0.0587
+        },
+        {
+          "id": "nyt:9780593978177",
+          "title": "An Unexpected Life",
+          "author": "Gloria Steinem",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593978177.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "A memoir by the recently deceased…",
+          "synopsis_full": "A memoir by the recently deceased feminist journalist and icon in which she recounts her six decades of activism.",
+          "source": "nyt",
+          "score": 0.0515
+        },
+        {
+          "id": "nyt:9781668097236",
+          "title": "Actually, Nevermind",
+          "author": "Taylor Tomlinson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668097236.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "In a collection of essays, the…",
+          "synopsis_full": "In a collection of essays, the comedian reflects upon her life as she approaches the same age her mother was when she died.",
+          "source": "nyt",
+          "score": 0.0448
         }
       ]
     }
