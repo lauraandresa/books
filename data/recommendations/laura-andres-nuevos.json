@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-10-05T16:32:50.044348Z",
+  "generated_at": "2026-10-12T17:07:39.346921Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798212182881",
-          "title": "Sometimes I Scare Myself",
-          "author": "Jeneva Rose",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798212182881.jpg",
+          "id": "nyt:9798893380620",
+          "title": "May We Feed The King",
+          "author": "Rebecca Perry",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798893380620.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "paperback trade fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "Three horror stories: “Never Kill the…",
-          "synopsis_full": "Three horror stories: “Never Kill the Medium,” “The Nightmare House” and “All Curses Are Final.”",
+          "synopsis_short": "A curator, who takes a commission…",
+          "synopsis_full": "A curator, who takes a commission to work on the private quarters of a medieval palace, is swept up in the story of a king.",
           "source": "nyt",
-          "score": 0.1161
+          "score": 0.1239
         },
         {
-          "id": "nyt:9781668045916",
-          "title": "Vince Flynn: Double Tap",
-          "author": "Don Bentley",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668045916.jpg",
+          "id": "nyt:9798898859060",
+          "title": "día de la Trilla. Edición con Cantos Tintados (Empíreo) / Threshing Day. Edition with Sprayed Edges (Empyrean)",
+          "author": "Rebecca Yarros",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798898859060.jpg",
+          "subjects": [
+            "audio fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "Thirteen short stories, set in the…",
+          "synopsis_full": "Thirteen short stories, set in the Empyrean world, in which cadets compete to earn the bond of a dragon. Read by Justis Bolding, Jake Bordeaux et al. 5 hours, 52 minutes unabridged",
+          "source": "nyt",
+          "score": 0.1225
+        },
+        {
+          "id": "nyt:9781335004048",
+          "title": "Más que rivales",
+          "author": "Rachel Reid",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781335004048.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2024,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The second book in the Game…",
+          "synopsis_full": "The second book in the Game Changers series. Rival captains of two hockey teams try to keep their relationship out of the spotlight; the basis of the TV series.",
+          "source": "nyt",
+          "score": 0.1217
+        },
+        {
+          "id": "nyt:9798217298594",
+          "title": "Baldur'S Gate 3: Astarion",
+          "author": "T. Kingfisher",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217298594.jpg",
           "subjects": [
             "hardcover fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The 25th book in the Mitch…",
-          "synopsis_full": "The 25th book in the Mitch Rapp series. When a scientist is kidnapped, Mitch must infiltrate a jihadi cell.",
+          "synopsis_short": "Astarion Ancunin, who is trapped in…",
+          "synopsis_full": "Astarion Ancunin, who is trapped in the service of a vampire, forms an unlikely alliance in the hopes of breaking free.",
           "source": "nyt",
-          "score": 0.1154
-        },
-        {
-          "id": "nyt:9781668045947",
-          "title": "Vince Flynn: Double Tap",
-          "author": "Don Bentley",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668045947.jpg",
-          "subjects": [
-            "combined print & e-book fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The 25th book in the Mitch…",
-          "synopsis_full": "The 25th book in the Mitch Rapp series. When a scientist is kidnapped, Mitch must infiltrate a jihadi cell.",
-          "source": "nyt",
-          "score": 0.1117
-        },
-        {
-          "id": "nyt:9781250397751",
-          "title": "The Wretched Divine",
-          "author": "Adalyn Grace",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250397751.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "As she searches for a cure…",
-          "synopsis_full": "As she searches for a cure to turn demons back into humans, Aurelie Chantelune questions her place in the war.",
-          "source": "nyt",
-          "score": 0.1082
+          "score": 0.1215
         }
       ]
     },
@@ -72,130 +72,130 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798217209347",
-          "title": "Roll The Calls",
-          "author": "Ari Emanuel",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217209347.jpg",
+          "id": "nyt:9781668658253",
+          "title": "The Counterrevolution",
+          "author": "Victor Davis Hanson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668658253.jpg",
           "subjects": [
-            "combined print & e-book nonfiction"
+            "audio nonfiction"
           ],
-          "year": 2026,
+          "year": null,
           "category": "No ficción",
-          "synopsis_short": "The Hollywood mogul charts his rise…",
-          "synopsis_full": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry.",
+          "synopsis_short": "The author of “The End of…",
+          "synopsis_full": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term. Read by Bob Souer. 16 hours, 4 minutes unabridged.",
           "source": "nyt",
-          "score": 0.0521
+          "score": 0.0435
         },
         {
-          "id": "nyt:9781250374073",
-          "title": "Confronting America",
-          "author": "Bill O'Reilly and Josh Hammer",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250374073.jpg",
+          "id": "nyt:9780593734483",
+          "title": "Work In Progress",
+          "author": "Devon Rodriguez",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593734483.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The conservative commentator shares his views…",
-          "synopsis_full": "The conservative commentator shares his views on education, family, drugs, work and religion.",
+          "synopsis_short": "The Bronx-born portrait artist with a…",
+          "synopsis_full": "The Bronx-born portrait artist with a large social media following describes how art transformed his life.",
           "source": "nyt",
-          "score": 0.0272
+          "score": 0.0412
         },
         {
-          "id": "nyt:9798217379743",
-          "title": "Cuento de Navidad",
-          "author": "Charles Spencer",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217379743.jpg",
+          "id": "nyt:9780063443891",
+          "title": "The Steps",
+          "author": "Sylvester Stallone",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063443891.jpg",
           "subjects": [
-            "combined print & e-book nonfiction"
+            "audio nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The ninth Earl Spencer shares personal…",
-          "synopsis_full": "The ninth Earl Spencer shares personal stories about his sister, Diana, from childhood through her untimely death.",
+          "synopsis_short": "The Hollywood icon describes the challenges…",
+          "synopsis_full": "The Hollywood icon describes the challenges he encountered during his childhood and the start of his career. Read by the author. 9 hours, 2 minutes unabridged.",
           "source": "nyt",
-          "score": 0.0172
+          "score": 0.0403
         },
         {
-          "id": "nyt:9780063499058",
-          "title": "Unburdened",
-          "author": "Lindy Li",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063499058.jpg",
+          "id": "nyt:9780593731772",
+          "title": "What Could Possibly Go Right?",
+          "author": "Danny Meyer",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593731772.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "A former Democratic fund-raiser gives her…",
-          "synopsis_full": "A former Democratic fund-raiser gives her perspectives on actions taken by the consultants, staffers, celebrities and elites connected to that party.",
+          "synopsis_short": "The restaurateur and entrepreneur shares stories…",
+          "synopsis_full": "The restaurateur and entrepreneur shares stories of events that shaped the success of his business ventures.",
           "source": "nyt",
-          "score": 0.0165
+          "score": 0.0399
         }
       ]
     },
     {
-      "name": "Otros",
+      "name": "Infantil y juvenil",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780062954541",
-          "title": "The Bad Seed Presents: The Good, The Bad, And The Spooky",
-          "author": "Jory John",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780062954541.jpg",
+          "id": "nyt:9781250462039",
+          "title": "Érase una vez un corazón roto",
+          "author": "Stephanie Garber",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250462039.jpg",
           "subjects": [
-            "children’s picture books"
+            "children’s & young adult series"
           ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Bad Seed seeks the perfect Halloween…",
-          "synopsis_full": "Bad Seed seeks the perfect Halloween costume. (Ages 4 to 8)",
+          "year": 2021,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "The story of Evangeline Fox, Jacks,…",
+          "synopsis_full": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
           "source": "nyt",
-          "score": 0.0493
+          "score": 0.0402
         },
         {
-          "id": "nyt:9781426224386",
-          "title": "Lost In Space",
-          "author": "Neil deGrasse Tyson and Lindsey Nyx Walker",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781426224386.jpg",
+          "id": "nyt:9780316555814",
+          "title": "The Millicent Quibb School Of Etiquette For Young Ladies Of Mad Science",
+          "author": "Kate McKinnon",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316555814.jpg",
           "subjects": [
-            "advice, how-to & miscellaneous"
+            "children’s & young adult series"
           ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Space facts can be astonishing and…",
-          "synopsis_full": "Space facts can be astonishing and still leave you without a clear picture of how the universe works. When distances, images, headlines and discoveries arrive without a framework, wonder quickly turns into confusion. This independent companion turns major astronomy ideas into a practical way of thinking. You will learn how evidence travels from a distant source to an instrument, how scientists test an interpretation, and how to place new findings inside a reliable cosmic map. Inside, you’ll find: • A scale-reading method that makes enormous distances and times easier to compare without distorting their meaning • A clear account of light, spectra, redshift and telescopes as the evidence system behind modern astronomy • A guided tour of planets, moons, asteroids and comets that explains what each world reveals about formation • An accessible explanation of stellar birth, fusion, supernovae, neutron stars and the recycling of elements • A grounded approach to exoplanets that separates detection methods, selection effects and claims about habitability • A structured view of the Milky Way, other galaxies and the observations used to reconstruct cosmic history • A careful treatment of black holes, gravitational waves, dark matter and dark energy without exaggerated certainty • A practical framework for evaluating claims about life elsewhere, biosignatures, technosignatures and false positives • Quick-reference summaries, concept maps and recurring questions that help new information fit into what you already know • A durable method for checking sources, units, assumptions and independent confirmation whenever a new discovery appears This book is for curious adult readers, students, educators and science enthusiasts who want more than isolated trivia but do not want a mathematics-heavy textbook. It also suits readers seeking an independent interpretive companion to popular astronomy books and media. Build a clearer cosmic perspective and meet the next astronomy headline with informed curiosity—start reading today.",
+          "year": 2024,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "The Porch sisters and Millicent Quibb…",
+          "synopsis_full": "The Porch sisters and Millicent Quibb do battle with the Krenetics Research Association. (Ages 8 to 12)",
           "source": "nyt",
-          "score": 0.0378
+          "score": 0.0398
         },
         {
-          "id": "nyt:9781680108354",
-          "title": "Frankenkitty",
-          "author": "Maudie Powell-Tuck",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781680108354.jpg",
+          "id": "nyt:9780593620410",
+          "title": "The House Of Gardenias",
+          "author": "Isabel Cañas",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593620410.jpg",
           "subjects": [
-            "children’s picture books"
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "When Frankenkitty is banished from the…",
-          "synopsis_full": "When Frankenkitty is banished from the castle, it’s Olive to the rescue. (Ages 3 to 7)",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Sixteen-year-old Minerva takes a job as…",
+          "synopsis_full": "Sixteen-year-old Minerva takes a job as a maid in a manor house that is full of secrets. (Ages 14 and up)",
           "source": "nyt",
-          "score": 0.0254
+          "score": 0.0322
         },
         {
-          "id": "nyt:9781250489425",
-          "title": "The Ginghams",
-          "author": "T.C. Kemper",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250489425.jpg",
+          "id": "nyt:9798890036551",
+          "title": "Verity Vox And The Curse Of Foxfire",
+          "author": "Don Martin",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798890036551.jpg",
           "subjects": [
-            "middle grade paperback"
+            "young adult paperback"
           ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "An eerie middle grade mystery debut…",
-          "synopsis_full": "An eerie middle grade mystery debut that follows a young girl who returns home to find the people of her little town, including her best friend, chillingly changed after the arrival of the prim and proper Gingham family. \"A rip-roaring adventure, but more importantly, a kids’ power ballad to the importance of being yourself.\" —Gordon Korman, New York Times-bestselling author When 12-year-old Joni Bird returns home from summer camp, it’s clear something strange is afoot in Olive Springs. May, her usually head-banging best friend, now wears her hair in a tight bun and calls playing the drums “unladylike.” The ice cream shop only serves vanilla ice cream. The women and girls of the neighborhood all sport big pearl earrings and crisp cotton dresses. At the heart of it all? The creepy new family in the neighborhood with their soulless, carnival smiles and retro fashion sense: the Ginghams. Everyone they invite to their Thursday night book club re-emerges as dead-eyed, smiling, Gingham-approved \"model citizens,\" all thanks to Mr. Gingham’s lifestyle guide, The Pillars of Perfection—and something even more sinister hidden behind his basement door. Through quick thinking and cunning, Joni and her friend Tyler set out to fight not only to get their friend May back, but to save their whole town from forever falling under the Ginghams' control.",
+          "year": 2025,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "NEW YORK TIMES BESTSELLER! Indie Bestseller…",
+          "synopsis_full": "NEW YORK TIMES BESTSELLER! Indie Bestseller USA Today Bestseller WELCOME TO FOXFIRE The rules here are simple: Don’t look in the trees. Don’t whistle in the woods at night. Don’t answer if you hear your name called. And remember . . . everything wants. Verity Vox is a witch-in-training who has never met a problem her spells can’t solve. But when a cryptic plea for help sends her to the forgotten coal mining town of Foxfire, she soon learns even magic has its limits. Verity discovers a curse was laid years ago by a traveling magician who vanished into the ancient Appalachian hills to seek greater power. Crops won’t grow. Bellies go hungry. Even treasured possessions fall apart. What’s worse, people have gone missing amidst rumors that they’ve sought out the magician who is lying in wait for those foolish or desperate enough to strike a deal with him. The witch must break the curse, find a missing girl, and solve the mystery of what’s really under the mountain before the town falls forever into the clutches of the monster lurking in the hills.",
           "source": "nyt",
-          "score": 0.0199
+          "score": 0.0285
         }
       ]
     }

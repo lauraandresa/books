@@ -1,135 +1,135 @@
 {
-  "generated_at": "2026-10-05T16:32:28.647772Z",
+  "generated_at": "2026-10-12T17:06:53.776702Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780063453272",
-          "title": "The Sweetest Fiend",
-          "author": "Raven Kennedy",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063453272.jpg",
+          "id": "nyt:9781682818084",
+          "title": "día de la Trilla. Edición con Cantos Tintados (Empíreo) / Threshing Day. Edition with Sprayed Edges (Empyrean)",
+          "author": "Rebecca Yarros",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781682818084.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "Thirteen short stories, set in the…",
+          "synopsis_full": "Thirteen short stories, set in the Empyrean world, in which cadets compete to earn the bond of a dragon.",
+          "source": "nyt",
+          "score": 0.1352
+        },
+        {
+          "id": "nyt:9781496758088",
+          "title": "Despertar de la Reina Maldita / the Dawn of the Cursed Queen",
+          "author": "Amber V. Nicole",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781496758088.jpg",
           "subjects": [
             "hardcover fiction"
           ],
-          "year": 2026,
+          "year": 2025,
           "category": "Drama y literatura general",
-          "synopsis_short": "A romantasy reimagining of the story…",
-          "synopsis_full": "A romantasy reimagining of the story of the Pied Piper.",
+          "synopsis_short": "The third book in the Gods…",
+          "synopsis_full": "The third book in the Gods and Monsters series. After a battle, Dianna makes sacrifices to save Samkiel.",
           "source": "nyt",
-          "score": 0.1606
+          "score": 0.135
         },
         {
-          "id": "nyt:9781464252082",
-          "title": "Fallen Rook",
-          "author": "L.J. Shen",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464252082.jpg",
+          "id": "nyt:9781464247743",
+          "title": "Kneel Before Me",
+          "author": "Lindsay Straube",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464247743.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "paperback trade fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The third book in the Society…",
-          "synopsis_full": "The third book in the Society of Villains series. An F.B.I. special agent and a member of a crime organization develop a forbidden relationship.",
+          "synopsis_short": "The third book in the Split…",
+          "synopsis_full": "The third book in the Split or Swallow series.",
           "source": "nyt",
-          "score": 0.1542
+          "score": 0.124
         },
         {
-          "id": "nyt:9780063376694",
-          "title": "Agatha Christie: Murder At The Grand Alpine Hotel",
-          "author": "Lucy Foley",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063376694.jpg",
+          "id": "nyt:DORORIG001917",
+          "title": "The Infinite Extent",
+          "author": "Dennis E. Taylor",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/DORORIG001917.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "audio fiction"
           ],
-          "year": 2026,
+          "year": 2019,
           "category": "Drama y literatura general",
-          "synopsis_short": "At a secluded hotel in the…",
-          "synopsis_full": "At a secluded hotel in the Swiss Alps during a blizzard, Miss Marple must determine the identity of a killer.",
+          "synopsis_short": "The sixth book in the Bobiverse…",
+          "synopsis_full": "The sixth book in the Bobiverse series. Read by Ray Porter. 8 hours, 22 minutes unabridged.",
           "source": "nyt",
-          "score": 0.1501
-        },
-        {
-          "id": "nyt:9780316404099",
-          "title": "The Munich Affair",
-          "author": "James Patterson and David Ellis",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316404099.jpg",
-          "subjects": [
-            "combined print & e-book fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "An investigation into the death of…",
-          "synopsis_full": "An investigation into the death of a young woman in Hitler’s apartment in 1931 puts several people at risk.",
-          "source": "nyt",
-          "score": 0.1439
+          "score": 0.1239
         }
       ]
     },
     {
-      "name": "Infantil y juvenil",
+      "name": "Otros",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781250474933",
-          "title": "Érase una vez un corazón roto",
-          "author": "Stephanie Garber",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250474933.jpg",
+          "id": "nyt:9780063515109",
+          "title": "Building 903",
+          "author": "Lois Lowry",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063515109.jpg",
           "subjects": [
-            "children’s & young adult series"
-          ],
-          "year": 2021,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "The story of Evangeline Fox, Jacks,…",
-          "synopsis_full": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
-          "source": "nyt",
-          "score": 0.0716
-        },
-        {
-          "id": "nyt:9780593616970",
-          "title": "Empire",
-          "author": "Sabaa Tahir",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593616970.jpg",
-          "subjects": [
-            "young adult hardcover"
+            "children’s middle grade hardcover"
           ],
           "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "In the conclusion to the \"Heir\"…",
-          "synopsis_full": "In the conclusion to the \"Heir\" duology, a fractured empire faces a grim reckoning. (Ages 14 and up)",
+          "category": "Otros",
+          "synopsis_short": "Tessa delves into the mystery of…",
+          "synopsis_full": "Tessa delves into the mystery of her missing twin brother, Theo. (Ages 8 to 12)",
           "source": "nyt",
-          "score": 0.0358
+          "score": 0.076
         },
         {
-          "id": "nyt:9780316581097",
-          "title": "Robot Salvaje",
-          "author": "Peter Brown",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316581097.jpg",
+          "id": "nyt:9781368104548",
+          "title": "The Long-Lived King",
+          "author": "Dana Terrace and Mikki Crisostomo",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781368104548.jpg",
           "subjects": [
-            "children’s & young adult series"
+            "graphic books and manga"
           ],
-          "year": 2016,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Roz the robot adapts to her…",
-          "synopsis_full": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Set in the world of “The…",
+          "synopsis_full": "Set in the world of “The Owl House,” King gets help from the Collector and Eda to recover Luz's memories.",
           "source": "nyt",
-          "score": 0.0138
+          "score": 0.0464
         },
         {
-          "id": "nyt:9781484727218",
-          "title": "El ladrón del rayo",
-          "author": "Rick Riordan",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781484727218.jpg",
+          "id": "nyt:9798881602437",
+          "title": "Big Nate: Curse Of The Puffy Shorts",
+          "author": "Lincoln Peirce",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798881602437.jpg",
           "subjects": [
-            "children’s & young adult series"
+            "graphic books and manga"
           ],
-          "year": 2009,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "A boy battles mythological monsters. (Ages…",
-          "synopsis_full": "A boy battles mythological monsters. (Ages 9 to 12)",
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Nate Wright makes more mischief during…",
+          "synopsis_full": "Nate Wright makes more mischief during his time in the sixth grade while trying to avoid detention.",
           "source": "nyt",
-          "score": 0.0087
+          "score": 0.0436
+        },
+        {
+          "id": "nyt:9781781102640",
+          "title": "Harry Potter y la piedra filosofal",
+          "author": "J.K. Rowling",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781781102640.jpg",
+          "subjects": [
+            "audio children's"
+          ],
+          "year": 1999,
+          "category": "Otros",
+          "synopsis_short": "The second book in the Harry…",
+          "synopsis_full": "The second book in the Harry Potter series. Read by Jim Dale. 9 hours, 2 minutes unabridged.",
+          "source": "nyt",
+          "score": 0.0351
         }
       ]
     },
@@ -138,64 +138,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780063569805",
-          "title": "Pay Attention",
-          "author": "David Pakman",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063569805.jpg",
+          "id": "nyt:9780593805053",
+          "title": "The Cauldron",
+          "author": "Simon Sebag Montefiore",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593805053.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The author of “The Echo Machine”…",
-          "synopsis_full": "The author of “The Echo Machine” looks at the ways in which technology exacerbates political and cultural divisions.",
+          "synopsis_short": "The author of “The World” explores…",
+          "synopsis_full": "The author of “The World” explores the complex history, diversity and interconnectedness of the Middle East.",
           "source": "nyt",
-          "score": 0.0599
+          "score": 0.0577
         },
         {
-          "id": "nyt:9781250452719",
-          "title": "Go And Do Likewise",
-          "author": "Andy Beshear",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250452719.jpg",
+          "id": "nyt:9781101910177",
+          "title": "Bread Of Angels",
+          "author": "Patti Smith",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781101910177.jpg",
           "subjects": [
-            "combined print & e-book nonfiction"
+            "paperback nonfiction"
           ],
-          "year": 2026,
+          "year": 2025,
           "category": "No ficción",
-          "synopsis_short": "The governor of Kentucky, who is…",
-          "synopsis_full": "The governor of Kentucky, who is the grandson of Baptist lay ministers, shares his views on the role that faith might have on public life.",
+          "synopsis_short": "The National Book Award–winning author and…",
+          "synopsis_full": "The National Book Award–winning author and Rock and Roll Hall of Fame inductee shares the ebbs and flows of her life.",
           "source": "nyt",
-          "score": 0.0587
+          "score": 0.047
         },
         {
-          "id": "nyt:9780593978177",
-          "title": "An Unexpected Life",
-          "author": "Gloria Steinem",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593978177.jpg",
+          "id": "nyt:9780593802014",
+          "title": "Man In The Mirror",
+          "author": "Anand Giridharadas",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593802014.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "A memoir by the recently deceased…",
-          "synopsis_full": "A memoir by the recently deceased feminist journalist and icon in which she recounts her six decades of activism.",
+          "synopsis_short": "The author of “The Persuaders” depicts…",
+          "synopsis_full": "The author of “The Persuaders” depicts the people and events connected to the deadly encounter between a homeless man and an ex-Marine in a New York City subway car.",
           "source": "nyt",
-          "score": 0.0515
+          "score": 0.0467
         },
         {
-          "id": "nyt:9781668097236",
-          "title": "Actually, Nevermind",
-          "author": "Taylor Tomlinson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668097236.jpg",
+          "id": "nyt:9780593719183",
+          "title": "A Fabulous Debt",
+          "author": "Robin Wigglesworth",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593719183.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "In a collection of essays, the…",
-          "synopsis_full": "In a collection of essays, the comedian reflects upon her life as she approaches the same age her mother was when she died.",
+          "synopsis_short": "A journalist for The Financial Times…",
+          "synopsis_full": "A journalist for The Financial Times gives an overview of the history of the bond market and explains its influence.",
           "source": "nyt",
-          "score": 0.0448
+          "score": 0.0439
         }
       ]
     }
