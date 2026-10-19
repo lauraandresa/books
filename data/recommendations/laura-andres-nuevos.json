@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-10-12T17:07:39.346921Z",
+  "generated_at": "2026-10-19T15:06:46.995551Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798893380620",
-          "title": "May We Feed The King",
-          "author": "Rebecca Perry",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798893380620.jpg",
+          "id": "nyt:9798217190041",
+          "title": "This Inevitable Ruin",
+          "author": "Matt Dinniman",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217190041.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The seventh book in the \"Dungeon…",
+          "synopsis_full": "The seventh book in the \"Dungeon Crawler Carl\" series. After becoming fully self-aware, the NPCs join the Faction Wars.",
+          "source": "nyt",
+          "score": 0.1222
+        },
+        {
+          "id": "nyt:9781649377371",
+          "title": "Alas de Sangre",
+          "author": "Rebecca Yarros",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781649377371.jpg",
           "subjects": [
             "paperback trade fiction"
           ],
-          "year": 2026,
+          "year": 2023,
           "category": "Drama y literatura general",
-          "synopsis_short": "A curator, who takes a commission…",
-          "synopsis_full": "A curator, who takes a commission to work on the private quarters of a medieval palace, is swept up in the story of a king.",
+          "synopsis_short": "Violet Sorrengail is urged by the…",
+          "synopsis_full": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
           "source": "nyt",
-          "score": 0.1239
+          "score": 0.1191
         },
         {
-          "id": "nyt:9798898859060",
-          "title": "día de la Trilla. Edición con Cantos Tintados (Empíreo) / Threshing Day. Edition with Sprayed Edges (Empyrean)",
-          "author": "Rebecca Yarros",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798898859060.jpg",
+          "id": "nyt:9781728296166",
+          "title": "Never Lie",
+          "author": "Freida McFadden",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781728296166.jpg",
           "subjects": [
-            "audio fiction"
+            "paperback trade fiction"
           ],
-          "year": 2026,
+          "year": 2023,
           "category": "Drama y literatura general",
-          "synopsis_short": "Thirteen short stories, set in the…",
-          "synopsis_full": "Thirteen short stories, set in the Empyrean world, in which cadets compete to earn the bond of a dragon. Read by Justis Bolding, Jake Bordeaux et al. 5 hours, 52 minutes unabridged",
+          "synopsis_short": "A winter storm traps a pair…",
+          "synopsis_full": "A winter storm traps a pair of newlyweds in a remote manor whose previous owner mysteriously disappeared.",
           "source": "nyt",
-          "score": 0.1225
+          "score": 0.1178
         },
         {
-          "id": "nyt:9781335004048",
-          "title": "Más que rivales",
-          "author": "Rachel Reid",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781335004048.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": 2024,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The second book in the Game…",
-          "synopsis_full": "The second book in the Game Changers series. Rival captains of two hockey teams try to keep their relationship out of the spotlight; the basis of the TV series.",
-          "source": "nyt",
-          "score": 0.1217
-        },
-        {
-          "id": "nyt:9798217298594",
-          "title": "Baldur'S Gate 3: Astarion",
-          "author": "T. Kingfisher",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217298594.jpg",
+          "id": "nyt:9781538752036",
+          "title": "American Hagwon",
+          "author": "Min Jin Lee",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538752036.jpg",
           "subjects": [
             "hardcover fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "Astarion Ancunin, who is trapped in…",
-          "synopsis_full": "Astarion Ancunin, who is trapped in the service of a vampire, forms an unlikely alliance in the hopes of breaking free.",
+          "synopsis_short": "After a betrayal and a financial…",
+          "synopsis_full": "After a betrayal and a financial crisis, John and Helen Koh move with their three children from Korea to Australia to California in the 1990s.",
           "source": "nyt",
-          "score": 0.1215
+          "score": 0.1171
         }
       ]
     },
@@ -72,130 +72,130 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781668658253",
-          "title": "The Counterrevolution",
-          "author": "Victor Davis Hanson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668658253.jpg",
+          "id": "nyt:9781797128016",
+          "title": "One Man In",
+          "author": "Christian Craighead",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781797128016.jpg",
           "subjects": [
             "audio nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "The author of “The End of…",
-          "synopsis_full": "The author of “The End of Everything” evaluates the influence of President Trump’s time out of office on his second term. Read by Bob Souer. 16 hours, 4 minutes unabridged.",
-          "source": "nyt",
-          "score": 0.0435
-        },
-        {
-          "id": "nyt:9780593734483",
-          "title": "Work In Progress",
-          "author": "Devon Rodriguez",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593734483.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The Bronx-born portrait artist with a…",
-          "synopsis_full": "The Bronx-born portrait artist with a large social media following describes how art transformed his life.",
+          "synopsis_short": "A former British special forces soldier…",
+          "synopsis_full": "A former British special forces soldier gives an account of his fight against a unit of ethnic Somali terrorists at a hotel and office complex in Nairobi. Read by the author. 5 hours, 26 minutes unabridged.",
           "source": "nyt",
-          "score": 0.0412
+          "score": 0.0456
         },
         {
-          "id": "nyt:9780063443891",
+          "id": "nyt:9780063443914",
           "title": "The Steps",
           "author": "Sylvester Stallone",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063443891.jpg",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063443914.jpg",
           "subjects": [
-            "audio nonfiction"
+            "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
           "synopsis_short": "The Hollywood icon describes the challenges…",
-          "synopsis_full": "The Hollywood icon describes the challenges he encountered during his childhood and the start of his career. Read by the author. 9 hours, 2 minutes unabridged.",
+          "synopsis_full": "The Hollywood icon describes the challenges he encountered during his childhood and the start of his career.",
           "source": "nyt",
-          "score": 0.0403
+          "score": 0.0409
         },
         {
-          "id": "nyt:9780593731772",
-          "title": "What Could Possibly Go Right?",
-          "author": "Danny Meyer",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593731772.jpg",
+          "id": "nyt:9798899743160",
+          "title": "The American Way Of Killing",
+          "author": "Malcolm Gladwell",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798899743160.jpg",
+          "subjects": [
+            "audio nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "Gladwell examines why there are so…",
+          "synopsis_full": "Gladwell examines why there are so many homicides in the United States and what stops us from fixing this issue. Read by the author. 5 hours, 18 minutes unabridged.",
+          "source": "nyt",
+          "score": 0.0409
+        },
+        {
+          "id": "nyt:9781335003430",
+          "title": "Not Today, Fascists",
+          "author": "Jennifer Welch",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781335003430.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The restaurateur and entrepreneur shares stories…",
-          "synopsis_full": "The restaurateur and entrepreneur shares stories of events that shaped the success of his business ventures.",
+          "synopsis_short": "A co-host of the “I’ve Had…",
+          "synopsis_full": "A co-host of the “I’ve Had It” podcast describes what she sees as a rise of theocracy and fascism in America.",
           "source": "nyt",
-          "score": 0.0399
+          "score": 0.0405
         }
       ]
     },
     {
-      "name": "Infantil y juvenil",
+      "name": "Otros",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781250462039",
-          "title": "Érase una vez un corazón roto",
-          "author": "Stephanie Garber",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250462039.jpg",
+          "id": "nyt:9781974768523",
+          "title": "Spy X Family, Vol. 16",
+          "author": "Tatsuya Endo",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781974768523.jpg",
           "subjects": [
-            "children’s & young adult series"
-          ],
-          "year": 2021,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "The story of Evangeline Fox, Jacks,…",
-          "synopsis_full": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
-          "source": "nyt",
-          "score": 0.0402
-        },
-        {
-          "id": "nyt:9780316555814",
-          "title": "The Millicent Quibb School Of Etiquette For Young Ladies Of Mad Science",
-          "author": "Kate McKinnon",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316555814.jpg",
-          "subjects": [
-            "children’s & young adult series"
-          ],
-          "year": 2024,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "The Porch sisters and Millicent Quibb…",
-          "synopsis_full": "The Porch sisters and Millicent Quibb do battle with the Krenetics Research Association. (Ages 8 to 12)",
-          "source": "nyt",
-          "score": 0.0398
-        },
-        {
-          "id": "nyt:9780593620410",
-          "title": "The House Of Gardenias",
-          "author": "Isabel Cañas",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593620410.jpg",
-          "subjects": [
-            "young adult hardcover"
+            "graphic books and manga"
           ],
           "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Sixteen-year-old Minerva takes a job as…",
-          "synopsis_full": "Sixteen-year-old Minerva takes a job as a maid in a manor house that is full of secrets. (Ages 14 and up)",
+          "category": "Otros",
+          "synopsis_short": "As Loid gathers intel from Melinda…",
+          "synopsis_full": "As Loid gathers intel from Melinda during counseling, Anya gets caught in the middle of an international quarrel at Eden Academy.",
           "source": "nyt",
-          "score": 0.0322
+          "score": 0.035
         },
         {
-          "id": "nyt:9798890036551",
-          "title": "Verity Vox And The Curse Of Foxfire",
-          "author": "Don Martin",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798890036551.jpg",
+          "id": "nyt:9798400517433",
+          "title": "The Life-Changing Art Of Self-Brain Surgery",
+          "author": "W. Lee Warren",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798400517433.jpg",
           "subjects": [
-            "young adult paperback"
+            "audio advice, how-to & misc"
           ],
-          "year": 2025,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "NEW YORK TIMES BESTSELLER! Indie Bestseller…",
-          "synopsis_full": "NEW YORK TIMES BESTSELLER! Indie Bestseller USA Today Bestseller WELCOME TO FOXFIRE The rules here are simple: Don’t look in the trees. Don’t whistle in the woods at night. Don’t answer if you hear your name called. And remember . . . everything wants. Verity Vox is a witch-in-training who has never met a problem her spells can’t solve. But when a cryptic plea for help sends her to the forgotten coal mining town of Foxfire, she soon learns even magic has its limits. Verity discovers a curse was laid years ago by a traveling magician who vanished into the ancient Appalachian hills to seek greater power. Crops won’t grow. Bellies go hungry. Even treasured possessions fall apart. What’s worse, people have gone missing amidst rumors that they’ve sought out the magician who is lying in wait for those foolish or desperate enough to strike a deal with him. The witch must break the curse, find a missing girl, and solve the mystery of what’s really under the mountain before the town falls forever into the clutches of the monster lurking in the hills.",
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Read by the author. 9 hours,…",
+          "synopsis_full": "Read by the author. 9 hours, 44 minutes unabridged.",
           "source": "nyt",
-          "score": 0.0285
+          "score": 0.0305
+        },
+        {
+          "id": "nyt:9781799508915",
+          "title": "Absolute Batman Vol. 3: Devil'S Workshop",
+          "author": "Scott Snyder",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781799508915.jpg",
+          "subjects": [
+            "graphic books and manga"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "After fighting Bane, Batman encounters the…",
+          "synopsis_full": "After fighting Bane, Batman encounters the Joker, Poison Ivy and the Court of Owls; collects the “Absolute Batman 2025 Annual,” “Absolute Batman: Ark M” and “Absolute Batman #15—18.”",
+          "source": "nyt",
+          "score": 0.026
+        },
+        {
+          "id": "nyt:9781250424990",
+          "title": "Game Of Pets: The Boy Who Knew Too Much",
+          "author": "Aaron Blabey",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250424990.jpg",
+          "subjects": [
+            "children’s middle grade hardcover"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "An 11-year-old named Griff is Earth’s…",
+          "synopsis_full": "An 11-year-old named Griff is Earth’s last hope against an extraterrestrial threat. (Ages 8 to 12)",
+          "source": "nyt",
+          "score": 0.0253
         }
       ]
     }
