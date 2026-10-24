@@ -1,135 +1,135 @@
 {
-  "generated_at": "2026-10-19T15:06:46.995551Z",
+  "generated_at": "2026-10-24T12:53:14.315437Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798217190041",
-          "title": "This Inevitable Ruin",
-          "author": "Matt Dinniman",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217190041.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The seventh book in the \"Dungeon…",
-          "synopsis_full": "The seventh book in the \"Dungeon Crawler Carl\" series. After becoming fully self-aware, the NPCs join the Faction Wars.",
-          "source": "nyt",
-          "score": 0.1222
-        },
-        {
-          "id": "nyt:9781649377371",
-          "title": "Alas de Sangre",
-          "author": "Rebecca Yarros",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781649377371.jpg",
-          "subjects": [
-            "paperback trade fiction"
-          ],
-          "year": 2023,
-          "category": "Drama y literatura general",
-          "synopsis_short": "Violet Sorrengail is urged by the…",
-          "synopsis_full": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
-          "source": "nyt",
-          "score": 0.1191
-        },
-        {
-          "id": "nyt:9781728296166",
-          "title": "Never Lie",
+          "id": "nyt:9781464249617",
+          "title": "Brain Damage",
           "author": "Freida McFadden",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781728296166.jpg",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464249617.jpg",
           "subjects": [
             "paperback trade fiction"
           ],
-          "year": 2023,
+          "year": null,
           "category": "Drama y literatura general",
-          "synopsis_short": "A winter storm traps a pair…",
-          "synopsis_full": "A winter storm traps a pair of newlyweds in a remote manor whose previous owner mysteriously disappeared.",
+          "synopsis_short": "A dermatologist who took a bullet…",
+          "synopsis_full": "A dermatologist who took a bullet through her skull tries to piece together her memories and determine if someone close to her is a threat.",
           "source": "nyt",
-          "score": 0.1178
+          "score": 0.0167
         },
         {
-          "id": "nyt:9781538752036",
-          "title": "American Hagwon",
-          "author": "Min Jin Lee",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538752036.jpg",
+          "id": "nyt:9781668251065",
+          "title": "Peck & Peck",
+          "author": "Bonnie Garmus",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668251065.jpg",
           "subjects": [
-            "hardcover fiction"
+            "combined print & e-book fiction"
+          ],
+          "year": null,
+          "category": "Drama y literatura general",
+          "synopsis_short": "In 1982, a recent college graduate…",
+          "synopsis_full": "In 1982, a recent college graduate named Batter Gray winds up in the middle of internecine wars at a prestigious poetry journal.",
+          "source": "nyt",
+          "score": -2.1359
+        },
+        {
+          "id": "nyt:9780385550543",
+          "title": "The French Illusion",
+          "author": "John Grisham",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780385550543.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "After a betrayal and a financial…",
-          "synopsis_full": "After a betrayal and a financial crisis, John and Helen Koh move with their three children from Korea to Australia to California in the 1990s.",
+          "synopsis_short": "When a couple is kidnapped during…",
+          "synopsis_full": "When a couple is kidnapped during a honeymoon trip in the French countryside, a young lawyer is used as part of a C.I.A. operation.",
           "source": "nyt",
-          "score": 0.1171
+          "score": -2.1444
+        },
+        {
+          "id": "nyt:9780593726259",
+          "title": "Hollow Bones",
+          "author": "Jodi Picoult",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593726259.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": null,
+          "category": "Drama y literatura general",
+          "synopsis_short": "A woman who runs the Rhode…",
+          "synopsis_full": "A woman who runs the Rhode Island Department for Emergency Preparedness and her husband, who is a police polygraph expert, face a crisis in their marriage.",
+          "source": "nyt",
+          "score": -2.1547
         }
       ]
     },
     {
-      "name": "No ficción",
+      "name": "Infantil y juvenil",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781797128016",
-          "title": "One Man In",
-          "author": "Christian Craighead",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781797128016.jpg",
+          "id": "nyt:9781665986717",
+          "title": "Spy School",
+          "author": "Stuart Gibbs",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665986717.jpg",
           "subjects": [
-            "audio nonfiction"
+            "children’s & young adult series"
           ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "A former British special forces soldier…",
-          "synopsis_full": "A former British special forces soldier gives an account of his fight against a unit of ethnic Somali terrorists at a hotel and office complex in Nairobi. Read by the author. 5 hours, 26 minutes unabridged.",
+          "year": 2013,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "In a case of mistaken identity,…",
+          "synopsis_full": "In a case of mistaken identity, a boy is recruited into a junior C.I.A. academy. (Ages 8 to 12)",
           "source": "nyt",
-          "score": 0.0456
+          "score": 0.0159
         },
         {
-          "id": "nyt:9780063443914",
-          "title": "The Steps",
-          "author": "Sylvester Stallone",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063443914.jpg",
+          "id": "nyt:9781250404756",
+          "title": "The Siren",
+          "author": "Tomi Adeyemi",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250404756.jpg",
           "subjects": [
-            "combined print & e-book nonfiction"
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "The Hollywood icon describes the challenges…",
-          "synopsis_full": "The Hollywood icon describes the challenges he encountered during his childhood and the start of his career.",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Emery Coleman attends Dartmouth on a…",
+          "synopsis_full": "Emery Coleman attends Dartmouth on a scholarship and joins a cultlike group known as the Sirens. (Ages 16 to 18)",
           "source": "nyt",
-          "score": 0.0409
+          "score": 0.0105
         },
         {
-          "id": "nyt:9798899743160",
-          "title": "The American Way Of Killing",
-          "author": "Malcolm Gladwell",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798899743160.jpg",
+          "id": "nyt:9780544824386",
+          "title": "The Way Things Work: Newly Revised Edition",
+          "author": "David Macaulay",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780544824386.jpg",
           "subjects": [
-            "audio nonfiction"
+            "young adult hardcover"
           ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "Gladwell examines why there are so…",
-          "synopsis_full": "Gladwell examines why there are so many homicides in the United States and what stops us from fixing this issue. Read by the author. 5 hours, 18 minutes unabridged.",
+          "year": 2016,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "A look at how technology impacts…",
+          "synopsis_full": "A look at how technology impacts our lives. (Ages 11 to 15)",
           "source": "nyt",
-          "score": 0.0409
+          "score": 0.0083
         },
         {
-          "id": "nyt:9781335003430",
-          "title": "Not Today, Fascists",
-          "author": "Jennifer Welch",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781335003430.jpg",
+          "id": "nyt:9780316608312",
+          "title": "Devoured",
+          "author": "Jordan Stephanie Gray",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316608312.jpg",
           "subjects": [
-            "combined print & e-book nonfiction"
+            "young adult hardcover"
           ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "A co-host of the “I’ve Had…",
-          "synopsis_full": "A co-host of the “I’ve Had It” podcast describes what she sees as a rise of theocracy and fascism in America.",
+          "year": null,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Vanessa secretly hones her werewolf skills…",
+          "synopsis_full": "Vanessa secretly hones her werewolf skills to exact revenge on the Wolf Queen’s court. (Ages 14 to 18)",
           "source": "nyt",
-          "score": 0.0405
+          "score": 0.0078
         }
       ]
     },
@@ -138,64 +138,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781974768523",
-          "title": "Spy X Family, Vol. 16",
-          "author": "Tatsuya Endo",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781974768523.jpg",
+          "id": "nyt:9781442402973",
+          "title": "Creepy Carrots!",
+          "author": "Aaron Reynolds",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781442402973.jpg",
           "subjects": [
-            "graphic books and manga"
+            "children’s picture books"
           ],
-          "year": 2026,
+          "year": 2012,
           "category": "Otros",
-          "synopsis_short": "As Loid gathers intel from Melinda…",
-          "synopsis_full": "As Loid gathers intel from Melinda during counseling, Anya gets caught in the middle of an international quarrel at Eden Academy.",
+          "synopsis_short": "A rabbit’s comeuppance. (Ages 4 to…",
+          "synopsis_full": "A rabbit’s comeuppance. (Ages 4 to 8)",
           "source": "nyt",
-          "score": 0.035
+          "score": 0.0103
         },
         {
-          "id": "nyt:9798400517433",
-          "title": "The Life-Changing Art Of Self-Brain Surgery",
-          "author": "W. Lee Warren",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798400517433.jpg",
-          "subjects": [
-            "audio advice, how-to & misc"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Read by the author. 9 hours,…",
-          "synopsis_full": "Read by the author. 9 hours, 44 minutes unabridged.",
-          "source": "nyt",
-          "score": 0.0305
-        },
-        {
-          "id": "nyt:9781799508915",
-          "title": "Absolute Batman Vol. 3: Devil'S Workshop",
-          "author": "Scott Snyder",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781799508915.jpg",
-          "subjects": [
-            "graphic books and manga"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "After fighting Bane, Batman encounters the…",
-          "synopsis_full": "After fighting Bane, Batman encounters the Joker, Poison Ivy and the Court of Owls; collects the “Absolute Batman 2025 Annual,” “Absolute Batman: Ark M” and “Absolute Batman #15—18.”",
-          "source": "nyt",
-          "score": 0.026
-        },
-        {
-          "id": "nyt:9781250424990",
-          "title": "Game Of Pets: The Boy Who Knew Too Much",
-          "author": "Aaron Blabey",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250424990.jpg",
+          "id": "nyt:9798217445981",
+          "title": "The Wild Zone",
+          "author": "Rick Riordan and Annabelle Oh",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217445981.jpg",
           "subjects": [
             "children’s middle grade hardcover"
           ],
-          "year": 2026,
+          "year": null,
           "category": "Otros",
-          "synopsis_short": "An 11-year-old named Griff is Earth’s…",
-          "synopsis_full": "An 11-year-old named Griff is Earth’s last hope against an extraterrestrial threat. (Ages 8 to 12)",
+          "synopsis_short": "Campers venture into the forest’s forbidden…",
+          "synopsis_full": "Campers venture into the forest’s forbidden Wild Zone. (Ages 10 to 14)",
           "source": "nyt",
-          "score": 0.0253
+          "score": 0.0098
+        },
+        {
+          "id": "nyt:9781546174363",
+          "title": "Baby-Sitters On Board!",
+          "author": "Ann M. Martin",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546174363.jpg",
+          "subjects": [
+            "graphic books and manga"
+          ],
+          "year": null,
+          "category": "Otros",
+          "synopsis_short": "The Baby-sitters Club have a summer…",
+          "synopsis_full": "The Baby-sitters Club have a summer adventure that includes a flight to Florida, a cruise to the Bahamas and three days at an amusement park.",
+          "source": "nyt",
+          "score": 0.0094
+        },
+        {
+          "id": "nyt:9781967836888",
+          "title": "Patch Work",
+          "author": "Craig Conover",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781967836888.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": null,
+          "category": "Otros",
+          "synopsis_short": "Embracing what makes you unique. (Ages…",
+          "synopsis_full": "Embracing what makes you unique. (Ages 4 to 8)",
+          "source": "nyt",
+          "score": 0.0087
         }
       ]
     }

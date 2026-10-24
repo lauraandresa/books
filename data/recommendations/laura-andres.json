@@ -1,69 +1,135 @@
 {
-  "generated_at": "2026-10-19T15:06:13.847122Z",
+  "generated_at": "2026-10-24T12:47:39.759644Z",
   "categories": [
     {
       "name": "Drama y literatura general",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781546008873",
-          "title": "Return To The Shack",
-          "author": "Wm",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546008873.jpg",
+          "id": "nyt:9781464244681",
+          "title": "Crossed",
+          "author": "Emily McIntire",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464244681.jpg",
           "subjects": [
             "hardcover fiction"
           ],
-          "year": 2026,
+          "year": null,
           "category": "Drama y literatura general",
-          "synopsis_short": "Years after the murder of his…",
-          "synopsis_full": "Years after the murder of his daughter, Mack is summoned to death row to visit the serial killer who took her life.",
+          "synopsis_short": "The fifth book in the Never…",
+          "synopsis_full": "The fifth book in the Never After series. Father Cade becomes a priest in a Vermont town, where he is tempted by Amaya.",
           "source": "nyt",
-          "score": 0.1383
+          "score": 0.0813
         },
         {
-          "id": "nyt:9798217192359",
-          "title": "Mortal e Inmortal",
-          "author": "Ali Hazelwood",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217192359.jpg",
+          "id": "nyt:9798892426374",
+          "title": "Fruit Fly",
+          "author": "Josh Silver",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798892426374.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "paperback trade fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "Two paranormal romance novellas tell stories…",
-          "synopsis_full": "Two paranormal romance novellas tell stories of relationships between unlikely pairs brought together by secrets and vengeance.",
+          "synopsis_short": "A writer who is severely blocked…",
+          "synopsis_full": "A writer who is severely blocked claims a struggling addict’s story as her own.",
           "source": "nyt",
-          "score": 0.1211
+          "score": 0.0806
         },
         {
-          "id": "nyt:9781250192233",
-          "title": "Victorious",
-          "author": "V.E. Schwab",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250192233.jpg",
+          "id": "nyt:9798350418903",
+          "title": "Verity",
+          "author": "Colleen Hoover",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798350418903.jpg",
+          "subjects": [
+            "audio fiction"
+          ],
+          "year": 2021,
+          "category": "Drama y literatura general",
+          "synopsis_short": "Lowen Ashleigh is hired by the…",
+          "synopsis_full": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth; the basis of the movie. Read by Vanessa Johansson and Amy Landon. 8 hours, 10 minutes unabridged.",
+          "source": "nyt",
+          "score": 0.0304
+        },
+        {
+          "id": "nyt:9781464244698",
+          "title": "Hexed",
+          "author": "Emily McIntire",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464244698.jpg",
           "subjects": [
             "hardcover fiction"
           ],
-          "year": 2026,
+          "year": null,
           "category": "Drama y literatura general",
-          "synopsis_short": "The third book in the Villains…",
-          "synopsis_full": "The third book in the Villains series. Victor Vale and Eli Ever, with teams of allies and rivals, go against each another for a final time.",
+          "synopsis_short": "The sixth book in the Never…",
+          "synopsis_full": "The sixth book in the Never After series. A forbidden love develops between the underboss to a mafia syndicate and his fiancée's cousin.",
           "source": "nyt",
-          "score": 0.1203
+          "score": 0.0283
+        }
+      ]
+    },
+    {
+      "name": "Otros",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781250369628",
+          "title": "The Lost Kitchen Volume 3: Seize The Supper",
+          "author": "Erin French with Rachel Holtzman",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250369628.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": null,
+          "category": "Otros",
+          "synopsis_short": "Sin sinopsis disponible.",
+          "synopsis_full": "No hay sinopsis disponible para este libro.",
+          "source": "nyt",
+          "score": 0.0174
         },
         {
-          "id": "nyt:9781649379290",
-          "title": "Alas de Sangre",
-          "author": "Rebecca Yarros",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781649379290.jpg",
+          "id": "nyt:9781728235202",
+          "title": "The Leaf Thief",
+          "author": "Alice Hemming",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781728235202.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "children’s picture books"
           ],
-          "year": 2023,
-          "category": "Drama y literatura general",
-          "synopsis_short": "Violet Sorrengail is urged by the…",
-          "synopsis_full": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+          "year": null,
+          "category": "Otros",
+          "synopsis_short": "Squirrel attempts to figure out who…",
+          "synopsis_full": "Squirrel attempts to figure out who has stolen his leaves. (Ages 4 to 8)",
           "source": "nyt",
-          "score": 0.1156
+          "score": 0.0141
+        },
+        {
+          "id": "nyt:9798217238736",
+          "title": "Gruffalo Granny",
+          "author": "Julia Donaldson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217238736.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Granny pays the Gruffalo family a…",
+          "synopsis_full": "Granny pays the Gruffalo family a visit. (Ages 3 to 7)",
+          "source": "nyt",
+          "score": 0.0137
+        },
+        {
+          "id": "nyt:9781728210353",
+          "title": "How To Catch A Witch",
+          "author": "Alice Walstead",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781728210353.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": null,
+          "category": "Otros",
+          "synopsis_short": "The Catch Club Kids attempt to…",
+          "synopsis_full": "The Catch Club Kids attempt to snare a witch on Halloween. (Ages 4 to 7)",
+          "source": "nyt",
+          "score": 0.0125
         }
       ]
     },
@@ -72,130 +138,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781324131656",
-          "title": "Blockers",
-          "author": "Michael Lewis",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781324131656.jpg",
+          "id": "nyt:9781668135471",
+          "title": "Actually, Nevermind",
+          "author": "Taylor Tomlinson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668135471.jpg",
           "subjects": [
-            "combined print & e-book nonfiction"
+            "audio nonfiction"
           ],
-          "year": 2026,
+          "year": null,
           "category": "No ficción",
-          "synopsis_short": "The author of “The Fifth Risk”…",
-          "synopsis_full": "The author of “The Fifth Risk” tells the story of President Trump’s Department of Government Efficiency through the lens of six public servants.",
+          "synopsis_short": "In a collection of essays, the…",
+          "synopsis_full": "In a collection of essays, the comedian reflects upon her life as she approaches the same age her mother was when she died. Read by the author. 5 hours, 31 minutes unabridged.",
           "source": "nyt",
-          "score": 0.0466
+          "score": 0.0147
         },
         {
-          "id": "nyt:9780374618759",
-          "title": "The Agi Chronicles",
-          "author": "Kevin Roose",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780374618759.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "A co-host of the “Machine Gods”…",
-          "synopsis_full": "A co-host of the “Machine Gods” podcast describes the race to create artificial general intelligence.",
-          "source": "nyt",
-          "score": 0.0458
-        },
-        {
-          "id": "nyt:9798217154852",
-          "title": "El rey Lear",
-          "author": "George Harrison",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217154852.jpg",
-          "subjects": [
-            "hardcover nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "A collection of over 200 images…",
-          "synopsis_full": "A collection of over 200 images made by the Beatles guitarist, who died in 2001, showing moments from his life and the band's rise.",
-          "source": "nyt",
-          "score": 0.0429
-        },
-        {
-          "id": "nyt:9780063005983",
-          "title": "The Day The World Came To Town",
-          "author": "Jim DeFede",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063005983.jpg",
+          "id": "nyt:9780399591617",
+          "title": "Signs",
+          "author": "Laura Lynne Jackson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780399591617.jpg",
           "subjects": [
             "paperback nonfiction"
           ],
-          "year": 2021,
-          "category": "No ficción",
-          "synopsis_short": "Thirty-eight jetliners en route to the…",
-          "synopsis_full": "Thirty-eight jetliners en route to the United States were diverted to the Gander International Airport in Canada on 9/11; the basis of the musical “Come From Away.”",
-          "source": "nyt",
-          "score": 0.0412
-        }
-      ]
-    },
-    {
-      "name": "Infantil y juvenil",
-      "weight": 0,
-      "items": [
-        {
-          "id": "nyt:9781665982016",
-          "title": "The Dragonships",
-          "author": "Scott Reintgen",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665982016.jpg",
-          "subjects": [
-            "children’s & young adult series"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "The adventures of Lunar Jones and…",
-          "synopsis_full": "The adventures of Lunar Jones and the Dread Knights. (Ages 10 and up)",
-          "source": "nyt",
-          "score": 0.0418
-        },
-        {
-          "id": "nyt:9780316599399",
-          "title": "Crepúsculo",
-          "author": "Stephenie Meyer",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316599399.jpg",
-          "subjects": [
-            "children’s & young adult series"
-          ],
-          "year": 2009,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Vampires and werewolves and their intrigues…",
-          "synopsis_full": "Vampires and werewolves and their intrigues in high school. (Ages 12 and up)",
-          "source": "nyt",
-          "score": 0.0382
-        },
-        {
-          "id": "nyt:9780545791441",
-          "title": "Harry Potter y la piedra filosofal",
-          "author": "J.K. Rowling",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780545791441.jpg",
-          "subjects": [
-            "children’s & young adult series"
-          ],
           "year": 2020,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "A wizard hones his conjuring skills…",
-          "synopsis_full": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
+          "category": "No ficción",
+          "synopsis_short": "A medium details potential ways the…",
+          "synopsis_full": "A medium details potential ways the deceased may speak to us through everyday events.",
           "source": "nyt",
-          "score": 0.0345
+          "score": 0.0072
         },
         {
-          "id": "nyt:9780593904121",
-          "title": "The Pools",
-          "author": "E. Lockhart",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593904121.jpg",
+          "id": "nyt:9780525562238",
+          "title": "The Rush",
+          "author": "Nathaniel Philbrick",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780525562238.jpg",
           "subjects": [
-            "young adult hardcover"
+            "hardcover nonfiction"
+          ],
+          "year": null,
+          "category": "No ficción",
+          "synopsis_short": "The author of “Travels With George”…",
+          "synopsis_full": "The author of “Travels With George” looks at how America’s modern contradictions were born out of California’s Gold Rush.",
+          "source": "nyt",
+          "score": 0.0051
+        },
+        {
+          "id": "nyt:DBKADBL054221",
+          "title": "The Perilous Fight",
+          "author": "Colin Kaepernick with Nick Chiles",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/DBKADBL054221.jpg",
+          "subjects": [
+            "audio nonfiction"
           ],
           "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "In a small New England town…",
-          "synopsis_full": "In a small New England town known for its natural hot springs, five people go for a swim and a horrific event takes place. (Ages 12 and up)",
+          "category": "No ficción",
+          "synopsis_short": "The Super Bowl quarterback and civil…",
+          "synopsis_full": "The Super Bowl quarterback and civil rights activist describes defining moments in his life and their outcomes. Read by Colin Kaepernick. 9 hours, 35 minutes unabridged.",
           "source": "nyt",
-          "score": 0.0246
+          "score": 0.004
         }
       ]
     }
