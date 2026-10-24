@@ -195,7 +195,20 @@
       "swiped_at": "2026-08-20T12:11:52.692Z"
     }
   ],
-  "disliked": [],
+  "disliked": [
+    {
+      "id": "nyt:9798217192359",
+      "title": "Mortal e Inmortal",
+      "author": "Ali Hazelwood",
+      "subjects": [
+        "combined print & e-book fiction"
+      ],
+      "description": "Two paranormal romance novellas tell stories of relationships between unlikely pairs brought together by secrets and vengeance.",
+      "year": 2026,
+      "source": "nyt",
+      "marked_at": "2026-10-24T12:41:56.203Z"
+    }
+  ],
   "shown_ids": [
     "nyt:9781455570249",
     "nyt:9781508258476",
