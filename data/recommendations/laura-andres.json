@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-10-24T12:47:39.759644Z",
+  "generated_at": "2026-10-25T19:49:12.548468Z",
   "categories": [
     {
-      "name": "Drama y literatura general",
-      "weight": 0,
+      "name": "Infantil y juvenil",
+      "weight": 0.2,
       "items": [
         {
-          "id": "nyt:9781464244681",
-          "title": "Crossed",
-          "author": "Emily McIntire",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464244681.jpg",
+          "id": "nyt:9798347121151",
+          "title": "Falling Like Leaves",
+          "author": "Misty Wilson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798347121151.jpg",
           "subjects": [
-            "hardcover fiction"
+            "young adult paperback"
           ],
-          "year": null,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The fifth book in the Never…",
-          "synopsis_full": "The fifth book in the Never After series. Father Cade becomes a priest in a Vermont town, where he is tempted by Amaya.",
+          "year": 2025,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Gilmore Girls meets Jenny Han in…",
+          "synopsis_full": "Gilmore Girls meets Jenny Han in this “delightfully autumnal small-town romance” (Kirkus Reviews, starred review) about a city girl stuck in a quaint small town who must confront her future and her old flame while the town prepares for an annual fall festival. Ellis has a plan: spend her senior fall prepping her application for Columbia, get into their journalism program, and set the foundation for a respectable career. So when her parents announce that not only are they separating, but Ellis has to move with her mom from New York City to Bramble Falls, Connecticut, to live with her aunt and cousin, it couldn’t come at a worse time. From past summers spent in Connecticut, Ellis knows Bramble Falls is idyllic and charming. But it also seems to be full of distractions. There’s local barista Cooper Barnett, Ellis’s one-time best friend and first kiss who now wants nothing to do with her. And then there’s the Falling Leaves Festival, a local autumnal celebration run by Ellis’s aunt where people from all over come to see Bramble Falls’s beautiful foliage. The house is stuffed with decorations, and every conversation seems to center around the festival. Dragged to every oh-so-charming event from apple picking to pumpkin carving, Ellis can’t stop bumping into Cooper…or falling for the quaint town and its quirky residents. As her return to Manhattan gets repeatedly delayed, Ellis finds herself caught between two very different places—and the futures they represent.",
           "source": "nyt",
-          "score": 0.0813
+          "score": 0.0
         },
         {
-          "id": "nyt:9798892426374",
-          "title": "Fruit Fly",
-          "author": "Josh Silver",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798892426374.jpg",
+          "id": "nyt:9781665921275",
+          "title": "Fake Skating",
+          "author": "Lynn Painter",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665921275.jpg",
           "subjects": [
-            "paperback trade fiction"
+            "young adult paperback"
+          ],
+          "year": 2025,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "From the no. 1 international bestselling…",
+          "synopsis_full": "From the no. 1 international bestselling author of Better than the Movies, childhood sweethearts reunite in a hockey-loving town where romance is about to heat up the ice. From play dates on the playground to sneaking into movie theatres, Dani and Alec were inseparable as kids. Until Dani moved away. Years later, Dani is back in Minnesota, and exited to reconnect with the nerdy and comforting Alec. But teenage Alec is NOTHING like the boy she remembers. He's the hockey STAR in a town where hockey players are worshipped as gods – and he loves it. When one thing leads to another and Dani and Alec find themselves thrown together and playing the role of boyfriend and girlfriend, “complicated” becomes an understatement. In this Minnesota town, hockey may rule, but romance is about to take its place. A swoony, boy-next-door fake dating romance from the New York Times bestseller, Lynn Painter.",
+          "source": "nyt",
+          "score": 0.0
+        },
+        {
+          "id": "nyt:9781481438261",
+          "title": "Long Way Down",
+          "author": "Jason Reynolds",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781481438261.jpg",
+          "subjects": [
+            "young adult paperback"
+          ],
+          "year": 2017,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "As Will, fifteen, sets out to…",
+          "synopsis_full": "As Will, fifteen, sets out to avenge his brother Shawn's fatal shooting, seven ghosts who knew Shawn board the elevator and reveal truths Will needs to know.",
+          "source": "nyt",
+          "score": 0.0
+        },
+        {
+          "id": "nyt:9798217449484",
+          "title": "Wondrous",
+          "author": "Heather Fawcett",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217449484.jpg",
+          "subjects": [
+            "young adult hardcover"
           ],
           "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "A writer who is severely blocked…",
-          "synopsis_full": "A writer who is severely blocked claims a struggling addict’s story as her own.",
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Alice returns to Wonderland to find…",
+          "synopsis_full": "Alice returns to Wonderland to find out there are other Alices there! (Ages 12 and up)",
           "source": "nyt",
-          "score": 0.0806
-        },
-        {
-          "id": "nyt:9798350418903",
-          "title": "Verity",
-          "author": "Colleen Hoover",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798350418903.jpg",
-          "subjects": [
-            "audio fiction"
-          ],
-          "year": 2021,
-          "category": "Drama y literatura general",
-          "synopsis_short": "Lowen Ashleigh is hired by the…",
-          "synopsis_full": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth; the basis of the movie. Read by Vanessa Johansson and Amy Landon. 8 hours, 10 minutes unabridged.",
-          "source": "nyt",
-          "score": 0.0304
-        },
-        {
-          "id": "nyt:9781464244698",
-          "title": "Hexed",
-          "author": "Emily McIntire",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464244698.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": null,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The sixth book in the Never…",
-          "synopsis_full": "The sixth book in the Never After series. A forbidden love develops between the underboss to a mafia syndicate and his fiancée's cousin.",
-          "source": "nyt",
-          "score": 0.0283
+          "score": -0.0072
         }
       ]
     },
@@ -72,64 +72,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781250369628",
-          "title": "The Lost Kitchen Volume 3: Seize The Supper",
-          "author": "Erin French with Rachel Holtzman",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250369628.jpg",
+          "id": "nyt:9798217004911",
+          "title": "The Wump",
+          "author": "Tony DiTerlizzi",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217004911.jpg",
           "subjects": [
-            "advice, how-to & miscellaneous"
-          ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Sin sinopsis disponible.",
-          "synopsis_full": "No hay sinopsis disponible para este libro.",
-          "source": "nyt",
-          "score": 0.0174
-        },
-        {
-          "id": "nyt:9781728235202",
-          "title": "The Leaf Thief",
-          "author": "Alice Hemming",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781728235202.jpg",
-          "subjects": [
-            "children’s picture books"
-          ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Squirrel attempts to figure out who…",
-          "synopsis_full": "Squirrel attempts to figure out who has stolen his leaves. (Ages 4 to 8)",
-          "source": "nyt",
-          "score": 0.0141
-        },
-        {
-          "id": "nyt:9798217238736",
-          "title": "Gruffalo Granny",
-          "author": "Julia Donaldson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217238736.jpg",
-          "subjects": [
-            "children’s picture books"
+            "children’s middle grade hardcover"
           ],
           "year": 2026,
           "category": "Otros",
-          "synopsis_short": "Granny pays the Gruffalo family a…",
-          "synopsis_full": "Granny pays the Gruffalo family a visit. (Ages 3 to 7)",
+          "synopsis_short": "Timothy Quibble, a bullied middle schooler,…",
+          "synopsis_full": "Timothy Quibble, a bullied middle schooler, suppresses his dark side’s thirst for revenge. (Ages 9 to 12)",
           "source": "nyt",
-          "score": 0.0137
+          "score": 0.0072
         },
         {
-          "id": "nyt:9781728210353",
-          "title": "How To Catch A Witch",
-          "author": "Alice Walstead",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781728210353.jpg",
+          "id": "nyt:9780316575737",
+          "title": "The Undead Fox Of Deadwood Forest",
+          "author": "Aubrey Hartman",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316575737.jpg",
           "subjects": [
-            "children’s picture books"
+            "middle grade paperback"
           ],
-          "year": null,
+          "year": 2025,
           "category": "Otros",
-          "synopsis_short": "The Catch Club Kids attempt to…",
-          "synopsis_full": "The Catch Club Kids attempt to snare a witch on Halloween. (Ages 4 to 7)",
+          "synopsis_short": "A Newbery Honor Award Book! A…",
+          "synopsis_full": "A Newbery Honor Award Book! A fox and a badger begrudgingly team up to change their destinies in this endearing middle grade novel Featuring black-and-white illustrations throughout, this critically acclaimed novel brings Deadwood Forest to life through both words and art. Perfect for fans of Kate DiCamillo and Katherine Applegate. ? “Heartbreaking, marvelously funny, and generously redemptive.” -Kirkus, starred review Clare is the undead fox of Deadwood Forest. Here, leaves grow in a perpetual state of fall: not quite dead, but not quite alive—just like Clare. Long ago, he was struck by a car, and, hovering between life and death, he was given the choice to either cross into the Afterlife or become an Usher of wandering souls. Clare chose the latter: a solitary life of guiding souls to their final resting place. Clare’s quiet and predictable days are met with upheaval when a badger soul named Gingersnipes knocks on his door. Despite Clare’s efforts to usher her into the Afterlife, the badger is unable to leave Deadwood. This is unprecedented. Baffling. A disturbing mystery which threatens the delicate balance between the living and the dead. Desperate for help, Clare and Gingersnipes set out on a treacherous journey to find Hesterfowl—the visionary grouse who recently foretold of turmoil in Deadwood. But upon their arrival, Hesterfowl divulges a shocking revelation that leaves Clare devastated, outraged, and determined to do anything to change his fate.",
           "source": "nyt",
-          "score": 0.0125
+          "score": 0.0024
+        },
+        {
+          "id": "nyt:9781492670025",
+          "title": "The Complete Cookbook For Young Chefs",
+          "author": "America's Test Kitchen Kids",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781492670025.jpg",
+          "subjects": [
+            "children’s middle grade hardcover"
+          ],
+          "year": 2018,
+          "category": "Otros",
+          "synopsis_short": "Over 100 kid-tested recipes from America's…",
+          "synopsis_full": "Over 100 kid-tested recipes from America's Test Kitchen. (Ages 8 and up)",
+          "source": "nyt",
+          "score": 0.0002
+        },
+        {
+          "id": "nyt:9781400356829",
+          "title": "Ilíada",
+          "author": "Philip Anthony Mitchell",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781400356829.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "The call to follow Christ was…",
+          "synopsis_full": "The call to follow Christ was never a call to passive belief. In Contend, Philip Anthony Mitchell, founder and lead pastor of 2819 Church in Atlanta, unpacks Jude's urgent letter—a warning written to a Church under siege from false teachers, compromise, and spiritual laziness—and proves it's still our reality today. Countless Believers are still sitting on the sidelines, assuming they'll have another day to get serious about the Faith. But the days of casual Christianity are running out. Mitchell refuses to let the Church stay passive, and he reminds every Believer that the same Christ who saved you has also equipped you to fight. Through Contend, you will be inspired to: Rediscover the passion and purpose of your Faith. Trade spiritual complacency for a vibrant relationship with Jesus. Boldly proclaim the Gospel with love and grace. Find freedom from sin, disbelief, insecurities, and unforgiveness. Disciple and prepare the next generation to stand firm and press on. Each chapter ends with a \"Takeaway Truth\" to anchor you in Scripture and a \"Contender's Charge\" to move you into action—because Faith isn't just believing but living out the Gospel. The question isn't whether the Faith is worth fighting for. The question is whether you will contend!",
+          "source": "nyt",
+          "score": 0.0
         }
       ]
     },
@@ -138,64 +138,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781668135471",
-          "title": "Actually, Nevermind",
-          "author": "Taylor Tomlinson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668135471.jpg",
-          "subjects": [
-            "audio nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "In a collection of essays, the…",
-          "synopsis_full": "In a collection of essays, the comedian reflects upon her life as she approaches the same age her mother was when she died. Read by the author. 5 hours, 31 minutes unabridged.",
-          "source": "nyt",
-          "score": 0.0147
-        },
-        {
-          "id": "nyt:9780399591617",
-          "title": "Signs",
-          "author": "Laura Lynne Jackson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780399591617.jpg",
-          "subjects": [
-            "paperback nonfiction"
-          ],
-          "year": 2020,
-          "category": "No ficción",
-          "synopsis_short": "A medium details potential ways the…",
-          "synopsis_full": "A medium details potential ways the deceased may speak to us through everyday events.",
-          "source": "nyt",
-          "score": 0.0072
-        },
-        {
-          "id": "nyt:9780525562238",
-          "title": "The Rush",
-          "author": "Nathaniel Philbrick",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780525562238.jpg",
-          "subjects": [
-            "hardcover nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "The author of “Travels With George”…",
-          "synopsis_full": "The author of “Travels With George” looks at how America’s modern contradictions were born out of California’s Gold Rush.",
-          "source": "nyt",
-          "score": 0.0051
-        },
-        {
-          "id": "nyt:DBKADBL054221",
-          "title": "The Perilous Fight",
-          "author": "Colin Kaepernick with Nick Chiles",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/DBKADBL054221.jpg",
+          "id": "nyt:9781250479808",
+          "title": "How To Eat An Elephant",
+          "author": "Sarah Longwell",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250479808.jpg",
           "subjects": [
             "audio nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The Super Bowl quarterback and civil…",
-          "synopsis_full": "The Super Bowl quarterback and civil rights activist describes defining moments in his life and their outcomes. Read by Colin Kaepernick. 9 hours, 35 minutes unabridged.",
+          "synopsis_short": "The publisher of The Bulwark builds…",
+          "synopsis_full": "The publisher of The Bulwark builds upon her interactions with voters to envision a modern pro-democracy movement. Read by the author. 8 hours, 29 minutes unabridged.",
           "source": "nyt",
-          "score": 0.004
+          "score": -0.0034
+        },
+        {
+          "id": "nyt:9781668155226",
+          "title": "The Nerd Reich",
+          "author": "Gil Durán",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668155226.jpg",
+          "subjects": [
+            "audio nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "An independent journalist portrays a new…",
+          "synopsis_full": "An independent journalist portrays a new political order that would supplant elected governments with corporate rule. Read by the author. 9 hours, 29 minutes unabridged.",
+          "source": "nyt",
+          "score": -0.0049
+        },
+        {
+          "id": "nyt:9781250448194",
+          "title": "Enshittification",
+          "author": "Cory Doctorow",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250448194.jpg",
+          "subjects": [
+            "paperback nonfiction"
+          ],
+          "year": 2025,
+          "category": "No ficción",
+          "synopsis_short": "The author of “The Reverse Centaur's…",
+          "synopsis_full": "The author of “The Reverse Centaur's Guide to Life After AI” describes how decisions by tech leaders made services worse.",
+          "source": "nyt",
+          "score": -0.0071
+        },
+        {
+          "id": "nyt:9781668103036",
+          "title": "American Scoundrel",
+          "author": "Kai Bird with Susan Goldmark",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668103036.jpg",
+          "subjects": [
+            "audio nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "A co-author of “American Prometheus” chronicles…",
+          "synopsis_full": "A co-author of “American Prometheus” chronicles the life and work of the lawyer and political fixer Roy Cohn. Read by Ari Fliakos. 15 hours, 42 minutes unabridged.",
+          "source": "nyt",
+          "score": -0.0227
         }
       ]
     }

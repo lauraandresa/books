@@ -1,135 +1,39 @@
 {
-  "generated_at": "2026-10-24T12:53:14.315437Z",
+  "generated_at": "2026-10-25T19:49:40.634790Z",
   "categories": [
     {
-      "name": "Drama y literatura general",
-      "weight": 0,
-      "items": [
-        {
-          "id": "nyt:9781464249617",
-          "title": "Brain Damage",
-          "author": "Freida McFadden",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464249617.jpg",
-          "subjects": [
-            "paperback trade fiction"
-          ],
-          "year": null,
-          "category": "Drama y literatura general",
-          "synopsis_short": "A dermatologist who took a bullet…",
-          "synopsis_full": "A dermatologist who took a bullet through her skull tries to piece together her memories and determine if someone close to her is a threat.",
-          "source": "nyt",
-          "score": 0.0167
-        },
-        {
-          "id": "nyt:9781668251065",
-          "title": "Peck & Peck",
-          "author": "Bonnie Garmus",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668251065.jpg",
-          "subjects": [
-            "combined print & e-book fiction"
-          ],
-          "year": null,
-          "category": "Drama y literatura general",
-          "synopsis_short": "In 1982, a recent college graduate…",
-          "synopsis_full": "In 1982, a recent college graduate named Batter Gray winds up in the middle of internecine wars at a prestigious poetry journal.",
-          "source": "nyt",
-          "score": -2.1359
-        },
-        {
-          "id": "nyt:9780385550543",
-          "title": "The French Illusion",
-          "author": "John Grisham",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780385550543.jpg",
-          "subjects": [
-            "combined print & e-book fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "When a couple is kidnapped during…",
-          "synopsis_full": "When a couple is kidnapped during a honeymoon trip in the French countryside, a young lawyer is used as part of a C.I.A. operation.",
-          "source": "nyt",
-          "score": -2.1444
-        },
-        {
-          "id": "nyt:9780593726259",
-          "title": "Hollow Bones",
-          "author": "Jodi Picoult",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593726259.jpg",
-          "subjects": [
-            "combined print & e-book fiction"
-          ],
-          "year": null,
-          "category": "Drama y literatura general",
-          "synopsis_short": "A woman who runs the Rhode…",
-          "synopsis_full": "A woman who runs the Rhode Island Department for Emergency Preparedness and her husband, who is a police polygraph expert, face a crisis in their marriage.",
-          "source": "nyt",
-          "score": -2.1547
-        }
-      ]
-    },
-    {
       "name": "Infantil y juvenil",
-      "weight": 0,
+      "weight": 0.2,
       "items": [
         {
-          "id": "nyt:9781665986717",
-          "title": "Spy School",
-          "author": "Stuart Gibbs",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665986717.jpg",
-          "subjects": [
-            "children’s & young adult series"
-          ],
-          "year": 2013,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "In a case of mistaken identity,…",
-          "synopsis_full": "In a case of mistaken identity, a boy is recruited into a junior C.I.A. academy. (Ages 8 to 12)",
-          "source": "nyt",
-          "score": 0.0159
-        },
-        {
-          "id": "nyt:9781250404756",
-          "title": "The Siren",
-          "author": "Tomi Adeyemi",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250404756.jpg",
+          "id": "nyt:9780063462540",
+          "title": "The Sixth Faction",
+          "author": "Veronica Roth",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063462540.jpg",
           "subjects": [
             "young adult hardcover"
           ],
           "year": 2026,
           "category": "Infantil y juvenil",
-          "synopsis_short": "Emery Coleman attends Dartmouth on a…",
-          "synopsis_full": "Emery Coleman attends Dartmouth on a scholarship and joins a cultlike group known as the Sirens. (Ages 16 to 18)",
+          "synopsis_short": "When Beatrice Prior’s choosing ceremony is…",
+          "synopsis_full": "When Beatrice Prior’s choosing ceremony is interrupted by rebels, her life is changed. (Ages 13 and up)",
           "source": "nyt",
-          "score": 0.0105
+          "score": -0.0157
         },
         {
-          "id": "nyt:9780544824386",
-          "title": "The Way Things Work: Newly Revised Edition",
-          "author": "David Macaulay",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780544824386.jpg",
+          "id": "nyt:9798347100217",
+          "title": "Trust Fall",
+          "author": "Lynn Painter",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798347100217.jpg",
           "subjects": [
             "young adult hardcover"
           ],
-          "year": 2016,
+          "year": 2026,
           "category": "Infantil y juvenil",
-          "synopsis_short": "A look at how technology impacts…",
-          "synopsis_full": "A look at how technology impacts our lives. (Ages 11 to 15)",
+          "synopsis_short": "As a condition of a surprise…",
+          "synopsis_full": "As a condition of a surprise inheritance, a small-town Nebraskan girl and her family move to New York City. (Ages 14 and up)",
           "source": "nyt",
-          "score": 0.0083
-        },
-        {
-          "id": "nyt:9780316608312",
-          "title": "Devoured",
-          "author": "Jordan Stephanie Gray",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316608312.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": null,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Vanessa secretly hones her werewolf skills…",
-          "synopsis_full": "Vanessa secretly hones her werewolf skills to exact revenge on the Wolf Queen’s court. (Ages 14 to 18)",
-          "source": "nyt",
-          "score": 0.0078
+          "score": -0.0177
         }
       ]
     },
@@ -138,64 +42,130 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781442402973",
-          "title": "Creepy Carrots!",
-          "author": "Aaron Reynolds",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781442402973.jpg",
+          "id": "nyt:9781668032145",
+          "title": "Protocols",
+          "author": "Andrew D. Huberman with Jessica Wapner",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668032145.jpg",
           "subjects": [
-            "children’s picture books"
+            "advice, how-to & miscellaneous"
           ],
-          "year": 2012,
+          "year": 2026,
           "category": "Otros",
-          "synopsis_short": "A rabbit’s comeuppance. (Ages 4 to…",
-          "synopsis_full": "A rabbit’s comeuppance. (Ages 4 to 8)",
+          "synopsis_short": "Dr. Andrew Huberman, neurowetenschapper en populaire…",
+          "synopsis_full": "Dr. Andrew Huberman, neurowetenschapper en populaire podcasthost van Huberman Lab, komt nu met het boek 'Protocols'. Dit boek biedt eenvoudige, krachtige en op wetenschappelijk onderzoek gebaseerde oplossingen voor de meest voorkomende uitdagingen van het leven. Deze richtlijnen, of protocollen, zijn ontworpen om je geestelijke en lichamelijke gezondheid en je prestaties te verbeteren en zijn aanpasbaar aan jouw specifieke behoeften. Ze helpen je te kalmeren bij stress, te concentreren bij afleiding, te ontspannen wanneer het bedtijd is en weer energie te krijgen als het tijd is om op te staan. Met zijn heldere en boeiende stijl legt Huberman de wetenschappelijke basis van elk protocol uit en hoe deze onmiddellijk resultaten kunnen opleveren. 'Protocols' is de essentiële routekaart voor het bereiken van een optimale gezondheid. Voor lezers van o.a. David Goggins, Atomic Habits, Carol Dweck (Mindset) en Matthew Walker (Why We Sleep).",
           "source": "nyt",
-          "score": 0.0103
+          "score": 0.0
         },
         {
-          "id": "nyt:9798217445981",
-          "title": "The Wild Zone",
-          "author": "Rick Riordan and Annabelle Oh",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217445981.jpg",
+          "id": "nyt:9780063459083",
+          "title": "Homemade",
+          "author": "Nara Aziza Smith",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063459083.jpg",
           "subjects": [
-            "children’s middle grade hardcover"
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Nara Aziza Smith (@naraaziza), the best-dressed…",
+          "synopsis_full": "Nara Aziza Smith (@naraaziza), the best-dressed culinary creator in digital media, brings her signature style to 80 delicious, homemade family-friendly recipes in her debut cookbook. You may think you know Nara Smith--the glamorous outfits, the soothing ASMR voice, the beautiful family, the seemingly effortless approach to making food from scratch--but behind it all is a working mom with a relatable goal: preparing nourishing whole foods for herself and her family. Nara grew up in Germany inspired by her grandmother's cooking and the intention behind it--everything from freshly baked bread to her mother's home remedies for mild ailments, like garlic soaked in honey. While working as a model, she soon met and married supermodel Lucky Blue Smith and started a family. When she was diagnosed with an autoimmune disease and eczema, she found that she could manage her symptoms by cutting out most processed foods. She turned her scratch-cooking expertise in a new curated direction while sharing her cooking online with compelling and elevated content. A self-taught home cook, Nara found joy in the ethos of slowing down and cooking with intention at home. Now, millions of followers later, Nara has made home cooking look incredibly chic while preparing delicious and thoughtful meals her family loves. In her eagerly awaited and beautifully photographed first cookbook, Nara shares recipes from simple to complex, such as: * Softest White Potato Sandwich, English Muffins, and Handmade Cheese Crackers, a few of the doughs that keep Nara's hands busy * Cinnamon Toast Squares, a quick breakfast beloved by Nara's toddlers and better than anything you can find in stores * Baked Fall Vegetable Salad with Miso-Sherry Dressing, a gorgeous salad that fuels Nara for long workdays * Soy-Glazed Flank Steak with Plum Herb Salad, a beautiful, nourishing meal made from whole ingredients * One Pasta Dough for all shapes and sizes, with sauces, including stunning edible floral lasagna sheets. * Pork Schnitzel, a comfort food that brings Nara back to her childhood in Germany * Lucky's Oat Chocolate Chip Cookies, Nara's husband's recipe for the best American classic * A chapter on Bits & Bobs, including everything from homemade mozzarella to flavored butters to chocolate-hazelnut spread, showing the simplicity and magic of cooking from whole ingredients In Homemade, Nara brings ease and elegance to the creation of homemade food--inspiring readers to elevate their own reality, in the kitchen and beyond in their daily life.",
+          "source": "nyt",
+          "score": 0.0
+        },
+        {
+          "id": "nyt:9780593994849",
+          "title": "Why Am I Like This?",
+          "author": "Sabrina Zohar",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593994849.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
           ],
           "year": null,
           "category": "Otros",
-          "synopsis_short": "Campers venture into the forest’s forbidden…",
-          "synopsis_full": "Campers venture into the forest’s forbidden Wild Zone. (Ages 10 to 14)",
+          "synopsis_short": "From the popular dating and relationship…",
+          "synopsis_full": "From the popular dating and relationship coach and host of The Sabrina Zohar Show comes a no-BS roadmap to rewriting the patterns that are hijacking your love life—so you can finally create the love you deserve. Why does one text send me spiraling for days? Why do I apologize even when it's not my fault? Why do I need everyone to like me? Why am I like this? If this sounds like you, you’re not alone—and you’re not broken. These frustrating patterns of people-pleasing, questioning your worth, avoidance, or reactivity—what Sabrina Zohar calls your Bullshit Blueprint—are actually survival strategies your body learned to keep you safe. But as she reveals, they're also keeping you from the things you truly want. With her signature unfiltered advice rooted in psychology, neuroscience, and nervous system work, Why Am I Like This? shows you how to create a new, BS-free blueprint for love and life, one based on self-trust and conscious choice instead of outdated patterns of behavior. But you can’t dismantle what you don’t understand. Sharing stories from her coaching work and own, raw journey of unraveling and rebuilding, Sabrina walks you step-by-step through the process of rewiring the unconscious programming that’s keeping you stuck, including: How your attachment style, childhood wounds, and core beliefs form your unique Bullshit Blueprint The four survival responses and how they secretly drive your behavior How to break the toxic cycles of feeling “too much,” “not enough,” or impossible to love Why the dating myths we’ve been taught are actually making us reject people who could be good for us Practical tools to regulate your emotions, set boundaries, and finally choose yourself Sabrina doesn’t just give you tools, she gives it to you straight: You don’t have to keep abandoning yourself. You can stop repeating the past and start showing up more authentically and consciously in your relationships. Watch how that changes everything.",
           "source": "nyt",
-          "score": 0.0098
+          "score": 0.0
         },
         {
-          "id": "nyt:9781546174363",
-          "title": "Baby-Sitters On Board!",
-          "author": "Ann M. Martin",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546174363.jpg",
+          "id": "nyt:9798217274161",
+          "title": "Mastering American Mahjong",
+          "author": "Megan Trottier",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217274161.jpg",
           "subjects": [
-            "graphic books and manga"
+            "advice, how-to & miscellaneous"
           ],
-          "year": null,
+          "year": 2026,
           "category": "Otros",
-          "synopsis_short": "The Baby-sitters Club have a summer…",
-          "synopsis_full": "The Baby-sitters Club have a summer adventure that includes a flight to Florida, a cruise to the Bahamas and three days at an amusement park.",
+          "synopsis_short": "Step into the world of American…",
+          "synopsis_full": "Step into the world of American mahjong with this approachable and beautiful guidebook by the founder of Oh My Mahjong, perfect for beginners and players ready to level up their game. Whether you’re learning the tiles for the very first time or looking to sharpen your strategy, Mastering American Mahjong offers a fun, accessible path to playing with confidence and style. This comprehensive handbook provides you with a step-by-step overview of the rules and basic elements of mahjong, encouraging you to elevate your knowledge of the game and incorporate strategy that will set you apart at the mahjong table. With the help of engaging gameplay illustrations, you'll understand the significance of each type of tile, learn how to recognize patterns, and develop a keen eye for winning plays. Get ready to throw memorable game nights and create meaningful moments around the table. Whether you’re just starting out or refining your approach, Mastering American Mahjong will have you playing boldly, hosting confidently, and sharing the joy of mahjong in no time.",
           "source": "nyt",
-          "score": 0.0094
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "No ficción",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9798217412068",
+          "title": "Roll The Calls",
+          "author": "Ari Emanuel",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217412068.jpg",
+          "subjects": [
+            "audio nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The Hollywood mogul charts his rise…",
+          "synopsis_full": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry. Read by Bob Odenkirk. 11 hours, 48 minutes unabridged.",
+          "source": "nyt",
+          "score": -0.0209
         },
         {
-          "id": "nyt:9781967836888",
-          "title": "Patch Work",
-          "author": "Craig Conover",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781967836888.jpg",
+          "id": "nyt:9780316603782",
+          "title": "The American Way Of Killing",
+          "author": "Malcolm Gladwell",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316603782.jpg",
           "subjects": [
-            "children’s picture books"
+            "combined print & e-book nonfiction"
           ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Embracing what makes you unique. (Ages…",
-          "synopsis_full": "Embracing what makes you unique. (Ages 4 to 8)",
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "Gladwell examines why there are so…",
+          "synopsis_full": "Gladwell examines why there are so many homicides in the United States and what stops us from fixing this issue.",
           "source": "nyt",
-          "score": 0.0087
+          "score": -0.0221
+        },
+        {
+          "id": "nyt:9780063454958",
+          "title": "Ethel Kennedy",
+          "author": "Kerry Kennedy",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063454958.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The daughter of Ethel Kennedy depicts…",
+          "synopsis_full": "The daughter of Ethel Kennedy depicts her mother’s working-class background, marriage to Robert F. Kennedy and work in human rights.",
+          "source": "nyt",
+          "score": -0.0247
+        },
+        {
+          "id": "nyt:9798217512003",
+          "title": "Cuento de Navidad",
+          "author": "Charles Spencer",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217512003.jpg",
+          "subjects": [
+            "audio nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The ninth Earl Spencer shares personal…",
+          "synopsis_full": "The ninth Earl Spencer shares personal stories about his sister, Diana, from childhood through her untimely death. Read by the author. 9 hours, 47 minutes unabridged.",
+          "source": "nyt",
+          "score": -0.0297
         }
       ]
     }
