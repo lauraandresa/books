@@ -1,105 +1,69 @@
 {
-  "generated_at": "2026-10-25T19:49:40.634790Z",
+  "generated_at": "2026-10-26T14:46:48.364134Z",
   "categories": [
-    {
-      "name": "Infantil y juvenil",
-      "weight": 0.2,
-      "items": [
-        {
-          "id": "nyt:9780063462540",
-          "title": "The Sixth Faction",
-          "author": "Veronica Roth",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063462540.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "When Beatrice Prior’s choosing ceremony is…",
-          "synopsis_full": "When Beatrice Prior’s choosing ceremony is interrupted by rebels, her life is changed. (Ages 13 and up)",
-          "source": "nyt",
-          "score": -0.0157
-        },
-        {
-          "id": "nyt:9798347100217",
-          "title": "Trust Fall",
-          "author": "Lynn Painter",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798347100217.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "As a condition of a surprise…",
-          "synopsis_full": "As a condition of a surprise inheritance, a small-town Nebraskan girl and her family move to New York City. (Ages 14 and up)",
-          "source": "nyt",
-          "score": -0.0177
-        }
-      ]
-    },
     {
       "name": "Otros",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781668032145",
-          "title": "Protocols",
-          "author": "Andrew D. Huberman with Jessica Wapner",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668032145.jpg",
+          "id": "nyt:9781442402980",
+          "title": "Los calzoncillos maleficos",
+          "author": "Aaron Reynolds",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781442402980.jpg",
           "subjects": [
-            "advice, how-to & miscellaneous"
+            "children’s picture books"
           ],
-          "year": 2026,
+          "year": 2017,
           "category": "Otros",
-          "synopsis_short": "Dr. Andrew Huberman, neurowetenschapper en populaire…",
-          "synopsis_full": "Dr. Andrew Huberman, neurowetenschapper en populaire podcasthost van Huberman Lab, komt nu met het boek 'Protocols'. Dit boek biedt eenvoudige, krachtige en op wetenschappelijk onderzoek gebaseerde oplossingen voor de meest voorkomende uitdagingen van het leven. Deze richtlijnen, of protocollen, zijn ontworpen om je geestelijke en lichamelijke gezondheid en je prestaties te verbeteren en zijn aanpasbaar aan jouw specifieke behoeften. Ze helpen je te kalmeren bij stress, te concentreren bij afleiding, te ontspannen wanneer het bedtijd is en weer energie te krijgen als het tijd is om op te staan. Met zijn heldere en boeiende stijl legt Huberman de wetenschappelijke basis van elk protocol uit en hoe deze onmiddellijk resultaten kunnen opleveren. 'Protocols' is de essentiële routekaart voor het bereiken van een optimale gezondheid. Voor lezers van o.a. David Goggins, Atomic Habits, Carol Dweck (Mindset) en Matthew Walker (Why We Sleep).",
+          "synopsis_short": "Jasper Rabbit deals with a pair…",
+          "synopsis_full": "Jasper Rabbit deals with a pair of glowing underwear that won't go away. (Ages 4 to 8)",
           "source": "nyt",
-          "score": 0.0
+          "score": -0.007
         },
         {
-          "id": "nyt:9780063459083",
-          "title": "Homemade",
-          "author": "Nara Aziza Smith",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063459083.jpg",
-          "subjects": [
-            "advice, how-to & miscellaneous"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Nara Aziza Smith (@naraaziza), the best-dressed…",
-          "synopsis_full": "Nara Aziza Smith (@naraaziza), the best-dressed culinary creator in digital media, brings her signature style to 80 delicious, homemade family-friendly recipes in her debut cookbook. You may think you know Nara Smith--the glamorous outfits, the soothing ASMR voice, the beautiful family, the seemingly effortless approach to making food from scratch--but behind it all is a working mom with a relatable goal: preparing nourishing whole foods for herself and her family. Nara grew up in Germany inspired by her grandmother's cooking and the intention behind it--everything from freshly baked bread to her mother's home remedies for mild ailments, like garlic soaked in honey. While working as a model, she soon met and married supermodel Lucky Blue Smith and started a family. When she was diagnosed with an autoimmune disease and eczema, she found that she could manage her symptoms by cutting out most processed foods. She turned her scratch-cooking expertise in a new curated direction while sharing her cooking online with compelling and elevated content. A self-taught home cook, Nara found joy in the ethos of slowing down and cooking with intention at home. Now, millions of followers later, Nara has made home cooking look incredibly chic while preparing delicious and thoughtful meals her family loves. In her eagerly awaited and beautifully photographed first cookbook, Nara shares recipes from simple to complex, such as: * Softest White Potato Sandwich, English Muffins, and Handmade Cheese Crackers, a few of the doughs that keep Nara's hands busy * Cinnamon Toast Squares, a quick breakfast beloved by Nara's toddlers and better than anything you can find in stores * Baked Fall Vegetable Salad with Miso-Sherry Dressing, a gorgeous salad that fuels Nara for long workdays * Soy-Glazed Flank Steak with Plum Herb Salad, a beautiful, nourishing meal made from whole ingredients * One Pasta Dough for all shapes and sizes, with sauces, including stunning edible floral lasagna sheets. * Pork Schnitzel, a comfort food that brings Nara back to her childhood in Germany * Lucky's Oat Chocolate Chip Cookies, Nara's husband's recipe for the best American classic * A chapter on Bits & Bobs, including everything from homemade mozzarella to flavored butters to chocolate-hazelnut spread, showing the simplicity and magic of cooking from whole ingredients In Homemade, Nara brings ease and elegance to the creation of homemade food--inspiring readers to elevate their own reality, in the kitchen and beyond in their daily life.",
-          "source": "nyt",
-          "score": 0.0
-        },
-        {
-          "id": "nyt:9780593994849",
-          "title": "Why Am I Like This?",
-          "author": "Sabrina Zohar",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593994849.jpg",
+          "id": "nyt:9780593853146",
+          "title": "Love & Lemons: Pop Of Flavor",
+          "author": "Jeanine Donofrio with Phoebe Moore",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593853146.jpg",
           "subjects": [
             "advice, how-to & miscellaneous"
           ],
           "year": null,
           "category": "Otros",
-          "synopsis_short": "From the popular dating and relationship…",
-          "synopsis_full": "From the popular dating and relationship coach and host of The Sabrina Zohar Show comes a no-BS roadmap to rewriting the patterns that are hijacking your love life—so you can finally create the love you deserve. Why does one text send me spiraling for days? Why do I apologize even when it's not my fault? Why do I need everyone to like me? Why am I like this? If this sounds like you, you’re not alone—and you’re not broken. These frustrating patterns of people-pleasing, questioning your worth, avoidance, or reactivity—what Sabrina Zohar calls your Bullshit Blueprint—are actually survival strategies your body learned to keep you safe. But as she reveals, they're also keeping you from the things you truly want. With her signature unfiltered advice rooted in psychology, neuroscience, and nervous system work, Why Am I Like This? shows you how to create a new, BS-free blueprint for love and life, one based on self-trust and conscious choice instead of outdated patterns of behavior. But you can’t dismantle what you don’t understand. Sharing stories from her coaching work and own, raw journey of unraveling and rebuilding, Sabrina walks you step-by-step through the process of rewiring the unconscious programming that’s keeping you stuck, including: How your attachment style, childhood wounds, and core beliefs form your unique Bullshit Blueprint The four survival responses and how they secretly drive your behavior How to break the toxic cycles of feeling “too much,” “not enough,” or impossible to love Why the dating myths we’ve been taught are actually making us reject people who could be good for us Practical tools to regulate your emotions, set boundaries, and finally choose yourself Sabrina doesn’t just give you tools, she gives it to you straight: You don’t have to keep abandoning yourself. You can stop repeating the past and start showing up more authentically and consciously in your relationships. Watch how that changes everything.",
+          "synopsis_short": "Sin sinopsis disponible.",
+          "synopsis_full": "No hay sinopsis disponible para este libro.",
           "source": "nyt",
-          "score": 0.0
+          "score": -0.0097
         },
         {
-          "id": "nyt:9798217274161",
-          "title": "Mastering American Mahjong",
-          "author": "Megan Trottier",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217274161.jpg",
+          "id": "nyt:9781984863164",
+          "title": "Good Lookin' Cookin'",
+          "author": "Dolly Parton and Rachel Parton George with Maurice Miner",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781984863164.jpg",
           "subjects": [
             "advice, how-to & miscellaneous"
           ],
+          "year": null,
+          "category": "Otros",
+          "synopsis_short": "Sin sinopsis disponible.",
+          "synopsis_full": "No hay sinopsis disponible para este libro.",
+          "source": "nyt",
+          "score": -0.011
+        },
+        {
+          "id": "nyt:9781400230730",
+          "title": "Making Peace With What I Can'T Control",
+          "author": "Lysa TerKeurst",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781400230730.jpg",
+          "subjects": [
+            "audio advice, how-to & misc"
+          ],
           "year": 2026,
           "category": "Otros",
-          "synopsis_short": "Step into the world of American…",
-          "synopsis_full": "Step into the world of American mahjong with this approachable and beautiful guidebook by the founder of Oh My Mahjong, perfect for beginners and players ready to level up their game. Whether you’re learning the tiles for the very first time or looking to sharpen your strategy, Mastering American Mahjong offers a fun, accessible path to playing with confidence and style. This comprehensive handbook provides you with a step-by-step overview of the rules and basic elements of mahjong, encouraging you to elevate your knowledge of the game and incorporate strategy that will set you apart at the mahjong table. With the help of engaging gameplay illustrations, you'll understand the significance of each type of tile, learn how to recognize patterns, and develop a keen eye for winning plays. Get ready to throw memorable game nights and create meaningful moments around the table. Whether you’re just starting out or refining your approach, Mastering American Mahjong will have you playing boldly, hosting confidently, and sharing the joy of mahjong in no time.",
+          "synopsis_short": "Read by the author. 6 hours,…",
+          "synopsis_full": "Read by the author. 6 hours, 9 minutes unabridged.",
           "source": "nyt",
-          "score": 0.0
+          "score": -0.0139
         }
       ]
     },
@@ -108,64 +72,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798217412068",
-          "title": "Roll The Calls",
-          "author": "Ari Emanuel",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217412068.jpg",
+          "id": "nyt:9780063490031",
+          "title": "Uniting The States",
+          "author": "Brian Kilmeade",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063490031.jpg",
           "subjects": [
-            "audio nonfiction"
+            "combined print & e-book nonfiction"
           ],
-          "year": 2026,
+          "year": null,
           "category": "No ficción",
-          "synopsis_short": "The Hollywood mogul charts his rise…",
-          "synopsis_full": "The Hollywood mogul charts his rise to power and depicts behind-the-scenes stories about the entertainment industry. Read by Bob Odenkirk. 11 hours, 48 minutes unabridged.",
+          "synopsis_short": "A co-host of “Fox & Friends”…",
+          "synopsis_full": "A co-host of “Fox & Friends” portrays contributions made by six key people around the time of the formation of our country.",
           "source": "nyt",
-          "score": -0.0209
+          "score": -0.074
         },
         {
-          "id": "nyt:9780316603782",
-          "title": "The American Way Of Killing",
-          "author": "Malcolm Gladwell",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316603782.jpg",
+          "id": "nyt:9781250344489",
+          "title": "Family Of Spies",
+          "author": "Christine Kuehn",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250344489.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2025,
+          "category": "No ficción",
+          "synopsis_short": "The story of a family that…",
+          "synopsis_full": "The story of a family that worked as Japanese and Nazi spies during World War II.",
+          "source": "nyt",
+          "score": -0.0803
+        },
+        {
+          "id": "nyt:9781538784723",
+          "title": "In The Shadow Of Eight",
+          "author": "Collin Gosselin with Allie Kingsley Baker",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538784723.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": null,
+          "category": "No ficción",
+          "synopsis_short": "A dark tell-all by one of…",
+          "synopsis_full": "A dark tell-all by one of the sextuplets from the reality TV series “Jon & Kate Plus 8.”",
+          "source": "nyt",
+          "score": -0.0915
+        },
+        {
+          "id": "nyt:9798217059706",
+          "title": "Vibe",
+          "author": "Adam Grant",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217059706.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "Gladwell examines why there are so…",
-          "synopsis_full": "Gladwell examines why there are so many homicides in the United States and what stops us from fixing this issue.",
+          "synopsis_short": "The author of “Think Again” delves…",
+          "synopsis_full": "The author of “Think Again” delves into what might reinforce the strengths or exacerbate the weaknesses of bonds within relationships.",
           "source": "nyt",
-          "score": -0.0221
-        },
-        {
-          "id": "nyt:9780063454958",
-          "title": "Ethel Kennedy",
-          "author": "Kerry Kennedy",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063454958.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "The daughter of Ethel Kennedy depicts…",
-          "synopsis_full": "The daughter of Ethel Kennedy depicts her mother’s working-class background, marriage to Robert F. Kennedy and work in human rights.",
-          "source": "nyt",
-          "score": -0.0247
-        },
-        {
-          "id": "nyt:9798217512003",
-          "title": "Cuento de Navidad",
-          "author": "Charles Spencer",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217512003.jpg",
-          "subjects": [
-            "audio nonfiction"
-          ],
-          "year": 2026,
-          "category": "No ficción",
-          "synopsis_short": "The ninth Earl Spencer shares personal…",
-          "synopsis_full": "The ninth Earl Spencer shares personal stories about his sister, Diana, from childhood through her untimely death. Read by the author. 9 hours, 47 minutes unabridged.",
-          "source": "nyt",
-          "score": -0.0297
+          "score": -0.0917
         }
       ]
     }
