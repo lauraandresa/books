@@ -1,135 +1,39 @@
 {
-  "generated_at": "2026-10-26T14:42:30.276939Z",
+  "generated_at": "2026-11-02T17:32:26.381429Z",
   "categories": [
     {
-      "name": "Otros",
-      "weight": 0,
+      "name": "Infantil y juvenil",
+      "weight": 0.2,
       "items": [
         {
-          "id": "nyt:9781668205242",
-          "title": "F*Ck Failure",
-          "author": "Benny Blanco",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668205242.jpg",
+          "id": "nyt:9798217040599",
+          "title": "Everything'S Not Lost",
+          "author": "Frederick Joseph",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217040599.jpg",
           "subjects": [
-            "business"
+            "young adult hardcover"
           ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Sin sinopsis disponible.",
-          "synopsis_full": "No hay sinopsis disponible para este libro.",
+          "year": 2026,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "Sixteen-year-old Ella Washington deals with mental…",
+          "synopsis_full": "Sixteen-year-old Ella Washington deals with mental illness, grief and bullying. (Ages 14 and up)",
           "source": "nyt",
-          "score": 0.0
+          "score": -0.0101
         },
         {
-          "id": "nyt:9780358567097",
-          "title": "Die With Zero",
-          "author": "Bill Perkins",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780358567097.jpg",
+          "id": "nyt:9781419782701",
+          "title": "Diario de Greg 1 - Un pringao total",
+          "author": "Jeff Kinney",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781419782701.jpg",
           "subjects": [
-            "business"
+            "children’s & young adult series"
           ],
-          "year": 2020,
-          "category": "Otros",
-          "synopsis_short": "\"A startling new philosophy and practical…",
-          "synopsis_full": "\"A startling new philosophy and practical guide to getting the most out of your money-and out of life-for those who value memorable experiences as much as their earnings\"--",
+          "year": 2015,
+          "category": "Infantil y juvenil",
+          "synopsis_short": "The travails and challenges of adolescence.…",
+          "synopsis_full": "The travails and challenges of adolescence. (Ages 9 to 12)",
           "source": "nyt",
-          "score": 0.0
-        },
-        {
-          "id": "nyt:9798217252237",
-          "title": "Tales To Keep You Up At Night",
-          "author": "Dan Poblocki",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217252237.jpg",
-          "subjects": [
-            "middle grade paperback"
-          ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Sin sinopsis disponible.",
-          "synopsis_full": "No hay sinopsis disponible para este libro.",
-          "source": "nyt",
-          "score": 0.0
-        },
-        {
-          "id": "nyt:9798888777800",
-          "title": "Witch Hat Atelier: Grimoire Edition 2",
-          "author": "Kamome Shirahama",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798888777800.jpg",
-          "subjects": [
-            "graphic books and manga"
-          ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Coco’s dream to be a witch…",
-          "synopsis_full": "Coco’s dream to be a witch might be closer to reality than she thought; collects “Witch Hat Atelier Vols. 4—6.”",
-          "source": "nyt",
-          "score": -0.0013
-        }
-      ]
-    },
-    {
-      "name": "No ficción",
-      "weight": 0,
-      "items": [
-        {
-          "id": "nyt:9781324123637",
-          "title": "La Expedicion",
-          "author": "Peter King",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781324123637.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "The rise of the National Football…",
-          "synopsis_full": "The rise of the National Football League over the last four decades told through the stories of some of the players, teams, coaches and controversies.",
-          "source": "nyt",
-          "score": -0.0399
-        },
-        {
-          "id": "nyt:9781400260270",
-          "title": "Looking For Terry",
-          "author": "Terry Bradshaw with David Fisher",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781400260270.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "The Hall of Fame quarterback who…",
-          "synopsis_full": "The Hall of Fame quarterback who became a N.F.L. broadcaster describes personal difficulties he encountered.",
-          "source": "nyt",
-          "score": -0.0411
-        },
-        {
-          "id": "nyt:9780063384538",
-          "title": "Out Of The Shadows",
-          "author": "Jay Stratton",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063384538.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "A former senior U.S. intelligence official…",
-          "synopsis_full": "A former senior U.S. intelligence official gives his account of investigations into unidentified anomalous phenomena and non-human intelligent life.",
-          "source": "nyt",
-          "score": -0.0488
-        },
-        {
-          "id": "nyt:9780593655276",
-          "title": "Sleeping Beauties",
-          "author": "David Byrne",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593655276.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "The co-founder of Talking Heads and…",
-          "synopsis_full": "The co-founder of Talking Heads and multidisciplinary artist shares insights on how innovations get reawakened.",
-          "source": "nyt",
-          "score": -0.0539
+          "score": -0.0144
         }
       ]
     },
@@ -138,71 +42,130 @@
       "weight": 0,
       "items": [
         {
-          "id": "ol:/works/OL258850W",
-          "title": "Hamlet",
-          "author": "William Shakespeare",
-          "cover_url": "https://covers.openlibrary.org/b/id/7165018-M.jpg",
+          "id": "nyt:9781250412607",
+          "title": "Miss Wolcott'S Ghost",
+          "author": "Louise Penny",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250412607.jpg",
           "subjects": [
-            "drama",
-            "othello (fictitious character)",
-            "printing",
-            "specimens",
-            "dramatic production",
-            "jealousy",
-            "muslims",
-            "interracial marriage"
+            "hardcover fiction"
           ],
-          "year": 1622,
+          "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "Sin sinopsis disponible.",
-          "synopsis_full": "No hay sinopsis disponible para este libro.",
-          "source": "openlibrary",
-          "score": -0.4741
+          "synopsis_short": "The 21st book in the Chief…",
+          "synopsis_full": "The 21st book in the Chief Inspector Gamache series. Mysteries from the past confound Gamache and his team’s murder investigation.",
+          "source": "nyt",
+          "score": 0.0785
         },
         {
-          "id": "nyt:9781668233092",
-          "title": "Other Worlds Than These",
-          "author": "Stephen King and Peter Straub",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668233092.jpg",
+          "id": "nyt:9798217375158",
+          "title": "Chain Reaction",
+          "author": "Lee Child and Andrew Child",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217375158.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "hardcover fiction"
+          ],
+          "year": 2027,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 31st book in the Jack…",
+          "synopsis_full": "The 31st book in the Jack Reacher series. Gen. Susan Turner needs Reacher’s help to solve the murder of a team member on covert duty.",
+          "source": "nyt",
+          "score": 0.0554
+        },
+        {
+          "id": "nyt:9781668264218",
+          "title": "Mercy'S Child",
+          "author": "Richard Paul Evans",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668264218.jpg",
+          "subjects": [
+            "hardcover fiction"
           ],
           "year": null,
           "category": "Drama y literatura general",
-          "synopsis_short": "In the finale to the Talisman…",
-          "synopsis_full": "In the finale to the Talisman trilogy, an older Jack Sawyer faces off against a gang of infected teenagers and other destructive forces.",
+          "synopsis_short": "In 1874, Etta Wheeler moves to…",
+          "synopsis_full": "In 1874, Etta Wheeler moves to New York City, where she winds up fighting some powerful institutions.",
           "source": "nyt",
-          "score": -2.1698
+          "score": 0.051
         },
         {
-          "id": "nyt:9781464249648",
-          "title": "The Witch",
-          "author": "Freida McFadden",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464249648.jpg",
+          "id": "nyt:9781464261855",
+          "title": "Crowned By Roses",
+          "author": "Elizabeth Helen",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464261855.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "paperback trade fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "Circumstances force Julia Barlow to retreat…",
-          "synopsis_full": "Circumstances force Julia Barlow to retreat to her family’s estate, which contains the dark energy of a 1692 witchcraft execution.",
+          "synopsis_short": "The seventh book in the Beasts…",
+          "synopsis_full": "The seventh book in the Beasts of the Briar series. Disparate forces must join together for one final fight.",
           "source": "nyt",
-          "score": -2.1715
+          "score": -0.04
+        }
+      ]
+    },
+    {
+      "name": "Otros",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781665954785",
+          "title": "Chicka Chicka Tricka Treat",
+          "author": "Julien Chung",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665954785.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": 2025,
+          "category": "Otros",
+          "synopsis_short": "The alphabet letters climb the creaky…",
+          "synopsis_full": "The alphabet letters climb the creaky old tree for Halloween. (Ages 4 to 8)",
+          "source": "nyt",
+          "score": 0.0212
         },
         {
-          "id": "nyt:9780063577541",
-          "title": "Partita",
-          "author": "Barbara Kingsolver",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063577541.jpg",
+          "id": "nyt:9781668212462",
+          "title": "Welcome To The Afterlife",
+          "author": "Taryn Delanie Smith",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668212462.jpg",
           "subjects": [
-            "combined print & e-book fiction"
+            "advice, how-to & miscellaneous"
+          ],
+          "year": null,
+          "category": "Otros",
+          "synopsis_short": "Sin sinopsis disponible.",
+          "synopsis_full": "No hay sinopsis disponible para este libro.",
+          "source": "nyt",
+          "score": 0.0112
+        },
+        {
+          "id": "nyt:9780593799901",
+          "title": "Mediterranean All The Way",
+          "author": "Ayesha Nurdjaja with Casey Elsass",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593799901.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
           ],
           "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "When she receives an unexpected phone…",
-          "synopsis_full": "When she receives an unexpected phone call from an old lover, Livia contends with memories she put aside many years ago.",
+          "category": "Otros",
+          "synopsis_short": "“A feast for all the senses…",
+          "synopsis_full": "“A feast for all the senses . . . a welcome addition to any food lover’s shelf!”—JACQUES PÉPIN “I adore the diverse flavor combinations that define Ayesha’s cooking.”—LIDIA BASTIANICH “Mediterranean cuisine has never been more vibrant and flavorful.”—BOBBY FLAY NEW YORK TIMES BESTSELLER • In her debut cookbook, the powerhouse chef behind Shuka and Shukette, Ayesha Nurdjaja, serves up over 120 seasonal, flavor-packed, Mediterranean and Levant–inspired dishes that don’t hold back. At her hit restaurants, Shuka and Shukette, Chef Ayesha Nurdjaja brings the party with bold, colorful, vegetable-forward Middle Eastern and Mediterranean food. In her debut cookbook, she’s doing the same—sharing over 120 vibrant, foolproof recipes that let peak-season produce steal the show. No fussy steps, no endless ingredient lists—just big herbs, bold spices, and plenty of sauces to swipe, drizzle, and drag your bread through. This is food meant to be ripped, dipped, and devoured. You’ll find silky-smooth hummus, rich and creamy labne, and easy to make flatbreads to swipe it all up. The heart of Mediterranean All the Way is seasonal produce, and Ayesha brings it hard with knockout combos like Fig & Burrata finished with an icy shower of frozen fig or Halloumi with Strawberries, spiked with Aleppo pepper and sumac. There’s tahini-drizzled Roasted Cauliflower with Dates & Pistachio Chermoula that hits every note—sweet, nutty, crunchy, caramelized—and a springy Pea Party that’s exactly as fun as it sounds. Throw in an extra crispy Sesame-Crusted Chicken Schnitzel or juicy Middle Eastern Meatballs, and you’re in business. Whether you’re cooking for two or for a crew, Ayesha’s menus and mix-and-match dishes make it easy to build a table that’s as generous and joyful as the food itself. All you need now is a trip to the market—and maybe a second round of flatbread.",
           "source": "nyt",
-          "score": -2.1862
+          "score": 0.0101
+        },
+        {
+          "id": "nyt:9781546185949",
+          "title": "Licorice",
+          "author": "Kara LaReau",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546185949.jpg",
+          "subjects": [
+            "children’s middle grade hardcover"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Kitty feels like she's living in…",
+          "synopsis_full": "Kitty feels like she's living in the shadow of Max's former cat, Licorice. (Ages 8 to 12)",
+          "source": "nyt",
+          "score": 0.0093
         }
       ]
     }

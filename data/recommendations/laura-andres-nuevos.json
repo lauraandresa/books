@@ -1,135 +1,201 @@
 {
-  "generated_at": "2026-10-26T14:46:48.364134Z",
+  "generated_at": "2026-11-02T17:33:35.028448Z",
   "categories": [
-    {
-      "name": "Otros",
-      "weight": 0,
-      "items": [
-        {
-          "id": "nyt:9781442402980",
-          "title": "Los calzoncillos maleficos",
-          "author": "Aaron Reynolds",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781442402980.jpg",
-          "subjects": [
-            "children’s picture books"
-          ],
-          "year": 2017,
-          "category": "Otros",
-          "synopsis_short": "Jasper Rabbit deals with a pair…",
-          "synopsis_full": "Jasper Rabbit deals with a pair of glowing underwear that won't go away. (Ages 4 to 8)",
-          "source": "nyt",
-          "score": -0.007
-        },
-        {
-          "id": "nyt:9780593853146",
-          "title": "Love & Lemons: Pop Of Flavor",
-          "author": "Jeanine Donofrio with Phoebe Moore",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593853146.jpg",
-          "subjects": [
-            "advice, how-to & miscellaneous"
-          ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Sin sinopsis disponible.",
-          "synopsis_full": "No hay sinopsis disponible para este libro.",
-          "source": "nyt",
-          "score": -0.0097
-        },
-        {
-          "id": "nyt:9781984863164",
-          "title": "Good Lookin' Cookin'",
-          "author": "Dolly Parton and Rachel Parton George with Maurice Miner",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781984863164.jpg",
-          "subjects": [
-            "advice, how-to & miscellaneous"
-          ],
-          "year": null,
-          "category": "Otros",
-          "synopsis_short": "Sin sinopsis disponible.",
-          "synopsis_full": "No hay sinopsis disponible para este libro.",
-          "source": "nyt",
-          "score": -0.011
-        },
-        {
-          "id": "nyt:9781400230730",
-          "title": "Making Peace With What I Can'T Control",
-          "author": "Lysa TerKeurst",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781400230730.jpg",
-          "subjects": [
-            "audio advice, how-to & misc"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Read by the author. 6 hours,…",
-          "synopsis_full": "Read by the author. 6 hours, 9 minutes unabridged.",
-          "source": "nyt",
-          "score": -0.0139
-        }
-      ]
-    },
     {
       "name": "No ficción",
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780063490031",
-          "title": "Uniting The States",
-          "author": "Brian Kilmeade",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063490031.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "A co-host of “Fox & Friends”…",
-          "synopsis_full": "A co-host of “Fox & Friends” portrays contributions made by six key people around the time of the formation of our country.",
-          "source": "nyt",
-          "score": -0.074
-        },
-        {
-          "id": "nyt:9781250344489",
-          "title": "Family Of Spies",
-          "author": "Christine Kuehn",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250344489.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": 2025,
-          "category": "No ficción",
-          "synopsis_short": "The story of a family that…",
-          "synopsis_full": "The story of a family that worked as Japanese and Nazi spies during World War II.",
-          "source": "nyt",
-          "score": -0.0803
-        },
-        {
-          "id": "nyt:9781538784723",
-          "title": "In The Shadow Of Eight",
-          "author": "Collin Gosselin with Allie Kingsley Baker",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538784723.jpg",
-          "subjects": [
-            "combined print & e-book nonfiction"
-          ],
-          "year": null,
-          "category": "No ficción",
-          "synopsis_short": "A dark tell-all by one of…",
-          "synopsis_full": "A dark tell-all by one of the sextuplets from the reality TV series “Jon & Kate Plus 8.”",
-          "source": "nyt",
-          "score": -0.0915
-        },
-        {
-          "id": "nyt:9798217059706",
-          "title": "Vibe",
-          "author": "Adam Grant",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217059706.jpg",
+          "id": "nyt:9781648213021",
+          "title": "Why Fauci Must Rot In Prison",
+          "author": "Peter Navarro",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781648213021.jpg",
           "subjects": [
             "combined print & e-book nonfiction"
           ],
           "year": 2026,
           "category": "No ficción",
-          "synopsis_short": "The author of “Think Again” delves…",
-          "synopsis_full": "The author of “Think Again” delves into what might reinforce the strengths or exacerbate the weaknesses of bonds within relationships.",
+          "synopsis_short": "The senior counselor and assistant to…",
+          "synopsis_full": "The senior counselor and assistant to the president in the Trump White House assesses the work of the former chief medical adviser to the president.",
           "source": "nyt",
-          "score": -0.0917
+          "score": 0.0236
+        },
+        {
+          "id": "nyt:9781546012276",
+          "title": "America'S Golden Age",
+          "author": "Newt Gingrich",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546012276.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The former speaker of the House…",
+          "synopsis_full": "The former speaker of the House prognosticates about the future of our country based on developments in technology and the actions of President Trump.",
+          "source": "nyt",
+          "score": -0.0223
+        },
+        {
+          "id": "nyt:9781538787175",
+          "title": "Wtf America?!",
+          "author": "Ben Meiselas, Brett Meiselas and Jordy Meiselas",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538787175.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "The founders of the independent news…",
+          "synopsis_full": "The founders of the independent news network MeidasTouch give their take on our current political and social climate.",
+          "source": "nyt",
+          "score": -0.031
+        },
+        {
+          "id": "nyt:9798901160626",
+          "title": "Unelected",
+          "author": "Jennica Pounds and Joshua Lisec",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798901160626.jpg",
+          "subjects": [
+            "combined print & e-book nonfiction"
+          ],
+          "year": 2026,
+          "category": "No ficción",
+          "synopsis_short": "A data analyst blames non-governmental organizations…",
+          "synopsis_full": "A data analyst blames non-governmental organizations for the current state of our economy.",
+          "source": "nyt",
+          "score": -0.0401
+        }
+      ]
+    },
+    {
+      "name": "Otros",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9798217113248",
+          "title": "Dragonborn: The Twilight Child",
+          "author": "Struan Murray",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217113248.jpg",
+          "subjects": [
+            "children’s middle grade hardcover"
+          ],
+          "year": 2027,
+          "category": "Otros",
+          "synopsis_short": "In this sequel to “Dragonborn,” Alex…",
+          "synopsis_full": "In this sequel to “Dragonborn,” Alex and her friends undertake a perilous journey to stop Drak Midna’s plot to kill all humans. (Ages 8 to 12)",
+          "source": "nyt",
+          "score": 0.0118
+        },
+        {
+          "id": "nyt:9780593234174",
+          "title": "Simply Ina",
+          "author": "Ina Garten",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593234174.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "A brand-new collection of 85 easy…",
+          "synopsis_full": "A brand-new collection of 85 easy yet impressive recipes for every meal of the day, from make-ahead lunches to effortless appetizers and showstopping dinners, from America’s favorite home cook Through her years of experience as a home cook, Ina Garten has learned that the best food is often the simplest. With just a little thought and a few good ingredients, you can make truly impressive dishes without spending hours in the kitchen. Simply Ina celebrates the delicious results of streamlined cooking, sharing Ina’s expert tips and tricks for achieving the best flavor with the least amount of effort. Each recipe in this book has a secret that makes preparing it easier than you thought. Some dishes rely on smart store-bought shortcuts—like Mashed Potato & Leek Soup so delicious no one will ever guess it’s made with packaged mashed potatoes and Bourbon Baked Beans that dress up canned baked beans with smoked bacon, maple syrup, and good bourbon—because sometimes store-bought really is just fine! For seamless gatherings, Ina’s deeply flavorful Provencal Chicken with Olives & Capers can be made ahead and reheated in its Dutch oven before dinner, and the crispy oatmeal topping on her Cherry Berry Crumble can be prepped in advance for easy assembly in the moment. Elegant dishes like Endive & Avocado Salad and Irish Coffee Affogato involve little more than assembling ingredients, allowing you to serve something special without really cooking at all. Whether you’re feeding unexpected guests, pulling together a Tuesday night dinner after work, or hosting a dinner party and don’t want to miss all the fun cooped up in the kitchen, you’ll be happy to have these simple, satisfying, and completely doable recipes to turn to. Because simple food shouldn’t just save you time; it should let you enjoy the people you love.",
+          "source": "nyt",
+          "score": 0.0
+        },
+        {
+          "id": "nyt:9798217181391",
+          "title": "Co-Existence",
+          "author": "Ethan Mollick",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217181391.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "The New York Times bestselling author…",
+          "synopsis_full": "The New York Times bestselling author of Co-Intelligence now asks: How do we live alongside machines that are sometimes smarter than us? “You will not be sorry that you start and finish this masterpiece... Ethan Mollick—who understands how to use AI better than anyone else on the planet—explains how it really works.”—Angela Duckworth, author of Grit We are entering a new era. AI systems can already outperform humans in some domains while failing spectacularly in others. They can act as tutors, collaborators, researchers, strategists, and creators...yet they can also produce falsehoods, generate convincing nonsense, and fail unpredictably. The challenge is no longer simply adopting new technology. It is learning how to think, work, and live in a world where machines are sometimes smarter than us. In Co-Existence, Ethan Mollick—a Wharton professor and author of the widely read One Useful Thing newsletter—argues that the future of AI will not be defined by replacement, but by interaction. Drawing on years of research, experimentation, and frontline experience with rapidly evolving AI systems, Mollick shows readers how to: • work productively with AI while retaining judgment and autonomy; • distinguish where human insight matters most; • avoid becoming overly dependent on systems designed to persuade and imitate; • adapt creatively as AI reshapes education, business, and everyday life; and • build a durable human advantage in a world of intelligent machines. Clear-eyed, practical, and written with warmth and humor, Co-Existence is your guide to navigating the next phase of the AI revolution.",
+          "source": "nyt",
+          "score": 0.0
+        },
+        {
+          "id": "nyt:9798217033843",
+          "title": "Simply Plants",
+          "author": "Sadia Badiei",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217033843.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Over 100 plant-based recipes that make…",
+          "synopsis_full": "Over 100 plant-based recipes that make cooking joyful, nourishing, and effortless—from the creator of the hugely popular Pick Up Limes platform! If you're looking to enjoy more plant-based food, start here. On her YouTube channel Pick Up Limes, Sadia Badiei makes plant-based eating more accessible to everyone with vibrant and wholesome recipes guided by nutrition science and grounded in joy. With food designed to nourish both the body and the soul, Sadia shares everyday dishes that are simple to make, satisfying to eat, and easy to keep coming back to. In Simply Plants, Sadia offers a curated collection of over 100 recipes that encourage a kinder way of eating: rooted in nourishment, free from pressure, and full of flavor. Backed by evidence-based nutrition and designed with simplicity in mind, these dishes are quick to prepare and so delicious, they'll earn a spot in your regular rotation. You'll find easy and appealing recipes for every meal of the day, including: Breakfasts: High Protein Peanut Butter & Jelly Smoothie; Butter Bean Shakshuka; Blended Tiramisu Oats Handhelds: Spicy Pulled Mushroom Tacos; Sticky Loaded Tempeh Flatbread; Green Summer Rolls with Peanut Sauce Pastas & Noodles: Sesame Udon Noodles with Five-Spice Tofu Crumble; Creamy Green Macaroni; Lemony Tahini Tagliatelle with Burst Cherry Tomatoes Curries & Stews: Vegan Butter “Chicken”; One-Pot Creamy Tomato Chickpea Curry; Eggplant Lentil Stew with Hummus & Pita When you eat more plants, good things ripple outward: for your health, for animals, and for the planet. Simply Plants shows you how joyful and rewarding a plant-based diet can be.",
+          "source": "nyt",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Drama y literatura general",
+      "weight": 0,
+      "items": [
+        {
+          "id": "nyt:9781250412584",
+          "title": "Miss Wolcott'S Ghost",
+          "author": "Louise Penny",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250412584.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 21st book in the Chief…",
+          "synopsis_full": "The 21st book in the Chief Inspector Gamache series. Mysteries from the past confound Gamache and his team’s murder investigation.",
+          "source": "nyt",
+          "score": -2.1544
+        },
+        {
+          "id": "nyt:9780316569743",
+          "title": "The Family Cross",
+          "author": "James Patterson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316569743.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 36th book in the Alex…",
+          "synopsis_full": "The 36th book in the Alex Cross series. A family crisis and the D.C. underworld put the psychologist in a tight spot.",
+          "source": "nyt",
+          "score": -2.1552
+        },
+        {
+          "id": "nyt:9798217375165",
+          "title": "Chain Reaction",
+          "author": "Lee Child and Andrew Child",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217375165.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2027,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The 31st book in the Jack…",
+          "synopsis_full": "The 31st book in the Jack Reacher series. Gen. Susan Turner needs Reacher’s help to solve the murder of a team member on covert duty.",
+          "source": "nyt",
+          "score": -2.1743
+        },
+        {
+          "id": "nyt:9780778306689",
+          "title": "With Hearts Of Flame",
+          "author": "Briar Boleyn",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780778306689.jpg",
+          "subjects": [
+            "combined print & e-book fiction"
+          ],
+          "year": 2026,
+          "category": "Drama y literatura general",
+          "synopsis_short": "The fourth book in the Bloodwing…",
+          "synopsis_full": "The fourth book in the Bloodwing Academy series. A secret dwarven quest, the presence of dragons and an ancient prophecy may force sacrifices to be made.",
+          "source": "nyt",
+          "score": -2.1944
         }
       ]
     }
