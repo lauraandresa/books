@@ -1,69 +1,24 @@
 {
-  "generated_at": "2026-11-09T17:56:30.361450Z",
+  "generated_at": "2026-11-16T17:38:59.544635Z",
   "categories": [
     {
       "name": "Infantil y juvenil",
       "weight": 0.2,
       "items": [
         {
-          "id": "nyt:9781250464637",
-          "title": "Scorpion Deep",
-          "author": "CG Drews",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250464637.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Jonathan Covey performs a ritual that…",
-          "synopsis_full": "Jonathan Covey performs a ritual that awakens the god Scorpion Deep, which he later regrets. (Ages 13 to 18)",
-          "source": "nyt",
-          "score": 0.0045
-        },
-        {
-          "id": "nyt:9798890036988",
-          "title": "Blood Moon",
-          "author": "Britney S. Lewis",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798890036988.jpg",
-          "subjects": [
-            "young adult paperback"
-          ],
-          "year": 2025,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "The Instant #1 New York Times…",
-          "synopsis_full": "The Instant #1 New York Times Bestseller Mirabella Owens grew up with legends of wolves that traveled to her midwestern town to protect humans from vampires. Of a werewolf that fell in love with one of the undead, unraveling a blood-soaked history. But Mira stopped believing in those fairy tales years ago. She stopped believing in a lot of things after her mom left without a trace when she was only thirteen. As Mira begins her freshman year at Lakeland University, she’s ready to leave the past behind her. Only the past isn’t finished with her yet. Strange animal attacks are occurring around campus, reopening cold cases tied to her mother’s disappearance. And the only person who seems to know anything is Julian Santos, the boy who is hell-bent on getting Mira to leave campus for reasons she can’t begin to understand. But Mira refuses to let him keep his secrets, not when the truth is the difference between life and death. Mira will have to accept that there is much more to the old town myths, and her growing feelings for Julian, than she ever could have anticipated. And as the Blood Moon rises, she will come to know a world that will shatter her past and change her future.",
-          "source": "nyt",
-          "score": 0.0
-        },
-        {
-          "id": "nyt:9781665989824",
-          "title": "Falling Like Snow",
-          "author": "Misty Wilson",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665989824.jpg",
-          "subjects": [
-            "young adult paperback"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "A girl juggles planning her town’s…",
-          "synopsis_full": "A girl juggles planning her town’s first-ever winter festival and untangling her complicated feelings for both her best friend and the star hockey player in this charming book in the swoony Bramble Falls series that started with the New York Times bestselling Falling Like Leaves. After Bramble Falls’s wildly successful Falling Leaves Festival, Sloane Sullivan is looking forward to some downtime—especially kicking back and marathoning Nora Ephron movies with her best friend, Asher. But they barely make it through Sleepless in Seattle before Sloane’s mom calls an emergency tourism department meeting; it’s all hands on deck—Bramble Falls is having its first ever Falling Snow Festival! Sloane may still be recovering from the last seasonal event, but she’s also excited. After all, Christmas is the best time of year! And she’ll have her whole crew by her side, including her cousin Ellis and, of course, Asher. But when irresistible, hockey-playing Micah catches Sloane’s attention, she finds herself a bit distracted. The emotions her unexpected flirtation brings up make Sloane feel confused about Micah…and Asher. She’s never thought of Asher as more than her best friend, but even if Sloane is seeing Asher in a new light, what does that mean for her and Micah? Uncertain and more than a little overwhelmed, Sloane throws herself into festival preparations, hoping to get a little Christmas magic in return that will help her figure out where her heart lies.",
-          "source": "nyt",
-          "score": 0.0
-        },
-        {
-          "id": "nyt:9781250289773",
-          "title": "Érase una vez un corazón roto",
-          "author": "Stephanie Garber",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250289773.jpg",
+          "id": "nyt:9780316592642",
+          "title": "Folk Of The Air",
+          "author": "Holly Black",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316592642.jpg",
           "subjects": [
             "children’s & young adult series"
           ],
-          "year": 2021,
+          "year": 2024,
           "category": "Infantil y juvenil",
-          "synopsis_short": "The story of Evangeline Fox, Jacks,…",
-          "synopsis_full": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
+          "synopsis_short": "Jude’s quest to become the first…",
+          "synopsis_full": "Jude’s quest to become the first mortal queen of the High Court of Faerie. (Ages 14 to 17)",
           "source": "nyt",
-          "score": -0.0069
+          "score": -0.0572
         }
       ]
     },
@@ -72,64 +27,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798349169328",
-          "title": "The Witch",
-          "author": "Freida McFadden",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798349169328.jpg",
-          "subjects": [
-            "audio fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "Circumstances force Julia Barlow to retreat…",
-          "synopsis_full": "Circumstances force Julia Barlow to retreat to her family’s estate, which contains the dark energy of a 1692 witchcraft execution. Read by Saskia Maarleveld and Marin Ireland. 9 hours, 31 minutes unabridged.",
-          "source": "nyt",
-          "score": 0.0296
-        },
-        {
-          "id": "nyt:9781635575583",
-          "title": "Una corte de Niebla y Furia",
-          "author": "Sarah J. Maas",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781635575583.jpg",
+          "id": "nyt:9798217483167",
+          "title": "Agnes Aubert'S Mystical Cat Shelter",
+          "author": "Heather Fawcett",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217483167.jpg",
           "subjects": [
             "paperback trade fiction"
           ],
-          "year": 2017,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The second book in the \"Court…",
-          "synopsis_full": "The second book in the \"Court of Thorns and Roses\" series. Feyre gains the powers of the High Fae and a greater evil emerges.",
-          "source": "nyt",
-          "score": 0.0268
-        },
-        {
-          "id": "nyt:9781980036135",
-          "title": "Una corte de armonía rota",
-          "author": "Sarah J. Maas",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781980036135.jpg",
-          "subjects": [
-            "audio fiction"
-          ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The sixth book in the \"Court…",
-          "synopsis_full": "The sixth book in the \"Court of Thorns and Roses\" series. Former alliances must be restored to fight the threat of Koschei the Deathless. Read by Elizabeth Evans. 12 hours, 1 minute unabridged.",
+          "synopsis_short": "When their businesses are imperiled, the…",
+          "synopsis_full": "When their businesses are imperiled, the manager of a cat rescue and an infamous magician team up.",
           "source": "nyt",
-          "score": 0.0218
+          "score": 0.0514
         },
         {
-          "id": "nyt:9781635575606",
-          "title": "Una Corte de Alas y Ruina",
-          "author": "Sarah J. Maas",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781635575606.jpg",
+          "id": "nyt:9781464246937",
+          "title": "Christmas Staycation",
+          "author": "Meghan Quinn",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464246937.jpg",
           "subjects": [
             "paperback trade fiction"
           ],
-          "year": 2018,
+          "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The third book in the \"Court…",
-          "synopsis_full": "The third book in the \"Court of Thorns and Roses\" series. As war approaches, Feyre endeavors to take charge of her magical and political powers.",
+          "synopsis_short": "The third book in the \"How…",
+          "synopsis_full": "The third book in the \"How My Neighbor Stole Christmas\" series. Taran is caught between brothers this holiday season.",
           "source": "nyt",
-          "score": 0.0171
+          "score": 0.0278
+        },
+        {
+          "id": "nyt:9781635577020",
+          "title": "Casa de tierra y sange",
+          "author": "Sarah J. Maas",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781635577020.jpg",
+          "subjects": [
+            "paperback trade fiction"
+          ],
+          "year": 2020,
+          "category": "Drama y literatura general",
+          "synopsis_short": "Passion arises between Bryce Quinlan and…",
+          "synopsis_full": "Passion arises between Bryce Quinlan and Hunt Athalar as they seek to avenge the deaths of Bryce’s friends.",
+          "source": "nyt",
+          "score": 0.0185
+        },
+        {
+          "id": "nyt:9781668240212",
+          "title": "Theo Of Golden",
+          "author": "Allen Levi",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668240212.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": 2025,
+          "category": "Drama y literatura general",
+          "synopsis_short": "A man travels to a small…",
+          "synopsis_full": "A man travels to a small Southern town, where he purchases pencil drawings of local residents and exchanges them for stories.",
+          "source": "nyt",
+          "score": 0.0173
         }
       ]
     },
@@ -138,64 +93,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9781464246029",
-          "title": "This Is A Door",
-          "author": "Daniel Nayeri",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464246029.jpg",
-          "subjects": [
-            "children’s middle grade hardcover"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "A boy named Nothing the Younger…",
-          "synopsis_full": "A boy named Nothing the Younger and his friends accompany the Wander Prince on an adventure to defeat the Giantess. (Ages 8 to 12)",
-          "source": "nyt",
-          "score": 0.009
-        },
-        {
-          "id": "nyt:9781636415789",
-          "title": "The Stones Cry Out",
-          "author": "Dinesh D'Souza",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781636415789.jpg",
-          "subjects": [
-            "advice, how-to & miscellaneous"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "What can ancient evidence really tell…",
-          "synopsis_full": "What can ancient evidence really tell us about Scripture, and where should careful readers draw the line between discovery, interpretation, faith, and prophecy? Lessons from The Stones Cry Out by Dinesh D’Souza is an independently created lessons and insights resource for readers who want to think more carefully about biblical archaeology and the historical world behind Scripture. Rather than retelling the original book, Janet B. Ritter develops practical principles for evaluating archaeological claims, understanding chronology and context, comparing written and material evidence, and approaching disputed questions with intellectual discipline. Inside this book, readers will explore how geography, inscriptions, ruins, destruction layers, imperial records, and ancient cities can illuminate the biblical world; why evidence and interpretation must remain distinct; how archaeology can strengthen historical understanding without being asked to prove theological claims it cannot establish; how questions surrounding Israel, Jerusalem, the Temple, and prophecy require careful attention to both history and interpretation; and how faith can engage evidence without depending on exaggeration or sensational conclusions. The result is a thoughtful framework for readers who want to appreciate the significance of ancient discoveries while remaining alert to uncertainty, competing interpretations, and the limits of what archaeology can demonstrate. It also considers what responsible study of the past may teach us about reading prophetic claims concerning the future. Disclaimer: This book is an independently created lessons and insights resource related to the main book. It is not the original book and is not written by, endorsed by, sponsored by, or affiliated with Dinesh D’Souza or the publisher of the original work.",
-          "source": "nyt",
-          "score": 0.0087
-        },
-        {
-          "id": "nyt:9798217046799",
-          "title": "How To Be Good At Life",
-          "author": "Ben Meer",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217046799.jpg",
-          "subjects": [
-            "business"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "Sin sinopsis disponible.",
-          "synopsis_full": "No hay sinopsis disponible para este libro.",
-          "source": "nyt",
-          "score": 0.0069
-        },
-        {
-          "id": "nyt:9781492664352",
-          "title": "How To Catch A Turkey",
-          "author": "Adam Wallace",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781492664352.jpg",
+          "id": "nyt:9780547199450",
+          "title": "Balloons Over Broadway",
+          "author": "Melissa Sweet",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780547199450.jpg",
           "subjects": [
             "children’s picture books"
           ],
-          "year": 2018,
+          "year": 2020,
           "category": "Otros",
-          "synopsis_short": "Students try to catch a runaway…",
-          "synopsis_full": "Students try to catch a runaway turkey before their Thanksgiving play. (Ages 4 to 8)",
+          "synopsis_short": "The story of Tony Sarg, the…",
+          "synopsis_full": "The story of Tony Sarg, the man who invented the first helium balloons of the Macy's Thanksgiving Day Parade. (Ages 4 to 7)",
           "source": "nyt",
-          "score": 0.0046
+          "score": 0.0126
+        },
+        {
+          "id": "nyt:9781665942447",
+          "title": "Bear Says Thanks",
+          "author": "Karma Wilson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781665942447.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": 2012,
+          "category": "Otros",
+          "synopsis_short": "Friends season a meal with gratitude.…",
+          "synopsis_full": "Friends season a meal with gratitude. (Ages 3 to 7)",
+          "source": "nyt",
+          "score": 0.0055
+        },
+        {
+          "id": "nyt:9781974766512",
+          "title": "Chainsaw Man, Vol. 22",
+          "author": "Tatsuki Fujimoto",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781974766512.jpg",
+          "subjects": [
+            "graphic books and manga"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "Denji and Yoru take a breather…",
+          "synopsis_full": "Denji and Yoru take a breather as the truth about Fami being the Death Devil becomes known.",
+          "source": "nyt",
+          "score": 0.0048
+        },
+        {
+          "id": "nyt:9781546135401",
+          "title": "Baby-Sitters Little Sister: Karen’S New Year",
+          "author": "Ann M. Martin",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781546135401.jpg",
+          "subjects": [
+            "graphic books and manga"
+          ],
+          "year": 2016,
+          "category": "Otros",
+          "synopsis_short": "Karen seems to be the only…",
+          "synopsis_full": "Karen seems to be the only one keeping her New Year’s promises.",
+          "source": "nyt",
+          "score": 0.004
         }
       ]
     }
