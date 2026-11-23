@@ -1,69 +1,24 @@
 {
-  "generated_at": "2026-11-16T17:38:33.685606Z",
+  "generated_at": "2026-11-23T19:38:33.938452Z",
   "categories": [
     {
       "name": "Infantil y juvenil",
       "weight": 0.2,
       "items": [
         {
-          "id": "nyt:9780316606172",
-          "title": "Naturals",
-          "author": "Jennifer Lynn Barnes",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316606172.jpg",
-          "subjects": [
-            "children’s & young adult series"
-          ],
-          "year": null,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Cassie Hobbes joins the Naturals, an…",
-          "synopsis_full": "Cassie Hobbes joins the Naturals, an F.B.I. program for teens with intrinsic crime-solving abilities. (Ages 12 to 17)",
-          "source": "nyt",
-          "score": 0.0181
-        },
-        {
-          "id": "nyt:9780063516489",
-          "title": "Sharpest Court",
-          "author": "Kiera Azar",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063516489.jpg",
+          "id": "nyt:9781250857439",
+          "title": "Divine Rivals",
+          "author": "Rebecca Ross",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250857439.jpg",
           "subjects": [
             "young adult hardcover"
           ],
-          "year": 2026,
+          "year": 2023,
           "category": "Infantil y juvenil",
-          "synopsis_short": "In this sequel to “Thorn Season”…",
-          "synopsis_full": "In this sequel to “Thorn Season” Alissa navigates the political landscape of the kingdom of Ansora. (Ages 14 and up)",
+          "synopsis_short": "Two young rival journalists find love…",
+          "synopsis_full": "Two young rival journalists find love through a magical connection. (Ages 13 to 18)",
           "source": "nyt",
-          "score": 0.0072
-        },
-        {
-          "id": "nyt:9781250438843",
-          "title": "Hasta las estrellas",
-          "author": "Marissa Meyer",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781250438843.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2016,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "Cath is a baker who becomes…",
-          "synopsis_full": "Cath is a baker who becomes Wonderland’s hectoring Queen of Hearts. (Ages 12 to 18)",
-          "source": "nyt",
-          "score": -0.0053
-        },
-        {
-          "id": "nyt:9780593903476",
-          "title": "The Last King Of Faerie",
-          "author": "Cassandra Clare",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593903476.jpg",
-          "subjects": [
-            "young adult hardcover"
-          ],
-          "year": 2026,
-          "category": "Infantil y juvenil",
-          "synopsis_short": "When Drusilla Blackthorn is kidnapped by…",
-          "synopsis_full": "When Drusilla Blackthorn is kidnapped by Prince Ash Morgenstern and taken to the land of Faerie, she uncovers a dangerous plot. (Ages 14 and up)",
-          "source": "nyt",
-          "score": -0.0232
+          "score": -0.0504
         }
       ]
     },
@@ -72,64 +27,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9780778306122",
-          "title": "The Game",
-          "author": "Sadie Kincaid",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780778306122.jpg",
-          "subjects": [
-            "hardcover fiction"
-          ],
-          "year": 2026,
-          "category": "Drama y literatura general",
-          "synopsis_short": "The second book in the Wages…",
-          "synopsis_full": "The second book in the Wages of Sin series. Imogen Demotta has suspicions about the person she considered her savior.",
-          "source": "nyt",
-          "score": 0.0604
-        },
-        {
-          "id": "nyt:9781464223341",
-          "title": "The Keeper",
-          "author": "Ana Huang",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464223341.jpg",
+          "id": "nyt:9781464294358",
+          "title": "The Heist Before Christmas",
+          "author": "Lucy Score",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464294358.jpg",
           "subjects": [
             "paperback trade fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "The third book in the Gods…",
-          "synopsis_full": "The third book in the Gods of the Game series. Carina Vu becomes a nanny to the daughter of a goalkeeper who is also a single dad.",
+          "synopsis_short": "The fifth book in the Riley…",
+          "synopsis_full": "The fifth book in the Riley Thorn mystery series. Riley and her fiancé, Nick, go undercover at a mall to stop a theft ring.",
           "source": "nyt",
-          "score": 0.0553
+          "score": 0.0814
         },
         {
-          "id": "nyt:9780593975121",
-          "title": "Defy The Dusk",
-          "author": "Danielle L. Jensen",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9780593975121.jpg",
+          "id": "nyt:9781668224632",
+          "title": "Whale Harbor",
+          "author": "Mary Beth Keane",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668224632.jpg",
+          "subjects": [
+            "hardcover fiction"
+          ],
+          "year": null,
+          "category": "Drama y literatura general",
+          "synopsis_short": "After a tragedy in Ireland in…",
+          "synopsis_full": "After a tragedy in Ireland in the 1960s, a father chooses to send his 11 grieving sons in different directions.",
+          "source": "nyt",
+          "score": 0.0736
+        },
+        {
+          "id": "nyt:9781538758069",
+          "title": "All In",
+          "author": "David Baldacci",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781538758069.jpg",
           "subjects": [
             "hardcover fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "A woman whose magic hurt civilization…",
-          "synopsis_full": "A woman whose magic hurt civilization 20 years ago has her loyalty tested and questions which course of action to take.",
+          "synopsis_short": "The fourth book in the 6:20…",
+          "synopsis_full": "The fourth book in the 6:20 Man series. Travis Devine’s investigation uncovers a cabal intent on changing the global balance of power.",
           "source": "nyt",
-          "score": 0.0475
+          "score": 0.0696
         },
         {
-          "id": "nyt:9781464249655",
-          "title": "The Gift",
-          "author": "Freida McFadden",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781464249655.jpg",
+          "id": "nyt:9781668209172",
+          "title": "Season'S Reapings",
+          "author": "Sylvain Johnson",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781668209172.jpg",
           "subjects": [
-            "hardcover fiction"
+            "paperback trade fiction"
           ],
           "year": 2026,
           "category": "Drama y literatura general",
-          "synopsis_short": "A pawnshop owner gives a financially…",
-          "synopsis_full": "A pawnshop owner gives a financially strapped wife a potentially risky offer; inspired by O. Henry's “The Gift of the Magi.”",
+          "synopsis_short": "A reimagining of “The Nutcracker” in…",
+          "synopsis_full": "A reimagining of “The Nutcracker” in which a serial killer known as the Mouse King rampages Montreal.",
           "source": "nyt",
-          "score": 0.0464
+          "score": 0.0612
         }
       ]
     },
@@ -138,64 +93,64 @@
       "weight": 0,
       "items": [
         {
-          "id": "nyt:9798217450152",
-          "title": "The Bakery Dragon And The Giant Cookie",
-          "author": "Devin Elle Kurtz",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217450152.jpg",
+          "id": "nyt:9781984881045",
+          "title": "The Law Of The Sublime",
+          "author": "Robert Greene",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781984881045.jpg",
+          "subjects": [
+            "advice, how-to & miscellaneous"
+          ],
+          "year": 2026,
+          "category": "Otros",
+          "synopsis_short": "From the author of the multimillion-copy…",
+          "synopsis_full": "From the author of the multimillion-copy bestsellers The 48 Laws of Power and The Laws of Human Nature comes a life-changing guide to transcending our own limits to master the power of the Sublime. We struggle today to find more meaning in our lives, and to experience the world in ways that go beyond the virtual. The Sublime connects us to the immense forces in the universe, to the inner worlds of other people, and even to other species, lifting us out of ourselves and giving us the dimensions and depths we yearn for in our lives. Robert Greene is a trusted guide for millions of readers, distilling ancient wisdom and philosophy into essential texts for seekers of power, social strategies, and mastery. Now he offers a roadmap to the Sublime, showing us how to liberate ourselves from the constraints of contemporary life. Greene draws from science, mythology, history, the arts, nature, and more to teach us how to: Open our eyes to the strangeness of being alive on this planet Free our minds from conventional ways of thinking and perceiving Harness the intuitions and practices of ancient civilizations to transcend the banalities of modern life Reconnect with our childhood selves to perceive the world anew Draw on the power found at the fringes of human consciousness Access our deepest core self to unleash our natural creative powers The Law of the Sublime opens us to a fuller, more intense relationship to life. Alongside awe-inspiring stories of sublime experiences, including near-death encounters, astonishing discoveries, and radical transformations of consciousness, Greene offers us exercises and meditations to connect with the Sublime that is all around us. This is another masterwork from Robert Greene and is an essential text for anyone in search of life’s deeper meaning.",
+          "source": "nyt",
+          "score": 0.0274
+        },
+        {
+          "id": "nyt:9781728276137",
+          "title": "How To Catch A Reindeer",
+          "author": "Alice Walstead",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9781728276137.jpg",
+          "subjects": [
+            "children’s picture books"
+          ],
+          "year": 2022,
+          "category": "Otros",
+          "synopsis_short": "The Catch Club Kids attempt to…",
+          "synopsis_full": "The Catch Club Kids attempt to nab Comet the reindeer. (Ages 4 to 8)",
+          "source": "nyt",
+          "score": 0.0139
+        },
+        {
+          "id": "nyt:9780063589834",
+          "title": "The Toast Of The Town",
+          "author": "Jory John",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780063589834.jpg",
           "subjects": [
             "children’s picture books"
           ],
           "year": 2026,
           "category": "Otros",
-          "synopsis_short": "While delivering Christmas cookies in a…",
-          "synopsis_full": "While delivering Christmas cookies in a snowstorm, Ember the dragon is blown off course down the chimney of a cantankerous giant. (Ages 4 to 8)",
+          "synopsis_short": "An obliging slice of toast helps…",
+          "synopsis_full": "An obliging slice of toast helps the citizens of Breadsburg. (Ages 4 to 8)",
           "source": "nyt",
-          "score": 0.0196
+          "score": 0.0035
         },
         {
-          "id": "nyt:9798217224913",
-          "title": "Extraordinary! A Little Extra To Reach Big Dreams",
-          "author": "Caitlin Clark",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217224913.jpg",
+          "id": "nyt:9780316600903",
+          "title": "Season To Taste",
+          "author": "Corre Larkin",
+          "cover_url": "https://static01.nyt.com/bestsellers/images/9780316600903.jpg",
           "subjects": [
-            "children’s picture books"
+            "advice, how-to & miscellaneous"
           ],
           "year": 2026,
           "category": "Otros",
-          "synopsis_short": "The WNBA star inspires children to…",
-          "synopsis_full": "The WNBA star inspires children to give a little extra in everything they do. (Ages 4 to 8)",
+          "synopsis_short": "Recipes you won't find in a…",
+          "synopsis_full": "Recipes you won't find in a restaurant, but will want to learn by heart: the simple, comforting, Old World home cooking that has made @cocolarkincooks one of the most rapidly growing recipe creators online The most memorable meals of our lives seldom involve fancy restaurants. More often they involve simple food cooked with affection, and time spent lingering over a table at home with the people we love. Corre Larkin has built a rapidly growing online following by inviting her followers to share those kinds of meals--the ones you won't find in a restaurant, but will find in someone's home. Larkin's recipes are drawn from the family tables of Italy, France, and the UK, where regional classics are cooked from memory from what's on hand and shared with joy. All are shaped by an economy of effort, ingredients, and time. Some are on the table in thirty minutes, while others are suited for a leisurely Sunday, where slow cooking turns a handful of humble ingredients into a feast. Larkin knows that good food makes life better. From Lancashire Hot Pot to Braised Leeks and Potato Dauphinoise, each recipe captures the kind of cooking that feels instinctive and confident--and embodies the comfort of home. If you like to eat well, you're in great hands.",
           "source": "nyt",
-          "score": 0.018
-        },
-        {
-          "id": "nyt:9781454952770",
-          "title": "Don'T Let The Pigeon Drive The Sleigh!",
-          "author": "Mo Willems",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9781454952770.jpg",
-          "subjects": [
-            "children’s picture books"
-          ],
-          "year": 2023,
-          "category": "Otros",
-          "synopsis_short": "The pigeon has his sights set…",
-          "synopsis_full": "The pigeon has his sights set on driving Santa's sleigh. (Ages 3 to 5)",
-          "source": "nyt",
-          "score": 0.0163
-        },
-        {
-          "id": "nyt:9798217228072",
-          "title": "Dr. Seuss'S How The Grinch Stole Christmas... According To Max!",
-          "author": "Alastair Heim",
-          "cover_url": "https://static01.nyt.com/bestsellers/images/9798217228072.jpg",
-          "subjects": [
-            "children’s picture books"
-          ],
-          "year": 2026,
-          "category": "Otros",
-          "synopsis_short": "The Grinch’s dog, Max, tells his…",
-          "synopsis_full": "The Grinch’s dog, Max, tells his side of the story. (Ages 5 to 9)",
-          "source": "nyt",
-          "score": 0.0119
+          "score": 0.0
         }
       ]
     }
